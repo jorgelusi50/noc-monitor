@@ -1,0 +1,590 @@
+[
+    {
+        "Data":  "2026-04-13 11:20:14",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\Não confirmado 925356.crdownload",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:20:16",
+        "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\Resultado_13_04_2026.xls",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:20:17",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\Resultado_13_04_2026.xls",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:20:17",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\Resultado_13_04_2026.xls",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:20:22",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\Resultado_13_04_2026.xls",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:21:05",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\JAIR\\Cópia_de_segurança_de_CAARIMBO 4926.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:21:06",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\JAIR\\Cópia_de_segurança_de_CAARIMBO 4926.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:21:06",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\JAIR\\CAARIMBO 4926.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:21:07",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\JAIR\\CAARIMBO 4926.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:21:08",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\JAIR\\CAARIMBO 4926.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:21:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MESSIAS\\BUSHIDO BALNEARIO 13 04.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:22:01",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MESSIAS\\BUSHIDO BALNEARIO 13 04.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:22:12",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MESSIAS\\BUSHIDO BALNEARIO 13 04.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:22:21",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MESSIAS\\BUSHIDO BALNEARIO 13 04.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:22:32",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MESSIAS\\BUSHIDO BALNEARIO 13 04.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:24:36",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GF\\CARIMBOS_ACD_0.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:24:46",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GF\\CARIMBOS_ACD_1.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:31:27",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:31:28",
+        "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\Z4",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:32:01",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\Z4\\ZEPPER_ATACADO (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:32:11",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\Z4\\ZEPPER_ATACADO (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:32:23",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\Z4\\ZEPPER_ATACADO (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:38:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:39:10",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:39:24",
+        "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:39:37",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\Poster_LAPRI_Simposio_de_Simulacao_Clinica (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:39:49",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\Poster_LAPRI_Simposio_de_Simulacao_Clinica (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:40:02",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\Poster_LAPRI_Simposio_de_Simulacao_Clinica (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:40:09",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\posters_prontos_ (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:40:11",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\posters_prontos_ (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:40:13",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\posters_prontos_ (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:48:09",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\555AA486.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:48:19",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\555AA486.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:48:30",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\555AA486.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:48:40",
+        "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\843DBECF.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:48:49",
+        "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\Resultado_13_04_2026.xls",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:49:02",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\Resultado_13_04_2026_arquivos",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:49:17",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\Resultado_13_04_2026_arquivos\\stylesheet.css",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:49:29",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\843DBECF.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:49:43",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\Resultado_13_04_2026_arquivos\\tabstrip.htm",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:49:54",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\Resultado_13_04_2026_arquivos\\stylesheet.css",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:50:07",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\Resultado_13_04_2026_arquivos\\tabstrip.htm",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:50:10",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\Resultado_13_04_2026_arquivos\\sheet001.htm",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:50:12",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\Resultado_13_04_2026_arquivos\\sheet001.htm",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:50:13",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\Resultado_13_04_2026_arquivos\\filelist.xml",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:50:14",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\AIDA\\Resultado_13_04_2026_arquivos\\filelist.xml",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:54:02",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\Poster_LAPRI_Simposio_de_Simulacao_Clinica (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:54:12",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\Poster_LAPRI_Simposio_de_Simulacao_Clinica (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:54:21",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\Poster_LAPRI_Simposio_de_Simulacao_Clinica (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:54:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\Poster_LAPRI_Simposio_de_Simulacao_Clinica (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:54:35",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\Poster_LAPRI_Simposio_de_Simulacao_Clinica (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:54:44",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\Poster_LAPRI_Simposio_de_Simulacao_Clinica (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:54:53",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\Poster_LAPRI_Simposio_de_Simulacao_Clinica (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:55:02",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\Poster_LAPRI_Simposio_de_Simulacao_Clinica (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:55:08",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\Poster_LAPRI_Simposio_de_Simulacao_Clinica (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:55:10",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\Poster_LAPRI_Simposio_de_Simulacao_Clinica (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:55:12",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\Poster_LAPRI_Simposio_de_Simulacao_Clinica (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:55:20",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\Poster_LAPRI_Simposio_de_Simulacao_Clinica (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:55:21",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ANY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:55:21",
+        "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ANY\\BANNER",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:55:22",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\posters_prontos_ (1)-1.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:55:23",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\posters_prontos_ (1)-1.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:55:23",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\posters_prontos_ (1)-1.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:55:40",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\posters_prontos_ (1)-2.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:55:41",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\posters_prontos_ (1)-2.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:55:41",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\posters_prontos_ (1)-2.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 11:55:50",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MARIA ANTONIA\\posters_prontos_ (1)-2.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 12:03:16",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\TEO\\Cópia_de_segurança_de_PARA LAVAR ARQUIVOS IMPRESSÃO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 12:03:24",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\TEO\\Cópia_de_segurança_de_PARA LAVAR ARQUIVOS IMPRESSÃO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 12:03:34",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\TEO\\Cópia_de_segurança_de_PARA LAVAR ARQUIVOS IMPRESSÃO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 12:03:44",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\TEO\\Cópia_de_segurança_de_PARA LAVAR ARQUIVOS IMPRESSÃO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 12:03:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\TEO\\Cópia_de_segurança_de_PARA LAVAR ARQUIVOS IMPRESSÃO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 12:04:07",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\TEO\\Cópia_de_segurança_de_PARA LAVAR ARQUIVOS IMPRESSÃO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 12:04:18",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\TEO\\Cópia_de_segurança_de_PARA LAVAR ARQUIVOS IMPRESSÃO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 12:04:29",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\TEO\\PARA LAVAR ARQUIVOS IMPRESSÃO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 12:04:38",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\TEO\\PARA LAVAR ARQUIVOS IMPRESSÃO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 12:04:50",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\TEO\\PARA LAVAR ARQUIVOS IMPRESSÃO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 12:05:01",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\TEO\\PARA LAVAR ARQUIVOS IMPRESSÃO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 12:05:08",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\TEO\\PARA LAVAR ARQUIVOS IMPRESSÃO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 12:05:10",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\TEO\\PARA LAVAR ARQUIVOS IMPRESSÃO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:13:26",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\ANY\\Cópia_de_segurança_de_DISPLAY DE MESA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:13:27",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\ANY\\Cópia_de_segurança_de_DISPLAY DE MESA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:13:27",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\ANY\\Cópia_de_segurança_de_DISPLAY DE MESA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:13:28",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\ANY\\DISPLAY DE MESA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:13:28",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\ANY\\DISPLAY DE MESA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:13:29",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\ANY\\DISPLAY DE MESA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:13:29",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\ANY\\DISPLAY DE MESA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:13:30",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\ANY\\DISPLAY DE MESA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:13:30",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\10-04-26\\ANY\\DISPLAY DE MESA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:23:55",
+        "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\CEK8 BANNER 120X90",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:23:56",
+        "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\CEK8 BANNER 120X90",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:23:57",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\CEK8 BANNER 120X90\\BANNER 120X90.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:23:57",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\CEK8 BANNER 120X90\\BANNER 120X90.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:23:58",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\CEK8 BANNER 120X90\\BANNER 120X90.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:23:59",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\CEK8 BANNER 120X90\\BANNER 120X90.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:23:59",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\CEK8 BANNER 120X90\\BANNER 120X90.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:24:00",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\CEK8 BANNER 120X90\\BANNER 120X90.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-13 15:24:00",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ISABELA\\CEK8 BANNER 120X90\\BANNER 120X90.cdr",
+        "Status":  "Alerta"
+    }
+]
