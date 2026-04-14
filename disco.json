@@ -1,5 +1,7 @@
-{
-  "Livre": "100GB",
-  "Total": "500GB",
-  "PercentUsado": 20
+﻿{
+    "PercentUsado":  80.62,
+    "PercentLivre":  19.379999999999995,
+    "Livre":  "361.08 GB",
+    "Total":  "1863.02 GB",
+    "LivreBytes":  387707318272
 }
