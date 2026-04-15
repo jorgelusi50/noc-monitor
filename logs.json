@@ -2,12 +2,6 @@
     {
         "Data":  "2026-04-15 14:30:39",
         "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\9915440E.tmp",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-04-15 14:30:39",
-        "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\11. Certidão de registro - Neres Construct.pdf",
         "Status":  "Alerta"
     },
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-15 15:21:21",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ANY\\VALOR RECORTE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 15:21:22",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ANY\\VALOR RECORTE.cdr",
         "Status":  "Alerta"
