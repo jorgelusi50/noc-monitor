@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 17:25:04",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ISABELA\\TRANSIT\\Cartao_de_visita.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 17:25:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ISABELA\\TRANSIT\\Cartao_de_visita.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-15 17:42:13",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\14-04-26\\ANY\\AMADEU\\TRIEDO MESA ajuste.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 17:47:16",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\GABRIELY\\UNIFICADO\\Manuela_Kobner_de_Lima (2).pdf",
         "Status":  "Alerta"
     }
 ]
