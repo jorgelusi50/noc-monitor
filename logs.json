@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 17:19:52",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ISABELA\\TRANSIT\\cartao_verso (2).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 17:19:53",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ISABELA\\TRANSIT\\cartao_verso (2).jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-15 17:42:02",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\TEO\\SISEMBC NOVO LAYOUT\\Cópia_de_segurança_de_SISEMBC NOVO LAYOUT.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 17:42:03",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\TEO\\SISEMBC NOVO LAYOUT\\SISEMBC NOVO LAYOUT.cdr",
         "Status":  "Alerta"
     }
 ]
