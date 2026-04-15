@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 15:21:15",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ANY\\VALOR RECORTE.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 15:21:16",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ANY\\VALOR RECORTE.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-15 15:53:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\TEO\\ELOYSE - CARDAPIO DE CASAMENTO - Orcamento_30542_SEM CADASTRO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 15:53:30",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\TEO\\ELOYSE - CARDAPIO DE CASAMENTO - Orcamento_30542_SEM CADASTRO.pdf.crdownload",
         "Status":  "Alerta"
     }
 ]
