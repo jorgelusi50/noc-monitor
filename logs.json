@@ -2,12 +2,6 @@
     {
         "Data":  "2026-04-15 14:30:18",
         "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\8. SEGURO Viagem - Edilene Freitas Viegas.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-04-15 14:30:18",
-        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\CDB0FA8.tmp",
         "Status":  "Alerta"
     },
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-15 15:15:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ANY\\LOTE 141-142\\LOTE 142 1.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 15:15:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ANY\\LOTE 141-142\\LOTE 142 1.pdf",
         "Status":  "Alerta"
