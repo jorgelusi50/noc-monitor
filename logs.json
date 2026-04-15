@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 14:29:50",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\FDAC54C6.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 14:29:52",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\5. Formulário Pedido de Visto.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-15 15:10:10",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\PF\\baralho 01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 15:10:11",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\PF\\baralho 01.cdr",
         "Status":  "Alerta"
     }
