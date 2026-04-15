@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 17:19:27",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\TEO\\ELOISE CAROLINE SCHAKER\\Não confirmado 223401.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 17:19:28",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\TEO\\ELOISE CAROLINE SCHAKER\\PIX - ELOISE CAROLINE SCHAKER.jpeg",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-15 17:36:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\TEO\\SISEMBC\\SISEMBC NOVO LAYOUT.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 17:36:36",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\TEO\\SISEMBC\\~ISEMBC NOVO LAYOUT.tmp",
         "Status":  "Alerta"
     }
 ]
