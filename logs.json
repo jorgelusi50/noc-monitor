@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 14:54:31",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\Novo(a) Documento de Texto.txt",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 14:54:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\Novo(a) Documento de Texto.txt",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-15 15:26:45",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\CANECA\\CAIXA NOVA ajuste.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 15:26:47",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\CANECA\\CAIXA NOVA ajuste.cdr",
         "Status":  "Alerta"
