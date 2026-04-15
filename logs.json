@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 14:30:11",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\7. CNH - Edilene Freitas Viegas.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 14:30:12",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\E5913DED.tmp",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-15 15:15:39",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ANY\\LOTE 141-142\\Arq0.118809249.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 15:15:40",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ANY\\LOTE 141-142\\Arq0.118809249.pdf",
         "Status":  "Alerta"
     }
