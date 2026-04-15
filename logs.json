@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 14:29:53",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\BAA484C4.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 14:29:55",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\FE64D5F5.tmp",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-15 15:10:15",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\TEO\\aline CARDAPIO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 15:10:16",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\TEO\\aline CARDAPIO.cdr",
         "Status":  "Alerta"
