@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 15:31:52",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\ABRIL\\15-04-2026\\cut caixa caneca NOVO",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 15:31:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\ABRIL\\15-04-2026\\cut caixa caneca NOVO",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-15 15:59:06",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\14-04-26\\EDSON\\70x45.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 15:59:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\14-04-26\\EDSON\\70x45.cdr",
         "Status":  "Alerta"
