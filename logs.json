@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 14:30:41",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\12. Termo de Responsabilidade - Edilene.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 14:30:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\D8A85B4C.tmp",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-15 15:21:24",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ANY\\VALOR RECORTE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 15:26:26",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ANY\\VALOR RECORTE.cdr",
         "Status":  "Alerta"
