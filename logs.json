@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 15:31:54",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\ABRIL\\15-04-2026\\cut caixa caneca NOVO",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 15:31:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\ABRIL\\15-04-2026\\cut caixa caneca NOVO",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-15 15:59:10",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\CANECA\\Cópia_de_segurança_de_CAIXA NOVA ajuste.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 15:59:11",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\CANECA\\Cópia_de_segurança_de_CAIXA NOVA ajuste.cdr",
         "Status":  "Alerta"
