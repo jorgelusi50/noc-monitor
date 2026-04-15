@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 16:17:45",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (4)",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 16:17:46",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (4)",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-15 17:19:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ISABELA\\TRANSIT\\cartao_verso (2).jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 17:19:57",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ISABELA\\TRANSIT\\Cartao_de_visita.jpg",
         "Status":  "Alerta"
     }
 ]
