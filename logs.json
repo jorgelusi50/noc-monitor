@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 14:29:33",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\2. Taxas Consulares.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 14:29:34",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\705FCDD7.tmp",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-15 15:04:43",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\TEO\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 15:04:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\TEO\\Nova pasta",
         "Status":  "Alerta"
