@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 15:59:05",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\14-04-26\\EDSON\\70x45.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 15:59:06",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\14-04-26\\EDSON\\70x45.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-15 17:19:30",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\GABRIELY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 17:19:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\GABRIELY\\Nova pasta",
         "Status":  "Alerta"
