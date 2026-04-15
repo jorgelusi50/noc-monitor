@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 16:23:02",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\Novo(a) Documento de Texto.txt",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 16:23:03",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\Novo(a) Documento de Texto.txt",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-15 17:25:12",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ISABELA\\TRANSIT\\Cartao_de_visita.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 17:25:13",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ISABELA\\TRANSIT\\Cartao_de_visita.jpg",
         "Status":  "Alerta"
     }
