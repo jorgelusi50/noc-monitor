@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 17:25:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ISABELA\\TRANSIT\\cartao_verso (2).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 17:25:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ISABELA\\TRANSIT\\cartao_verso (2).jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-15 18:02:34",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\PF\\CAIXINHA DO TOBI.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 18:02:36",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\PF\\CAIXINHA DO TOBI.cdr",
         "Status":  "Alerta"
     }
