@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 14:29:48",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\1520F399.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 14:29:49",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\FDAC54C6.tmp",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-15 15:10:06",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\PF\\baralho 01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 15:10:07",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\PF\\baralho 01.cdr",
         "Status":  "Alerta"
     }
