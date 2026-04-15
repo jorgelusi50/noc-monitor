@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 14:30:32",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\90328D3B.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 14:30:33",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\10. Termo de Reconhecimento do Contrato de Trabalho.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-15 15:21:10",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ANY\\VALOR RECORTE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 15:21:11",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ANY\\VALOR RECORTE.cdr",
         "Status":  "Alerta"
     }
