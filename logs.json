@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-04-15 14:30:43",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\D8A85B4C.tmp",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-04-15 14:30:43",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\LETICIA\\Nova pasta (3)\\FF58EADD.tmp",
         "Status":  "Alerta"
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-15 15:26:27",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\GABRIELY\\VALDETE REGIS\\VALDETE REGIS CRACHA SEM FURO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-15 15:26:28",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\GABRIELY\\VALDETE REGIS\\VALDETE REGIS CRACHA SEM FURO.cdr",
         "Status":  "Alerta"
     }
