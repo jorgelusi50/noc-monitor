@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 15:43:34",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\JBS - SEARA - JOSIANE\\Orcamento_30552_SEARA.pdf.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 15:43:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\JBS - SEARA - JOSIANE\\Orcamento_30552_SEARA.pdf.crdownload",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-16 16:10:34",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MESSIAS\\CARTEIRAS UNIÃO PALHOÇA 16 04  02 UNID..pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 16:33:22",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\ZIKELI\\Cópia_de_segurança_de_FAIXA JATEADO ZIKELI.cdr",
         "Status":  "Alerta"
     }
 ]
