@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 11:44:15",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\orçament\\S03.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 11:44:17",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\orçament\\S03.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-16 12:14:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\AIDA\\AMBIENTAL_792602_16042026120715.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 12:59:56",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\AIDA\\DARE Parcelamento Recupera + 01-05 - R$612,58 Vencimento 30.04.2026.pdf",
         "Status":  "Alerta"
     }
 ]
