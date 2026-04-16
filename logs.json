@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 10:34:00",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\RONI CHAVES\\Não confirmado 265895.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 10:34:02",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\RONI CHAVES\\Não confirmado 265895.crdownload",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-16 11:04:10",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\CK\\ARTEFACTO MESCLADA 01 A 200.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 11:04:12",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\CK\\ARTEFACTO MESCLADA 01 A 200.cdr",
         "Status":  "Alerta"
