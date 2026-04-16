@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 16:09:26",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\ZIKELI\\~AIXA JATEADO ZIKELI.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 16:09:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\ZIKELI\\FAIXA JATEADO ZIKELI.jpg~RF2ae45228.TMP",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-16 17:28:02",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\KARLA HOEFEL\\KARLA CARTÃO 16 04 26.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 17:31:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\LM CLIMATIZAÇÃO\\comprovante LUCAS LM.jpg",
         "Status":  "Alerta"
     }
 ]
