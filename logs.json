@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 10:24:22",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\RONI CHAVES\\ITAJAI_BANNERS - CONFERIR.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 10:24:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\RONI CHAVES\\ITAJAI_BANNERS - CONFERIR.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-16 10:49:52",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\DUDA CANECA\\CANECA GABARITO 2.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 10:49:54",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\DUDA CANECA\\CANECA GABARITO 2.cdr",
         "Status":  "Alerta"
