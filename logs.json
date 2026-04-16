@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 11:21:42",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\NF 2586 OC 30589.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 11:21:44",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\NF 2586 OC 30589.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-16 11:43:26",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\orçament\\Carlos_Donato_arq_rev2-07_CORTE_AA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 11:43:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\orçament\\Carlos_Donato_arq_rev2-06_PLANTA_BAIXA_-_ACESSO.pdf",
         "Status":  "Alerta"
     }
 ]
