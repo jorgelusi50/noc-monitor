@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 11:07:47",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\LETICIA\\Nova pasta\\2 ano\\2_Ano_-_Prova_A_-_25_copias-_frente_e_verso-_preto_e_branco-_grampeadas.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 11:08:08",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\CK\\HABITATH MESCLADA 201 A 400.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-16 11:20:47",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\email\\A4.009 - FERRAMENTARIA-ALMOXARIFADO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 11:20:48",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\email\\A4.009 - FERRAMENTARIA-ALMOXARIFADO.pdf",
         "Status":  "Alerta"
     }
