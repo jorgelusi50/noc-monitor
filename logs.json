@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 12:05:59",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\AIDA\\Resultado_16_04_2026_arquivos\\tabstrip.htm",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 12:06:00",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\AIDA\\Resultado_16_04_2026_arquivos\\sheet001.htm",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-16 13:22:48",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\LETICIA\\Nova pasta (2)\\FICHA_DE_REGISTRO_RAFAEL.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 13:22:50",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\LETICIA\\Nova pasta (2)\\FICHA_DE_REGISTRO_RAFAEL.pdf",
         "Status":  "Alerta"
     }
