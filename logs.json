@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 13:19:49",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\PF\\ARTEFACTO MESCLADA 01 A 200.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 13:19:50",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\PF\\ARTEFACTO MESCLADA 01 A 200.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-16 13:37:19",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 13:37:21",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELY\\Nova pasta",
         "Status":  "Alerta"
