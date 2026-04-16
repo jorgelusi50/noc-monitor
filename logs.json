@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 13:22:20",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\LETICIA\\Nova pasta (2)\\DECLARAA_A_O_DE_ENCARGOS_PARA_FINS_IRRF_RAFAEL.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 13:22:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\LETICIA\\Nova pasta (2)\\DECLARAA_A_O_DE_ENCARGOS_PARA_FINS_IRRF_RAFAEL.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-16 14:13:51",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\PF\\PROVA ARACELES.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 14:13:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\PF\\PROVA ARACELES.cdr",
         "Status":  "Alerta"
