@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 11:50:54",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\PF\\EDSON PROVA VINIL  A4 24.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 11:51:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\LETICIA\\Nova pasta\\Nova pasta",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-16 13:21:47",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\LETICIA\\Nova pasta (2)\\DECLARAA_A_O_DE_ENCARGOS_PARA_FINS_IRRF_PABLO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 13:21:48",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\LETICIA\\Nova pasta (2)\\DECLARAA_A_O_DE_ENCARGOS_PARA_FINS_IRRF_PABLO.pdf",
         "Status":  "Alerta"
