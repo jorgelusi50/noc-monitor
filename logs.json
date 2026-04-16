@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 09:33:48",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\JULIANA\\JEAN\\META-INF\\metadata.xml",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 09:33:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\JULIANA\\JEAN\\META-INF\\links.xml",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-16 10:28:56",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\CK\\ARTEFACTO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 10:28:58",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\CK\\ARTEFACTO.cdr",
         "Status":  "Alerta"
     }
