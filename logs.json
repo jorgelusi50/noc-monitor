@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 09:33:06",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\JULIANA\\JEAN\\content\\data\\page1.dat",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 09:33:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\JULIANA\\JEAN\\content\\data\\page2.dat",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-16 10:06:38",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\PF\\EDSON PROVA VINIL  A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 10:06:39",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\PF\\EDSON PROVA VINIL  A4.cdr",
         "Status":  "Alerta"
     }
