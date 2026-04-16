@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 17:36:41",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\TEO\\SISEMBC\\SISEMBC NOVO LAYOUT.jpg~RF260a4a42.TMP",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 17:36:42",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\TEO\\SISEMBC\\SISEMBC NOVO LAYOUT.jpg~RF260a4a42.TMP",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-16 09:33:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\JULIANA\\JEAN\\color",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 09:33:31",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\JULIANA\\JEAN\\color\\color.xml",
         "Status":  "Alerta"
     }
 ]
