@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 11:42:56",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\orçament\\H02 (2).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 11:42:58",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\orçament\\H01 (1).pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-16 11:51:08",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\LETICIA\\Nova pasta\\3ano\\Desse_arquivo_sao_13_copias-_apenas_frente-_preto_e_branco-_grampeadas (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 11:51:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\LETICIA\\Nova pasta\\3ano\\Desse_arquivo_sao_13_copias-_apenas_frente-_preto_e_branco-_grampeadas (1).pdf",
         "Status":  "Alerta"
