@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 10:51:58",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\RONI CHAVES\\ITAJAI_BANNERS - CONFERIR.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 10:52:00",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\RONI CHAVES\\ITAJAI_BANNERS - CONFERIR.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-16 11:10:24",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\CK\\URBE 401 A 600.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 11:10:27",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\CK\\URBE 401 A 600.cdr",
         "Status":  "Alerta"
