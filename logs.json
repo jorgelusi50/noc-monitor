@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 12:05:45",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\AIDA\\8E1FEAEF.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 12:05:46",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\AIDA\\Resultado_16_04_2026.xls",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-16 13:22:38",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\LETICIA\\Nova pasta (2)\\TERMO_DE_RESPONSABILIDADE_RAFAEL.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 13:22:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\LETICIA\\Nova pasta (2)\\TERMO_DE_RESPONSABILIDADE_RAFAEL.pdf",
         "Status":  "Alerta"
