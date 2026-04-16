@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 13:24:05",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\PF\\401 A 600 CERTO.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 13:24:06",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\PF\\401 A 600 CERTO.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-16 14:19:00",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\FLORA\\PLACA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 14:19:02",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\FLORA\\PLACA.cdr",
         "Status":  "Alerta"
     }
