@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 11:21:28",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\email\\A4.011 - ÁREAS UTILIDADES.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 11:21:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\NF 2586 OC 30589.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-16 11:43:12",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\orçament\\Carlos_Donato_arq_rev2-TERRAPLENAGEM.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 11:43:14",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\orçament\\Carlos_Donato_arq_rev2-10_LOCACAO-IMPLANTACAO.pdf",
         "Status":  "Alerta"
     }
 ]
