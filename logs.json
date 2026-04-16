@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 10:28:59",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\CK\\ARTEFACTO.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 10:29:00",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\CK\\ARTEFACTO.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-16 10:52:01",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\RONI CHAVES\\ITAJAI_BANNERS - CONFERIR.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 10:52:03",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\RONI CHAVES\\ITAJAI_BANNERS - CONFERIR.cdr",
         "Status":  "Alerta"
