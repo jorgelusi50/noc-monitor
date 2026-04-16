@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 17:25:35",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ISABELA\\TRANSIT\\cartao_verso (2).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 17:25:36",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ISABELA\\TRANSIT\\cartao_verso (2).jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-16 00:34:47",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 00:34:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELY",
         "Status":  "Alerta"
     }
 ]
