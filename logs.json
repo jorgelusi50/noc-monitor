@@ -2,12 +2,6 @@
     {
         "Data":  "2026-04-16 15:15:48",
         "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\LUCI LUCI\\Cópia de Josair Gabriel Nascimento de oliveira   - MESAS BLACKNIGHT.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-04-16 15:15:48",
-        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\LUCI LUCI\\Cópia de Juliana Koenig - MESAS BLACKNIGHT.pdf",
         "Status":  "Alerta"
     },
@@ -597,6 +591,12 @@
         "Data":  "2026-04-16 15:18:17",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\LUCI LUCI\\Cópia de Renato Araújo Karoline Araújo - MESAS BLACKNIGHT.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 15:18:18",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\LUCI LUCI\\Cópia de Renato Oliveira - MESAS BLACKNIGHT.pdf",
         "Status":  "Alerta"
     }
 ]
