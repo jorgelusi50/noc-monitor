@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 14:21:52",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\JULIANA\\JEAN\\Cartão Vanessa ajuste.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 14:21:53",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\JULIANA\\JEAN\\Cartão Vanessa ajuste.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-16 15:10:13",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\LETICIA\\MIGUEL 2 FOLHAS 90X50.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 15:10:14",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\LETICIA\\MIGUEL 2 FOLHAS 90X50.pdf",
         "Status":  "Alerta"
     }
