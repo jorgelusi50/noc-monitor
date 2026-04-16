@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 15:19:13",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\LUCI LUCI\\Cópia de Vera Lucia Silva - MESAS BLACKNIGHT.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 15:19:15",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\LUCI LUCI\\Cópia de Vera Lucia Silva - MESAS BLACKNIGHT.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-16 16:07:25",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELY\\RVIDEO PRODUTORA\\1776255224164_3EB089D6FC56BF4038C31D.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 16:07:27",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELY\\RVIDEO PRODUTORA\\1776255224164_3EB089D6FC56BF4038C31D.jpeg",
         "Status":  "Alerta"
     }
