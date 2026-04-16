@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 11:20:28",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\email\\A4.006 - PORÃO EXPEDIÇÃO.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 11:20:30",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\email\\A4.006 - PORÃO EXPEDIÇÃO.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-16 11:40:51",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\NGI\\seta_5x7cm.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 11:40:52",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\NGI\\seta_5x7cm.pdf",
         "Status":  "Alerta"
     }
