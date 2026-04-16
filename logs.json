@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 11:45:15",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\CK\\URBE 401 A 600.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 11:45:21",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\CK\\Cópia_de_segurança_de_ARTEFACTO MESCLADA 01 A 200.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-16 13:13:02",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\JESSICA KARLA\\LIVROS AZUIS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 13:19:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\PF\\ARTEFACTO MESCLADA 01 A 200.pdf",
         "Status":  "Alerta"
     }
 ]
