@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 10:36:39",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELY\\GF EMPREENDIMENTOS\\COW-EST-02-TER-FOR_R05 (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 10:36:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELY\\GF EMPREENDIMENTOS\\COW-EST-02-TER-FOR_R05 (1).pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-16 11:06:46",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\Sem título-2.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 11:06:47",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\Sem título-2.pdf",
         "Status":  "Alerta"
     }
