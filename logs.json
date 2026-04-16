@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 13:27:26",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GF\\TOP ART\\corte conjugado e impressão.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 13:27:27",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GF\\TOP ART\\corte conjugado e impressão.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-16 14:19:16",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\FLORA\\PLACA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 14:21:50",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\JULIANA\\JEAN\\Cartão Vanessa ajuste.cdr",
         "Status":  "Alerta"
     }
 ]
