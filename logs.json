@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 15:16:41",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\LUCI LUCI\\Cópia de LUSIMAR SEHNEM (Casal).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 15:16:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\LUCI LUCI\\Cópia de LUSIMAR SEHNEM (Casal).pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-16 15:19:11",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\LUCI LUCI\\Cópia de Vanusa Trindade - MESAS BLACKNIGHT.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 15:19:12",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\LUCI LUCI\\Cópia de Vanusa Trindade - MESAS BLACKNIGHT.pdf",
         "Status":  "Alerta"
     }
