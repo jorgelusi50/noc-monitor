@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 10:32:17",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\RONI CHAVES\\ITAJAI_BANNERS - CONFERIR.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 10:33:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\RONI CHAVES\\FOTO SIMULAÇÃO DOS ADESIVOS APLICADOS.jpeg",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-16 11:00:15",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\CK\\MubiChat-937135.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 11:04:04",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\CK\\ARTEFACTO MESCLADA 01 A 200.cdr",
         "Status":  "Alerta"
     }
 ]
