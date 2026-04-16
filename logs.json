@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 09:42:44",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELY\\GABRIELA WOLF\\barras_cuisenaire_pantone (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 09:45:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\ANY\\141.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-16 10:32:12",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\RONI CHAVES\\ITAJAI_BANNERS - CONFERIR.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 10:32:14",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\RONI CHAVES\\ITAJAI_BANNERS - CONFERIR.cdr",
         "Status":  "Alerta"
