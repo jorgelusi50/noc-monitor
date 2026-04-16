@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 13:22:05",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\LETICIA\\Nova pasta (2)\\DECLARAA_A_O_VALE_TRANSPORTE_PABLO.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 13:22:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\LETICIA\\Nova pasta (2)\\DECLARAA_A_O_VALE_TRANSPORTE_PABLO.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-16 14:00:29",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\LM CLIMATIZAÇÃO\\LM CLIMATIZAÇÃO ARQUIVO IMPRESSÃO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 14:00:31",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\LM CLIMATIZAÇÃO\\LM CLIMATIZAÇÃO ARQUIVO IMPRESSÃO.cdr",
         "Status":  "Alerta"
     }
