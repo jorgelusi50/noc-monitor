@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 11:22:28",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\RONI CHAVES\\ITAJAI_BANNERS - CONFERIR.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 11:22:29",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\RONI CHAVES\\ITAJAI_BANNERS - CONFERIR.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-16 11:43:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\orçament\\Carlos_Donato_arq_rev2-03_COBERTURA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 11:43:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\orçament\\Carlos_Donato_arq_rev2-03_COBERTURA_1.pdf",
         "Status":  "Alerta"
     }
 ]
