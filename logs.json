@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-15 17:36:22",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\TEO\\SISEMBC NOVO LAYOUT\\SISEMBC NOVO LAYOUT.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-15 17:36:23",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\TEO\\SISEMBC NOVO LAYOUT\\SISEMBC NOVO LAYOUT.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-16 09:33:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\JULIANA\\JEAN\\embed",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 09:33:11",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\JULIANA\\JEAN\\embed\\embedding0",
         "Status":  "Alerta"
     }
 ]
