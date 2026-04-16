@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 13:00:04",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\AIDA\\Não confirmado 627444.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 13:00:05",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\AIDA\\DARE Parcelamento Recupera + 01-05 - R$612,58 Vencimento 30.04.2026.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-16 13:24:05",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\PF\\401 A 600 CERTO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 13:24:06",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\PF\\401 A 600 CERTO.pdf",
         "Status":  "Alerta"
     }
