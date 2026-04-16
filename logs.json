@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 11:00:14",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\CK\\MubiChat-937135.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 11:00:15",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ISABELA\\CK\\MubiChat-937135.jpeg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-16 11:19:19",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\email\\a39ffb70.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 11:19:21",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELA\\email\\a39ffb70.png",
         "Status":  "Alerta"
