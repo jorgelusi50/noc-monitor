@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 16:09:38",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\ZIKELI\\FAIXA JATEADO ZIKELI.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 16:09:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\ZIKELI\\FAIXA JATEADO ZIKELI.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-16 17:32:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\TEO\\LM CLIMATIZAÇÃO\\comprovante LUCAS LM.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-16 17:51:43",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\AIDA\\NF 116251 Para gerar Credito.pdf",
         "Status":  "Alerta"
     }
 ]
