@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 16:52:34",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GF\\Nacional.dxf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 16:52:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GF\\Nacional.dxf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-17 18:01:23",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JANEIRO\\23-01-26\\GF\\Sem título-2.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 18:01:24",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JANEIRO\\23-01-26\\GF\\Sem título-2.cdr",
         "Status":  "Alerta"
