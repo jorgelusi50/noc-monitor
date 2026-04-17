@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 11:14:45",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\Carlos_Donato_arq_rev2-07_CORTE_AA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 11:14:46",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\Carlos_Donato_arq_rev2-07_CORTE_AA.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-17 11:17:40",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\S02.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 11:17:41",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\feito\\S02.pdf",
         "Status":  "Alerta"
     }
 ]
