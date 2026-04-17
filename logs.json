@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 16:38:55",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\Item_1_do_orcamento__Couche__Quantidade__2 (29).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 16:38:56",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\Item_1_do_orcamento__Couche__Quantidade__2 (29).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-17 17:53:13",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\Maquinas.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 17:53:52",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\Binder1.pdf",
         "Status":  "Alerta"
     }
 ]
