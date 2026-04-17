@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 09:53:35",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\ADESIVO",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 09:53:46",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\FOTINHOS 8CM.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-17 10:46:08",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\AIDA\\Resultado_17_04_2026 (1).xls",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 10:46:09",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\AIDA\\Não confirmado 745038.crdownload",
         "Status":  "Alerta"
     }
 ]
