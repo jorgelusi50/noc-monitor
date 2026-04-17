@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 15:41:33",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\MARLENE  - MESAS BLACKNIGHTcópia.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 15:41:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\MARLENE  - MESAS BLACKNIGHTcópia.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-17 15:59:58",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\JULIANA\\Cópia de Cópia de tabela 2 (003).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 16:00:13",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\JULIANA\\Cópia de Cópia de tabela 2 (003).pdf",
         "Status":  "Alerta"
     }
