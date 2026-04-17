@@ -1,23 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 15:12:26",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\EDSON\\SCK CARTOES DE VISITA.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-04-17 15:12:27",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\EDSON\\SCK CARTOES DE VISITA.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-04-17 15:12:29",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\EDSON\\SCK CARTOES DE VISITA.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 15:12:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\EDSON\\SCK CARTOES DE VISITA.cdr",
@@ -597,6 +579,24 @@
         "Data":  "2026-04-17 15:41:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\geisa kasteen - MESAS BLACKNIGHTcópi.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 15:41:07",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\Lucineia Aparecida da Silva - MESAS BLACKNIGHTcópia.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 15:41:07",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\Lucineia Aparecida da Silva - MESAS BLACKNIGHTcópia.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 15:41:08",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\Lucineia Aparecida da Silva - MESAS BLACKNIGHTcópia.pdf",
         "Status":  "Alerta"
     }
 ]
