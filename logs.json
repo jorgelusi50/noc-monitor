@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 00:30:56",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 00:30:58",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-17 09:13:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELY\\DEBORA BORGES\\Projeto_Executivo_-_Ministerio_Pentecostal_-_Pavimento_Terreo_REV_02_-_BONE (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 09:13:02",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\gabriela_souza_casal (1).pdf",
         "Status":  "Alerta"
     }
 ]
