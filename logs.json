@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 09:04:21",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GF\\Couche 300g 1 A4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 09:04:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GF\\Couche 300g 1 A4.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-17 10:05:18",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\LETICIA\\Ma16 (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 10:09:30",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\EDSON\\Cópia_de_segurança_de_a5 ITAU.cdr",
         "Status":  "Alerta"
     }
 ]
