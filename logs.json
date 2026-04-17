@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-04-17 15:39:50",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\LETICIA\\Nova pasta (2)\\Direito penal.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-04-17 15:39:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\LETICIA\\Nova pasta (2)\\Direito penal.pdf",
         "Status":  "Alerta"
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-17 15:41:32",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\MARLENE  - MESAS BLACKNIGHTcópia.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 15:41:33",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\MARLENE  - MESAS BLACKNIGHTcópia.pdf",
         "Status":  "Alerta"
     }
