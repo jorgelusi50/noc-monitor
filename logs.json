@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 08:17:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\PF\\Impressão mesclada1.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 08:21:19",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\DUDA CANECA\\Recuperado_DUDA CANECA LIMITE DE IMPRESSãO2.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-17 09:23:59",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ISABELA\\NFS 8408.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 09:24:00",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ISABELA\\NFS 8408.pdf",
         "Status":  "Alerta"
