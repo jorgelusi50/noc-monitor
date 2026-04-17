@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 15:41:48",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\RODRIGO JOST  - MESAS BLACKNIGHTcópia.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 15:41:49",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\RODRIGO JOST  - MESAS BLACKNIGHTcópia.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-17 16:00:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\JULIANA\\Cópia de Cópia de tabela 2 (003).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 16:00:46",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\JULIANA\\AD$C4DF.tmp",
         "Status":  "Alerta"
     }
 ]
