@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 09:24:11",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\PF\\fixel.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 09:24:12",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\PF\\fixel.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-17 10:29:12",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 10:29:13",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\Nova pasta",
         "Status":  "Alerta"
