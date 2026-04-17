@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 10:33:41",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\CARDAPIO\\Sem título-1.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 10:33:43",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\CARDAPIO\\Sem título-1.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-17 11:07:13",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\Beto Restaurante Zanotelli\\Cartao.pdf 11_Página_2.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 11:07:14",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\Beto Restaurante Zanotelli\\Cartao.pdf 11_Página_2.jpg",
         "Status":  "Alerta"
