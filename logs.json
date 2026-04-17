@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 10:51:29",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\EDSON\\a5 ITAU.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 11:00:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\AIDA\\AD2CAA70.tmp",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-17 11:14:24",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\Carlos_Donato_arq_rev2-03_COBERTURA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 11:14:26",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\Carlos_Donato_arq_rev2-03_COBERTURA.pdf",
         "Status":  "Alerta"
     }
