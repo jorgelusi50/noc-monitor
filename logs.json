@@ -6,12 +6,6 @@
         "Status":  "Alerta"
     },
     {
-        "Data":  "2026-04-17 15:41:07",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\Lucineia Aparecida da Silva - MESAS BLACKNIGHTcópia.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 15:41:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\Lucineia Aparecida da Silva - MESAS BLACKNIGHTcópia.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-17 15:57:39",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\Item_1_do_orcamento__Couche__Quantidade__2 (5).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 15:57:41",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\Item_1_do_orcamento__Couche__Quantidade__2 (5).pdf.crdownload",
         "Status":  "Alerta"
     }
 ]
