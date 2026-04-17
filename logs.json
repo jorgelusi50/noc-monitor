@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 11:00:39",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\AIDA\\AD2CAA70.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 11:00:40",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\AIDA\\3C1D47B1.tmp",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-17 11:14:29",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\Carlos_Donato_arq_rev2-03_COBERTURA_1.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 11:14:31",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\Carlos_Donato_arq_rev2-03_COBERTURA_1.pdf",
         "Status":  "Alerta"
     }
