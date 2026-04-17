@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 16:47:02",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\JESSICA KARLA\\LIVROS AZUIS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 16:47:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\JESSICA KARLA\\LIVROS AZUIS.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-17 08:21:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\DUDA CANECA\\Recuperado_DUDA CANECA LIMITE DE IMPRESSãO2.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 08:23:11",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELY\\YOULANDA BANNER\\projeto_de_extensao.tif",
         "Status":  "Alerta"
     }
 ]
