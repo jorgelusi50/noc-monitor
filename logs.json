@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 15:41:17",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\ZILMARA - MESAS BLACKNIGHTcópia.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 15:41:19",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\ZILMARA - MESAS BLACKNIGHTcópia.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-17 15:57:54",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\JULIANA\\4A056501.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 15:57:55",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\JULIANA\\4A056501.tmp",
         "Status":  "Alerta"
     }
