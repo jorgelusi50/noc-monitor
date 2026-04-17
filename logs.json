@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 15:05:55",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\AIDA\\Comprovante_17-04-2026_130928.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 15:05:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\AIDA\\Comprovante_17-04-2026_130928.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-17 15:40:43",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\SIMONE E ELENIR   - MESAS BLACKNIGHTcópia.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 15:40:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\SIMONE E ELENIR   - MESAS BLACKNIGHTcópia.pdf",
         "Status":  "Alerta"
