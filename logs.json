@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 15:51:03",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\Item_2_do_orcamento__PVC__Quantidade__1_para_cada_pessoa (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 15:53:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\Item_1_do_orcamento__Couche__Quantidade__1_de_cada (1).pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-17 16:01:13",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\JULIANA\\~$Cópia de Cópia de tabela 2 (003).xlsx",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 16:01:14",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\JULIANA\\~$Cópia de Cópia de tabela 2 (003).xlsx",
         "Status":  "Alerta"
