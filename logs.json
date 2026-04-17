@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 16:31:26",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MESSIAS\\CARTEIRAS OZOMURU JOINVILLE 17 04 (12 UNIDADES).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 16:31:27",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MESSIAS\\CARTEIRAS OZOMURU JOINVILLE 17 04 (12 UNIDADES).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-17 17:36:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\ELISANGELA FABIO\\1776457993023_4A88A1BBA9F62E909FD8.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 17:44:10",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\LETICIA\\Nova pasta (2)",
         "Status":  "Alerta"
     }
 ]
