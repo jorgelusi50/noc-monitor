@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 08:15:02",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\PF\\Impressão mesclada1.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 08:15:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\PF\\Impressão mesclada1.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-17 09:23:48",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ISABELA\\Não confirmado 318427.crdownload",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 09:23:49",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ISABELA\\Não confirmado 318427.crdownload",
         "Status":  "Alerta"
