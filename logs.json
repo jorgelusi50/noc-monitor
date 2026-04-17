@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 08:44:24",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\UNIVALI\\VINIL BRANCO A4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 08:44:25",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\UNIVALI\\VINIL BRANCO A4.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-17 09:51:02",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\LEANDRO\\Planejamento Pavimentação 2026 (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 09:51:13",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\LEANDRO\\Planejamento Pavimentação 2026 (1).pdf",
         "Status":  "Alerta"
