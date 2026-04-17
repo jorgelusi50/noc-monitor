@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 08:25:26",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELY\\DEBORA BORGES\\Contracapa2.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 08:25:27",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELY\\DEBORA BORGES\\Contracapa2.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-17 09:30:59",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\EDSON\\a5 ITAU.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 09:31:00",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\EDSON\\a5 ITAU.cdr",
         "Status":  "Alerta"
     }
