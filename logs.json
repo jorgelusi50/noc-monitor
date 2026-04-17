@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 17:27:50",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\KARLA HOEFEL",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 17:27:51",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\KARLA HOEFEL",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-17 08:44:30",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\UNIVALI\\VINIL BRANCO A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 08:44:31",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\UNIVALI\\VINIL BRANCO A4.cdr",
         "Status":  "Alerta"
     }
