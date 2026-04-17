@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 10:46:07",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\AIDA\\Resultado_17_04_2026 (1).xls",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 10:46:08",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\AIDA\\Resultado_17_04_2026 (1).xls",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-17 11:11:29",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\Beto Restaurante Zanotelli\\cartao de visita.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 11:11:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\Beto Restaurante Zanotelli\\cartao de visita.cdr",
         "Status":  "Alerta"
