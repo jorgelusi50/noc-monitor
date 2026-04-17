@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 08:29:46",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ISABELA\\NFE 2590.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 08:29:47",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ISABELA\\NFE 2590.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-17 09:35:13",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\PF\\343o mesclada1.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 09:36:11",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\PF\\343o mesclada1.pdf",
         "Status":  "Alerta"
     }
