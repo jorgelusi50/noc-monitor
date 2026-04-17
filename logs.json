@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-16 16:47:14",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\JESSICA KARLA\\LIVROS AZUIS.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-16 16:47:16",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\JESSICA KARLA\\LIVROS AZUIS.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-17 08:25:25",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELY\\DEBORA BORGES\\Contracapa2.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 08:25:26",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELY\\DEBORA BORGES\\Contracapa2.pdf",
         "Status":  "Alerta"
