@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 16:00:51",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\JULIANA\\AD$C4DF.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 16:00:52",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\JULIANA\\AD$C4DF.tmp",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-17 16:31:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MESSIAS\\CARTEIRAS OZOMURU JOINVILLE 17 04 (12 UNIDADES).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 16:38:42",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\Item_1_do_orcamento__Couche__Quantidade__1_de_cada (1).pdf",
         "Status":  "Alerta"
     }
 ]
