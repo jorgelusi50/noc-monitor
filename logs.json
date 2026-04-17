@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 15:40:27",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\LETICIA\\Nova pasta (2)\\Língua portuguesa.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 15:40:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\Jonathan willian Alves de Oliveira MESAS BLACKNIGHT.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-17 15:50:46",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\Item_1_do_orcamento__Couche__Quantidade__2.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 15:50:48",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\Item_1_do_orcamento__Couche__Quantidade__2.pdf",
         "Status":  "Alerta"
     }
