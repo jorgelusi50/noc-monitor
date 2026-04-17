@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 11:29:31",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\feito\\FACHADA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 11:34:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\EDSON\\SCK CARTOES DE VISITA.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-17 14:23:43",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\PF\\FERIADO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 14:23:44",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\PF\\FERIADO.cdr",
         "Status":  "Alerta"
     }
