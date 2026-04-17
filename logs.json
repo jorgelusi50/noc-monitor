@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-04-17 15:41:26",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\Edivaldo Ferreira - MESAS BLACKNIGHT.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-04-17 15:41:26",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\Edivaldo Ferreira - MESAS BLACKNIGHT.pdf",
         "Status":  "Alerta"
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-17 15:59:50",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\JULIANA\\AD$144C.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 15:59:51",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\JULIANA\\AD$144C.tmp",
         "Status":  "Alerta"
     }
