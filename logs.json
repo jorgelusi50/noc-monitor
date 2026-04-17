@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 14:23:48",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\PF\\FERIADO.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 14:38:51",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\JULIANA\\infinite_pay_pix_qr_code (1).pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-17 15:09:31",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\MARCA PAGINA\\Preciso_de_cotacao_para_10_marcadores_de_pagina-_tamanho_15_x_5-_impressao_colorida-_com_laminacao_brilho_em_papel_para_ficar_bem_firme.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 15:09:32",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\MARCA PAGINA\\Preciso_de_cotacao_para_10_marcadores_de_pagina-_tamanho_15_x_5-_impressao_colorida-_com_laminacao_brilho_em_papel_para_ficar_bem_firme.jpg",
         "Status":  "Alerta"
     }
