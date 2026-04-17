@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 15:57:18",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\JULIANA\\2DA41E74.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 15:57:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\JULIANA\\2DA41E74.tmp",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-17 16:16:25",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\Item_1_do_orcamento__Couche__Quantidade__2 (9).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 16:16:26",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\Item_1_do_orcamento__Couche__Quantidade__2 (8).pdf",
         "Status":  "Alerta"
     }
 ]
