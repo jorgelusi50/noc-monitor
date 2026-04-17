@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 11:29:10",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\Sem título-1.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 11:29:11",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\Sem título-1.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-17 14:23:39",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\PF\\FERIADO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 14:23:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\PF\\FERIADO.cdr",
         "Status":  "Alerta"
