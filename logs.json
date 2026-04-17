@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 11:57:30",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\PF\\itajai.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 11:57:32",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\PF\\itajai.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-17 14:43:22",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\LETICIA\\aaa09504",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 14:43:24",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\LETICIA\\aaa09504",
         "Status":  "Alerta"
