@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 11:28:03",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\LETICIA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 11:28:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\LETICIA\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-17 13:23:31",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\feito\\Carlos_Donato_arq_rev2-01_RESUMO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 13:27:20",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\Carlos_Donato_arq_rev2-03_COBERTURA_1.pdf",
         "Status":  "Alerta"
     }
 ]
