@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 11:16:21",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\S03.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 11:16:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\S03.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-17 11:57:41",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\PF\\itajai.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 11:57:48",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\PF\\itajai.cdr",
         "Status":  "Alerta"
     }
