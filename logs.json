@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 11:11:26",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\Beto Restaurante Zanotelli\\cartao de visita.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 11:11:27",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\ANY\\Beto Restaurante Zanotelli\\cartao de visita.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-17 11:15:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\H02 (3).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 11:15:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\H03.pdf",
         "Status":  "Alerta"
     }
 ]
