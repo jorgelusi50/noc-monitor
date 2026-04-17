@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 15:40:53",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\Gabriela Bertoldi Uller - mMESAS BLACKNIGHT.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 15:40:54",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\STHEFANY\\Nova pasta\\Gabriela Bertoldi Uller - mMESAS BLACKNIGHT.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-17 15:57:23",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\JULIANA\\AECBC3E5.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 15:57:24",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\Itens_3_-_do_orcamento__PVC__Quantidade__1 (4).pdf",
         "Status":  "Alerta"
     }
 ]
