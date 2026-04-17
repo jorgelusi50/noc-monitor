@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 11:14:39",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\Carlos_Donato_arq_rev2-06_PLANTA_BAIXA_-_ACESSO.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 11:14:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\Carlos_Donato_arq_rev2-07_CORTE_AA.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-17 11:17:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\feito\\S04.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 11:17:24",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELA\\carlosss\\S01.pdf",
         "Status":  "Alerta"
     }
 ]
