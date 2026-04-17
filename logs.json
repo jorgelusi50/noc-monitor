@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 10:25:11",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\Beto Restaurante Zanotelli\\Cartao.pdf 11.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 10:25:12",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\Beto Restaurante Zanotelli\\Cartao.pdf 11.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-17 11:00:52",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\AIDA\\Resultado_17_04_2026 (2)_arquivos\\filelist.xml",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-17 11:00:54",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\AIDA\\Resultado_17_04_2026 (2)_arquivos\\filelist.xml",
         "Status":  "Alerta"
     }
