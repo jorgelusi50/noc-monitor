@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-04-13 16:24:04",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ANY\\EMELLY\\TENDENCIA_TEMPORAL_DOS_PROCEDIMENTOS_CIRURGICOS_COM_CIRC.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-04-13 16:24:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ANY\\EMELLY\\TENDENCIA_TEMPORAL_DOS_PROCEDIMENTOS_CIRURGICOS_COM_CIRC.pdf",
         "Status":  "Alerta"
@@ -87,6 +81,12 @@
         "Data":  "2026-04-20 20:48:52",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\20-04-26\\ANY",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-20 20:48:53",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\20-04-26\\EDSON",
         "Status":  "Alerta"
     }
 ]
