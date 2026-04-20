@@ -1,41 +1,5 @@
 [
     {
-        "Data":  "2026-04-13 16:24:00",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ANY\\EMELLY\\SIMONE_Banner_Invisibility_and__Vulnerability_Simposio.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-04-13 16:24:01",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ANY\\EMELLY\\SIMONE_Banner_Lab_Hab_e_Simulacao_Simposio (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-04-13 16:24:01",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ANY\\EMELLY\\SIMONE_Banner_Lab_Hab_e_Simulacao_Simposio (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-04-13 16:24:02",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ANY\\EMELLY\\SIMONE_Banner_Lab_Hab_e_Simulacao_Simposio (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-04-13 16:24:02",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ANY\\EMELLY\\SIMONE_Banner_Praticas_Gerontologicas_Simposio (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-04-13 16:24:03",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ANY\\EMELLY\\SIMONE_Banner_Praticas_Gerontologicas_Simposio (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-13 16:24:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\ANY\\EMELLY\\Simulacao_Clinica_Como_Estrategia_de_Ensino_Relato_de_Experiencia_Sobre_o_Acolhimento_ao_Paciente_Idoso_-_Banner_Emelly_Correapptx (1).pdf",
@@ -117,6 +81,12 @@
         "Data":  "2026-04-13 16:32:47",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\JOÃO",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-20 20:48:50",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\20-04-26\\ADMSL",
         "Status":  "Alerta"
     }
 ]
