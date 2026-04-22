@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 16:32:48",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\AIDA\\Não confirmado 608573.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 16:32:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\AIDA\\Não confirmado 608573.crdownload",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-22 17:12:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\ELISANGELA FABIO\\VINIL  A4 24.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 17:12:36",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MESSIAS\\CARTEIRAS AMSTKD INDAIAL 13 04 (01 UNIDADE).pdf",
         "Status":  "Alerta"
     }
 ]
