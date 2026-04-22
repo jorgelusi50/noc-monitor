@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 09:48:33",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\FABIANO MASSANEIRO\\Adesivo_Porta (1).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 09:48:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\FABIANO MASSANEIRO\\Adesivo_Porta (1).jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-22 10:46:12",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\LETICIA\\VINIL TRANSPARENTE 13X19.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 10:46:13",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\LETICIA\\VINIL TRANSPARENTE 13X19.cdr",
         "Status":  "Alerta"
     }
