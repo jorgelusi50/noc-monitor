@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 15:24:42",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\ARTHUR\\VINIL  A4 24.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 15:24:45",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\ARTHUR\\VINIL  A4 24.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-22 15:51:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\AGENDA LUCIANA\\1776880442691_3A877418AB5C1EFE2369.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 15:51:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\AGENDA LUCIANA\\1776880442691_3A877418AB5C1EFE2369.jpeg",
         "Status":  "Alerta"
