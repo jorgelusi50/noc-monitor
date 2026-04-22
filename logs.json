@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 14:56:02",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\GUSTAVO\\cartao gustavo.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 14:56:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\GUSTAVO\\cartao gustavo.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-22 15:50:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\AGENDA LUCIANA\\1776880810468_3A1039B13FF95B74E8C0.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 15:50:58",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\ELISANGELA FABIO\\banner.tif",
         "Status":  "Alerta"
     }
 ]
