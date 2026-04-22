@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 15:50:41",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\AGENDA LUCIANA\\1776880810468_3A1039B13FF95B74E8C0.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 15:50:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\AGENDA LUCIANA\\1776880810468_3A1039B13FF95B74E8C0.jpeg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-22 16:17:31",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\ARNALDO\\ARNALDO CHEQUE 15X7cm.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 16:17:33",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\ARNALDO\\ARNALDO CHEQUE 15X7cm.cdr",
         "Status":  "Alerta"
     }
