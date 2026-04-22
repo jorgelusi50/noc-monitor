@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 10:48:45",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\IMPRESSÃO\\Item_1_do_orcamento__Couche__Quantidade__2 (65).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 10:48:46",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\IMPRESSÃO\\Item_1_do_orcamento__Couche__Quantidade__2 (65).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-22 11:35:24",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\PF\\LIVRO PARA COLORIR.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 11:35:52",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\EDSON\\RESIDENCIAL TREVISO PLACAS 22 04.cdr",
         "Status":  "Alerta"
     }
 ]
