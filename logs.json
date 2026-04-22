@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 14:22:52",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\GABRIELY\\DEBORA BORGES\\STARTUP.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 14:26:24",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\PF\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-22 15:18:28",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\ABRIL\\22-04-2026\\baralho 01",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 15:18:31",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\ABRIL\\22-04-2026\\baralho 01.plt",
         "Status":  "Alerta"
     }
 ]
