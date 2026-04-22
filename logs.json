@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 11:43:03",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\TEO\\JBS PELÍCULA JANELAS\\PELÍCULA JANELAS - Orcamento_30552_SEARA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 11:49:27",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\Nova pasta",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-22 12:52:04",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\RESIDENCIAL TREVISO\\RESIDENCIAL TREVISO PLACAS 22 04.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 12:52:05",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\RESIDENCIAL TREVISO\\RESIDENCIAL TREVISO PLACAS 22 04.cdr",
         "Status":  "Alerta"
     }
