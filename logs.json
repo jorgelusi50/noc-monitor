@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 15:50:14",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\PF\\baralho 01.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 15:50:16",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\15-04-26\\PF\\baralho 01.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-22 16:17:25",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\ARNALDO\\ARNALDO CHEQUE 15X7cm.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 16:17:27",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\ARNALDO\\ARNALDO CHEQUE 15X7cm.cdr",
         "Status":  "Alerta"
     }
