@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 13:14:14",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\FAMILIA REZENDE\\FAMILIA REZENDE ADESIVOS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 13:14:15",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\FAMILIA REZENDE\\FAMILIA REZENDE ADESIVOS.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-22 13:45:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\ARTHUR\\VINIL  A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 13:45:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\AIDA\\Não confirmado 408428.crdownload",
         "Status":  "Alerta"
     }
 ]
