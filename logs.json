@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 16:29:01",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\LETICIA\\Nova pasta (2)\\EBOOK-MODULO7-PSICANALISECONTEMPORANEA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 16:29:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\LETICIA\\Nova pasta (2)\\EBOOK-MODULO4-PSICANALISECONTEMPORANEA.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-22 16:40:52",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\EPAGRI\\Nova logo EPAGRI.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 16:40:53",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\EPAGRI\\Nova logo EPAGRI.png",
         "Status":  "Alerta"
     }
