@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 15:49:00",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\GUSTAVO\\Cartao_de_visitas_para_impressao1.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 15:49:01",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\GUSTAVO\\Cartao_de_visitas_para_impressao1.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-22 15:59:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELA\\LEONARDO\\Cardapio_lanches_2 (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 15:59:12",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELA\\LEONARDO\\Cardapio_almoco_2 (1).pdf",
         "Status":  "Alerta"
     }
 ]
