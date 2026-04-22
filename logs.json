@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 13:52:28",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\LETICIA\\Nova pasta\\CONTO_202_APOLLO.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 13:52:29",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\LETICIA\\Nova pasta\\CONTO_202_APOLLO.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-22 14:11:56",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\PLACAS PVC\\Documento A4 Placa Aviso Higiene no Banheiro-2.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 14:11:57",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\PLACAS PVC\\Documento A4 Placa Aviso Higiene no Banheiro-2.tif",
         "Status":  "Alerta"
     }
