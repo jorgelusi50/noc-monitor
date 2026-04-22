@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 14:00:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GF\\CORY\\adesivo fosco.cdr (6).zip",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 14:00:22",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GF\\CORY\\adesivo fosco.cdr (6).zip",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-22 14:30:44",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\PF\\unificado 01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 14:30:46",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\PF\\unificado 01.cdr",
         "Status":  "Alerta"
     }
