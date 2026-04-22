@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 11:11:42",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\AIDA\\A48C3848.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 11:11:43",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\AIDA\\A48C3848.tmp",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-22 11:54:42",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\PATRICIA\\VINIL 13X19.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 11:54:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\PATRICIA\\VINIL 13X19.cdr",
         "Status":  "Alerta"
