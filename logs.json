@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 10:47:17",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\IMPRESSÃO\\Item_1_do_orcamento__Couche__Quantidade__2 (59).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 10:47:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\GABRIEL RAMOS\\IMPRESSÃO\\Item_1_do_orcamento__Couche__Quantidade__2 (59).pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-22 11:23:45",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\PATRICIA\\1776690360494_AC95121EE22BCA87645538953389E602.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 11:23:46",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\PATRICIA\\1776690360494_AC95121EE22BCA87645538953389E602.jpeg",
         "Status":  "Alerta"
     }
