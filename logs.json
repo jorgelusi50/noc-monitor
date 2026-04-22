@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 14:13:43",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\EDSON\\Vale-presente_dia_dos_namorados_voucher_vermelho_com_coracoes.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 14:13:45",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELA\\a3\\Não confirmado 104384.crdownload",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-22 14:49:57",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\GUSTAVO\\Cartao_de_visitas_-_versao_final (1)_Página_2.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 14:49:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\GUSTAVO\\Cartao_de_visitas_-_versao_final (1)_Página_2.jpg",
         "Status":  "Alerta"
