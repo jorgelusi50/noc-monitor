@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 11:49:37",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\CURA NATURAL",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 11:50:11",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\DOC-20260420-WA0037_Página_1.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-22 12:52:08",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\RESIDENCIAL TREVISO\\RESIDENCIAL TREVISO PLACAS 22 04.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 12:52:09",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\RESIDENCIAL TREVISO\\RESIDENCIAL TREVISO PLACAS 22 04.cdr",
         "Status":  "Alerta"
     }
