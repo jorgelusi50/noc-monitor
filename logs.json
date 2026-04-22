@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 16:01:20",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\PF\\agenda 01.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 16:01:21",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\PF\\agenda 01.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-22 16:32:47",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\AIDA\\Orcamento_30872_EPAGRI (2).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 16:32:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\AIDA\\Não confirmado 608573.crdownload",
         "Status":  "Alerta"
     }
 ]
