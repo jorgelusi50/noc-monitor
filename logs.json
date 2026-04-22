@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 13:47:21",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\KARLA HOEFEL\\KARLA CARTÃO 16 04 26 ajuste.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 13:47:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\16-04-26\\ANY\\KARLA HOEFEL\\KARLA CARTÃO 16 04 26 ajuste.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-22 13:51:56",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\LETICIA\\Nova pasta\\CONTO_-_203_-_EDUARDA_MOREIRA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 13:51:57",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\LETICIA\\Nova pasta\\CONTO_-_203_-_EDUARDA_MOREIRA.pdf",
         "Status":  "Alerta"
     }
