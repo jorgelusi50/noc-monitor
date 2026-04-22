@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 16:29:28",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\LETICIA\\Nova pasta (2)\\EBOOK-MODULO3-PSICANALISECONTEMPORANEA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 16:29:30",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\LETICIA\\Nova pasta (2)\\EBOOK-MODULO3-PSICANALISECONTEMPORANEA.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-22 16:44:43",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\ARNALDO\\ARNALDO CHEQUE 15X7cm ajuste.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 16:44:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\ARNALDO\\ARNALDO CHEQUE 15X7cm ajuste.cdr",
         "Status":  "Alerta"
