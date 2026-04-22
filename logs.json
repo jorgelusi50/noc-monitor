@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 11:54:45",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\PATRICIA\\VINIL 13X19.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 11:54:46",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\PATRICIA\\VINIL 13X19.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-22 13:14:19",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\FAMILIA REZENDE\\FAMILIA REZENDE ADESIVOS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 13:14:21",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\FAMILIA REZENDE\\FAMILIA REZENDE ADESIVOS.cdr",
         "Status":  "Alerta"
     }
