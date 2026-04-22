@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 14:26:32",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\PF\\MARIETA\\Hospital_Marieta_UNACON_UNA030 ajuste corte 01.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 14:26:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\PF\\MARIETA\\Hospital_Marieta_UNACON_UNA030 ajuste corte 01.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-22 15:18:47",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\PATRICIA\\VINIL 13X19 24.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 15:18:48",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\PATRICIA\\VINIL 13X19 24.cdr",
         "Status":  "Alerta"
     }
