@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 14:07:08",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELA\\a3\\Não confirmado 800363.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 14:07:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELA\\a3\\Não confirmado 800363.crdownload",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-22 14:36:22",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\SAULO\\SAULO ADESIVOS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 14:36:46",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\SAULO\\Cópia_de_segurança_de_SAULO ADESIVOS.cdr",
         "Status":  "Alerta"
     }
 ]
