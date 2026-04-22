@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 15:50:52",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\AGENDA LUCIANA\\1776880810468_3A1039B13FF95B74E8C0.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 15:50:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\AGENDA LUCIANA\\1776880810468_3A1039B13FF95B74E8C0.jpeg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-22 16:26:31",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\SCK ADVOCACIA\\SCK CARTOES DE VISITA ajuste.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 16:26:33",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\SCK ADVOCACIA\\SCK CARTOES DE VISITA ajuste.cdr",
         "Status":  "Alerta"
     }
