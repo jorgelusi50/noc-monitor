@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 13:53:16",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\SCK ADVOCACIA\\Cópia_de_segurança_de_SCK CARTOES DE VISITA ajuste.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 13:53:17",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\SCK ADVOCACIA\\Cópia_de_segurança_de_SCK CARTOES DE VISITA ajuste.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-22 14:14:36",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\GLEDSON\\Vale-presente_dia_dos_namorados_voucher_vermelho_com_coracoes.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 14:17:37",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\ELISANGELA FABIO\\0001.tif",
         "Status":  "Alerta"
     }
 ]
