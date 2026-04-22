@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 10:48:59",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\AIDA\\Resultado_22_04_2026.xls",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 10:49:01",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\AIDA\\Resultado_22_04_2026.xls",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-22 11:35:56",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\EDSON\\RESIDENCIAL TREVISO PLACAS 22 04.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 11:35:57",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\EDSON\\RESIDENCIAL TREVISO PLACAS 22 04.cdr",
         "Status":  "Alerta"
