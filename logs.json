@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 16:44:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\ARNALDO\\ARNALDO CHEQUE 15X7cm ajuste.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 16:44:40",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\ARNALDO\\ARNALDO CHEQUE 15X7cm ajuste.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-22 17:29:01",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MESSIAS\\CARTEIRAS RCRUZ ISK FLORIANOPOLIS.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 17:29:02",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\13-04-26\\GABRIELY\\MESSIAS\\FEITO\\CARTEIRAS RCRUZ ISK FLORIANOPOLIS.pdf",
         "Status":  "Alerta"
     }
 ]
