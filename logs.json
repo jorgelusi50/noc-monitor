@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 14:14:36",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ISABELA\\GLEDSON\\Vale-presente_dia_dos_namorados_voucher_vermelho_com_coracoes.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 14:17:37",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\ELISANGELA FABIO\\0001.tif",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-22 14:56:01",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\GUSTAVO\\cartao gustavo.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 14:56:02",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\ANY\\GUSTAVO\\cartao gustavo.cdr",
         "Status":  "Alerta"
     }
