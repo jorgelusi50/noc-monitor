@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-17 16:57:11",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\LETICIA\\A Cruz Sagrada seja a minha Luz! Não seja o dragão o meu guia. Retira-te, Satanás! Nunca me aconselhes coisas vãs. É mau o que tu me ofereces, bebes tu mesmo o teu veneno.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-17 16:57:12",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\LETICIA\\A Cruz Sagrada seja a minha Luz! Não seja o dragão o meu guia. Retira-te, Satanás! Nunca me aconselhes coisas vãs. É mau o que tu me ofereces, bebes tu mesmo o teu veneno.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-22 09:48:38",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\FABIANO MASSANEIRO\\Adesivo_Porta (1).jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 09:48:39",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELY\\FABIANO MASSANEIRO\\Adesivo_Porta (1).jpg",
         "Status":  "Alerta"
     }
