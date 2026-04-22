@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 11:35:52",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\EDSON\\RESIDENCIAL TREVISO PLACAS 22 04.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 11:35:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\EDSON\\RESIDENCIAL TREVISO PLACAS 22 04.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-22 12:04:26",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\AIDA\\Orcamento_30815_EPAGRI (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-22 12:06:05",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\AIDA\\Recibo de Ferias (2).pdf",
         "Status":  "Alerta"
     }
 ]
