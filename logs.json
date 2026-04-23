@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 17:12:20",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\ELISANGELA FABIO\\VINIL  A4 24.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 17:12:21",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\ELISANGELA FABIO\\VINIL  A4 24.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-04-23 00:30:31",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\23-04-26\\ANY",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-23 00:30:32",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\23-04-26\\GABRIELA",
         "Status":  "Alerta"
     }
 ]
