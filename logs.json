@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 17:23:39",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELA\\Nova pasta\\EBOOK-MODULO6-PSICANALISECONTEMPORANEA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 17:23:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELA\\Nova pasta\\EBOOK-MODULO6-PSICANALISECONTEMPORANEA.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-04-28 09:55:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ISADORA\\PLANTA-SUPERESTRUMENTAL\\Folha_08.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-28 09:55:50",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ISADORA\\PLANTA-SUPERESTRUMENTAL\\Folha_08.pdf",
         "Status":  "Alerta"
