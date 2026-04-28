@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-28 09:55:51",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ISADORA\\PLANTA-SUPERESTRUMENTAL\\Folha_08.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-28 09:55:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ISADORA\\PLANTA-SUPERESTRUMENTAL\\Folha_07.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-28 10:01:23",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\EDSON\\DANI\\IMPRESSÃO\\DANI FORTES RELACIONAMENTO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-28 10:01:25",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\EDSON\\DANI\\IMPRESSÃO\\DANI FORTES RELACIONAMENTO.pdf",
         "Status":  "Alerta"
     }
