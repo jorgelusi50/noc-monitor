@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-22 17:23:26",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELA\\Nova pasta\\EBOOK-MODULO1-PSICANALISECONTEMPORANEA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-22 17:23:27",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\22-04-26\\GABRIELA\\Nova pasta\\EBOOK-MODULO1-PSICANALISECONTEMPORANEA.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-28 09:55:33",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\EDSON\\DANI\\cartas_Prosperidade_DaniFFirpo_65x100_v2 2023.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-28 09:55:35",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\EDSON\\DANI\\cartas_Prosperidade_DaniFFirpo_65x100_v2 2023.cdr",
         "Status":  "Alerta"
     }
