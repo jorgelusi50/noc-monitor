@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-23 00:30:42",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\23-04-26\\EDSON",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-23 00:30:43",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\23-04-26\\JULIANA",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-04-28 09:58:14",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\EDSON\\DANI\\cartas_Relacionamento_DaniFFirpo_65x100_v2 2023.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-28 09:58:16",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\EDSON\\DANI\\cartas_Relacionamento_DaniFFirpo_65x100_v2 2023.cdr",
         "Status":  "Alerta"
     }
