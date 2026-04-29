@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-29 17:09:46",
-    "Acao": "Criado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-VIVIAN\\cartao vivian.cdr",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-29 17:09:48",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-VIVIAN\\cartao vivian.cdr",
@@ -595,6 +589,12 @@
   },
   {
     "Data": "2026-04-29 17:26:54",
+    "Acao": "Criado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISABELA\\OTICA\\Copia_de_nao_editado (3).pdf",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-29 17:26:55",
     "Acao": "Criado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISABELA\\OTICA\\Copia_de_nao_editado (3).pdf",
     "Status": "Alerta"
