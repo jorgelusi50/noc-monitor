@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-29 16:50:38",
-    "Acao": "Criado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\LEOZINN\\LOGO.cdr",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-29 16:50:39",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\LEOZINN\\LOGO.cdr",
@@ -595,6 +589,12 @@
   },
   {
     "Data": "2026-04-29 17:17:57",
+    "Acao": "Alterado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\Sem título-3.cdr",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-29 17:17:58",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\Sem título-3.cdr",
     "Status": "Alerta"
