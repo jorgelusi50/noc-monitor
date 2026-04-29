@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-29 16:23:11",
-    "Acao": "Alterado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA FOLDER\\FOLDER_ALIMENTOS_-_ID_PREZZIA (3)_Página_2.jpg",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-29 16:23:13",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA FOLDER\\FOLDER_ALIMENTOS_-_ID_PREZZIA (3)_Página_2.jpg",
@@ -595,6 +589,12 @@
   },
   {
     "Data": "2026-04-29 17:09:51",
+    "Acao": "Alterado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-VIVIAN\\cartao vivian.cdr",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-29 17:09:53",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-VIVIAN\\cartao vivian.cdr",
     "Status": "Alerta"
