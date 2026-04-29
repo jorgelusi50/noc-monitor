@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-29 17:31:50",
-    "Acao": "Criado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\CREDENCIAL\\credencial ajuste staff.cdr",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-29 17:31:52",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\CREDENCIAL\\credencial ajuste staff.cdr",
@@ -596,6 +590,12 @@
   {
     "Data": "2026-04-29 17:59:41",
     "Acao": "Alterado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\MONTER CLEAN\\MONTER CLEAM ADESIVO 10X15.cdr",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-29 17:59:42",
+    "Acao": "Criado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\MONTER CLEAN\\MONTER CLEAM ADESIVO 10X15.cdr",
     "Status": "Alerta"
   }
