@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-29 16:01:37",
-    "Acao": "Criado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\GABRIELY\\MARIA LUCIA\\CANECA GABARITO CERTO.cdr",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-29 16:01:38",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\GABRIELY\\MARIA LUCIA\\CANECA GABARITO CERTO.cdr",
@@ -595,6 +589,12 @@
   },
   {
     "Data": "2026-04-29 16:59:05",
+    "Acao": "Criado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-VIVIAN\\Precisava_de_10_impressoes_deste_tamanho_7x10_cm (2).jpg",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-29 16:59:07",
     "Acao": "Criado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-VIVIAN\\Precisava_de_10_impressoes_deste_tamanho_7x10_cm (2).jpg",
     "Status": "Alerta"
