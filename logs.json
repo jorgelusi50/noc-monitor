@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-29 16:59:11",
-    "Acao": "Criado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-VIVIAN\\Precisava_de_10_impressoes_deste_tamanho_7x10_cm (2).jpg",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-29 16:59:14",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-VIVIAN\\Precisava_de_10_impressoes_deste_tamanho_7x10_cm (2).jpg",
@@ -596,6 +590,12 @@
   {
     "Data": "2026-04-29 17:18:16",
     "Acao": "Deletado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\15x21cm.cdr",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-29 17:18:17",
+    "Acao": "Criado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\15x21cm.cdr",
     "Status": "Alerta"
   }
