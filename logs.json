@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-29 15:55:42",
-    "Acao": "Alterado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISABELA\\ELIZEU\\White_Exciting_Black_Bow_$100_Gift_Voucher (1)_Página_5.jpg",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-29 15:55:44",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISABELA\\ELIZEU\\White_Exciting_Black_Bow_$100_Gift_Voucher (1)_Página_5.jpg",
@@ -597,6 +591,12 @@
     "Data": "2026-04-29 16:37:29",
     "Acao": "Renomeado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\NICKY OHH DOUGLAS",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-29 16:38:19",
+    "Acao": "Criado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\NICKY OHH DOUGLAS\\ADESIVO PAINEL 165X232mm.cdr",
     "Status": "Alerta"
   }
 ]
