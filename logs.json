@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-29 16:00:38",
-    "Acao": "Deletado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\voucher.cdr",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-29 16:00:40",
     "Acao": "Criado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\voucher.cdr",
@@ -597,6 +591,12 @@
     "Data": "2026-04-29 16:43:46",
     "Acao": "Criado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\CAMILE\\Toppers_Astronauta_festa.pdf",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-29 16:50:27",
+    "Acao": "Criado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\Nova pasta",
     "Status": "Alerta"
   }
 ]
