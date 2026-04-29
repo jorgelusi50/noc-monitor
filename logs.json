@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-29 16:38:20",
-    "Acao": "Criado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\NICKY OHH DOUGLAS\\ADESIVO PAINEL 165X232mm.cdr",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-29 16:38:21",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\NICKY OHH DOUGLAS\\ADESIVO PAINEL 165X232mm.cdr",
@@ -595,6 +589,12 @@
   },
   {
     "Data": "2026-04-29 17:17:17",
+    "Acao": "Criado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\Sem título-2.cdr",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-29 17:17:18",
     "Acao": "Criado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\Sem título-2.cdr",
     "Status": "Alerta"
