@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-29 17:16:22",
-    "Acao": "Alterado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-CRICIAS MEDEIROS\\50_desse_frente_e_verso_em_A6 (2)_Página_2.jpg",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-29 17:16:25",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-CRICIAS MEDEIROS\\50_desse_frente_e_verso_em_A6 (2)_Página_2.jpg",
@@ -597,6 +591,12 @@
     "Data": "2026-04-29 17:33:03",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\6.cdr",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-29 17:35:00",
+    "Acao": "Criado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISABELA\\AMBIENTAL\\BOLINHAS.cdr",
     "Status": "Alerta"
   }
 ]
