@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-29 17:35:20",
-    "Acao": "Criado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\27-04-26\\ANY\\DECKMAN\\8x8.cdr",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-29 17:35:22",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\27-04-26\\ANY\\DECKMAN\\8x8.cdr",
@@ -597,6 +591,12 @@
     "Data": "2026-04-30 08:19:55",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ANY\\TAS ARLINDO\\TAS PLACA 90X60.cdr",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-30 08:21:07",
+    "Acao": "Criado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\JULIANA\\TABA E-COMERCE Nova.xlsx",
     "Status": "Alerta"
   }
 ]
