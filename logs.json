@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-30 09:58:46",
-    "Acao": "Criado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ISADORA\\Nova pasta",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-30 09:58:47",
     "Acao": "Criado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ISADORA\\Nova pasta (2)",
@@ -596,6 +590,12 @@
   {
     "Data": "2026-04-30 10:22:19",
     "Acao": "Criado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ISADORA\\ADESIVO-LOUISE\\150unidades  5x5 redondo.tif",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-30 10:22:21",
+    "Acao": "Deletado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ISADORA\\ADESIVO-LOUISE\\150unidades  5x5 redondo.tif",
     "Status": "Alerta"
   }
