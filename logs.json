@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:17:31",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\AIDA\\E666E589.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:17:32",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\AIDA\\Boa Tarde Pessoas..docx",
@@ -2995,6 +2989,12 @@
     },
     {
         "Data":  "2026-04-30 14:00:56",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\STEFANIE EGGERS\\1_UNDVINIL_TRANSPARENTETAMANHO__8x4.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:00:58",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\STEFANIE EGGERS\\1_UNDVINIL_TRANSPARENTETAMANHO__8x4.pdf",
         "Status":  "Alerta"
