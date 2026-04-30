@@ -1024,5 +1024,11 @@
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\AURORA",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 13:34:43",
+        "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\AURORA",
+        "Status":  "Alerta"
     }
 ]
