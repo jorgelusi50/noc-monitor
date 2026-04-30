@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:53:14",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELA\\orçamento",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:53:15",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELA\\orçamento",
@@ -2996,6 +2990,12 @@
     {
         "Data":  "2026-04-30 14:09:43",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\LETICIA\\NF 2604 OC 31405.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:09:46",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\LETICIA\\NF 2604 OC 31405.pdf",
         "Status":  "Alerta"
     }
