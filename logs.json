@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:56:56",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA\\Eu_preciso_de_100unidades_desse-_Gab_E_para_um_evento (1)_Página_2.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:56:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA\\Eu_preciso_de_100unidades_desse-_Gab_E_para_um_evento (1)_Página_2.jpg",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:13:44",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\RACIEL\\32p-As-Aventuras-de-Catarina-8.5x11-rev-2026.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:13:46",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\RACIEL\\capa-as-aventuras- 01.jpg",
         "Status":  "Alerta"
     }
 ]
