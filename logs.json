@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 14:02:31",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GF\\Cópia_de_segurança_de_QR CODE  ANA CLARA COZINHA 02 unidades fosco ALEXANDRE COYOTE.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 14:02:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GF\\Cópia_de_segurança_de_QR CODE  ANA CLARA COZINHA 02 unidades fosco ALEXANDRE COYOTE.cdr",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:19:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\GUILHERME\\PAROQUIA\\Impressão mesclada JANTAR.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:19:40",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\AURORA\\AURORA PLACAS 40X30 E 1000X800.cdr",
         "Status":  "Alerta"
     }
 ]
