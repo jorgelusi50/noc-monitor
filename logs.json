@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:57:45",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA\\9X9",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:57:46",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA\\9X9",
@@ -2996,6 +2990,12 @@
     {
         "Data":  "2026-04-30 14:14:33",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\RACIEL\\joaninha a moda\\capa-moda- 01.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:14:35",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\RACIEL\\joaninha a moda\\capa-moda- 01.jpg",
         "Status":  "Alerta"
     }
