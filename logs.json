@@ -4906,5 +4906,11 @@
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\EDSON\\CANECA GABARITO NOVO.cdr",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 16:42:30",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\EDSON\\CANECA GABARITO NOVO.cdr",
+        "Status":  "Alerta"
     }
 ]
