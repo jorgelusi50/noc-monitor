@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 14:02:22",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GF\\CR PESCADOS CARIMBOS.dxf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 14:02:24",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GF\\CR PESCADOS CARIMBOS.dxf",
@@ -2995,6 +2989,12 @@
     },
     {
         "Data":  "2026-04-30 14:19:30",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\GUILHERME\\PAROQUIA\\Impressão mesclada JANTAR.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:19:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\GUILHERME\\PAROQUIA\\Impressão mesclada JANTAR.cdr",
         "Status":  "Alerta"
