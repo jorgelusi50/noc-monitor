@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 14:04:08",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISABELA\\ELIZEU\\White_Exciting_Black_Bow_$100_Gift_Voucher (1)_Página_2.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 14:04:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISABELA\\ELIZEU\\White_Exciting_Black_Bow_$100_Gift_Voucher (1)_Página_2.jpg",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:40:52",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\EDSON\\LISTA_CASAMENTO (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:40:53",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\ANGEL\\5d945406-c847-41b3-a38e-6cadb1c832c7-d4b41-5b714988pdf (1).pdf",
         "Status":  "Alerta"
     }
 ]
