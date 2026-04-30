@@ -2086,5 +2086,11 @@
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\5.pdf",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 13:51:43",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\RICARDO\\Cartaz_Mega_30anos-46x64.jpg",
+        "Status":  "Alerta"
     }
 ]
