@@ -5050,5 +5050,11 @@
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\POSITIVIDADE\\5 CÓPIAS frases_a_palavra_1 (1).pdf",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 17:13:53",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\POSITIVIDADE\\5 CÓPIAS frases_a_palavra_1 (1).pdf.crdownload",
+        "Status":  "Alerta"
     }
 ]
