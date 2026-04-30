@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:58:40",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA\\9X9\\Binder1_Página_07.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:58:43",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA\\9X9\\Binder1_Página_08.jpg",
@@ -2996,6 +2990,12 @@
     {
         "Data":  "2026-04-30 14:15:36",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\Não confirmado 746200.crdownload",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:15:37",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\Não confirmado 746200.crdownload",
         "Status":  "Alerta"
     }
