@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-30 11:00:02",
-    "Acao": "Criado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\LETICIA\\Nova pasta\\1777557500341_ACFF19986AC7E9728C677FF85AC02E70.jpg",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-30 11:00:03",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\LETICIA\\Nova pasta\\1777557500341_ACFF19986AC7E9728C677FF85AC02E70.jpg",
@@ -596,6 +590,12 @@
   {
     "Data": "2026-04-30 11:35:43",
     "Acao": "Deletado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ISADORA\\ADESIVO-LOUISE\\Bem_Vindos_ao_nosso_casamento (4).tif",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-30 11:35:45",
+    "Acao": "Criado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ISADORA\\ADESIVO-LOUISE\\Bem_Vindos_ao_nosso_casamento (4).tif",
     "Status": "Alerta"
   }
