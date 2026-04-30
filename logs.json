@@ -1102,5 +1102,11 @@
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ANY\\TAS ARLINDO\\pasta 01.cdr",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 13:35:34",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ANY\\TAS ARLINDO\\pasta 01.cdr",
+        "Status":  "Alerta"
     }
 ]
