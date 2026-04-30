@@ -1714,5 +1714,11 @@
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\CREDENCIAL\\STAFF_3.jpg",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 13:49:50",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\CREDENCIAL\\STAFF_3.jpg",
+        "Status":  "Alerta"
     }
 ]
