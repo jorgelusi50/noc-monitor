@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:58:35",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA\\9X9\\Binder1_Página_07.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:58:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA\\9X9\\Binder1_Página_07.jpg",
@@ -2996,6 +2990,12 @@
     {
         "Data":  "2026-04-30 14:15:29",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\NF 8443 OC 26195.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:15:31",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\NF 8443 OC 26195.pdf",
         "Status":  "Alerta"
     }
