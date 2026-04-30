@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 14:02:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GF\\CORY\\ADESIVO TAMANHO CERTO.cdr.zip",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 14:02:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GF\\CORY\\ADESIVO TAMANHO CERTO.cdr.zip",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:19:54",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\AURORA\\AURORA PLACAS 40X30 E 1000X800.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:19:57",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\_QUALIMEDICA\\QUALIMEDICA crachas 11 09.cdr",
         "Status":  "Alerta"
     }
 ]
