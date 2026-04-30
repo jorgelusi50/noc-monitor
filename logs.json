@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 14:01:28",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\STEFANIE EGGERS\\VINIL  A4 TRANSPARENTE 24.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 14:01:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\STEFANIE EGGERS\\VINIL  A4 TRANSPARENTE 24.cdr",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:18:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ISADORA\\IMPRESSAO-JOAO\\V3-E04bR1-_Armaduras_Negativas_Lajes_09032026 (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:18:36",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ISADORA\\IMPRESSAO-JOAO\\V3-E04aR1-_Armaduras_Positivas_Lajes_09032026 (1).pdf",
         "Status":  "Alerta"
     }
 ]
