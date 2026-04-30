@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-30 08:37:32",
-    "Acao": "Alterado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ANY\\TAS ARLINDO\\pasta 01.cdr",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-30 08:37:48",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ANY\\TAS ARLINDO\\pasta 01.cdr",
@@ -597,6 +591,12 @@
     "Data": "2026-04-30 09:50:43",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ISADORA\\IMPRESSAO-VICTORIA\\Doc1 (1).pdf",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-30 09:50:58",
+    "Acao": "Criado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ISADORA\\IMPRESSAO-VICTORIA\\50_unidades-_35x27cm_gramatura_200 (1).pdf",
     "Status": "Alerta"
   }
 ]
