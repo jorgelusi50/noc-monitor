@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-30 09:30:22",
-    "Acao": "Alterado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\Nova pasta\\Variações Opções Copos.pdf",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-30 09:35:41",
     "Acao": "Criado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\STHEFANY\\VINIL 13X19 VINIL.cdr",
@@ -595,6 +589,12 @@
   },
   {
     "Data": "2026-04-30 10:07:46",
+    "Acao": "Deletado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\RACIEL\\joaninha a moda\\capa-moda- 01.jpg",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-30 10:07:48",
     "Acao": "Deletado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\RACIEL\\joaninha a moda\\capa-moda- 01.jpg",
     "Status": "Alerta"
