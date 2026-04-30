@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:39:16",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\THE BEST\\cartoes_dia_do_trabalhador_A4.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:39:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\THE BEST\\cartoes_dia_do_trabalhador_A4.jpg",
@@ -2996,6 +2990,12 @@
     {
         "Data":  "2026-04-30 14:02:34",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GF\\QR CODE  ANA CLARA COZINHA 02 unidades fosco ALEXANDRE COYOTE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:02:37",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GF\\QR CODE  ANA CLARA COZINHA 02 unidades fosco ALEXANDRE COYOTE.cdr",
         "Status":  "Alerta"
     }
