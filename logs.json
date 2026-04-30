@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-30 11:37:57",
-    "Acao": "Alterado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ISADORA\\ADESIVO-LOUISE\\Bem_Vindos_ao_nosso_casamento (4).tif",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-30 11:37:59",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ISADORA\\ADESIVO-LOUISE\\Bem_Vindos_ao_nosso_casamento (4).tif",
@@ -596,6 +590,12 @@
   {
     "Data": "2026-04-30 12:43:51",
     "Acao": "Alterado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\AIDA\\Resultado_30_04_2026 (1).xls",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-30 12:43:53",
+    "Acao": "Deletado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\AIDA\\Resultado_30_04_2026 (1).xls",
     "Status": "Alerta"
   }
