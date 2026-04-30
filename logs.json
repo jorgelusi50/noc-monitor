@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:51:53",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\RICARDO\\Cartaz_Mega_30anos-46x64.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:51:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\RICARDO\\Cópia_de_segurança_de_13x19 ajuste.cdr",
@@ -2996,6 +2990,12 @@
     {
         "Data":  "2026-04-30 14:08:19",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-CRICIAS MEDEIROS\\50_desse_frente_e_verso_em_A6 (2)_Página_2.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:08:21",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-CRICIAS MEDEIROS\\50_desse_frente_e_verso_em_A6 (2)_Página_2.jpg",
         "Status":  "Alerta"
     }
