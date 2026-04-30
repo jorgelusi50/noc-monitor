@@ -1,8 +1,10 @@
 {
-  "Total": "3008.07 GB",
-  "Usado": "1235.89 GB",
-  "Livre": "1772.17 GB",
-  "PercentUsado": 41.1,
-  "Uso": 41.1,
-  "Atualizado": "12:58:09"
+    "Total":  "3008.07 GB",
+    "Usado":  "1235.89 GB",
+    "Livre":  "1772.17 GB",
+    "PercentUsado":  41.1,
+    "PercentLivre":  58.9,
+    "LivreBytes":  "1902854537216 bytes",
+    "Uso":  41.1,
+    "Atualizado":  "13:00:57"
 }
