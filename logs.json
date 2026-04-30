@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:49:58",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\DMULLER",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:50:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\DMULLER",
@@ -2996,6 +2990,12 @@
     {
         "Data":  "2026-04-30 14:06:13",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO THIAGO\\impressao ajuste.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:06:16",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO THIAGO\\impressao ajuste.cdr",
         "Status":  "Alerta"
     }
