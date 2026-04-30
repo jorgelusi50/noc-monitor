@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-29 17:35:34",
-    "Acao": "Alterado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\27-04-26\\ANY\\DECKMAN\\8x8.cdr",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-29 17:35:36",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\27-04-26\\ANY\\DECKMAN\\8x8.cdr",
@@ -596,6 +590,12 @@
   {
     "Data": "2026-04-30 08:23:38",
     "Acao": "Criado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\JULIANA\\A90D2929.tmp",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-30 08:23:40",
+    "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\JULIANA\\A90D2929.tmp",
     "Status": "Alerta"
   }
