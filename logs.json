@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:58:00",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA\\9X9\\Binder1_Página_02.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:58:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA\\9X9\\Binder1_Página_02.jpg",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:14:51",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\RACIEL\\joaninha a moda\\Moda-A-Joaninha-Costureira-Versao-Abril-26-revisao-final.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:14:52",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\STHEFANY",
         "Status":  "Alerta"
     }
 ]
