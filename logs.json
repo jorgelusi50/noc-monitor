@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-30 11:35:36",
-    "Acao": "Alterado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ISADORA\\ADESIVO-LOUISE\\Bem_Vindos_ao_nosso_casamento (4).tif",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-30 11:35:37",
     "Acao": "Deletado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ISADORA\\ADESIVO-LOUISE\\Bem_Vindos_ao_nosso_casamento (4).tif",
@@ -595,6 +589,12 @@
   },
   {
     "Data": "2026-04-30 11:38:06",
+    "Acao": "Alterado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ISADORA\\ADESIVO-LOUISE\\Bem_Vindos_ao_nosso_casamento (4).tif",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-30 11:38:08",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ISADORA\\ADESIVO-LOUISE\\Bem_Vindos_ao_nosso_casamento (4).tif",
     "Status": "Alerta"
