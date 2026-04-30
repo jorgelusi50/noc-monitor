@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:52:36",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\EDSON\\ALVARA 2026.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:52:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\EDSON\\ALVARA 2026.pdf",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:09:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-VIVIAN",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:09:06",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-VIVIAN\\cartao vivian.cdr",
         "Status":  "Alerta"
     }
 ]
