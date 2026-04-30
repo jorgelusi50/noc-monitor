@@ -1882,5 +1882,11 @@
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\LEOZINN\\Cópia_de_segurança_de_LOGO.cdr",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 13:50:41",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\LEOZINN\\Cópia_de_segurança_de_LOGO.cdr",
+        "Status":  "Alerta"
     }
 ]
