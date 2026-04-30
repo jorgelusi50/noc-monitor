@@ -4420,5 +4420,11 @@
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\PF\\01KPVRNGB73NFJ26WBGYGDNZX7.jpg",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 16:25:07",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\EDSON\\LAMPADA.cdr",
+        "Status":  "Alerta"
     }
 ]
