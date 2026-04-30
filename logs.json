@@ -3010,5 +3010,11 @@
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\27-04-26\\ANY\\DECKMAN\\Cópia_de_segurança_de_8x8.cdr",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 15:05:57",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\27-04-26\\ANY\\DECKMAN\\Cópia_de_segurança_de_8x8.cdr",
+        "Status":  "Alerta"
     }
 ]
