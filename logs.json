@@ -1258,5 +1258,11 @@
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\NF 8436 OC 31242.pdf",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 13:42:00",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\NF 8436 OC 31242.pdf",
+        "Status":  "Alerta"
     }
 ]
