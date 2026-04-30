@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:52:12",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\SEARA\\PLOTAGEM PAREDE SEARA.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:52:13",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\SEARA\\PLOTAGEM PAREDE SEARA.cdr",
@@ -2996,6 +2990,12 @@
     {
         "Data":  "2026-04-30 14:08:38",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-KAYLA\\Farmacia_Moderno_Verde_e_Laranja_Cartaz.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:08:41",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-KAYLA\\Farmacia_Moderno_Verde_e_Laranja_Cartaz.pdf",
         "Status":  "Alerta"
     }
