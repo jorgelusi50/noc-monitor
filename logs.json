@@ -4300,5 +4300,11 @@
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\ADESIVO PARABRISA\\adesivo_-_PITSTOP_1_3.pdf.crdownload",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 16:18:01",
+        "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\ADESIVO PARABRISA\\adesivo_-_PITSTOP_1_3.pdf",
+        "Status":  "Alerta"
     }
 ]
