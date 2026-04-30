@@ -1318,5 +1318,11 @@
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\27-04-26\\GABRIELY\\MAYARA FOLDER\\Veja_se_assim_da_certo-_por_favor.pdf",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 13:47:57",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\27-04-26\\GABRIELY\\MAYARA FOLDER\\Veja_se_assim_da_certo-_por_favor.pdf.crdownload",
+        "Status":  "Alerta"
     }
 ]
