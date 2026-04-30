@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-30 08:24:00",
-    "Acao": "Alterado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\JULIANA\\TABA E-COMERCE Nova.xlsx",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-30 08:24:02",
     "Acao": "Deletado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\JULIANA\\D9126D16.tmp",
@@ -597,6 +591,12 @@
     "Data": "2026-04-30 09:30:10",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\Nova pasta\\Logos Família a Bordo 2026.pdf",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-30 09:30:12",
+    "Acao": "Criado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\Nova pasta\\Porta Foto Cartão.cdr",
     "Status": "Alerta"
   }
 ]
