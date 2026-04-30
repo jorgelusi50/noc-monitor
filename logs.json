@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-30 08:36:17",
-    "Acao": "Criado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\CAMILA SCHMIDT\\CAMILA SCHIMIDT ADESIVO 9cm.cdr",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-30 08:36:19",
     "Acao": "Criado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\CAMILA SCHMIDT\\CAMILA SCHIMIDT ADESIVO 9cm.cdr",
@@ -596,6 +590,12 @@
   {
     "Data": "2026-04-30 09:45:43",
     "Acao": "Criado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\CASA DE ORAÇÃO LUCIANO\\CASA DE ORAÇÃO ADESIVOS.cdr",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-30 09:45:44",
+    "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\CASA DE ORAÇÃO LUCIANO\\CASA DE ORAÇÃO ADESIVOS.cdr",
     "Status": "Alerta"
   }
