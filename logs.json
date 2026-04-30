@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:17:19",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\AIDA\\731561A8.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:17:21",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\AIDA\\731561A8.tmp",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:00:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\SADREZ\\Documento A4 Adesivo Aniversário Safari Moderno Delicado Colorido Verde Azul Branco_Página_5.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:00:45",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\STEFANIE EGGERS",
         "Status":  "Alerta"
     }
 ]
