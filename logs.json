@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:39:27",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\THE BEST\\cartoes_dia_do_trabalhador_A4.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:39:28",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\THE BEST\\cartoes_dia_do_trabalhador_A4.jpg",
@@ -2995,6 +2989,12 @@
     },
     {
         "Data":  "2026-04-30 14:02:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GF\\CORY\\ADESIVO TAMANHO CERTO.cdr.zip",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:02:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GF\\CORY\\ADESIVO TAMANHO CERTO.cdr.zip",
         "Status":  "Alerta"
