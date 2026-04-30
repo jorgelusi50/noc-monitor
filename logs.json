@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-30 09:52:43",
-    "Acao": "Criado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\GUILHERME\\Nova pasta",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-30 09:52:46",
     "Acao": "Renomeado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\GUILHERME\\PAROQUIA",
@@ -597,6 +591,12 @@
     "Data": "2026-04-30 10:16:48",
     "Acao": "Deletado",
     "Arquivo": "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\CANECA\\corte saga - cut",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-30 10:16:49",
+    "Acao": "Criado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\CANECA\\corte saga - cut.plt",
     "Status": "Alerta"
   }
 ]
