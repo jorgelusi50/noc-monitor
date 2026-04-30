@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:55:29",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA\\CARD DIA DAS MAES  - CALINE.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:55:31",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA\\CARD DIA DAS MAES  - CALINE.pdf",
@@ -2996,6 +2990,12 @@
     {
         "Data":  "2026-04-30 14:12:12",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\voucher.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:12:15",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\voucher.cdr",
         "Status":  "Alerta"
     }
