@@ -4534,5 +4534,11 @@
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\GRAZIELA\\Sem título-1.cdr",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 16:28:57",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\GRAZIELA\\Sem título-1.cdr",
+        "Status":  "Alerta"
     }
 ]
