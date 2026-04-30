@@ -3106,5 +3106,11 @@
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\27-04-26\\ANY\\DECKMAN\\Sem título-1.cdr",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 15:06:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\27-04-26\\ANY\\DECKMAN\\Sem título-1.cdr",
+        "Status":  "Alerta"
     }
 ]
