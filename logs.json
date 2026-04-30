@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-30 08:21:14",
-    "Acao": "Criado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\JULIANA\\TABA E-COMERCE Nova.xlsx",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-30 08:21:16",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\JULIANA\\TABA E-COMERCE Nova.xlsx",
@@ -596,6 +590,12 @@
   {
     "Data": "2026-04-30 09:13:53",
     "Acao": "Deletado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\LEOZINN\\LOGO.cdr",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-30 09:13:54",
+    "Acao": "Criado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\LEOZINN\\LOGO.cdr",
     "Status": "Alerta"
   }
