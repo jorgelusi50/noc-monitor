@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:17:23",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\AIDA\\731561A8.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:17:24",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\AIDA\\731561A8.tmp",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:00:46",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\STEFANIE EGGERS",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:00:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\STEFANIE EGGERS\\1UNDVINIL_TRANSPARENTETAMANHO__8x4.pdf",
         "Status":  "Alerta"
     }
 ]
