@@ -688,5 +688,11 @@
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GF\\VINIL 13X19 VINIL 24.cdr",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 13:16:21",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GF\\VINIL 13X19 VINIL 24.cdr",
+        "Status":  "Alerta"
     }
 ]
