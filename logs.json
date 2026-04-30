@@ -1678,5 +1678,11 @@
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\CREDENCIAL",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 13:49:40",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\CREDENCIAL\\credencial ajuste staff.cdr",
+        "Status":  "Alerta"
     }
 ]
