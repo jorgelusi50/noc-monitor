@@ -5596,5 +5596,11 @@
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\ADESIVO 13X19 CASAMENTO\\Cópia_de_segurança_de_VINIL 13X19.cdr",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 17:53:31",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\ADESIVO 13X19 CASAMENTO\\VINIL 13X19.cdr",
+        "Status":  "Alerta"
     }
 ]
