@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-30 09:52:47",
-    "Acao": "Renomeado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\GUILHERME\\PAROQUIA",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-30 09:53:06",
     "Acao": "Criado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\GUILHERME\\PAROQUIA\\Impressão mesclada1 120X85mm  320 CONVITES.cdr",
@@ -596,6 +590,12 @@
   {
     "Data": "2026-04-30 10:16:51",
     "Acao": "Criado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\CANECA\\corte saga - cut.plt",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-30 10:16:53",
+    "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\CANECA\\corte saga - cut.plt",
     "Status": "Alerta"
   }
