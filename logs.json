@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-30 08:46:48",
-    "Acao": "Alterado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\JULIANA\\6FDC9F03.tmp",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-30 08:46:50",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\JULIANA\\6FDC9F03.tmp",
@@ -595,6 +589,12 @@
   },
   {
     "Data": "2026-04-30 09:56:12",
+    "Acao": "Criado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\ABRIL\\30-04-2026\\vinco saga RACIEL",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-30 09:56:14",
     "Acao": "Criado",
     "Arquivo": "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\ABRIL\\30-04-2026\\vinco saga RACIEL",
     "Status": "Alerta"
