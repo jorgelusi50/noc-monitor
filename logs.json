@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-29 17:38:03",
-    "Acao": "Deletado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISABELA\\AMBIENTAL\\BOLINHAS.cdr",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-29 17:38:04",
     "Acao": "Criado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISABELA\\AMBIENTAL\\BOLINHAS.cdr",
@@ -595,6 +589,12 @@
   },
   {
     "Data": "2026-04-30 08:23:47",
+    "Acao": "Alterado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\JULIANA\\A90D2929.tmp",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-30 08:23:48",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\JULIANA\\A90D2929.tmp",
     "Status": "Alerta"
