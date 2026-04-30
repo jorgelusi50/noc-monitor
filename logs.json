@@ -2386,5 +2386,11 @@
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELA\\orçamento\\feito",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 13:53:19",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELA\\orçamento\\feito",
+        "Status":  "Alerta"
     }
 ]
