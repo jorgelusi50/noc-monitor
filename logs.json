@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:56:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA\\drive-download-20260429T131958Z-3-001.zip",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:56:39",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA\\drive-download-20260429T131958Z-3-001.zip",
@@ -2995,6 +2989,12 @@
     },
     {
         "Data":  "2026-04-30 14:13:26",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\RACIEL\\2026-04-000.052-Sofia-Gonsalves-Dalponte-Personalizado.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:13:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\RACIEL\\2026-04-000.052-Sofia-Gonsalves-Dalponte-Personalizado.pdf",
         "Status":  "Alerta"
