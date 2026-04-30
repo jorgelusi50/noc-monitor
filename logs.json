@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:52:35",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\EDSON\\ALVARA 2026.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:52:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\EDSON\\ALVARA 2026.pdf",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:09:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-KAYLA\\ajustado\\tentei_girar_de_varios_jeitos-_no_ilovepdf_n_deu_certo-_tive_que_jogar_no_canva_e_alinhar_em_um_modelo_de_A3-_a_qualidade_vai_ficar_meio_ruim (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:09:03",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-VIVIAN",
         "Status":  "Alerta"
     }
 ]
