@@ -4180,5 +4180,11 @@
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\AIDA\\Resultado_30_04_2026 (2).xls hoje_arquivos\\tabstrip.htm",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 16:16:24",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\AIDA\\Resultado_30_04_2026 (2).xls hoje_arquivos\\filelist.xml",
+        "Status":  "Alerta"
     }
 ]
