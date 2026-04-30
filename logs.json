@@ -1,11 +1,5 @@
 [
   {
-    "Data": "2026-04-30 08:46:43",
-    "Acao": "Criado",
-    "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\JULIANA\\6FDC9F03.tmp",
-    "Status": "Alerta"
-  },
-  {
     "Data": "2026-04-30 08:46:44",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\JULIANA\\6FDC9F03.tmp",
@@ -597,6 +591,12 @@
     "Data": "2026-04-30 09:53:16",
     "Acao": "Alterado",
     "Arquivo": "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\GUILHERME\\PAROQUIA\\Impressão mesclada1 120X85mm  320 CONVITES.cdr",
+    "Status": "Alerta"
+  },
+  {
+    "Data": "2026-04-30 09:55:31",
+    "Acao": "Criado",
+    "Arquivo": "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\ABRIL\\Nova pasta",
     "Status": "Alerta"
   }
 ]
