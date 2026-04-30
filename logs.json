@@ -3454,5 +3454,11 @@
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\ELISANGELA FABIO\\ADESIVO SENNA 12CM MASCARADO.cdr",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 15:23:13",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\17-04-26\\GABRIELY\\ELISANGELA FABIO\\Nova pasta",
+        "Status":  "Alerta"
     }
 ]
