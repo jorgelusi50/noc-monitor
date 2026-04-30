@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:50:53",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\NAYBELLE",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:50:54",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\NAYBELLE\\Cópia_de_segurança_de_MESOESTETIC 19 CERTIFICADOS A5.cdr",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:07:13",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO THIAGO\\tamanho_A5_no_300g_certo_Anne_Foi_o_que_falamos_hoje_de_manha_Página_06.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:07:14",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO THIAGO\\tamanho_A5_no_300g_certo_Anne_Foi_o_que_falamos_hoje_de_manha_Página_07.jpg",
         "Status":  "Alerta"
     }
 ]
