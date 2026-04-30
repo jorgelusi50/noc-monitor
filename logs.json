@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:55:07",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\CENTRO ITAJAI\\ADESIVO RECORTE COM MASCARA 1MX1M.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:55:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\CENTRO ITAJAI\\ADESIVO RECORTE COM MASCARA 1MX1M.cdr",
@@ -2996,6 +2990,12 @@
     {
         "Data":  "2026-04-30 14:11:48",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\Sem título-2.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:11:51",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\Sem título-2.cdr",
         "Status":  "Alerta"
     }
