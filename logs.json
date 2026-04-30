@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 14:01:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\STEFANIE EGGERS\\VINIL BRANCO 13X19.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 14:01:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\STEFANIE EGGERS\\VINIL BRANCO 13X19.cdr",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:19:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ISADORA\\IMPRESSAO-JOAO\\ItajaiSCprancha_projeto_arquitetonico_wkhtml_1753981223068 (2).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:19:02",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ISADORA\\IMPRESSAO-JOAO\\E01R1-_LocaAAo_e_Formas (3).pdf",
         "Status":  "Alerta"
     }
 ]
