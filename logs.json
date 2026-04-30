@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:51:22",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\RICARDO",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:51:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\RICARDO\\13x19 ajuste.cdr",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:07:45",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO THIAGO\\tamanho_A5_no_300g_certo_Anne_Foi_o_que_falamos_hoje_de_manha_Página_10.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:07:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\IMPRESSAO-BEATRIZ",
         "Status":  "Alerta"
     }
 ]
