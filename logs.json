@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 14:04:34",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISABELA\\ELIZEU\\White_Exciting_Black_Bow_$100_Gift_Voucher (1)_Página_5.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 14:04:37",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISABELA\\MARLENE",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:41:48",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\EDSON\\LISTA_CASAMENTO (1).docx",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:41:50",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\EDSON\\21C380DB.tmp",
         "Status":  "Alerta"
     }
 ]
