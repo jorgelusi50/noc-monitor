@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 12:52:30",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\AIDA\\FDD68F85.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 12:52:31",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\AIDA\\FDD68F85.tmp",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 13:59:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA\\9X9\\Binder1_Página_10.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 13:59:03",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA FOLDER",
         "Status":  "Alerta"
     }
 ]
