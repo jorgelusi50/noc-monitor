@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:59:24",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\GABBIA FOLDER\\FOLDER_ALIMENTOS_-_ID_PREZZIA (3)_Página_2.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:59:27",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\MONTER CLEAN",
@@ -2995,6 +2989,12 @@
     },
     {
         "Data":  "2026-04-30 14:16:25",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\27-04-26\\GABRIELY\\MAYARA FOLDER\\capa_e_costas (1).jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:16:27",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\27-04-26\\GABRIELY\\MAYARA FOLDER\\capa_e_costas (1).jpg",
         "Status":  "Alerta"
