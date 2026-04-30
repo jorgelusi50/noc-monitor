@@ -2050,5 +2050,11 @@
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\RICARDO\\13x19 ajuste.cdr",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 13:51:31",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\RICARDO\\30 DE CADA A4.pdf",
+        "Status":  "Alerta"
     }
 ]
