@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:49:12",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\AIDA\\Resultado_29_04_2026_arquivos\\tabstrip.htm",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:49:14",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\cracha.pdf",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:05:18",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISABELA\\THIAGO",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:05:20",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISABELA\\THIAGO\\adesivo (1).pdf",
         "Status":  "Alerta"
     }
 ]
