@@ -3544,5 +3544,11 @@
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\Sem título-1.pdf",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 15:36:16",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\Sem título-1.pdf",
+        "Status":  "Alerta"
     }
 ]
