@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:35:18",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ANY\\TAS ARLINDO\\pasta 01.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:35:20",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\28-04-26\\ANY\\TAS ARLINDO\\pasta 01.cdr",
@@ -2996,6 +2990,12 @@
     {
         "Data":  "2026-04-30 14:02:29",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GF\\Cópia_de_segurança_de_QR CODE  ANA CLARA COZINHA 02 unidades fosco ALEXANDRE COYOTE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:02:31",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GF\\Cópia_de_segurança_de_QR CODE  ANA CLARA COZINHA 02 unidades fosco ALEXANDRE COYOTE.cdr",
         "Status":  "Alerta"
     }
