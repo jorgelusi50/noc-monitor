@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:49:40",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\CREDENCIAL\\credencial ajuste staff.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:49:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\CREDENCIAL\\credencial ajuste staff.cdr",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:05:51",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\42260403923827000165550010000026091164207618_NFe_2609.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:05:52",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISADORA\\NF 2605 OC 31407.pdf",
         "Status":  "Alerta"
     }
 ]
