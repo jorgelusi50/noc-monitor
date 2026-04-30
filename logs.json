@@ -2152,5 +2152,11 @@
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\RICARDO\\Cópia_de_segurança_de_13x19 ajuste.cdr",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 13:52:04",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\SEARA",
+        "Status":  "Alerta"
     }
 ]
