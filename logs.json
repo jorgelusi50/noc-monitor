@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 14:02:08",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GF\\ADESIVO REFAÇÃO 40X60.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 14:02:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GF\\CARIMBOS 4914.dxf",
@@ -2995,6 +2989,12 @@
     },
     {
         "Data":  "2026-04-30 14:19:17",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:19:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\Nova pasta",
         "Status":  "Alerta"
