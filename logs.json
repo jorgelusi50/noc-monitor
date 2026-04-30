@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 12:54:10",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\FAMILIA REZENDE\\FAMILIA REZENDE ADESIVOS ORÃ‡AMENTO 02.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 12:54:12",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\FAMILIA REZENDE\\FAMILIA REZENDE ADESIVOS ORÃ‡AMENTO 02.pdf",
@@ -2995,6 +2989,12 @@
     },
     {
         "Data":  "2026-04-30 13:59:37",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\MONTER CLEAN\\MONTER CLEAM ADESIVO 10X15.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 13:59:39",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELY\\MONTER CLEAN\\MONTER CLEAM ADESIVO 10X15.cdr",
         "Status":  "Alerta"
