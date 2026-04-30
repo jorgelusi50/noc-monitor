@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 13:54:10",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELA\\TRABALHO",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 13:54:11",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GABRIELA\\TRABALHO\\OS ASTECAS.docx",
@@ -2997,6 +2991,12 @@
         "Data":  "2026-04-30 14:10:47",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:10:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\PF\\15x21cm.cdr",
         "Status":  "Alerta"
     }
 ]
