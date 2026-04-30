@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 14:02:53",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\GF\\CORY\\ADESIVO TAMANHO CERTO.cdr.zip",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 14:02:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISABELA",
@@ -2996,6 +2990,12 @@
     {
         "Data":  "2026-04-30 14:20:00",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\_QUALIMEDICA\\QUALIMEDICA crachas 11 09.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:20:02",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\_QUALIMEDICA\\QUALIMEDICA crachas 11 09.cdr",
         "Status":  "Alerta"
     }
