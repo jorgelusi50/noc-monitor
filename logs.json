@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 14:04:13",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISABELA\\ELIZEU\\White_Exciting_Black_Bow_$100_Gift_Voucher (1)_Página_3.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 14:04:15",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ISABELA\\ELIZEU\\White_Exciting_Black_Bow_$100_Gift_Voucher (1)_Página_3.jpg",
@@ -2996,6 +2990,12 @@
     {
         "Data":  "2026-04-30 14:40:55",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\ANGEL\\5d945406-c847-41b3-a38e-6cadb1c832c7-d4b41-5b714988pdf (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-04-30 14:40:58",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\ANGEL\\5d945406-c847-41b3-a38e-6cadb1c832c7-d4b41-5b714988pdf (1).pdf",
         "Status":  "Alerta"
     }
