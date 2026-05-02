@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 12:43:55",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\AIDA\\NÃ£o confirmado 815527.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 12:43:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\AIDA\\NÃ£o confirmado 815527.crdownload",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-02 11:49:38",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\Battery Charger V2.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-02 11:49:56",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\Battery Charger V2.pdf",
         "Status":  "Alerta"
     }
