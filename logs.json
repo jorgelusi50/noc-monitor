@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-04 10:38:40",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ISABELA\\LAURA\\Cópia_de_segurança_de_VINIL 13X19.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-04 10:45:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GABRIELY\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-04 14:05:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ANY\\LAURA\\2XX.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-04 14:05:30",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GABRIELY\\SEARA BRUNO\\Cópia_de_segurança_de_PLACA E PS.cdr",
         "Status":  "Alerta"
     }
 ]
