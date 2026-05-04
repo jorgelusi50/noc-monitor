@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-04 13:34:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GF\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-04 13:35:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GF\\CORY\\ADESIVO FOSCO.cdr (7).zip",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-04 17:55:47",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ANY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-04 17:55:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ANY\\scan\\20201218_224708.pdf",
         "Status":  "Alerta"
     }
 ]
