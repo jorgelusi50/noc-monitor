@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-04 09:54:09",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GABRIELY\\UNIFICADO\\Preciso_de_20_cartoes_desse-_em_couche_150g-_arquivo_ja_esta_no_tamanho_correto (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-04 09:54:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GABRIELY\\UNIFICADO\\Preciso_de_4_banners_desse-_o_arquivo_ja_esta_no_tamanho_correto (1).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-04 13:42:51",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\24-04-26\\GABRIELY\\NOBRE\u0027S PARRILLA E BAR\\ATUALIZADO\\Cardapio Nobres BC_Página_01.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-04 13:42:56",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\24-04-26\\GABRIELY\\NOBRE\u0027S PARRILLA E BAR\\ATUALIZADO\\Cardapio Nobres BC_Página_02.jpg",
         "Status":  "Alerta"
     }
 ]
