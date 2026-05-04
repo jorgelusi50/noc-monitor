@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-04 13:44:05",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\24-04-26\\GABRIELY\\NOBRE\u0027S PARRILLA E BAR\\ATUALIZADO\\Cardapio Nobres BC_Página_10.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-04 13:50:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ISADORA\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-04 18:28:36",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\Battery Charger\\Battery Charger V2.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-04 18:29:28",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\_bkp_test_262458948.tmp",
         "Status":  "Alerta"
     }
 ]
