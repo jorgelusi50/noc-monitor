@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-04-30 12:52:33",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\AIDA\\FDD68F85.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-04-30 12:52:34",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\AIDA\\651147C2.tmp",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-04 08:27:56",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GABRIELY\\FKSC\\CARTEIRA BUSHIDO 01 UNIDADE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-04 08:32:57",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GABRIELY\\FKSC\\CARTEIRA IKIGAI   02 UNID..cdr",
         "Status":  "Alerta"
     }
 ]
