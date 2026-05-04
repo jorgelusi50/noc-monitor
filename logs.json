@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-04 11:41:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\GRAZIELA\\BANNER.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-04 11:42:38",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\GABRIELY\\IANCA HASS REINERT]\\BANNER_-_HISTORIAS_DE_CAMARIM_-_APROVADO.tif",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-04 16:33:00",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\SEARA\\PLOTAGEM PAREDE SEARA MEDIDA FINAL.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-04 16:33:06",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\29-04-26\\ANY\\SEARA\\PLOTAGEM PAREDE SEARA MEDIDA FINAL.cdr",
         "Status":  "Alerta"
     }
