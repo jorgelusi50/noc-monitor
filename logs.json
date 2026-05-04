@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-03 17:56:09",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\Battery Charger\\Batterry Charger V2 gerber\\Battery Charger V2 - CADCAM READ-ME.TXT",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-03 18:09:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\Battery Charger\\Batterry Charger V2 gerber.rar",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-04 11:24:34",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ISADORA\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-04 11:25:13",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GABRIELY\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
