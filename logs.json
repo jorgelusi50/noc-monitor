@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-04 13:43:59",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\24-04-26\\GABRIELY\\NOBRE\u0027S PARRILLA E BAR\\ATUALIZADO\\Cardapio Nobres BC_Página_09.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-04 13:44:05",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\24-04-26\\GABRIELY\\NOBRE\u0027S PARRILLA E BAR\\ATUALIZADO\\Cardapio Nobres BC_Página_10.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-04 18:28:29",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\Battery Charger\\Batterry Charger V2 gerber.rar",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-04 18:28:36",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\Battery Charger\\Battery Charger V2.pdf",
         "Status":  "Alerta"
     }
 ]
