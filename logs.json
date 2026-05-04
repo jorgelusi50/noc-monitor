@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-04 10:25:29",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ANY\\TAIANE\\10X15.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-04 10:26:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ANY\\TAIANE\\Cópia_de_segurança_de_10X15.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-04 13:59:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GABRIELY\\SEARA BRUNO\\Cópia_de_segurança_de_PLACA E PS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-04 14:02:44",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ANY\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
