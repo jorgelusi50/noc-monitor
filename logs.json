@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-04 09:38:52",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\ANY\\411150\\COLACRIL 8XX.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-04 09:39:25",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ISABELA\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-04 13:29:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\PF\\RD BIRO\\CANECA GABARITO NOVO_Página_29.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-04 13:31:54",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ANY\\NF 8451 OC 30976.pdf",
         "Status":  "Alerta"
     }
 ]
