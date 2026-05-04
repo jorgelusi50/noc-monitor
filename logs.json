@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-01 17:59:54",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\01-05-26\\GF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-01 17:59:56",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\01-05-26\\ISABELA",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-04 10:48:54",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GABRIELY\\JONES\\CREDENCIAL_A (1).cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-04 11:03:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ISABELA\\KAROLINA\\VINIL 13X19 24.cdr",
         "Status":  "Alerta"
     }
 ]
