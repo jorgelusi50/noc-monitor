@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-04 10:04:42",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ANY\\CAPA MEVAN\\Capa_DeusdeAliança_LuixHeminio_14x21_160 paginas.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-04 10:04:48",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ANY\\CAPA MEVAN\\Capa_DeusdeAliança_LuixHeminio_14x21_160 paginas.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-04 13:43:59",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\24-04-26\\GABRIELY\\NOBRE\u0027S PARRILLA E BAR\\ATUALIZADO\\Cardapio Nobres BC_Página_09.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-04 13:44:05",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\24-04-26\\GABRIELY\\NOBRE\u0027S PARRILLA E BAR\\ATUALIZADO\\Cardapio Nobres BC_Página_10.jpg",
         "Status":  "Alerta"
     }
 ]
