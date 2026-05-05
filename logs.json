@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-04 13:59:48",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GABRIELY\\SEARA BRUNO\\Cópia_de_segurança_de_PLACA E PS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-04 14:02:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ANY\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-05 10:41:54",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\24-04-26\\XANDI-05\\SEARA- HUB - JOSIANE LOGISTICA -    SALAS MEZANINO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-05 10:42:36",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\_bkp_test_1902912537.tmp",
         "Status":  "Alerta"
     }
 ]
