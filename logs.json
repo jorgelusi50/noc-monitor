@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-04 16:50:04",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GABRIELY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-04 16:50:10",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GABRIELY\\LOTISA",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-05 10:58:01",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\05-05-26\\ISABELA\\TRANSIT\\marca_paginas_-_dia_das_maes_5_x_18_cm_Página_13.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-05 10:58:06",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\05-05-26\\ISABELA\\TRANSIT\\marca_paginas_-_dia_das_maes_5_x_18_cm_Página_13.jpg",
         "Status":  "Alerta"
     }
