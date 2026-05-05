@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-04 14:05:36",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ANY\\KARLA HOELFEL\\Cópia_de_segurança_de_KARLA HOEFEL ANAMNESE TIMBRADO.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-04 14:06:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\EDSON\\SEARA BRUNO PLACA E PS.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-05 10:44:31",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\29-04-26\\GABRIELY\\GABBIA\\E_esses_sao_os_cartoes_aniversario-_em_10x10_couche_250g (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-05 10:44:35",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\29-04-26\\GABRIELY\\GABBIA\\9X9\\Binder1_Página_08.jpg",
         "Status":  "Alerta"
     }
 ]
