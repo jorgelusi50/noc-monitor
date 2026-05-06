@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-05 10:58:10",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\05-05-26\\ISABELA\\TRANSIT\\marca_paginas_-_dia_das_maes_5_x_18_cm_Página_14.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-05 10:58:17",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\05-05-26\\ISABELA\\TRANSIT\\marca_paginas_-_dia_das_maes_5_x_18_cm_Página_15.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-06 15:54:51",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\05-05-26\\ISADORA\\CARTAO DE VISITA- PEDRO\\Cópia_de_segurança_de_cartão de visita.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-06 15:57:14",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\05-05-26\\ISABELA\\GABRIELA\\A9R1uqkah4_14ka2nh_4gw.tmp",
         "Status":  "Alerta"
     }
 ]
