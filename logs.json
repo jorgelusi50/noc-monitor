@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-06 14:24:50",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\Cópia_de_segurança_de_Placas e Identificações Família a Bordo 2026 420x297.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-06 14:25:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\Placas e Identificações Família a Bordo 2026 420x297.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-06 16:27:47",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\05-05-26\\ISABELA\\GABRIELA\\TEGUE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-06 16:27:53",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\05-05-26\\ISABELA\\GABRIELA\\Cópia_de_segurança_de_TEGUE.cdr",
         "Status":  "Alerta"
     }
 ]
