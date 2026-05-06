@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-05 10:45:05",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\29-04-26\\ISADORA\\IMPRESSAO-BEATRIZ",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-05 10:45:10",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\29-04-26\\ISADORA\\IMPRESSAO-VIVIAN\\Precisava_de_10_impressoes_deste_tamanho_7x10_cm (2).jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-06 14:30:55",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\DENISE\\Impressão mesclada1.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-06 14:42:07",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\27-04-26\\GABRIELY\\MAYARA FOLDER\\teste.cdr",
         "Status":  "Alerta"
     }
 ]
