@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-05 10:42:36",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\_bkp_test_1902912537.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-05 10:44:03",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ABRIL\\30-04-26\\29-04-26\\AIDA\\Resultado_29_04_2026.xls",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-06 14:26:06",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\Placas e Identificações Família a Bordo 2026 420x297.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-06 14:28:24",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\Cópia_de_segurança_de_Placas e Identificações Família a Bordo 2026 420x297.cdr",
         "Status":  "Alerta"
     }
 ]
