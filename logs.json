@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-06 15:58:02",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\05-05-26\\GABRIELY\\RODRIGO ARTURO\\VINIL 13X19 24.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-06 15:58:21",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\MARIA EDUARDA\\Caneca_Dia_das_Maes (1).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-06 17:35:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\KPM LOGISTICS A\\VOUCHER_ITAJAI (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-06 17:38:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\ANA CAROLINA\\cdr saga.cdr",
         "Status":  "Alerta"
     }
 ]
