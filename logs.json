@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-06 15:08:45",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\AIDA\\CURRICULO\\1778089968071_3A14FAA4EA3614D3FAC6.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-06 15:09:12",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\AIDA\\CURRICULO\\curriculo_C3A9rika_aquino_maia (1).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-06 17:12:12",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\BENDINI\\MAE_-_GENERICO_-_Copia.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-06 17:13:45",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\BENDINI\\LORENA_BARBOSA_GIORI.png",
         "Status":  "Alerta"
     }
 ]
