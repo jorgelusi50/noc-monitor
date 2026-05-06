@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-06 14:20:13",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\DENISE\\Cartão feijoada beneficente rústico 1.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-06 14:24:50",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\Cópia_de_segurança_de_Placas e Identificações Família a Bordo 2026 420x297.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-06 16:26:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\05-05-26\\ISABELA\\GABRIELA\\tag teste.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-06 16:27:47",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\05-05-26\\ISABELA\\GABRIELA\\TEGUE.cdr",
         "Status":  "Alerta"
     }
 ]
