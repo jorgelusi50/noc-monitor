@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-06 13:31:59",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ANY\\ENCADERNAÇAO- KRISTEL\\capa.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-06 13:32:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ANY\\ENCADERNAÇAO- KRISTEL\\capa.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-06 16:03:35",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\LETICIA\\Nova pasta (2)\\1778093874748_2AE431471BF106D4FED7.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-06 16:03:42",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\LETICIA\\Nova pasta (2)\\1778093840530_2A4575F0EF1F99922639.jpeg",
         "Status":  "Alerta"
     }
 ]
