@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-06 16:02:43",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\LETICIA\\Nova pasta (2)\\Nova pasta\\1778093840530_2A4575F0EF1F99922639 - Copia.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-06 16:03:35",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\LETICIA\\Nova pasta (2)\\1778093874748_2AE431471BF106D4FED7.jpeg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-06 17:55:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\ANA CAROLINA\\cdr saga.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-06 17:55:25",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\ANA CAROLINA\\Cópia_de_segurança_de_a4 56x43.cdr",
         "Status":  "Alerta"
     }
 ]
