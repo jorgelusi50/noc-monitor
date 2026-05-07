@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 10:08:44",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\AIDA\\Resultado_07_05_2026_arquivos\\sheet001.htm",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 10:08:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\AIDA\\Resultado_07_05_2026_arquivos\\sheet001.htm",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-07 10:33:35",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\GABRIELY\\GABBIA\\Preciso_imprimir_esse_cartao_que_faltou_do_dia_das_maes_pra_uma_colaboradora_que_esta_gravida (1)_Página_1.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 10:33:37",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\GABRIELY\\GABBIA\\Preciso_imprimir_esse_cartao_que_faltou_do_dia_das_maes_pra_uma_colaboradora_que_esta_gravida (1)_Página_1.jpg",
         "Status":  "Alerta"
