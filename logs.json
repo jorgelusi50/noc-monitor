@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 15:56:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\GABRIELY\\GABY POLAROID\\1778179705146_AC29D3CE247C9666B7A34EF6108BDCD0.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 15:56:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\GABRIELY\\GABY POLAROID\\1778179909385_ACA3F3F5B28DEA25B9DEB96FE43A4414.jpeg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-07 18:05:45",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\sync.ffs_lock",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 18:05:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\sync.ffs_lock",
         "Status":  "Alerta"
