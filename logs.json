@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 16:44:13",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\LETICIA\\MAIKON DANIEL\\ARCANOS_DA_DOCENCIA_-_ARCANOS_MAIORES_-_22_CARTAS_Página_22.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 16:45:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\GABRIELY\\UNIFICADO OLGA\\Rotulo_para_Garrafa_-_Biofertilizante.tif",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-07 18:09:49",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\sync.ffs_lock",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 18:09:54",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\sync.ffs_lock",
         "Status":  "Alerta"
