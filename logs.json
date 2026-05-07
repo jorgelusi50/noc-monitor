@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 10:00:11",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISABELA\\ANA CAROLINA\\ps81CF.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 10:00:13",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISABELA\\ANA CAROLINA\\Monochrome_Typography_Wedding_Logo (1).tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-07 10:12:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\Cardapio Nobres BC.pdf .pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 10:12:52",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\Cardapio Nobres BC.pdf .pdf.crswap",
         "Status":  "Alerta"
     }
 ]
