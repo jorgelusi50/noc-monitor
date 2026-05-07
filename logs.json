@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 09:26:03",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\FORCE ONE\\Anderson_Da_Silva_Peixoto_-_Quadro (1).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 09:26:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\FORCE ONE\\Anderson_Da_Silva_Peixoto_-_Quadro (1).jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-07 09:42:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\NDTV\\6.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 09:42:50",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\NDTV\\6.jpg",
         "Status":  "Alerta"
