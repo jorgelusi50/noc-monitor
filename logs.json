@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 16:43:14",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\LETICIA\\MAIKON DANIEL\\ARCANOS_DA_DOCENCIA_-_ARCANOS_MAIORES_-_22_CARTAS_Página_04.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 16:43:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\LETICIA\\MAIKON DANIEL\\ARCANOS_DA_DOCENCIA_-_ARCANOS_MAIORES_-_22_CARTAS_Página_06.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-07 18:08:43",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\sync.ffs_lock",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 18:08:48",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\sync.ffs_lock",
         "Status":  "Alerta"
