@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 10:33:35",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\GABRIELY\\GABBIA\\Preciso_imprimir_esse_cartao_que_faltou_do_dia_das_maes_pra_uma_colaboradora_que_esta_gravida (1)_Página_1.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 10:33:37",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\GABRIELY\\GABBIA\\Preciso_imprimir_esse_cartao_que_faltou_do_dia_das_maes_pra_uma_colaboradora_que_esta_gravida (1)_Página_1.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-07 16:14:24",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\JULIANA\\TOP ART\\TRANSPARENTE 13X19.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 16:14:39",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\1778180854171_AC25E2C1CFB82D3FD6535F3F85B2FC15.jpeg",
         "Status":  "Alerta"
     }
 ]
