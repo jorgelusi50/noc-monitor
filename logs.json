@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-06 17:42:01",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\Cópia_de_segurança_de_CRACHAS NOMEADOS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-06 17:43:22",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELA\\cartão eduardo\\Novo atalho.lnk",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-07 09:06:03",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\KPM LOGISTICS A\\VOUCHER_ITAJAI (1).jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 09:06:05",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\KPM LOGISTICS A\\VOUCHER_ITAJAI (1).jpg",
         "Status":  "Alerta"
     }
