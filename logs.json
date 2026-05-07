@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 09:51:36",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\CRACHAS NOMEADOS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 09:51:37",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\IMPRESSÃO PF\\CRACHAS NOMEADOS.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-07 09:59:42",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISABELA\\ANA CAROLINA\\ps81CF.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 09:59:43",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISABELA\\ANA CAROLINA\\ps81CF.tmp",
         "Status":  "Alerta"
