@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 09:50:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\NDTV\\15x21.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 09:50:48",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\NDTV\\15x21.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-07 09:58:36",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\CRACHAS NOMEADOS.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 09:58:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\CRACHAS NOMEADOS.pdf",
         "Status":  "Alerta"
