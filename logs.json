@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 10:08:20",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\AIDA\\190B8333.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 10:08:22",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\AIDA\\190B8333.tmp",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-07 10:33:05",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\JULIANA\\CANECA BEMIO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 10:33:06",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\JULIANA\\CANECA BEMIO.cdr",
         "Status":  "Alerta"
     }
