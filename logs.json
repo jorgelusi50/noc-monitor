@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-06 17:11:35",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\BENDINI\\MAE_-_GENERICO_-_Copia_-_Copia.png",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-06 17:12:12",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\BENDINI\\MAE_-_GENERICO_-_Copia.png",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-07 09:04:32",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\ISA\\VINIL  A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 09:04:33",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\ISA\\VINIL  A4.cdr",
         "Status":  "Alerta"
     }
