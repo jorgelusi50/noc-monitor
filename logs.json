@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 09:47:54",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\IMPRESSÃO PF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 09:47:55",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\IMPRESSÃO PF",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-07 09:58:24",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\CRACHAS NOMEADOS.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 09:58:26",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\CRACHAS NOMEADOS.pdf",
         "Status":  "Alerta"
     }
