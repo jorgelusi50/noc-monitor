@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 09:31:22",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\FORCE ONE\\quadros.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 09:31:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\FORCE ONE\\quadros.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-07 09:47:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 09:47:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\Nova pasta",
         "Status":  "Alerta"
