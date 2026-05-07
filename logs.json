@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 09:04:28",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\ISA\\VINIL  A4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 09:04:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\ISA\\VINIL  A4.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-07 09:21:41",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISABELA\\NICHELLE\\Maycon_Antunes.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 09:21:42",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISABELA\\NICHELLE\\Maycon_Alexandre_Reimer_.png",
         "Status":  "Alerta"
     }
 ]
