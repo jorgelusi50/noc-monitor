@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 09:15:34",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISADORA\\IMPRESSAO LUCAS  SLAVIERO\\cartao de visita lucas.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 09:15:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISADORA\\IMPRESSAO LUCAS  SLAVIERO\\cartao de visita lucas.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-07 09:26:35",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\FORCE ONE\\Williane_Sara_Ferreira_De_Araujo_-_Quadro (1).jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 09:26:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\FORCE ONE\\Williane_Sara_Ferreira_De_Araujo_-_Quadro (1).jpg",
         "Status":  "Alerta"
