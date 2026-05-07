@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 17:53:56",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISADORA\\IMPRESSAO  PRISCILA\\A4_Vertical_Mesa_Reservado_Casamento_Aquarela_Sofisticado_Branco_e_Verde_20260507_175159_0000.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 17:54:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\GABRIELY\\PLACA VERBA\\PLACA_VERBA_NADAR_2026_02 (1).tif",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-07 18:14:23",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\sync.ffs_lock",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 18:14:29",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\sync.ffs_lock",
         "Status":  "Alerta"
