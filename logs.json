@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 09:05:55",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\KPM LOGISTICS A\\VOUCHER_ITAJAI (1).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 09:05:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\KPM LOGISTICS A\\VOUCHER_ITAJAI (1).jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-07 09:22:28",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISADORA\\IMPRESSAO LUCAS  SLAVIERO\\VINIL  A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 09:22:30",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISADORA\\IMPRESSAO LUCAS  SLAVIERO\\VINIL  A4.cdr",
         "Status":  "Alerta"
     }
