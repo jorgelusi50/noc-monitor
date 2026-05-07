@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 09:58:24",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\CRACHAS NOMEADOS.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 09:58:26",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\CRACHAS NOMEADOS.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-07 10:08:44",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\AIDA\\Resultado_07_05_2026_arquivos\\sheet001.htm",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 10:08:45",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\AIDA\\Resultado_07_05_2026_arquivos\\sheet001.htm",
         "Status":  "Alerta"
     }
