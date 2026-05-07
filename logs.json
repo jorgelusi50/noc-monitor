@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 10:33:27",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\GABRIELY\\GABBIA\\Preciso_imprimir_esse_cartao_que_faltou_do_dia_das_maes_pra_uma_colaboradora_que_esta_gravida (1)_Página_1.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 10:33:28",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\GABRIELY\\GABBIA\\Preciso_imprimir_esse_cartao_que_faltou_do_dia_das_maes_pra_uma_colaboradora_que_esta_gravida (1)_Página_1.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-07 15:56:37",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISADORA\\CRACHAADESIVO LAILA\\CRACHA_2026_3.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 15:56:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\GABRIELY\\GABY POLAROID\\1778179705146_AC29D3CE247C9666B7A34EF6108BDCD0.jpeg",
         "Status":  "Alerta"
     }
 ]
