@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 09:56:36",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISABELA\\ANA CAROLINA\\Monochrome_Typography_Wedding_Logo (1).tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 09:56:38",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISABELA\\ANA CAROLINA\\Monochrome_Typography_Wedding_Logo (1).tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-07 10:00:18",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISABELA\\ANA CAROLINA\\Monochrome_Typography_Wedding_Logo (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 10:01:29",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\CRACHAS NOMEADOS.pdf",
         "Status":  "Alerta"
     }
 ]
