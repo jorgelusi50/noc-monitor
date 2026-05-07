@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 18:17:00",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\sync.ffs_lock",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 18:17:06",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\sync.ffs_lock",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-07 18:27:14",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\sync.ffs_lock",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 18:31:49",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\sync.ffs_lock",
         "Status":  "Alerta"
     }
