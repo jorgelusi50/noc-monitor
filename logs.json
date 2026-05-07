@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 10:36:50",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISABELA\\MY BEAUTY",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 10:37:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISABELA\\MY BEAUTY\\RGBR_Cartao_timbrado_final_2024-12-09 (1).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-07 16:43:57",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\LETICIA\\MAIKON DANIEL\\ARCANOS_DA_DOCENCIA_-_ARCANOS_MAIORES_-_22_CARTAS_Página_18.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 16:44:02",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\GABRIELY\\CANTINA ROCHA\\1778182972699_3A35742451700CF9E0F3.jpeg",
         "Status":  "Alerta"
     }
 ]
