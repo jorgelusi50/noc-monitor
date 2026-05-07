@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-06 17:47:49",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\05-05-26\\ISABELA\\GABRIELA\\Cópia_de_segurança_de_tag 7x15 ajuste.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-06 17:47:58",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\05-05-26\\ANY\\TAG\\Cópia_de_segurança_de_TAG PROVA ajustando.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-07 09:07:39",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\ISA\\Cópia_de_segurança_de_VINIL  A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 09:07:41",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\ISA\\VINIL  A4.cdr",
         "Status":  "Alerta"
     }
 ]
