@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 08:39:37",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\ISA\\Home_spray_3x5_20260423_092838_0000 (5).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 08:39:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\ISA\\Difusor_de_varetas_3x5_20260505_093233_0000 (1).jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-07 09:15:39",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISADORA\\IMPRESSAO LUCAS  SLAVIERO\\cartao de visita lucas.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 09:15:40",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISADORA\\IMPRESSAO LUCAS  SLAVIERO\\cartao de visita lucas.cdr",
         "Status":  "Alerta"
