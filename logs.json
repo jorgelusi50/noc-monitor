@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-05-07 09:50:53",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\NDTV\\15x21.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-05-07 09:50:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\NDTV\\15x21.cdr",
         "Status":  "Alerta"
@@ -597,6 +591,12 @@
         "Data":  "2026-05-07 09:58:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\CRACHAS NOMEADOS.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 09:59:36",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISABELA\\ANA CAROLINA\\ps81CF.tmp",
         "Status":  "Alerta"
     }
 ]
