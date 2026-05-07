@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 09:26:41",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\FORCE ONE\\Williane_Sara_Ferreira_De_Araujo_-_Quadro (1).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 09:26:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\FORCE ONE\\Williane_Sara_Ferreira_De_Araujo_-_Quadro (1).jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-07 09:43:31",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\NDTV\\5.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-07 09:43:33",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISABELA\\NDTV\\4.jpg",
         "Status":  "Alerta"
     }
 ]
