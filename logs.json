@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-08 08:56:16",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\GABRIELA\\IMPRESSAO\\8_-_Musica_Classica_-_Aula_2.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-08 08:56:21",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\GABRIELA\\IMPRESSAO\\ALUGUEL_2026_CAMPING_BRUNO_E_THAYNA_REVISADO.docx",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-08 11:41:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\ISABELA\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-08 11:41:53",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\ISABELA\\UNIFICADO 01 CRACHA.pdf",
         "Status":  "Alerta"
     }
 ]
