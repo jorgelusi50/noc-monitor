@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-08 08:56:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\GABRIELA\\IMPRESSAO\\8_-_Musica_Classica_Slides_-_Aula_2 (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-08 08:56:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\GABRIELA\\IMPRESSAO\\4_-_Musica_Renascentista_-_Aula_2_Slides.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-08 11:42:22",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\ISADORA\\IMPRESSAO-RAFAELA\\13x19.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-08 11:42:30",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\GABRIELY\\FLORA\\Cópia_de_segurança_de_FLORA ETIQUETAS 4X2cm.cdr",
         "Status":  "Alerta"
     }
 ]
