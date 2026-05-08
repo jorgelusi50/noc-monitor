@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 18:26:55",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\sync.ffs_lock",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 18:27:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\sync.ffs_lock",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-08 08:56:58",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\EDSON\\JBS CAMPANHA MAIO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-08 08:58:55",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\GABRIELA\\IMPRESSAO\\8_-_Musica_Classica_-_Aula_2 (1).pdf",
         "Status":  "Alerta"
     }
 ]
