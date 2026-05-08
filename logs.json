@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 18:32:12",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\sync.ffs_lock",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 18:32:17",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\sync.ffs_lock",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-08 09:09:51",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\AIDA\\Autorização de Fornecimento.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-08 09:09:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\AIDA\\Autorização de Fornecimento.pdf",
         "Status":  "Alerta"
