@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-08 11:24:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISADORA\\CRACHAADESIVO LAILA\\VINIL  A4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-08 11:25:22",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\GF\\ACRILICO.dxf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-08 16:08:21",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\EDSON\\Cópia_de_segurança_de_MARGARETE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-08 16:09:19",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\IMPRESSÃO PF\\Cartão Retrato ajuste.cdr",
         "Status":  "Alerta"
     }
 ]
