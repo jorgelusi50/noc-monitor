@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-08 10:06:33",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\ISABELA\\JEAN PABLO\\VINIL 13X19.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-08 10:09:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\PF\\VINIL 13X19 VINIL raq.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-08 14:23:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ANY\\CLARA SIMONE AÇÃO ENTRE AMIGOS\\Impressão mesclada1.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-08 14:26:31",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\PF\\VINIL 13X19 VINIL raq 24.cdr",
         "Status":  "Alerta"
     }
 ]
