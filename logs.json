@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-08 10:00:32",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISABELA\\JEAN PABLO\\ADESIVO RECORTE.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-08 10:01:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\ISABELA\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-08 13:48:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\ISADORA\\ANA PAULA\\ANA PAULA CARTAO COM DOBRA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-08 13:50:50",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\ISADORA\\ANA PAULA\\AD$67DB.tmp",
         "Status":  "Alerta"
     }
 ]
