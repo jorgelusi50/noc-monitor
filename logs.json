@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-08 08:31:58",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\ANY\\ANY BEATRIZ\\POLAROID 7X10.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-08 08:32:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\ANY\\ANY BEATRIZ\\POLAROID 7X10.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-08 11:25:22",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\GF\\ACRILICO.dxf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-08 11:25:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\GF\\ACRILICO.dxf",
         "Status":  "Alerta"
