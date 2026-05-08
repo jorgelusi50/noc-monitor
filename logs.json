@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-08 11:17:17",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\GABRIELY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-08 11:17:26",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\GABRIELY\\PAMELA",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-08 15:53:13",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\EDSON\\psA2FC.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-08 15:59:33",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\EDSON\\Cópia_de_segurança_de_MARGARETE.cdr",
         "Status":  "Alerta"
     }
 ]
