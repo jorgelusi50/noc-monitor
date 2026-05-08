@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-08 10:59:30",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISADORA\\CRACHAADESIVO LAILA\\3_meses_1_1 (3)_Página_01.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-08 10:59:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ISADORA\\CRACHAADESIVO LAILA\\3_meses_1_1 (3)_Página_09.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-08 15:38:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\EDSON\\MARGARETE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-08 15:39:22",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\STHEFANY\\POLAROID 7X10.cdr",
         "Status":  "Alerta"
     }
 ]
