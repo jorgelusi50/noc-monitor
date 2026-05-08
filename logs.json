@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-07 18:42:32",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ANO 2024\\sync.ffs_lock",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-07 18:42:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ANO 2024\\sync.ffs_lock",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-08 10:35:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ANY\\LARISSA\\PLACA_DE_CAMARIM_SA_-_ARTISTAS.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-08 10:35:25",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\07-05-26\\ANY\\LARISSA\\PLACA_DE_CAMARIM_SA_-_TECNICA_MUSICOS.tif",
         "Status":  "Alerta"
     }
 ]
