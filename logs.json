@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-08 13:24:35",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\ANY\\ETIQUETAS\\etiqueta_5 - (1).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-08 13:24:40",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\ANY\\ETIQUETAS\\etiqueta_27 - (5).jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-11 10:52:45",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\EDSON\\Cópia_de_segurança_de_MARGARETE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-11 11:22:53",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\11-05-26\\ANY\\PEROLADO\\15x21.cdr",
         "Status":  "Alerta"
     }
 ]
