@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-12 10:58:39",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-12 11:04:46",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\11-05-26\\ISABELA\\ANA LUIZA\\VINIL  A4 transparente.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-12 16:45:07",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISADORA\\IMPRESSAO LUCAS  SLAVIERO\\MARGEM CMYK_Página_2.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-12 16:45:08",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISADORA\\IMPRESSAO LUCAS  SLAVIERO\\MARGEM CMYK_Página_1.jpg",
         "Status":  "Alerta"
     }
 ]
