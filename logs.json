@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-12 16:05:28",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\GF\\FLORA MATERIAIS 07 05.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-12 16:10:31",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\GABRIELY\\MILENE\\Design_sem_nome-6 (1)_Página_22.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-12 16:51:15",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISADORA\\FABIANO\\1000 a5 frente.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-12 16:51:16",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISADORA\\FABIANO\\1000 a5 frente.cdr",
         "Status":  "Alerta"
     }
