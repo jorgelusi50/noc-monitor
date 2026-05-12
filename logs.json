@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-12 16:28:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\GF\\RD BIRO\\ARIELLY.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-12 16:28:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\GF\\RD BIRO\\ARIELLY.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-12 17:07:49",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\PF\\QUEBRA CABEÇA TESTE 02.plt",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-12 17:07:50",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\PF\\QUEBRA CABEÇA TESTE 02.plt",
         "Status":  "Alerta"
