@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-12 08:46:42",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\STHEFANY\\pulseira modelo padrão.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-12 08:52:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISADORA\\SERGIO PLACA PVC ADESIVADA 60X35.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-12 16:30:53",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISABELA\\IVYS\\RA_PF_1320X2550.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-12 16:31:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISABELA\\IVYS\\RA_PF_1320X2550.jpg",
         "Status":  "Alerta"
