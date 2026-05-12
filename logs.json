@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-11 18:10:18",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\11-05-26\\GABRIELY\\AMB PESCADOS\\8 PORTAS DA CABINE DOS CAMINHOES.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-11 18:10:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\11-05-26\\GABRIELY\\AMB PESCADOS\\8 PORTAS DA CABINE DOS CAMINHOES.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-12 16:15:22",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\GABRIELY\\CLAUDIO CESAR\\cartao de visita.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-12 16:28:21",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\GF\\RD BIRO\\ARIELLY.cdr",
         "Status":  "Alerta"
     }
 ]
