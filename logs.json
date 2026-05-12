@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-12 14:55:07",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\412224\\Sem título-1.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-12 14:55:39",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\PF\\QUEBRA CABEÇA TESTE 01",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-12 16:50:16",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISADORA\\FABIANO\\50 und a3.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-12 16:50:18",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISADORA\\FABIANO\\50 und a3.cdr",
         "Status":  "Alerta"
     }
