@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-05-12 15:24:31",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\GABRIELY\\CLAUDIO CESAR\\cartao de visita.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-05-12 15:31:17",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\28 SBPM.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-12 15:46:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\AIDA\\NF 116264.pdf",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-05-12 16:50:26",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISADORA\\FABIANO\\50 undd a3.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-12 16:50:28",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISADORA\\FABIANO\\50 undd a3.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-12 16:50:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISADORA\\FABIANO\\50 undd a3.cdr",
         "Status":  "Alerta"
