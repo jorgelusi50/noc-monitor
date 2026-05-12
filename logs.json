@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-11 13:46:22",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\08-05-26\\GABRIELY\\PAMELA\\mensagem_dia_das_maes (4).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-11 14:09:23",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\11-05-26\\ISADORA\\ADESIVO\\adesivo desbravadores.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-12 10:18:16",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\11-05-26\\ISADORA\\EA CONSTRUÇÕES\\Cópia_de_segurança_de_EA CONSTRUÇÕES CARTAO DE VISITAS e CRACHA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-12 10:24:46",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\GABRIELY\\CASA DE ORAÇÃO LUCIANO\\Cópia_de_segurança_de_CASA DE ORAÇÃO cartao de visitas.cdr",
         "Status":  "Alerta"
     }
 ]
