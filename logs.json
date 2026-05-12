@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-12 09:21:38",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\11-05-26\\ISADORA\\EA CONSTRUÇÕES\\EA CONSTRUÇÕES CARTAO DE VISI...pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-12 09:27:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISABELA\\MYRNA\\A complete guide to the futures market_ technical analysis and trading systems, fundamental analysis, options, spreads, and trading principles-J.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-12 16:35:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\11-05-26\\ISADORA\\IMPRESSAO-LEONARDO\\VINIL  A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-12 16:35:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\11-05-26\\ISADORA\\IMPRESSAO-LEONARDO\\VINIL  A4.cdr",
         "Status":  "Alerta"
