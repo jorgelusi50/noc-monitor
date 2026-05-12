@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-12 11:12:08",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\11-05-26\\ISABELA\\ANA LUIZA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-12 11:16:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\11-05-26\\ISABELA\\ANA LUIZA\\90\\Década de 90 - fotos  (1)_Página_1.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-12 16:45:17",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\LETICIA\\180 offset.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-12 16:45:19",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\LETICIA\\180 offset.pdf",
         "Status":  "Alerta"
