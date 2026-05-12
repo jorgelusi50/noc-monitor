@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-12 08:21:26",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\GF\\SEARA .dxf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-12 08:25:34",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\11-05-26\\ISABELA\\SESC\\PULSEIRA GABARITO.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-12 16:28:36",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\PF\\BOB GOODS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-12 16:29:10",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\PF\\BOB GOODS.cdr",
         "Status":  "Alerta"
     }
