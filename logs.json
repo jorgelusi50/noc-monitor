@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-11 18:08:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\11-05-26\\GABRIELY\\Nova pasta (2)",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-11 18:09:10",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\11-05-26\\GABRIELY\\AMB PESCADOS",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-12 15:08:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\AIDA\\Não confirmado 851011.crdownload",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-12 15:11:25",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\STHEFANY\\Cópia_de_segurança_de_pulseira modelo padrão.cdr",
         "Status":  "Alerta"
     }
 ]
