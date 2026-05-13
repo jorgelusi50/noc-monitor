@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-05-12 16:45:45",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISADORA\\IMPRESSAO LUCAS  SLAVIERO\\Lucas_slaviero_duarte_Cartao_de_visita_8-9x5-1cm (3)_Página_2.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-05-12 16:45:45",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISADORA\\IMPRESSAO LUCAS  SLAVIERO\\Lucas_slaviero_duarte_Cartao_de_visita_8-9x5-1cm (3)_Página_2.jpg",
         "Status":  "Alerta"
@@ -597,6 +591,12 @@
         "Data":  "2026-05-13 08:33:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISABELA\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-13 08:48:40",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\AIDA\\NF 8498 OC 32466.pdf",
         "Status":  "Alerta"
     }
 ]
