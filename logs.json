@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-12 17:09:02",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISADORA\\IMPRESSAO LUCAS  SLAVIERO\\NOVOS CMYK\\Absolute_Performance_Adesivos_CMYK.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-12 17:09:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISADORA\\IMPRESSAO LUCAS  SLAVIERO\\NOVOS CMYK\\Absolute_Performance_Adesivos_CMYK.tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-13 10:54:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISABELA\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-13 10:55:35",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\GABRIELY\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
