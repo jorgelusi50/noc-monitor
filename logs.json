@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-05-12 16:50:26",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISADORA\\FABIANO\\50 undd a3.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-05-12 16:50:26",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISADORA\\FABIANO\\50 undd a3.cdr",
         "Status":  "Alerta"
@@ -597,6 +591,12 @@
         "Data":  "2026-05-13 10:20:01",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISADORA\\CARTAO DE VISITA-ADRIANA",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-13 10:20:27",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ANY\\MARIANA\\Cópia_de_segurança_de_MARIANA CAPA DURA.cdr",
         "Status":  "Alerta"
     }
 ]
