@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-12 17:55:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISABELA\\LOGX LOGISTICS\\Quebra-cabeca_LogX_A3 (2) AJUSTE.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-12 17:55:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISABELA\\LOGX LOGISTICS\\Quebra-cabeca_LogX_A3 (2) AJUSTE.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-13 11:58:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\PF\\Cópia_de_segurança_de_CARTAO ANIVERSARIO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-13 12:01:07",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\EDSON\\99 OLEO PARA BARBA 30ML.cdr",
         "Status":  "Alerta"
     }
 ]
