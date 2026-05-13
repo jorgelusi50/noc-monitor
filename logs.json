@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-12 16:47:55",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISADORA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-12 16:47:57",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISADORA\\FABIANO",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-13 09:44:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\GABRIELY\\GRHUA\\PF\\Cópia_de_segurança_de_13x19 0002 ajuste.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-13 09:54:23",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ANY\\QUEBRA-CABEÇA\\A4 quebra cabeça.pdf",
         "Status":  "Alerta"
     }
 ]
