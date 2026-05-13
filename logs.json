@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-13 10:05:18",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\MAIO\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-13 10:05:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\MAIO\\13-05-2026\\pic",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-13 13:41:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\GABRIELY\\FOLDER\\1778679355766_3AAA2340AEE0EE01182E.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-13 13:42:07",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\GABRIELY\\FOLDER\\Mubisys - Gerenciador para comunicação visual_files\\002-package.svg",
         "Status":  "Alerta"
     }
 ]
