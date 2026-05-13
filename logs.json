@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-13 13:22:42",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISADORA\\CRACHA ELIAS\\crachas_novos_maio_curvas.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-13 13:23:22",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISADORA\\CRACHA ELIAS\\AD$1F81.tmp",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-13 17:27:39",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ANY\\UNIVALI\\Panfleto  (15 x 21 cm) (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-13 17:32:14",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\LETICIA\\Nova pasta (2)",
         "Status":  "Alerta"
     }
 ]
