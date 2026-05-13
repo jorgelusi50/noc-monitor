@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-13 13:43:35",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISABELA\\UNIFICADO\\Banner_Eco_Ponto_-_fundo_branco.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-13 13:44:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISABELA\\UNIFICADO\\UNIFICADO_-_Banner_Timeline_Sustentabilidade_150x75cm_rev1.tif",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-13 17:43:21",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISABELA\\CAROLINA\\tag_3x5.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-13 17:43:22",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISABELA\\CAROLINA\\tag_3x5.jpg",
         "Status":  "Alerta"
