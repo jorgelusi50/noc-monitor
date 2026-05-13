@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-12 17:54:42",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\PF\\capa bob.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-12 17:54:43",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\PF\\capa bob.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-13 11:37:41",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ANY BEATRIZ\\88.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-13 11:37:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ANY BEATRIZ\\Giz_de_cera_.pdf",
         "Status":  "Alerta"
     }
 ]
