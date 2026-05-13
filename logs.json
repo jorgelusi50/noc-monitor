@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-12 17:08:58",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISADORA\\IMPRESSAO LUCAS  SLAVIERO\\NOVOS CMYK\\Absolute_Performance_Adesivos_CMYK.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-12 17:08:59",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\ISADORA\\IMPRESSAO LUCAS  SLAVIERO\\NOVOS CMYK\\Absolute_Performance_Adesivos_CMYK.tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-13 10:50:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\MAIO\\13-05-2026\\porta retrato novo corte",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-13 10:51:40",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\06-05-26\\GABRIELY\\GRUA EVENTOS\\IMPRESSÃO PF\\NOVO\\Cópia_de_segurança_de_Cartão Retrato - ajuste 11-05-2026.cdr",
         "Status":  "Alerta"
     }
 ]
