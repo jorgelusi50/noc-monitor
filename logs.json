@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-13 13:19:44",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GABRIELY\\FKSC\\CARTEIRA IKIGAI   02 UNID..pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-13 13:19:51",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GABRIELY\\FKSC\\CARTEIRA IKIGAI   02 UNID..cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-13 17:23:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISADORA\\ADESIVO-LUCIANA\\Pague_com_pix_placa_moderno_verde_branco_preto_a4_10_x_15_cm.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-13 17:27:26",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ANY\\UNIVALI\\Panfleto_4.pdf",
         "Status":  "Alerta"
     }
 ]
