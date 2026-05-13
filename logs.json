@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-12 17:54:36",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\PF\\capa bob.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-12 17:54:37",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\PF\\capa bob.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-13 11:27:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ISADORA\\CARTAO DE VISITA- MPRS CONSULTORIA\\CARTÕES  corte arredondado ajuste LEO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-13 11:27:57",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ISADORA\\CARTAO DE VISITA- MPRS CONSULTORIA\\CARTÕES  corte arredondado ajuste LEO.cdr",
         "Status":  "Alerta"
