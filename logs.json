@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-12 16:50:14",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISADORA\\FABIANO\\50 und a3.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-12 16:50:16",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ISADORA\\FABIANO\\50 und a3.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-13 10:05:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\MAIO\\13-05-2026\\pic",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-13 10:05:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\MAIO\\13-05-2026\\corte",
         "Status":  "Alerta"
     }
 ]
