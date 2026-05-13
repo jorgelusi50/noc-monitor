@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-13 13:19:51",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\GABRIELY\\FKSC\\CARTEIRA IKIGAI   02 UNID..cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-13 13:19:59",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISADORA\\CRACHA ELIAS",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-13 17:27:26",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ANY\\UNIVALI\\Panfleto_4.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-13 17:27:38",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ANY\\UNIVALI\\Panfleto  (15 x 21 cm) (1).pdf",
         "Status":  "Alerta"
     }
 ]
