@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-13 13:30:45",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISADORA\\CARTAO DE VISITA-",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-13 13:32:11",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISADORA\\NOVO",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-13 17:34:15",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\GABRIELY\\2.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-13 17:34:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ISADORA\\CARTAO DE VISITA- MPRS CONSULTORIA\\Cópia_de_segurança_de_CARTÕES  corte arredondado ajuste LEO.cdr",
         "Status":  "Alerta"
     }
 ]
