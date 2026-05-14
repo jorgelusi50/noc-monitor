@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 14:21:31",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\PF\\Cópia_de_segurança_de_capa do livro.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 14:21:40",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\PF\\capa do livro.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 16:15:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ISABELA\\CAMILA MORITZ\\wetransfer_arquivos-parque-tamanho_2026-05-14_1627\\A4\\EG0204-R-PE-RT6-V2-02 - Tomo III-1.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 16:15:38",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ISABELA\\CAMILA MORITZ\\wetransfer_arquivos-parque-tamanho_2026-05-14_1627\\A4\\EG0204-R-PE-RT6-V4-02-134.pdf",
         "Status":  "Alerta"
     }
 ]
