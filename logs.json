@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-13 17:35:04",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ISADORA\\CARTAO DE VISITA- MPRS CONSULTORIA\\CARTÕES  corte arredondado ajuste LEO.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-13 17:35:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\PF\\nayara e ricardo teste.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 10:04:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\GABRIELY\\SUPERINTENDENCIA REGIONAL DO DPF\\PASTA FUNDO PRETO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 10:08:49",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GF\\Cory adesivo fosco fachas.cdr",
         "Status":  "Alerta"
     }
 ]
