@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 11:23:01",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ANY BEATRIZ\\1.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 11:24:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ANY BEATRIZ\\30 DE CADA.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 15:21:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\PF\\SPW Impressão mesclada1.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 15:22:50",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ISABELA\\LETICIA\\MubiChat-995161.jpeg",
         "Status":  "Alerta"
     }
 ]
