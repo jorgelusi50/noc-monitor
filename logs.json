@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 11:37:25",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GF\\VINIL 13X19 VINIL 24.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 11:38:47",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 15:52:16",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\FKSC MESSIAS\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 15:52:28",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\FKSC MESSIAS\\GS KARATE 06 CARTEIRAS.pdf",
         "Status":  "Alerta"
     }
 ]
