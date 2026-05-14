@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 10:57:06",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\Nova pasta\\OKKetiqueta_23 - (10).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 10:58:09",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\Nova pasta\\OKKetiqueta_42 - (10).jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 15:09:52",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 15:09:59",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\CANECA PURO SUCO.cdr",
         "Status":  "Alerta"
     }
 ]
