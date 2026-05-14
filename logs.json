@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 10:40:58",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\Nova pasta\\OKKetiqueta_44 - (1).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 10:42:28",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\Nova pasta\\OKKetiqueta_56 - (1).jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-14 14:25:08",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\PF\\FLUCTUS VINIL 13X19 24.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 14:25:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\PF\\FLUCTUS VINIL 13X19 24.cdr",
         "Status":  "Alerta"
