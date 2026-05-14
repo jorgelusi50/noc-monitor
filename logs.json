@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 10:35:36",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\Nova pasta\\OKKetiqueta_30 - (1).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 10:37:56",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\Nova pasta\\OKKetiqueta_32 - (1).jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 14:01:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\DC LOGISTICS\\POLAROID.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 14:06:44",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
