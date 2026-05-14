@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-13 17:27:26",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ANY\\UNIVALI\\Panfleto_4.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-13 17:27:38",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ANY\\UNIVALI\\Panfleto  (15 x 21 cm) (1).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 09:18:39",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ANY\\ETIQUETA\\VINIL 13X19.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 09:18:50",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\GABRIELY\\SUPERINTENDENCIA REGIONAL DO DPF\\SRPFSC_3 (2).pdf",
         "Status":  "Alerta"
     }
 ]
