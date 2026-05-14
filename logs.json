@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 08:42:35",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ANY\\GUSTAVO NAU\\blocos 15x21.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 08:42:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ANY\\GUSTAVO NAU\\blocos 15x21.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 10:47:40",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\Nova pasta\\OKKetiqueta_37 - (2).jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 10:48:00",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\Cópia_de_segurança_de_CANECA PURO SUCO.cdr",
         "Status":  "Alerta"
     }
 ]
