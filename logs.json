@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-13 17:03:55",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ANY\\2.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-13 17:03:56",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ANY\\2.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 09:10:53",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\etiqueta_35 - (2).jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 09:11:22",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\etiqueta_43 - (2).jpg",
         "Status":  "Alerta"
     }
 ]
