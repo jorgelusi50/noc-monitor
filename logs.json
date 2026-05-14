@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-13 17:03:56",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ANY\\2.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-13 17:05:51",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\LETICIA\\Nova pasta\\Binder3.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 09:11:22",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\etiqueta_43 - (2).jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 09:11:59",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\etiqueta_38 - (3).jpg",
         "Status":  "Alerta"
     }
 ]
