@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 09:07:35",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\etiqueta_9 - (1).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 09:08:24",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\etiqueta_36 - (1).jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 11:13:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\NATHALI\\Folder_Lacos_Encontrados_1 (2)_Página_2.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 11:18:07",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\LETICIA\\FELIPE\\SUB12-2014.pdf",
         "Status":  "Alerta"
     }
 ]
