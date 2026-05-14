@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-13 17:06:32",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\LETICIA\\Nova pasta\\Binder3.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-13 17:06:49",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\LETICIA\\Nova pasta\\SUB16-2010.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 09:13:01",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\etiqueta_45 - (6).jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 09:16:00",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\LETICIA\\Nota fiscal 1_202600000008503.pdf",
         "Status":  "Alerta"
     }
 ]
