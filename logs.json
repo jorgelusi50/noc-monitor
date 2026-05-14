@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 16:13:23",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ISABELA\\CAMILA MORITZ\\wetransfer_arquivos-parque-tamanho_2026-05-14_1627",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 16:13:30",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ISABELA\\CAMILA MORITZ\\wetransfer_arquivos-parque-tamanho_2026-05-14_1627\\A4\\EG0204-R-EAC-RT1-02-20.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 17:32:50",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISADORA\\ADESIVO-LAILA\\VINIL  A4 24.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 17:39:04",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISADORA\\ADESIVO-LAILA\\CARTAO_-_ANIVERSARIANTES (1)_Página_1.jpg",
         "Status":  "Alerta"
     }
 ]
