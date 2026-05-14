@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 10:49:34",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\Nova pasta\\OKKetiqueta_48 - (2).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 10:50:32",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\Nova pasta\\OKetiqueta_14 - (10).jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 14:38:46",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\MARCEL",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 14:38:52",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\MARCEL\\Artur_Fabrin.pdf.crdownload",
         "Status":  "Alerta"
     }
 ]
