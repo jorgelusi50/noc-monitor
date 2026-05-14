@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 16:07:28",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ISABELA\\ROSIMEIRI",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 16:07:44",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ISABELA\\ROSIMERI",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 17:25:08",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\ATUAL\\FRENTE.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 17:26:32",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\Cópia_de_segurança_de_FOL_ABOUT_SKIN_FCE_2026 (1).cdr",
         "Status":  "Alerta"
     }
 ]
