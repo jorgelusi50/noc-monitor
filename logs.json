@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 11:48:19",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\Nova pasta\\OKKetiqueta_53 - (70).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 11:49:30",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\Nova pasta\\OKK etiqueta_10 - (98).jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 16:02:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ISABELA\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 16:03:05",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ISABELA\\BRUNO\\Flyer_-_Dr_Junio_Silva_-_Impressao (2).pdf",
         "Status":  "Alerta"
     }
 ]
