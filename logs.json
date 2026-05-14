@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 10:39:39",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\Nova pasta\\OKKetiqueta_41 - (1).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 10:40:51",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\Nova pasta\\OKKetiqueta_50 - (1).jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 14:21:31",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\PF\\Cópia_de_segurança_de_capa do livro.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 14:21:40",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\PF\\capa do livro.cdr",
         "Status":  "Alerta"
     }
 ]
