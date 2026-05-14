@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-13 16:12:00",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\GABRIELY\\G FENIX\\ARQUIVO_FINAL_-_ADESVO_IMA_HARAS__LENZI_50X30.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-13 16:12:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ANY\\42260503923827000165550010000026331498951306_NFe_2633.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 09:01:27",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISADORA\\ADESIVO-LAILA\\CARTAO_-_ANIVERSARIANTES_2026_3_2 (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 09:01:57",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\etiqueta_7 - (1).jpg",
         "Status":  "Alerta"
     }
 ]
