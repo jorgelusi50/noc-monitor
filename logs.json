@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-13 17:35:01",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ISADORA\\CARTAO DE VISITA- MPRS CONSULTORIA\\CARTÕES  corte arredondado ajuste LEO.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-13 17:35:02",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\04-05-26\\ISADORA\\CARTAO DE VISITA- MPRS CONSULTORIA\\CARTÕES  corte arredondado ajuste LEO.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 09:58:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISADORA\\CARTAO DE VISITA-ADRIANA\\ols-_gostaria_de_orcamento_para_impressao_de_cartao_de_visita (1)_Página_1.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 09:59:39",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\CANECA PURO SUCO.cdr",
         "Status":  "Alerta"
     }
 ]
