@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 10:55:30",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\GABRIELY\\G FENIX\\ARQUIVO_FINAL_-_ADESVO_IMA_HARAS_30X30.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 10:56:17",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\Nova pasta\\OKKetiqueta_21 - (11).jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 15:03:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ISABELA\\CRACHÁ NICOLETTI.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 15:04:32",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ANY\\1.pdf",
         "Status":  "Alerta"
     }
 ]
