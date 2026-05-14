@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 09:11:59",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\etiqueta_38 - (3).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 09:13:01",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ETIQUETAS\\etiqueta_45 - (6).jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-14 11:24:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ANY BEATRIZ\\30 DE CADA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-14 11:26:49",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\12-05-26\\ANY\\ANY BEATRIZ\\Cópia_de_segurança_de_30 DE CADA.cdr",
         "Status":  "Alerta"
     }
 ]
