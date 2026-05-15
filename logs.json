@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 14:42:19",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\LETICIA\\20201229_193427.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 14:47:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\JULIANA\\FOL_ABOUT_SKIN_FCE_2026 (1).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-15 19:24:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\Nova pasta (2)",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-15 19:30:42",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\NOC.ps1",
         "Status":  "Alerta"
     }
 ]
