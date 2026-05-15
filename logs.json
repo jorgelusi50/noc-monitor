@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 13:38:44",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\GABRIELA\\BENS ATUALIZADO.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 13:41:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\EDSON\\PLACAS DE BANHEIRO E DISPLAY EM ACRÍLICO.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-15 16:17:09",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\PF\\folder 01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-15 16:17:10",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\PF\\folder 01.cdr",
         "Status":  "Alerta"
     }
