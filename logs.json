@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 16:26:47",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ANY\\Nova pasta (2)",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 16:26:52",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ANY\\Nova pasta\\CAROLINE.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-15 09:48:18",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ISABELA\\CRISSIA\\cardapio_chas_final_impressao_A5 (1).jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-15 09:54:29",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\ISABELA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
