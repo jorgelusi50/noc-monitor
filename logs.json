@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 17:14:24",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\ATUAL\\FRENTE.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 17:15:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\ATUAL\\FRENTE.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-15 10:20:54",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\ELIZANGELA BNAU\\7x7.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-15 10:21:59",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ISABELA\\CRISSIA\\10x15.cdr",
         "Status":  "Alerta"
     }
 ]
