@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 10:32:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\7x7.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 10:32:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\7x7.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-15 13:04:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\GF\\Cópia_de_segurança_de_VIVA BRASIL.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-15 13:11:33",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\folder junio silva dentes.cdr",
         "Status":  "Alerta"
     }
 ]
