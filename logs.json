@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 09:37:29",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\ISADORA\\ADESIVO-JULIA\\Design_sem_nome_7.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 09:37:39",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\MAIO\\15-05-2026\\tag correto FINAL.plt",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-15 10:48:19",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\GABRIELY\\UNIFICADO\\8_cartoes (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-15 10:48:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\GABRIELY\\UNIFICADO\\8_cartoes (2).pdf",
         "Status":  "Alerta"
     }
 ]
