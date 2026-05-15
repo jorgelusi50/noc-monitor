@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 17:40:36",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISADORA\\ADESIVO-LAILA\\CARTAO_-_ANIVERSARIANTES_2026_3_2 (1)_Página_6.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 17:41:00",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISADORA\\ADESIVO-LAILA\\Cartao_Bethania (1).jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-15 10:38:13",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\GABRIELY\\NF 116268 OC 32741.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-15 10:38:18",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\GABRIELY\\Não confirmado 166240.crdownload",
         "Status":  "Alerta"
     }
 ]
