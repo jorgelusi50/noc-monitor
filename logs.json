@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 11:18:42",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\ELIZANGELA BNAU\\7x7.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 11:21:26",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ISABELA\\BRUNO\\Flyer_-_Dr_Junio_Silva_-_Impressao (2)_Página_1.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-15 14:31:53",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\JULIANA\\FRENTE.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-15 14:32:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\JULIANA\\FRENTE.jpg",
         "Status":  "Alerta"
