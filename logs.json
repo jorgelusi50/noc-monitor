@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 14:36:47",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\PF\\02\\01_Página_20.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 14:36:53",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\PF\\02\\01_Página_23.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-15 17:55:11",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\PF\\univali.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-15 17:59:42",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\ISADORA\\CARTAO DE VISITA\\Cópia_de_segurança_de_SAMPAIO CARTAO DE VISITAS.cdr",
         "Status":  "Alerta"
     }
 ]
