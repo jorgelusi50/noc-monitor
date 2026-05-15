@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 17:39:34",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISADORA\\ADESIVO-LAILA\\CARTAO_-_ANIVERSARIANTES (1)_Página_3.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-14 17:39:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISADORA\\ADESIVO-LAILA\\CARTAO_-_ANIVERSARIANTES (1)_Página_5.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-15 10:32:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\ANY\\ANY\\Sem título-1.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-15 10:32:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\7x7.cdr",
         "Status":  "Alerta"
     }
 ]
