@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 11:56:37",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\GABRIELA\\BANNER\\BANNER_ED_FISICA_26-1_UNIVALI_PDF (2).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 11:56:43",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\GABRIELA\\BANNER\\BANNER_ED_FISICA_26-1_UNIVALI_PDF (2).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-15 15:03:23",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\ANY\\ROSE DIARISTA\\Cópia_de_segurança_de_ROSE CARTÃO DE VISITAS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-15 15:04:16",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\AIDA\\scanner livia.pdf",
         "Status":  "Alerta"
     }
 ]
