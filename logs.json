@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 11:36:29",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\GABRIELY\\Não confirmado 669964.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 11:38:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\ALEX\\ALEX CARTAO FINAL.tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-15 14:36:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\PF\\02\\01_Página_01.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-15 14:36:20",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\PF\\02\\01_Página_04.jpg",
         "Status":  "Alerta"
     }
 ]
