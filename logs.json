@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-14 18:02:36",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\PF\\Cópia_de_segurança_de_freio grua.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 00:31:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-15 10:40:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\ELIZANGELA BNAU\\7x5.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-15 10:41:00",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\ELIZANGELA BNAU\\7x5.cdr",
         "Status":  "Alerta"
