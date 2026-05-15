@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 09:41:47",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\ISABELA\\CRISSIA\\cardapio_chas_final_impressao_A5 (1).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 09:46:32",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\KXDRIVER 8.6A.1412.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-15 10:49:57",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\GABRIELY\\UNIFICADO\\10_cartoes (3).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-15 10:50:17",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\GABRIELY\\UNIFICADO\\10_cartoes (4).pdf",
         "Status":  "Alerta"
     }
 ]
