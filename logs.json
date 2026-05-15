@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 13:16:07",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\PF\\Cópia_de_segurança_de_capa epagri.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 13:16:21",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\PF\\Cópia_de_segurança_de_freio grua.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-15 15:33:23",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\ANY\\ROSE DIARISTA\\Cópia_de_segurança_de_ROSE CARTÃO DE VISITAS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-15 15:35:15",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\ISADORA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
