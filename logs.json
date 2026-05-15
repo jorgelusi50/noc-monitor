@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 13:33:00",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\GABRIELA\\enviar novo\\pai.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 13:33:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\GABRIELA\\enviar novo\\Binder1.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-15 15:55:30",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\ISADORA\\ADESIVO AZUL QUE JÁ CUSTOU 30X O QUE VALE",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-15 15:58:44",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\ANY\\ROSE DIARISTA\\Cópia_de_segurança_de_ROSE CARTÃO DE VISITAS.cdr",
         "Status":  "Alerta"
     }
 ]
