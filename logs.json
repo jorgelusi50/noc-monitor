@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 17:35:57",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\LETICIA\\LETICIA\\De Estudante a Protagonista.log",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 17:50:54",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\EDSON\\Q PASTEL.tif",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-19 17:56:59",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_11.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-19 17:57:00",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_11.jpg",
         "Status":  "Alerta"
     }
