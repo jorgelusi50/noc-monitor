@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 15:58:44",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\ANY\\ROSE DIARISTA\\Cópia_de_segurança_de_ROSE CARTÃO DE VISITAS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 16:17:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\PF\\folder 01.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-19 16:58:44",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\LIVIA\\CHIARA\\Design_sem_nome (9).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-19 16:58:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\LIVIA\\CHIARA\\Design_sem_nome (9).pdf",
         "Status":  "Alerta"
