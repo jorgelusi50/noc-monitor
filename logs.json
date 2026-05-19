@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 17:28:04",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\ANY\\ROSE DIARISTA\\Cópia_de_segurança_de_ROSE CARTÃO DE VISITAS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 17:33:57",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\LETICIA\\LETICIA\\De Estudante a Protagonista.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-19 17:56:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_09.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-19 17:56:49",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_10.jpg",
         "Status":  "Alerta"
     }
 ]
