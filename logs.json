@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 20:26:34",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-18 08:02:26",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\13-05-26\\ISADORA\\ADESIVO-LAILA\\Cópia_de_segurança_de_VINIL  A4 24.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-19 17:59:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_30.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-19 17:59:39",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_31.jpg",
         "Status":  "Alerta"
     }
 ]
