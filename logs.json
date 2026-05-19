@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-18 08:12:23",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\18-05-26\\ANY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-18 08:12:58",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\ISABELA\\RAISSA\\VINIL 13X19_24.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-19 17:59:46",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_32.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-19 17:59:56",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_33.jpg",
         "Status":  "Alerta"
     }
 ]
