@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 17:54:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\PF\\Sem título-1.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 17:54:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\PF\\Sem título-1.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-19 17:57:05",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_11.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-19 17:57:06",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_11.jpg",
         "Status":  "Alerta"
