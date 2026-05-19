@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 17:55:07",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\PF\\Cópia_de_segurança_de_univali.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 17:55:09",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\PF\\Cópia_de_segurança_de_univali.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-19 17:57:07",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_11.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-19 17:57:09",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_11.jpg",
         "Status":  "Alerta"
     }
