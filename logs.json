@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-15 17:03:07",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\GABRIELY\\NAVARRO\\MARROCOS COM BAÚ GOLD (2).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-15 17:03:09",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\GABRIELY\\NAVARRO\\MARROCOS COM BAÚ GOLD (2).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-19 17:55:34",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_02.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-19 17:55:39",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_03.jpg",
         "Status":  "Alerta"
     }
 ]
