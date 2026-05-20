@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 09:07:08",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GF\\capa copa.dxf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 09:08:52",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GABRIELA\\NF 8528 OC 33077.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-20 11:59:16",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ISADORA\\MARCA PAGINA- MARIA CELITA\\5,8x12.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 11:59:18",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ISADORA\\MARCA PAGINA- MARIA CELITA\\5,8x12.cdr",
         "Status":  "Alerta"
     }
