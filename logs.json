@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-19 17:56:49",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_10.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-19 17:56:58",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_11.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-20 10:03:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\LETICIA\\Nova pasta\\Unidade VI Abordagens contemporaneas.ppt",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 10:07:09",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\ANY\\SEARA\\Banner_90cmx120cm2.tif",
         "Status":  "Alerta"
     }
 ]
