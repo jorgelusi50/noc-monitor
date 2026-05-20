@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 09:48:14",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ANY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 09:48:21",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\GABRIELA\\KAROLINE\\Poster_CongressoNC (1).tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-20 13:10:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\15-05-26\\EDSON\\Placa_Estacione_2 (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 13:14:26",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\LIVIA\\TAUFER\\1 (1).png",
         "Status":  "Alerta"
     }
 ]
