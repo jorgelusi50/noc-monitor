@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 11:39:43",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\LIVIA\\TAUFER\\3 (1).png",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 11:39:52",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\LIVIA\\TAUFER\\5.png",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-20 15:58:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\LIVIA\\TAUFER\\mercearia_1_Página_4.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 15:58:13",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\LIVIA\\TAUFER\\mercearia_1_Página_5.jpg",
         "Status":  "Alerta"
     }
 ]
