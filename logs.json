@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-19 16:47:43",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\JULIANA\\JEAN\\CARTÃO HARDEN - João Machado_Página_1.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-19 16:48:25",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\JULIANA\\JEAN\\CARTÃO HARDEN - André Ferreira_Página_1.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-20 08:36:52",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\PF\\carta taro\\carta.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 08:37:24",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\PF\\carta taro\\carta.cdr",
         "Status":  "Alerta"
     }
