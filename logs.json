@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 10:42:13",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ANY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 10:42:20",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ANY\\THE BEST\\VOUCHER_20_REAIS.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-20 15:16:49",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ANY\\13412_Flora-Maio-Amarelo.ai",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 15:18:17",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\ANY\\FLORA\\Opção 3 - panfleto 15cm x 8cm.jpg",
         "Status":  "Alerta"
     }
 ]
