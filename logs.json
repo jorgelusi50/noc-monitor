@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 11:40:10",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GABRIELY\\CARLOS RIBEIRO\\Menu_-_versao_final.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 11:42:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ISADORA\\MARCA PAGINA- MARIA CELITA\\marca_pag_com_margem.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-20 15:58:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GABRIELY\\SIMONE\\etiqueta_pudim_folhaA4 (2).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 15:59:20",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ISADORA\\ADESIVO\\VINIL 13X19..cdr",
         "Status":  "Alerta"
     }
 ]
