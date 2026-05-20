@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-19 17:59:11",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_27.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-19 17:59:19",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_28.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-20 10:53:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ISADORA\\MARCA PAGINA- MARIA CELITA\\marca_pag_com_margem.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 10:57:44",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GF\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
