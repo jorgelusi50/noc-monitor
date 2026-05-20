@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 10:01:37",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\LETICIA\\Nova pasta\\Unidade III - Teorias com enfoque na estrutura.ppt",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 10:01:52",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\LETICIA\\Nova pasta\\Unidade III TA.ppt",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-20 13:40:12",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GABRIELY\\ANDREIA\\Convite_Ceci_2026 (2).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 13:49:38",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\LIVIA\\ROBERTA PAVESI\\VINIL A4 TRANSPARENTE 24.cdr",
         "Status":  "Alerta"
     }
 ]
