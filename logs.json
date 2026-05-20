@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 12:32:26",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\LIVIA\\ROLAND\\Roland_Garros_100x50cm_FINAL.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 12:34:17",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\ANY\\412975\\Design sem nome (6).tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-20 16:28:25",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\LIVIA\\TAUFER\\VINIL 13X19..cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 16:42:49",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\JULIANA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
