@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-19 17:38:26",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\ISADORA\\IMPRESSAO-ELIANE\\IMPRESSAO-ELIANE\\Caixinhas_Extras.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-19 17:39:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\ISADORA\\IMPRESSAO-ELIANE\\IMPRESSAO-ELIANE\\Caixinhas_Extras (1).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-20 09:49:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\GABRIELY\\LAYLA\\Banner_Chao_0,90x1,80cm.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 09:50:56",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\ANY\\VIRTUS\\2.pdf",
         "Status":  "Alerta"
     }
 ]
