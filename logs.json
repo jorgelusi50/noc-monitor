@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 11:40:05",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GABRIELY\\CARLOS RIBEIRO\\GALERIA_aline.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 11:40:10",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GABRIELY\\CARLOS RIBEIRO\\Menu_-_versao_final.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-20 15:58:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\LIVIA\\TAUFER\\mercearia_1_Página_7.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 15:58:40",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GABRIELY\\SIMONE\\etiqueta_pudim_folhaA4 (2).pdf",
         "Status":  "Alerta"
     }
 ]
