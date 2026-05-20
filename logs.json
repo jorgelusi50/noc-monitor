@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-19 17:31:57",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\ISADORA\\IMPRESSAO-ELIANE\\IMPRESSAO-ELIANE\\39_Devocionais_Diarios.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-19 17:34:12",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\54 501 - 54 950 - D.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-20 09:36:15",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\LIVIA\\ABIGAID\\pasta-verso.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 09:42:14",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\ANY\\VIRTUS\\psAC73.tmp",
         "Status":  "Alerta"
     }
 ]
