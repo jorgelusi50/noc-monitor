@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-19 17:59:56",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_33.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-19 18:00:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\PF\\CARTA\\baralho_de_joaninha14_Página_34.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-20 11:15:13",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ANY\\ALESSANDRA\\Papel_colagem.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 11:16:45",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\18-05-26\\ISADORA\\FARMA E FARMA\\FARMA E FARMA ADESIVO IMA 4X5cm ajuste Leo.cdr",
         "Status":  "Alerta"
     }
 ]
