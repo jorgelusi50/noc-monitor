@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 15:23:04",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\ANY\\FLORA\\1 banner de cada 1,50x0,80.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 15:23:12",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\ANY\\FLORA\\Opção 2 - banner - 1,5 m x 0,80 m.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-20 17:29:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ANY\\VITORYA\\VINIL BRANCO A4_24.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 17:29:22",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GABRIELY\\CINTHIA\\rotulo_vicro_transparente.png",
         "Status":  "Alerta"
     }
 ]
