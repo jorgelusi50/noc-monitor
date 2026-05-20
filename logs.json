@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-19 16:58:44",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\LIVIA\\CHIARA\\Design_sem_nome (9).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-19 16:58:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\19-05-26\\LIVIA\\CHIARA\\Design_sem_nome (9).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-20 08:54:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GABRIELY\\CARLOS RIBEIRO\\Menu_-_versao_final.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 09:07:08",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GF\\capa copa.dxf",
         "Status":  "Alerta"
     }
 ]
