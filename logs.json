@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 11:42:07",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ISADORA\\MARCA PAGINA- MARIA CELITA\\marca_pag_com_margem.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 11:42:14",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ISADORA\\MARCA PAGINA- MARIA CELITA\\marca_pag_com_margem.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-20 15:59:20",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ISADORA\\ADESIVO\\VINIL 13X19..cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-20 16:03:42",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\PF\\panfleto 15x8.cdr",
         "Status":  "Alerta"
     }
 ]
