@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 17:17:59",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ANY\\MAYARA\\1 DE CADA FRENTE E VERSO 10X7_Página_48.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 17:20:32",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GF\\MARI SANDRI TOTENS_PS3mm.dxf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-27 16:05:17",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-27 16:05:34",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
