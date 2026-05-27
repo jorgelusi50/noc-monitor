@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-27 15:41:32",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\LIVIA\\ODONTOLOGIA\\OTILIO CESAR DALÇOQUIO DISPLAY A4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-27 15:47:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\ACR ADESIVOS\\ACR SERVIÇOS LOGO PARA LETRA CAIXA.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-27 19:03:33",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-27 19:04:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
