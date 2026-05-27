@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 17:31:35",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GABRIELY\\CINTHIA\\Adesivo_Aromatizador_Di_Fiore_6x6-5cm.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 17:32:06",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GABRIELY\\CINTHIA\\rotulo_vidro_preto.png",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-27 16:30:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELA\\MEVAM\\a3.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-27 16:31:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELA\\MEVAM\\a3.cdr",
         "Status":  "Alerta"
