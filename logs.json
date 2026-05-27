@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-27 15:31:38",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-27 15:31:58",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-27 17:55:22",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\ANY\\FEIJOADA\\Cópia_de_segurança_de_FEIJOADA 10X7.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-27 17:55:23",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\ANY\\FEIJOADA\\Cópia_de_segurança_de_FEIJOADA 10X7.cdr",
         "Status":  "Alerta"
     }
