@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 17:29:22",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GABRIELY\\CINTHIA\\rotulo_vicro_transparente.png",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 17:29:38",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GABRIELY\\CINTHIA\\rotulo_vidro_preto.png",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-27 16:19:20",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELY\\cartao\\20210110_211149 - Atalho.lnk",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-27 16:19:54",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
 ]
