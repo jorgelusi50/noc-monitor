@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 17:17:40",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ANY\\MAYARA\\1 DE CADA FRENTE E VERSO 10X7_Página_21.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 17:17:41",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ANY\\MAYARA\\1 DE CADA FRENTE E VERSO 10X7_Página_21.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-27 15:56:47",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-27 15:56:57",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELY\\DICEARTE\\Segue_novo_orcamento (1).cdr",
         "Status":  "Alerta"
     }
 ]
