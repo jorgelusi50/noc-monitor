@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 17:17:34",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ANY\\MAYARA\\1 DE CADA FRENTE E VERSO 10X7_Página_14.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 17:17:39",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\ANY\\MAYARA\\1 DE CADA FRENTE E VERSO 10X7_Página_21.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-27 15:56:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\LIVIA\\BRUNA\\IMG_4271 (1).PNG",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-27 15:56:33",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
 ]
