@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 17:35:46",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\PF\\14x14.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 17:35:54",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\PF\\14x14.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-27 16:36:54",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-27 16:36:55",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
