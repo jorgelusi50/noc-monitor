@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-20 17:31:21",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GABRIELY\\CINTHIA\\ADESIVO FOSCO 6X6",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-20 17:31:28",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\20-05-26\\GABRIELY\\CINTHIA\\rotulo_vidro_transparente (1).png",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-27 16:20:26",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-27 16:23:58",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELY\\cartao\\CARTAO.cdr",
         "Status":  "Alerta"
     }
 ]
