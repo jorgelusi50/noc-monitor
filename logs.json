@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-27 15:22:46",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-27 15:23:21",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\LIVIA\\ODONTOLOGIA",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-27 17:26:41",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\019-REB-EST-EXE-019-CO-VIG-R00.PDF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-27 17:26:49",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
 ]
