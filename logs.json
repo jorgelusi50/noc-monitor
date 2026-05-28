@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-28 12:44:52",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\EDSON\\JANETE.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-28 12:45:02",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\EDSON\\JANETE.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-28 16:46:41",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GABRIELA\\IMPR\\Sem título-1.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 16:46:43",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GABRIELA\\IMPR\\Sem título-1.pdf",
         "Status":  "Alerta"
     }
