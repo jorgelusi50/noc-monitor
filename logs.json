@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-28 09:38:03",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELY\\BEATRIZ\\Design_sem_nome (3)_Página_1.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-28 09:38:09",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELY\\BEATRIZ\\Design_sem_nome (3)_Página_1.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-28 12:44:42",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\EDSON\\JANETE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 12:44:52",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\EDSON\\JANETE.cdr",
         "Status":  "Alerta"
     }
