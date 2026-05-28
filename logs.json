@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-27 16:23:58",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELY\\cartao\\CARTAO.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-27 16:30:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELA\\MEVAM\\a3.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-28 08:30:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 08:30:37",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\LIVIA\\RAIANE\\adesivos_redondos_capeletti (1).pdf",
         "Status":  "Alerta"
     }
 ]
