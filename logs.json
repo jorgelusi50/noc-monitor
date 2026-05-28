@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-28 10:55:49",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GABRIELY\\MARIO\\5937263a-b269-4865-8a68-d2c6f63530d2-1_all_9889.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-28 10:59:58",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GABRIELA\\Nova pasta (2)",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-28 14:24:54",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\LIVIA\\GEISA\\hula_best_seller_70x50pdf (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 14:26:15",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
