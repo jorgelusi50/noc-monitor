@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-28 14:46:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GABRIELA\\univali\\Comprovante de inscrição - recadastro (9).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-28 14:48:19",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GABRIELA\\univali\\CRLV-e_1422523474459350113.pdf (3).pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-28 17:54:53",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GF\\Cópia_de_segurança_de_VINIL  A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 17:54:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GF\\Cópia_de_segurança_de_VINIL  A4.cdr",
         "Status":  "Alerta"
