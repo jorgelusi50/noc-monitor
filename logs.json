@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-27 15:59:14",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\LIVIA\\ODONTOLOGIA\\OTILIO CESAR DALÇOQUIO DISPLAY A4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-27 15:59:15",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\LIVIA\\ODONTOLOGIA\\OTILIO CESAR DALÇOQUIO DISPLAY A4.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-28 08:14:30",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 08:14:44",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
