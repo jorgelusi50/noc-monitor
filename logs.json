@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-28 11:21:17",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\PF\\Cópia_de_segurança_de_capa concase.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-28 11:25:11",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GF\\JUNHO 2.tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-28 14:57:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GABRIELA\\univali\\20210111_194856.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 14:57:24",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\LIVIA\\BRUNA\\Cópia_de_segurança_de_13X19 COM FURO.cdr",
         "Status":  "Alerta"
     }
 ]
