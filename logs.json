@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-27 18:23:58",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-27 19:03:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-28 09:18:28",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\LIVIA\\BRUNA\\Cópia_de_segurança_de_flyer.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 09:18:36",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\LIVIA\\BRUNA\\flyer.cdr",
         "Status":  "Alerta"
     }
 ]
