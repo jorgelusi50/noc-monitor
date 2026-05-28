@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-28 13:24:41",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\ISADORA\\Nova pasta\\ADESIVO WILIAM.webp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-28 13:26:00",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\AIDA\\BD4A7219.tmp",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-28 16:51:53",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\LIVIA\\SELVINO\\100 cartao-nivel4-verso.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 16:51:54",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\LIVIA\\SELVINO\\100 cartao-nivel4-frente.pdf",
         "Status":  "Alerta"
     }
 ]
