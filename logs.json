@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-27 16:05:34",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-27 16:17:27",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GF\\pedido 2.dxf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-28 08:16:26",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\ISADORA\\IMPRESSAO MORGANA\\Folder_Convite_de_Casamento_Viagem_Verde_e_Rosa (6)_Página_2.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 08:27:26",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\ISADORA\\CARIMBOECRCHA-LIGIANE\\Cópia_de_segurança_de_CRACHAS SAUDE.cdr",
         "Status":  "Alerta"
     }
 ]
