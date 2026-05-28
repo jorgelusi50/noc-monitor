@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-28 11:26:50",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELY\\BEATRIZ\\adesivo a4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-28 11:26:58",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELY\\BEATRIZ\\adesivo a4.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-28 14:57:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\LIVIA\\JOAO VITOR\\Cópia_de_segurança_de_VINIL  A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 14:59:04",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GABRIELA\\univali\\Binder1.pdf",
         "Status":  "Alerta"
     }
 ]
