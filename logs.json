@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-27 16:37:06",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-27 16:50:50",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\AIDA\\Resultado_27_05_2026.xls",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-28 08:50:57",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GABRIELY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 08:51:12",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GABRIELY\\207\\35X25.cdr",
         "Status":  "Alerta"
     }
 ]
