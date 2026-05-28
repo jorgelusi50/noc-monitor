@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-28 13:36:05",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\LETICIA\\JULIO PEREIRA\\WhatsApp_Image_2026-05-28_at_1321.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-28 13:38:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\AIDA\\NF 11690  OC 33774.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-28 16:53:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\LIVIA\\SELVINO\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 16:53:57",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\LIVIA\\SELVINO\\100 cartao-nivel1-frente.pdf",
         "Status":  "Alerta"
     }
 ]
