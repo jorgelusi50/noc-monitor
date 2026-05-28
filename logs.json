@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-28 09:20:49",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GF\\COIOTE.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-28 09:20:51",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GF\\COIOTE.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-28 11:30:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\LETICIA\\088db51c53f17939d574bb59433d0a14 (2).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 11:34:36",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\PF\\NADAR VINIL 13X19 TRANSPARENTE.cdr",
         "Status":  "Alerta"
     }
 ]
