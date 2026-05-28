@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-28 09:10:59",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\LIVIA\\BRUNA\\01.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-28 09:11:03",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\LIVIA\\BRUNA\\01.tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-28 11:25:11",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GF\\JUNHO 2.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 11:26:50",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELY\\BEATRIZ\\adesivo a4.cdr",
         "Status":  "Alerta"
     }
 ]
