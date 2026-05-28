@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-28 09:18:28",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\LIVIA\\BRUNA\\Cópia_de_segurança_de_flyer.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-28 09:18:36",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\LIVIA\\BRUNA\\flyer.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-28 11:29:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELY\\UNIFICADO MARIA ALICE\\2ºs anos\\2º A\\Boletins\\José Francisco Conceição Silveira.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 11:30:23",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELY\\UNIFICADO MARIA ALICE\\1º A\\Trajetória finalizada\\ok MARIA 1 trim. vivência 2026.pdf",
         "Status":  "Alerta"
     }
 ]
