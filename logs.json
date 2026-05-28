@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-27 16:31:31",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELA\\MEVAM\\a3.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-27 16:31:32",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\GABRIELA\\MEVAM\\a3.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-28 08:46:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\LIVIA\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 08:47:05",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\LIVIA\\MEVAM\\MEVAM 12 POLASEAL 15X21 (A5) 2 DE CADA.cdr",
         "Status":  "Alerta"
     }
 ]
