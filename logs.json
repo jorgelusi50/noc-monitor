@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-28 13:42:48",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\MAIO\\28-05-2026\\pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-28 13:49:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\LIVIA\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-28 16:54:08",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\LIVIA\\SELVINO\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 16:54:16",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\LIVIA\\SELVINO\\50 cartao-nivel5-frente.pdf",
         "Status":  "Alerta"
     }
 ]
