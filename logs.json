@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-28 08:52:02",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\LIVIA\\B\u0026F\\MubiChat-1024013.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-28 08:52:20",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-28 10:26:06",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\ISADORA\\CRACHA-ARIANI\\098390A7-3BC0-4575-A525-F3556DD5FF55 (1) - Copia.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 10:26:08",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\ISADORA\\CRACHA-ARIANI\\098390A7-3BC0-4575-A525-F3556DD5FF55 (1) - Copia.pdf",
         "Status":  "Alerta"
