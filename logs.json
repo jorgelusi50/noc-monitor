@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-28 09:03:59",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-28 09:04:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\PF\\envelope 01.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-28 11:06:13",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GABRIELY\\MARIO\\ps88D6.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-28 11:06:27",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\GABRIELY\\MARIO\\psBAC4.tmp",
         "Status":  "Alerta"
     }
 ]
