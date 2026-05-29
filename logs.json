@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-29 11:45:26",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\PF\\ezeq.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-29 12:01:19",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\LIVIA\\PRISCILA\\Logotipo_arraia_simples_preto_e_branco_ (2).jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-05-29 16:43:27",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\ISADORA\\CARIMBOECRCHA-LIGIANE\\CRACHA VIGILANCIA SANITARIA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-29 16:43:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\ISADORA\\CARIMBOECRCHA-LIGIANE\\CRACHA VIGILANCIA SANITARIA.pdf",
         "Status":  "Alerta"
