@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-29 09:39:25",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\ANY\\LOTE 145\\KARINE - Copia.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-29 09:45:11",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\LIVIA\\INSTITUTO CRESCER\\Banner_PLACA_PROJETOS_PRRFEITURA_1 (3)-1.tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-29 14:37:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\LIVIA\\JOAO VITOR\\VINIL  A4 RETRABALHO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-29 14:40:06",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GF\\SARA CARIMBO_ok.dxf",
         "Status":  "Alerta"
     }
 ]
