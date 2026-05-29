@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-29 11:38:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\LIVIA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-29 11:38:24",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\LIVIA\\PRISCILA",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-29 16:31:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\Cópia_de_segurança_de_CHUTEIRA ACRILICO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-29 16:35:31",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\25-05-26\\GABRIELY\\LOJA GRANDE UNIDA\\capa_ritual_mestre_2026.cdr",
         "Status":  "Alerta"
     }
 ]
