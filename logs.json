@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-29 10:10:26",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GF\\perolado prata 18 folhas.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-29 10:10:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GF\\AD$64D.tmp",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-29 14:44:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GF\\RD BIRO\\LONAS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-29 14:52:37",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\GABBIA\\quero_imprimir_esses_6_cartoes_em_10x10_couche_150g (1)_Página_1.jpg",
         "Status":  "Alerta"
     }
 ]
