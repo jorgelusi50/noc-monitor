@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-28 16:02:30",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\ISADORA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-28 16:02:40",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\ISADORA\\ADESIVO-VANESSA",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-05-29 08:39:34",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\JOÃO\\Flyer_Love_Run.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-29 08:39:42",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\JOÃO\\Flyer_Love_Run.jpg",
         "Status":  "Alerta"
     }
