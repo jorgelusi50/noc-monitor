@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-28 16:54:08",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\LIVIA\\SELVINO\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-28 16:54:16",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\LIVIA\\SELVINO\\50 cartao-nivel5-frente.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-29 10:37:29",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\LABOTEC\\Cópia_de_segurança_de_LABOTEC 13X19 ANIVERSARIOS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-29 10:37:30",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\LABOTEC\\LABOTEC 13X19 ANIVERSARIOS.cdr",
         "Status":  "Alerta"
     }
 ]
