@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-29 13:31:19",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\CAMILA\\Não confirmado 596048.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-29 13:31:24",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\PF\\Cópia_de_segurança_de_BOH IMPRESSOS.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-05-29 17:57:36",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\EDSON\\Cópia_de_segurança_de_JANETE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-05-31 20:03:32",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\Co Text Bold.otf",
         "Status":  "Alerta"
     }
 ]
