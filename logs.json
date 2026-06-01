@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:50:15",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\baskervi.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:50:21",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\XtreemThin_PERSONAL_USE.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:57:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\KlinicSlabBold.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:58:01",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\KlinicSlabLightIt.otf",
         "Status":  "Alerta"
     }
 ]
