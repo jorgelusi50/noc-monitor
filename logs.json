@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:43:25",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES LOUCAS\\Komigo3DRegular-rg1lK.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:43:31",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES LOUCAS\\LUSER.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:49:44",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\AHMAD Regular.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:49:45",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\AirCompressed-Medium.otf",
         "Status":  "Alerta"
     }
 ]
