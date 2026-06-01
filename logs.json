@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:19:03",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Industrial Zoo\\Industrial Zoo.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:19:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Industrial Zoo\\industrial zoo.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:27:38",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Elgethy Square Upper\\Elgethy Square Upper.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:27:43",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Everglow\\Everglow.otf",
         "Status":  "Alerta"
     }
 ]
