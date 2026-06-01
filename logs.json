@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:00:32",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Badhead Typeface\\Badhead Typeface.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:00:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Banthers\\Banthers.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:07:36",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Southern\\Southern.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:07:41",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Starburst\\Starburst.otf",
         "Status":  "Alerta"
     }
 ]
