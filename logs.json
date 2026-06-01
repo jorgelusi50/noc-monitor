@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:14:27",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\SAFFRONTOO.TTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:14:32",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Sketch_Block.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:22:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Rothman\\Rothman.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:22:15",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Sangli-NorThi\\Sangli-NorThi.jpg",
         "Status":  "Alerta"
     }
 ]
