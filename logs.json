@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-29 17:05:20",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\MAIO\\29-05-2026\\VINCO VIA HOUSE.plt",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-29 17:05:25",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\MAIO\\29-05-2026\\VINCO VIA HOUSE2.plt",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 11:12:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\GABRIELY\\FLORA\\FLORA BANNERS 01 06.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 11:13:36",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\GABRIELY\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
