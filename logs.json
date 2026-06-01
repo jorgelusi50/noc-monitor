@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:47:41",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeulisAlt-Black.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:47:45",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeulisAlt-ExtraBold.ttf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-01 15:54:58",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:55:03",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
