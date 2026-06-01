@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:23:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Variane Script\\Variane Script.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:23:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Walkway\\Walkway.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:32:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Rebecca\\Rebecca.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:32:06",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\REVOLUTION\\REVOLUTION.jpg",
         "Status":  "Alerta"
     }
 ]
