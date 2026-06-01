@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:30:20",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Montserrat-SemiBoldItalic.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:30:25",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Montserrat-Light.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:37:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Lato-BlackItalic.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:37:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Amelia-Basic-OblicuaBold.ttf",
         "Status":  "Alerta"
     }
 ]
