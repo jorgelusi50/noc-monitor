@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:07:46",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Stout Roughen\\Stout Roughen.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:07:51",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Sulphur\\SULPHUR.TTF",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:16:36",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Ricca Script\\Ricca Script.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:16:42",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Rolla regular\\Rolla regular.jpg",
         "Status":  "Alerta"
     }
 ]
