@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 11:32:28",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\GABRIELY\\RENAN\\NICO_ADESIVO2.png",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 11:32:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\GABRIELY\\RENAN\\NICO_ADESIVO1.png",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:09:15",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\FONTES CURSIVAS\\Saint-Andrews Queen.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:09:21",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 01\\actionj.ttf",
         "Status":  "Alerta"
     }
 ]
