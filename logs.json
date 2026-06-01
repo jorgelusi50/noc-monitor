@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:52:21",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Bison-RegularItallic.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:52:26",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:01:21",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Centauri\\Centauri.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:01:26",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Charmeur\\CHARMEUR.TTF",
         "Status":  "Alerta"
     }
 ]
