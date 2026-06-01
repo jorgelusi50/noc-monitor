@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 09:33:34",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ISADORA\\Etiqueta_Numero_de_serie_ (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 09:33:45",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ISADORA\\IMPRESSAO-FERNANDO",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 12:56:52",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 12:57:02",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\GABRIELY\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
