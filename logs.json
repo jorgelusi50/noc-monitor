@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:10:04",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Albori\\Albori.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:10:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Alisandra Script\\Alisandra.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:17:41",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Sofia Pro\\Sofia Pro.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:17:46",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Soubrette\\Soubrette.jpg",
         "Status":  "Alerta"
     }
 ]
