@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:29:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\LaurinText\\LaurinText.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:29:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Letro\\Letro.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:36:24",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Franklin Gothic Pro-Book.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:36:30",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Franklin Gothic Pro-Medium.ttf",
         "Status":  "Alerta"
     }
 ]
