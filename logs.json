@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:44:30",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\Flemmatico Regular.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:44:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\fonnts.com-vodkapen-regular-1.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:50:40",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\CBF Nike 2022.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:50:46",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\CHARMEUR.TTF",
         "Status":  "Alerta"
     }
 ]
