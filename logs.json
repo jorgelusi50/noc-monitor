@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:18:56",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\ALEATORIAS\\airstrike3d.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:19:02",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\ALEATORIAS\\airstrikechrome.ttf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:27:12",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Maulina.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:27:14",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Maulina.otf",
         "Status":  "Alerta"
     }
