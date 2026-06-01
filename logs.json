@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:39:22",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\RooneySansHvIt.OTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:39:27",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\RooneySansMediumIt.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 14:47:31",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Ants Valley - Personal Use.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:47:33",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Ants Valley - Personal Use.otf",
         "Status":  "Alerta"
     }
