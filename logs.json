@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:40:28",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (2)\\GRAFFITI.TTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:40:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (2)\\GRAFFPITY.ttf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:47:39",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeulisAlt-Black.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:47:41",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeulisAlt-Black.ttf",
         "Status":  "Alerta"
     }
