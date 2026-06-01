@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:54:47",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\1221_1.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:54:52",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\1942.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:02:51",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Halfback\\Halfback.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:02:56",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Harry\\Harry.jpg",
         "Status":  "Alerta"
     }
 ]
