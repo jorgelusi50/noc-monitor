@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:25:39",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Armor Piercing 2.0 BB\\Armor Piercing 2.0 BB.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:25:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Articulat CF Thin\\ArticulatCF-Thin.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:33:18",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Stout Roughen\\Stout Roughen.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:33:19",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Streamster\\Streamster.jpg",
         "Status":  "Alerta"
     }
 ]
