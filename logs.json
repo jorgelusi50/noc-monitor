@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:04:41",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Louisiana\\Louisiana.TTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:04:47",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Lustinmal\\Lustinmal.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:12:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Everglow\\Everglow.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:12:35",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Expressa-DemiBold\\Expressa-DemiBold.ttf",
         "Status":  "Alerta"
     }
 ]
