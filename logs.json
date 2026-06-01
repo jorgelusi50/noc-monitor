@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:25:23",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Alisandra Script\\Alisandra.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:25:29",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Andalusia Script\\Andalusia Script.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:33:12",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Stout Roughen\\Stout Roughen.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:33:14",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Stout Roughen\\Stout Roughen.otf",
         "Status":  "Alerta"
     }
 ]
