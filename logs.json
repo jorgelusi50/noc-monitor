@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:39:30",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaBlkIt.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:39:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Anaphora-ExtraBold-Italic-trial.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:46:49",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Horelios Light.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:46:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\LEMONMILK-LightItalic.otf",
         "Status":  "Alerta"
     }
 ]
