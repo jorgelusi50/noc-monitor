@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:41:18",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Bypha.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:41:24",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Celestial.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 14:48:55",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Asap-Symbol.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:48:56",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Asap-Symbol.otf",
         "Status":  "Alerta"
     }
