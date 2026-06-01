@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:24:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\montserrat\\MontserratAlternates-ExtraBold.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:24:27",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\montserrat\\MontserratAlternates-SemiBold.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:31:40",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Anaphora-Regular-trial.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:31:41",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Anaphora-Regular-trial.ttf",
         "Status":  "Alerta"
     }
