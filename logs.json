@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:36:09",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Fontspring-DEMO-visbycf-demiboldoblique.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:36:14",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Fontspring-DEMO-visbycf-heavyoblique.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:44:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\The Moment.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:44:29",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\TT Prosto Sans.otf",
         "Status":  "Alerta"
     }
 ]
