@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:44:20",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\Cinerun-Italic.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:44:25",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\CSReplikaDrawn-Regular_demo-BF68a57deb24013.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:50:30",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Braxton Regular.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:50:35",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Bronco Regular.otf",
         "Status":  "Alerta"
     }
 ]
