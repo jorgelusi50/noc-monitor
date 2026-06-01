@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:11:54",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Bira_PERSONAL_USE_ONLY.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:12:00",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\CaviarDreams.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:19:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Jonathan\\Jonathan.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:19:25",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Karmela\\Karmela.otf",
         "Status":  "Alerta"
     }
 ]
