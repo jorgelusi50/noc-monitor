@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:16:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Brightside Typeface\\Brightside Typeface.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:16:44",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Bypha\\Bypha.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:24:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\ALEATORIAS\\airstrike3d.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:24:10",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\ALEATORIAS\\airstrikebullet.ttf",
         "Status":  "Alerta"
     }
 ]
