@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:04:03",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\KazimirText\\KazimirText.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:04:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Komoda\\Komoda.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:11:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Code Light\\Code Light.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:12:02",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Debute Sharp\\Debute Sharp.jpg",
         "Status":  "Alerta"
     }
 ]
