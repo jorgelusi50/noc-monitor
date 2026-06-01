@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:06:57",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Roverd Pro\\Roverd Pro.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:06:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Roverd Pro\\Roverd Pro.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:15:17",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Micro\\MICRO.TTF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:15:22",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Monday\\Monday.otf",
         "Status":  "Alerta"
     }
 ]
