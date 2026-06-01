@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:33:03",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Malina1.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:33:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Malina1.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:41:58",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES LOUCAS\\BOZART.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:42:04",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES LOUCAS\\cczoinks.ttf",
         "Status":  "Alerta"
     }
 ]
