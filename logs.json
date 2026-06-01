@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:02:22",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Fenrir Gothic\\Fenrir Gothic.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:02:24",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Fibon Sans Regular\\Fibon Sans Regular.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:09:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Aaron Script\\Aaron Script.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:09:58",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Accuratist\\Accuratist.otf",
         "Status":  "Alerta"
     }
 ]
