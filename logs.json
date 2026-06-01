@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:40:01",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (11)\\Bradwall Outline.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:40:07",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (13)\\Brione.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:47:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\MontserratAlternates-ExtraBold.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:47:23",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\MontserratAlternates-Regular.otf",
         "Status":  "Alerta"
     }
 ]
