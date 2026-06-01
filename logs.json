@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:14:49",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Ventography_Personal_Use_Only.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:14:54",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\where stars shine the brightest.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:22:31",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Sinister\\Sinister.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:22:37",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Sobek\\Sobek.jpg",
         "Status":  "Alerta"
     }
 ]
