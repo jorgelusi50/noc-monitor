@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 08:37:59",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\FLORA\\Modelo banners-2.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 08:38:12",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\FLORA\\Modelo banners-3.tif",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-01 11:39:21",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ISADORA\\ADESIVO-ISADORA\\VINIL BRANCO 13X19.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 11:39:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ISADORA\\ADESIVO-ISADORA\\VINIL BRANCO 13X19.cdr",
         "Status":  "Alerta"
