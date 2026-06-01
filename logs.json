@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:51:57",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\INFANT.TTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:52:03",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\KANDIDE.ttf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-01 16:00:51",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 16:00:53",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
