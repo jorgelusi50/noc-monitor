@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:43:36",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Open Sans.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:43:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Party52.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 14:50:49",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Gattely DEMO.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:50:50",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Gattely DEMO.ttf",
         "Status":  "Alerta"
     }
