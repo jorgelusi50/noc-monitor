@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:42:58",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Lumberjack Inline Rough.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:43:03",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\MarkPro-Light.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:50:26",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Amelia-Basic-Italic.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:50:32",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Maqin Larisa Display.ttf",
         "Status":  "Alerta"
     }
 ]
