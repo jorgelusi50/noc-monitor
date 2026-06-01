@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:32:47",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Sofia Pro\\Sofia Pro.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:32:52",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Soubrette\\Soubrette.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 14:39:38",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\stylesheet.css",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:39:39",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\stylesheet.css",
         "Status":  "Alerta"
     }
