@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:12:12",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Demonius line Grunge\\Demonius line Grunge.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:12:18",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\DK Otago\\DK Otago.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:20:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\DupletOpen-Extralight-BF660637b41bdc3.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:20:15",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\DupletOpen-Semibold-BF660637b44507f.otf",
         "Status":  "Alerta"
     }
 ]
