@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:38:12",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-MediumItalic.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:38:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-SemiBold.eot",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:46:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Adventure.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:46:39",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Futura Bold Italic font.ttf",
         "Status":  "Alerta"
     }
 ]
