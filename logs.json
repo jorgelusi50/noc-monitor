@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:47:26",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\DK Chocolatte.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:47:27",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\DK Chocolatte.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:54:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 01\\KILLEDDJ.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:54:09",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 01\\MAMMAGAMMA.ttf",
         "Status":  "Alerta"
     }
 ]
