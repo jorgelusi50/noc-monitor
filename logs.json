@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:44:41",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\intervogue-soft-alt-regular.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:44:47",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\Locomotype  GigaSansBold.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:50:51",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Cornerstone.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:50:56",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Demonius line Grunge.otf",
         "Status":  "Alerta"
     }
 ]
