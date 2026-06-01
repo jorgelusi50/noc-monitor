@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:10:40",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\36daythk.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:10:46",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\42____.TTF",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:18:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\HuxleyVertical BT\\HuxleyVertical BT.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:18:51",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Ikaros Sans Light\\Ikaros Sans Light.jpg",
         "Status":  "Alerta"
     }
 ]
