@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:35:19",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\ALEATORIAS\\PANTONDEMO-BLACK.OTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:35:20",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\ALEATORIAS\\PANTONDEMO-BLACKITALIC.OTF",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:43:30",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Neutra Display Titling.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:43:36",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Open Sans.ttf",
         "Status":  "Alerta"
     }
 ]
