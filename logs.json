@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:26:44",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Lantana.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:26:50",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Letro.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:33:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Isidora-Black-Italic.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:33:40",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Futura XBlk BT.ttf",
         "Status":  "Alerta"
     }
 ]
