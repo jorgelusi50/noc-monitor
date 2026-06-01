@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-29 14:21:31",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\LIVIA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-29 14:21:45",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\LIVIA\\SELETO",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 08:55:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\FLORA\\Modelo banners-33.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 09:00:08",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\EDSON\\Cópia_de_segurança_de_JANETE.cdr",
         "Status":  "Alerta"
     }
 ]
