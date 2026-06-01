@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:45:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\DupletOpen-Thin-BF660637b42dee2.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:45:40",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\DupletOpen-ThinItalic-BF660637b321f72.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:51:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Halfback.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:51:36",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Higher.otf",
         "Status":  "Alerta"
     }
 ]
