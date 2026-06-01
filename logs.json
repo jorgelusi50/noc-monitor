@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:13:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\lacuna.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:13:43",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\LHF_Cosmic_Cursive.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:21:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\P22UndergroundHeavySC\\P22UndergroundHeavySC.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:21:29",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Patisserie\\Patisserie.jpg",
         "Status":  "Alerta"
     }
 ]
