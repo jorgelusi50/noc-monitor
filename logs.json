@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:29:17",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Simply Rounded Bold Italic.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:29:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\goodvibes.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:36:43",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Lato-LightItalic.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:36:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\RNSCamelia-MediumItalic.otf",
         "Status":  "Alerta"
     }
 ]
