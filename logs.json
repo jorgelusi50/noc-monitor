@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:43:42",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES LOUCAS\\MYSTICALGLORIOUS-Regular.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:43:47",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES LOUCAS\\NOVAS FONTES (11).ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:49:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Armor Piercing 2.0 BB.TTF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:50:04",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\ASENINE.ttf",
         "Status":  "Alerta"
     }
 ]
