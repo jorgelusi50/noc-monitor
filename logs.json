@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:03:36",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Industrial Zoo\\industrial zoo.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:03:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Insomnia\\Insomnia.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:11:32",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Bypha\\Bypha.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:11:38",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Caviar Dreams\\Caviar Dreams.jpg",
         "Status":  "Alerta"
     }
 ]
