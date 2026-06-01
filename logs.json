@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:58:01",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\KlinicSlabLightIt.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:58:06",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\LasVegas Jackpot.ttf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-01 15:06:08",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:06:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
