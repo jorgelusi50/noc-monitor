@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:33:56",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Trend HM\\Trend HM.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:34:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\TT Prosto Sans\\TT Prosto Sans.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:41:45",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\EQPro-Thin.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:41:50",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Fenrir Gothic.otf",
         "Status":  "Alerta"
     }
 ]
