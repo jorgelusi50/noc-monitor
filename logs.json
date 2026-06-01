@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:41:45",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\EQPro-Thin.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:41:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Fenrir Gothic.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:49:16",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objective-Light.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:49:22",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeue-ThinCondObl.otf",
         "Status":  "Alerta"
     }
 ]
