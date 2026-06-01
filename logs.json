@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:34:11",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Elrotex Basic.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:34:17",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Asap-Bold.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:43:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES LOUCAS\\GRVSInsurrection Italic.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:43:14",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES LOUCAS\\Hiswer-BDZ.otf",
         "Status":  "Alerta"
     }
 ]
