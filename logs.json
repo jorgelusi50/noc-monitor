@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:46:38",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Getho-Bold.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:46:44",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Heist-Regular.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:53:43",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\SOUBRETT.TTF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:53:49",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Steamfunk.ttf",
         "Status":  "Alerta"
     }
 ]
