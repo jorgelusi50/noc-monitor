@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:24:25",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\ALEATORIAS\\dodger3_2cond.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:24:30",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\ALEATORIAS\\dodger3_2ital.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:32:58",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Standard Issue\\Standard Issue.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:33:02",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Steamfunk\\Steamfunk.jpg",
         "Status":  "Alerta"
     }
 ]
