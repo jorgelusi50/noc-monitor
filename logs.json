@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:31:14",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Isidora-Alt-Light.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:31:16",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-Thin.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:38:55",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Adventure Hollow.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:39:01",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\MontserratAlternates-Italic.otf",
         "Status":  "Alerta"
     }
 ]
