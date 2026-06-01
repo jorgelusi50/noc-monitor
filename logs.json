@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:16:17",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Befitting Alternates\\Befitting Alternates.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:16:22",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\BigNoodleTitling\\BigNoodleTitling.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:23:48",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Wanih\\Wanih.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:23:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\XctasySansRR\\XctasySansRR.jpg",
         "Status":  "Alerta"
     }
 ]
