@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-29 14:52:49",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\GABBIA\\quero_imprimir_esses_6_cartoes_em_10x10_couche_150g (1)_Página_3.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-29 14:52:54",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\GABBIA\\quero_imprimir_esses_6_cartoes_em_10x10_couche_150g (1)_Página_3.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 09:43:50",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\LIVIA\\SIMONE\\VINIL 13X19 VINIL.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 09:47:09",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\ISADORA\\BANNER-LUISA\\Faixa_patrocinadores_png.png",
         "Status":  "Alerta"
     }
 ]
