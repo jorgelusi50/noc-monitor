@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:45:25",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\DupletOpen-BoldItalic-BF660637b41d189.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:45:31",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\DupletOpen-Light-BF660637b42482b.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:51:18",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Felix.TTF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:51:20",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Felix.TTF",
         "Status":  "Alerta"
     }
