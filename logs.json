@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:12:35",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Expressa-DemiBold\\Expressa-DemiBold.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:12:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Expressa-DemiBold\\Expressa-DemiBold.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:20:37",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Franklin Gothic Pro-Book.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:20:43",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Franklin Gothic Pro-HeavyItalic.ttf",
         "Status":  "Alerta"
     }
 ]
