@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:26:16",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\HoratioDLig.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:26:21",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Humblle Rought.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:33:03",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Malina1.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:33:05",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Malina1.ttf",
         "Status":  "Alerta"
     }
