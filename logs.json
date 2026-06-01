@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:32:21",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Roverd Pro\\Roverd Pro.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:32:26",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Seilotta\\Seilotta.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 14:39:16",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\RooneySansBlkIt.OTF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:39:17",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\RooneySansBlkIt.OTF",
         "Status":  "Alerta"
     }
