@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:31:23",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-ThinSlanted.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:31:24",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-ThinSlanted.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:39:20",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Lato-Bold.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:39:25",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Zeuty Swash.otf",
         "Status":  "Alerta"
     }
 ]
