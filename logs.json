@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:11:12",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\911BM3_4.FON",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:11:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\911v2l_4.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:18:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Ikaros Sans Light\\Ikaros Sans Light.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:19:01",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Industrial Zoo\\Industrial Zoo.jpg",
         "Status":  "Alerta"
     }
 ]
