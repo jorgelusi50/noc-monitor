@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:30:12",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Madre Script\\Madre Script.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:30:18",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Mashine Regular\\Mashine Regular.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:37:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeueMontreal-BoldItalic.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:37:12",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeueMontreal-Medium.otf",
         "Status":  "Alerta"
     }
 ]
