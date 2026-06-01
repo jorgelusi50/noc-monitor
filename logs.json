@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:20:58",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\LEMONMILK-LightItalic.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:21:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\LEMONMILK-RegularItalic.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:29:12",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Zeuty Swash.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:29:17",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Simply Rounded Bold Italic.ttf",
         "Status":  "Alerta"
     }
 ]
