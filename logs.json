@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:37:58",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\America.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:38:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Anaphora-Bold-Italic-trial.ttf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:45:55",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Fontspring-DEMO-visbycf-boldoblique.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:45:57",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Fontspring-DEMO-visbycf-boldoblique.otf",
         "Status":  "Alerta"
     }
