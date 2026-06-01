@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:45:00",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeue-ExtendedObl.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:45:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\LeagueGothic-CondensedItalic.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:51:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeueCondensedBlack.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:51:42",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\helvetica-rounded-bold-5871d05ead8de.otf",
         "Status":  "Alerta"
     }
 ]
