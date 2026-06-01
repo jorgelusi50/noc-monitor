@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:08:18",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Univia Pro\\Univia Pro.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:08:24",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Vonique 64\\Vonique 64.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:16:52",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Rolla regular\\Rolla regular.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:16:53",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Rothman\\Rothman.jpg",
         "Status":  "Alerta"
     }
 ]
