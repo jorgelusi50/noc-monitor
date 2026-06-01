@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:50:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\XtreemThin_PERSONAL_USE.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:50:26",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Amelia-Basic-Italic.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:58:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\KlinicSlabLightIt.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:58:06",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\LasVegas Jackpot.ttf",
         "Status":  "Alerta"
     }
 ]
