@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:56:17",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Babalusa-cut-font.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:56:22",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Billabong.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:04:20",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Laqonic 4F Unicase Medium\\Laqonic 4F Unicase Medium.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:04:25",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\LaurinText\\LaurinText.TTF",
         "Status":  "Alerta"
     }
 ]
