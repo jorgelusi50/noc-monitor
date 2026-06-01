@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:05:30",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Mr Dafoe\\Mr Dafoe.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:05:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Nanami Rounded ExtraLight\\Nanami Rounded ExtraLight.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:13:16",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\hillda\\hillda.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:13:21",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\HMS Gilbert Script\\HMS Gilbert Script.jpg",
         "Status":  "Alerta"
     }
 ]
