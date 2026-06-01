@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:14:10",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Parisienne-Regular.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:14:16",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Quadranta-Regular.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:21:55",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Reso\\Reso.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:21:59",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\REVOLUTION\\REVOLUTION.ttf",
         "Status":  "Alerta"
     }
 ]
