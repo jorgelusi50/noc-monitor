@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:08:35",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Winery\\Winery.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:08:41",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Xyngia\\Xyngia.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:16:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Rothman\\Rothman.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:16:58",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Rothman\\Rothman.ttf",
         "Status":  "Alerta"
     }
 ]
