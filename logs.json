@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:45:06",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\MILONER-2Medium.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:45:11",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\SolarieHalsyDemo-Regular.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:51:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Expressa-DemiBold.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:51:12",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\FabfeltScript Bold.otf",
         "Status":  "Alerta"
     }
 ]
