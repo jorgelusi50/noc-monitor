@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:42:54",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES LOUCAS\\Gangsta.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:43:00",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES LOUCAS\\Gonstar.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:49:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\ABOVE.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:49:36",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Accuratist.otf",
         "Status":  "Alerta"
     }
 ]
