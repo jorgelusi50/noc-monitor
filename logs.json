@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:48:17",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\FranklinGothic.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:48:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\MontserratAlternates-Thin.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:55:52",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\AARDV_2.TTF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:55:57",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\3978.ttf",
         "Status":  "Alerta"
     }
 ]
