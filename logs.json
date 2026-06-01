@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:12:44",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Gabo___Free_Elegant_Font_by_Dannci_0.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:12:49",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Geltina Elemente trash.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:20:15",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Lumberjack Inline Rough\\Lumberjack Inline Rough.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:20:16",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Lustinmal\\Lustinmal.jpg",
         "Status":  "Alerta"
     }
 ]
