@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:55:05",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\309Italic.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:55:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\39smooth.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:03:12",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\HMS Gilbert Script\\HMS Gilbert Script.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:03:18",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Honey Script\\Honey Script.jpg",
         "Status":  "Alerta"
     }
 ]
