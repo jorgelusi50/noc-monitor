@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:17:06",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Roverd Pro\\Roverd Pro.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:17:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Roverd Pro\\Roverd Pro.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:25:22",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\CA Recape Raw.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:25:27",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Cenotaph Titling.otf",
         "Status":  "Alerta"
     }
 ]
