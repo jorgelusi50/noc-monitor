@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-29 13:47:09",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\LIVIA\\PRISCILA\\redondo.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-29 13:52:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\ISADORA\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 08:37:47",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\FLORA\\Modelo banners-1.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 08:37:59",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\FLORA\\Modelo banners-2.tif",
         "Status":  "Alerta"
     }
 ]
