@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:32:58",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Standard Issue\\Standard Issue.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:33:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Steamfunk\\Steamfunk.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:39:45",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\SweetSansProExThin.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:39:50",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\SweetSansProItalic.otf",
         "Status":  "Alerta"
     }
 ]
