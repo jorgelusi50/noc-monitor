@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:37:48",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-ExtraLightItalic.eot",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:37:52",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-Italic.eot",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:46:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-SuperSlanted.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:46:13",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Devil_Breeze_Bold.otf",
         "Status":  "Alerta"
     }
 ]
