@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:55:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\7theb_3.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:55:27",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\7tho3_5.ttf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:03:28",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Humblle Rought\\Humblle Rought.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:03:30",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Humblle Rought\\Humblle Rought.otf",
         "Status":  "Alerta"
     }
