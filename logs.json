@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:11:55",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Code Light\\Code Light.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:11:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Code Light\\Code Light.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:19:48",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\ALEATORIAS\\Cinzel\\readme.txt",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:19:54",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\ALEATORIAS\\RespondentBlack_PERSONAL_USE_ONLY\\RespondentThin_PERSONAL_USE_ONLY.otf",
         "Status":  "Alerta"
     }
 ]
