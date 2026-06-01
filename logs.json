@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:32:43",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Montserrat-Italic.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:32:48",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeue-UltraLigCond.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:41:25",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (7)\\Bomber throw Outline.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:41:31",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (8)\\Bombsky.ttf",
         "Status":  "Alerta"
     }
 ]
