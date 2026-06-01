@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:58:50",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Quadranta-Bold.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:58:56",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Realistik.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:06:43",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Robinson Regular\\Robinson Regular.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:06:48",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Rothman\\Rothman.ttf",
         "Status":  "Alerta"
     }
 ]
