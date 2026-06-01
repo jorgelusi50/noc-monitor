@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:19:33",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\ALEATORIAS\\PANTONDEMO-BLACK.OTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:19:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\ALEATORIAS\\PANTONNARROW-TRIAL-BLACK.TTF",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:27:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Pompejir.TTF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:27:54",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Pradyse.otf",
         "Status":  "Alerta"
     }
 ]
