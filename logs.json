@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:18:26",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Hollyland\\Hollyland.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:18:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Honey Script\\Honey Script.TTF",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:26:07",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\a_Lancet\\a_Lancet.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:26:13",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Bajka-Bold\\Bajka-Bold.ttf",
         "Status":  "Alerta"
     }
 ]
