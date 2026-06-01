@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:22:37",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Sobek\\Sobek.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:22:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Sobek\\Sobek.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:30:58",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Nanami Rounded ExtraLight\\Nanami Rounded ExtraLight.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:31:04",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Natasha\\Natasha.jpg",
         "Status":  "Alerta"
     }
 ]
