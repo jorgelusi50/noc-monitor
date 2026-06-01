@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:20:15",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\DupletOpen-Semibold-BF660637b44507f.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:20:21",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Fontspring-DEMO-visbycf-bold.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:28:31",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Streamster.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:28:36",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\TripleCondensedGothicRR.ttf",
         "Status":  "Alerta"
     }
 ]
