@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:54:04",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 01\\KILLEDDJ.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:54:09",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 01\\MAMMAGAMMA.ttf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:02:25",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Fibon Sans Regular\\Fibon Sans Regular.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:02:26",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Fibon Sans Regular\\Fibon Sans Regular.jpg",
         "Status":  "Alerta"
     }
