@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:40:18",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\montserrat\\MontserratAlternates-Light.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:40:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\montserrat\\MontserratAlternates-Thin.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 14:47:52",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-RegularSlanted.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:47:54",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-RegularSlanted.otf",
         "Status":  "Alerta"
     }
