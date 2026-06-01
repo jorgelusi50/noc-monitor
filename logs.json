@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:59:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\ABOVE\\ABOVE.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:59:39",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\ABOVE\\ABOVE.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:07:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Seilotta\\Seilotta.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:07:09",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Seren Script\\Seren Script.otf",
         "Status":  "Alerta"
     }
 ]
