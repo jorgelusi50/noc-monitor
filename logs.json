@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:16:28",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Bordeaux Light\\Bordeaux Light.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:16:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Brand Neue\\BrandNeue-Regular.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:23:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Xyngia\\Xyngia.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:24:01",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Young Heart\\Young Heart.jpg",
         "Status":  "Alerta"
     }
 ]
