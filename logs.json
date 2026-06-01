@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:05:19",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Micro\\MICRO.TTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:05:25",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Monoton\\Monoton.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:13:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Handletter\\Handletter.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:13:10",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Heat Wave\\Heat Wave.otf",
         "Status":  "Alerta"
     }
 ]
