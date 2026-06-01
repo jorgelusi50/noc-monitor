@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:06:32",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Reso\\Reso.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:06:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\REZ\\REZ.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:14:27",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\LillyBelle\\LillyBelle.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:14:32",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Logawa Regular\\Logawa Regular.otf",
         "Status":  "Alerta"
     }
 ]
