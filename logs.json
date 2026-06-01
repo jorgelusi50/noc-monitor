@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:39:10",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Isidora-Thin-Italic.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:39:15",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Amelia-Basic-LightItalic.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:46:32",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Franklin Gothic Pro-HeavyItalic.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:46:34",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Franklin Gothic Pro-HeavyItalic.ttf",
         "Status":  "Alerta"
     }
