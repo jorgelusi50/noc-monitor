@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:29:33",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Laqonic 4F Unicase Medium\\Laqonic 4F Unicase Medium.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:29:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\LaurinText\\LaurinText.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:36:19",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Fontspring-DEMO-visbycf-mediumoblique.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:36:24",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Franklin Gothic Pro-Book.ttf",
         "Status":  "Alerta"
     }
 ]
