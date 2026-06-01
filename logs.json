@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:37:37",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-ExtraBold.woff",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:37:43",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-ExtraLight.eot",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:45:58",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-MediumSlanted.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:46:03",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Gotham-Black.otf",
         "Status":  "Alerta"
     }
 ]
