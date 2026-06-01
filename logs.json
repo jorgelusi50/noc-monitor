@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:32:26",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\BebasNeue-Regular.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:32:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Blue Pen.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:40:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (27)\\Street Lord.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:41:05",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (29)\\Street Urban.otf",
         "Status":  "Alerta"
     }
 ]
