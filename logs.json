@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:24:01",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Young Heart\\Young Heart.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:24:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\ALEATORIAS\\airstrike3d.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:32:31",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Seren Script\\Seren Script.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:32:37",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Shintia Script\\Shintia Script.jpg",
         "Status":  "Alerta"
     }
 ]
