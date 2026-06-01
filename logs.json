@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:44:44",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Young Heart.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:44:50",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\SIGNCUT-20240111T162048Z-001\\vvds-benigne-sans-extralight-italic.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:51:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Moonshiner-Round.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:51:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\XtreemMedium_PERSONAL_USE.ttf",
         "Status":  "Alerta"
     }
 ]
