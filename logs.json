@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:55:57",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\3978.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:56:03",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Adamas-Regular.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:03:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Kathya\\Kathya.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:04:03",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\KazimirText\\KazimirText.ttf",
         "Status":  "Alerta"
     }
 ]
