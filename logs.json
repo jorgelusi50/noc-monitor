@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:19:07",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Industrial Zoo\\industrial zoo.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:19:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Industrial Zoo\\industrial zoo.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:27:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\FabfeltScript Bold\\FabfeltScript Bold.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:27:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Fibon Sans Regular\\Fibon Sans Regular.jpg",
         "Status":  "Alerta"
     }
 ]
