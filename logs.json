@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:38:29",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Montserrat-ExtraBold.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:38:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\RifficFree-Bold.ttf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:46:06",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Fontspring-DEMO-visbycf-demiboldoblique.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:46:07",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Fontspring-DEMO-visbycf-demiboldoblique.otf",
         "Status":  "Alerta"
     }
