@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:47:18",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\MontserratAlternates-ExtraBold.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:47:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\MontserratAlternates-Regular.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:54:27",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\GABRIELY\\REGINALDO\\REGINALDO ADESIVOS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:54:32",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
 ]
