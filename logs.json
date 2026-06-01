@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:07:03",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Seilotta\\Seilotta.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:07:09",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Seren Script\\Seren Script.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:15:28",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Movie Letters\\Movie Letters.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:15:33",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Nanami Rounded ExtraLight\\Nanami Rounded ExtraLight.jpg",
         "Status":  "Alerta"
     }
 ]
