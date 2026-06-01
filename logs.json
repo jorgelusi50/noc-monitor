@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:11:34",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Aaargh.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:11:39",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\always forever.ttf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 14:19:05",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Industrial Zoo\\industrial zoo.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:19:07",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Industrial Zoo\\industrial zoo.ttf",
         "Status":  "Alerta"
     }
