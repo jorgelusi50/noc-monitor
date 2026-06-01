@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:01:37",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\DecimaMonoRound\\DecimaMonoRound.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:01:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\DecourSoft-Semibold\\DecourSoft-Semibold.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:08:41",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Xyngia\\Xyngia.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:08:46",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\ALEATORIAS\\airstrikeacad.ttf",
         "Status":  "Alerta"
     }
 ]
