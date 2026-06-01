@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:56:09",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Artbrush.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:56:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\ArtDecoChicP22.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:04:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Komoda\\Komoda.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:04:14",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\LaguneLight\\LaguneLight.TTF",
         "Status":  "Alerta"
     }
 ]
