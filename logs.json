@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:10:24",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\12tonsushi_2.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:10:29",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\1980PORT.TTF",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:18:45",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\HuxleyVertical BT\\HuxleyVertical BT.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:18:46",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\HuxleyVertical BT\\HuxleyVertical BT.ttf",
         "Status":  "Alerta"
     }
 ]
