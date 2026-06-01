@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:23:29",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\RooneySansHvIt.OTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:23:34",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\RooneySansMediumIt.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:31:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-Thin.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:31:20",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-ThinSlanted.otf",
         "Status":  "Alerta"
     }
 ]
