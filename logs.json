@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:51:28",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\XtreemMedium_PERSONAL_USE.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:51:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Raleway-ExtraBoldItalic.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:00:16",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Assassin$\\Assassin$.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:00:21",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Avanti\\Avanti.jpg",
         "Status":  "Alerta"
     }
 ]
