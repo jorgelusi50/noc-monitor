@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:56:49",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\DiscoDiva.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:56:54",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\ElsieSwashCaps-Black.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:04:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Madre Script\\Madre Script.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:04:58",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\MarkPro-Light\\MarkPro-Light.otf",
         "Status":  "Alerta"
     }
 ]
