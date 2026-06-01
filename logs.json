@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:23:27",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\TT Prosto Sans\\TT Prosto Sans.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:23:32",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Tungsten\\Tungsten.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:31:51",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Pure Black VMF\\Pure Black VMF.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:31:56",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Queens68\\Queens68.jpg",
         "Status":  "Alerta"
     }
 ]
