@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:47:08",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-ExtraBoldSlanted.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:47:14",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Lato-MediumItalic.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:53:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\FONTES CURSIVAS\\Whirled Peas NF.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:53:47",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 01\\actionj.ttf",
         "Status":  "Alerta"
     }
 ]
