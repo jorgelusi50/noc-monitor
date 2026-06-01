@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:15:40",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Armalite Rifle\\Armalite Rifle.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:15:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Article\\Article.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:23:22",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Trend HM\\Trend HM.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:23:23",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\TripleCondensedGothicRR\\TripleCondensedGothicRR.jpg",
         "Status":  "Alerta"
     }
 ]
