@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:36:15",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Amelia-Basic.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:36:20",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeue-ExtBlackCondObl.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:44:47",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\Locomotype  GigaSansBold.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:44:51",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\Locomotype  GigaSansExtraLight.otf",
         "Status":  "Alerta"
     }
 ]
