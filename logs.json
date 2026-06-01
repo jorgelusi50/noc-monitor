@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:44:56",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\Locomotype  GigaSansLightItalic.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:45:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\Locomotype  GigaSansSemiBold.otf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-01 15:51:06",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Expressa-DemiBold.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:51:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Expressa-DemiBold.ttf",
         "Status":  "Alerta"
