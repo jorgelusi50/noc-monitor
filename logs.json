@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:27:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Fibon Sans Regular\\Fibon Sans Regular.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:27:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Getone-UltLig\\Getone-UltLig.otf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-01 14:34:44",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\ALEATORIAS\\airstrikecond.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:34:47",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\ALEATORIAS\\airstrikecond.ttf",
         "Status":  "Alerta"
