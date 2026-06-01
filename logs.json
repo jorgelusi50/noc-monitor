@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:57:05",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Feel Script.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:57:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\GatsbyFLF-Bold.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:05:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Measure\\Measure.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:05:15",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\MensuraRegular\\MensuraRegular.ttf",
         "Status":  "Alerta"
     }
 ]
