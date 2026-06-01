@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 13:25:20",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ANY\\CAROL\\VINIL BRANCO A4  24.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 13:25:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ANY\\CAROL\\VINIL BRANCO A4.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:12:49",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Geltina Elemente trash.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:12:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Gotham Nights Italic.otf",
         "Status":  "Alerta"
     }
 ]
