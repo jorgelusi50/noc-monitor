@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:57:39",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Jellyka CuttyCupcakes.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:57:44",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\JosefinSans-Light.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:05:46",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Nazareth\\Nazareth.TTF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:05:52",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Neutra Display Titling\\Neutra Display Titling.jpg",
         "Status":  "Alerta"
     }
 ]
