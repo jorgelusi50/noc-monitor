@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:14:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\where stars shine the brightest.ttf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-06-01 14:15:00",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Xiomara-Script.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:15:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\ZIGZRG__.TTF",
@@ -597,6 +585,18 @@
         "Data":  "2026-06-01 14:22:37",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Sobek\\Sobek.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:22:38",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Sobek\\Sobek.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:22:44",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Soubrette\\Soubrette.jpg",
         "Status":  "Alerta"
     }
 ]
