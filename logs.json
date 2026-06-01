@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 13:42:14",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\GABRIELA\\gabi\\Declaração que não utilizou recursos Universidade Gratuita ou FUMDESC durante outra graduação (curso todo) (2).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 13:49:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:15:11",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Aaron Script\\Aaron Script.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:15:16",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\AHMAD\\AHMAD Regular.ttf",
         "Status":  "Alerta"
     }
 ]
