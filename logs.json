@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:02:17",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Fenrir Gothic\\Fenrir Gothic.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:02:18",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Fenrir Gothic\\Fenrir Gothic.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:09:38",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\ALEATORIAS\\RespondentBlack_PERSONAL_USE_ONLY\\RespondentMedium_PERSONAL_USE_ONLY.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:09:42",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Fontes com Glifos (Pagas) @artenocorel\\valentime.zip",
         "Status":  "Alerta"
     }
 ]
