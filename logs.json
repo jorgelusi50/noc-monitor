@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:50:46",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Raleway-Bold.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:50:47",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Raleway-Bold.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:58:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\nickelodeon font 2.0 por disney channel nick city.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:58:39",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\OPTICristeta-BoldItalic.otf",
         "Status":  "Alerta"
     }
 ]
