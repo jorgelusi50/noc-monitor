@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:12:21",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Diavlo_MEDIUM_II_37.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:12:22",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Diavlo_MEDIUM_II_37.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:19:51",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\LaurinText\\LaurinText.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:19:57",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Letro\\Letro.ttf",
         "Status":  "Alerta"
     }
 ]
