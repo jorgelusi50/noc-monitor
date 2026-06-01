@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-29 14:42:44",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GF\\RD BIRO\\LONAS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-29 14:44:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GF\\RD BIRO\\LONAS.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 09:33:26",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ISADORA\\Formato_A5-_cores_4_x_4_laser_colorida_-_20_paginas-_frente_e_verso-_Corte_e_grampo_no_meio-_papel_couche_150-_25_copias (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 09:33:34",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ISADORA\\Etiqueta_Numero_de_serie_ (1).pdf",
         "Status":  "Alerta"
     }
 ]
