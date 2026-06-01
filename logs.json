@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:17:05",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Code Light\\Code Light.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:17:11",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Debute Sharp\\Debute Sharp.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:24:30",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\ALEATORIAS\\dodger3_2ital.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:24:56",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Fontes com Glifos (Pagas) @artenocorel\\josephsophia.zip",
         "Status":  "Alerta"
     }
 ]
