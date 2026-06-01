@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:49:08",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\SegmentAKeyTrial-Black.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:49:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\ABOVE.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:57:11",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_20.tiff",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:57:16",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_22.tiff",
         "Status":  "Alerta"
     }
 ]
