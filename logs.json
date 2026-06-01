@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:12:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Gilroy Light\\Gilroy Light.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:12:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Great Vibes\\Great Vibes.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:20:58",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\LEMONMILK-LightItalic.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:21:03",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\LEMONMILK-RegularItalic.otf",
         "Status":  "Alerta"
     }
 ]
