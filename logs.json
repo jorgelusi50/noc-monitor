@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:51:58",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Blogger Sans-Medium.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:52:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Futura Light font.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:00:54",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Boysen\\Boysen.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:00:59",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\BrianBecker\\BrianBecker.jpg",
         "Status":  "Alerta"
     }
 ]
