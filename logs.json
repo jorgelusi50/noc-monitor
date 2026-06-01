@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:10:03",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 01\\soopafre.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:10:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 01\\V5Myopia.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:18:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Honey Script\\Honey Script.TTF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:18:37",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\HouseMovements-Sign\\HouseMovements-Sign.jpg",
         "Status":  "Alerta"
     }
 ]
