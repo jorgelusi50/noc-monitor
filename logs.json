@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:32:14",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Anaphora-Italic-trial.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:32:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Lato-Thin.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:40:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (22)\\Southsider.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:40:49",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (23)\\Square Spray.ttf",
         "Status":  "Alerta"
     }
 ]
