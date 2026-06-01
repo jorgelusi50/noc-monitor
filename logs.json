@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:29:00",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\SIGNCUT-20240111T162048Z-001\\BrightLarch_PERSONAL_USE\\larch_poster03.png",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:29:06",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Gotham-XLightItalic.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:36:26",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Futura Light font.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:36:31",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Raleway-SemiBold.ttf",
         "Status":  "Alerta"
     }
 ]
