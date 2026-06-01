@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:36:30",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Franklin Gothic Pro-Medium.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:36:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Horelios Bold.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:44:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Young Heart.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:44:50",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\SIGNCUT-20240111T162048Z-001\\vvds-benigne-sans-extralight-italic.otf",
         "Status":  "Alerta"
     }
 ]
