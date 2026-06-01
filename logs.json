@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:40:18",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (17)\\Graffiti Rebel.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:40:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (19)\\Lodstay.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:47:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeueMontreal-Bold.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:47:35",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeueMontreal-LightItalic.otf",
         "Status":  "Alerta"
     }
 ]
