@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 08:44:11",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\18-05-26\\LIVIA\\DEBORA\\credencial.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 08:55:15",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\FLORA\\Modelo banners-22.tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 11:45:45",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\FLORA\\Modelo banners-33.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 11:46:37",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\25-05-26\\ANY\\BIA\\pedido 2.cdr",
         "Status":  "Alerta"
     }
 ]
