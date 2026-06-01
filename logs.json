@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:18:37",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\HouseMovements-Sign\\HouseMovements-Sign.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:18:43",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\HuxleyVertical BT\\HuxleyVertical BT.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:26:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Befitting Alternates\\Befitting Alternates.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:26:24",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\BigNoodleTitling\\BigNoodleTitling.jpg",
         "Status":  "Alerta"
     }
 ]
