@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:47:00",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\LEMONMILK-RegularItalic.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:47:06",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Montserrat-ExtraBold.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:54:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\TTSlabsCondensed.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:54:10",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Vonique 64.ttf",
         "Status":  "Alerta"
     }
 ]
