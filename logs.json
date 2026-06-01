@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:51:14",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\FabfeltScript Bold.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:51:16",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\FabfeltScript Bold.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 16:00:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_70.tiff",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 16:00:07",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
 ]
