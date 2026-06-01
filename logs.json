@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:51:13",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Amelia-Basic-Black.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:51:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Amelia-Basic-Black.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:59:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\_IO CON DIOS.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:59:38",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\ABOVE\\ABOVE.ttf",
         "Status":  "Alerta"
     }
 ]
