@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:49:01",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Isidora-Black-Italic.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:49:06",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Bison-DemiBold.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:56:39",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\CODE Light.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:56:43",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Diavlo_BLACK_II_37.otf",
         "Status":  "Alerta"
     }
 ]
