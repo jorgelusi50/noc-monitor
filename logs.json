@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:41:25",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (7)\\Bomber throw Outline.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:41:31",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (8)\\Bombsky.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:48:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeulisAlt-SemiBold.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:48:08",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeulisAlt-SemiBoldItalic.ttf",
         "Status":  "Alerta"
     }
 ]
