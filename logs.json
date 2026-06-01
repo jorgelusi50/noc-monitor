@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:49:27",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeue-LightExt.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:49:32",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Montserrat-Regular.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:57:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Feel Script.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:57:10",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\GatsbyFLF-Bold.ttf",
         "Status":  "Alerta"
     }
 ]
