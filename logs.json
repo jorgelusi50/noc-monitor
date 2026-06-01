@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:46:53",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\BaskervilleBoldBT.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:46:58",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeueUltraLight.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:53:28",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\fira-sans\\FiraSans-UltraItalic.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:53:33",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\FONTES CURSIVAS\\CANDY___.otf",
         "Status":  "Alerta"
     }
 ]
