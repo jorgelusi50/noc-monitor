@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:45:31",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Anaphora-Stencil-Thin-trial.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:45:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeue-ThinExtObl.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 14:52:04",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Futura Light font.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:52:05",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Futura Light font.ttf",
         "Status":  "Alerta"
     }
