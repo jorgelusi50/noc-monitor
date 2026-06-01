@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:37:28",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\advent-Lt3.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:37:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Rubik-BlackItalic.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:45:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\DupletOpen-ThinItalic-BF660637b321f72.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:45:45",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\fonnts.com-Adelle_Sans_Cnd_Semibold_Italic.otf",
         "Status":  "Alerta"
     }
 ]
