@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:20:02",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Lineat III\\Lineat III.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:20:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Louisiana\\Louisiana.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:28:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\HuxleyVertical BT\\HuxleyVertical BT.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:28:47",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Industrial Zoo\\Industrial Zoo.jpg",
         "Status":  "Alerta"
     }
 ]
