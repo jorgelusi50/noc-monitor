@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:51:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Honey Script.TTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:51:52",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Humblle Rought.otf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-01 16:00:48",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 16:00:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
