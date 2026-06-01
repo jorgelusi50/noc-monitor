@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:08:46",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\ALEATORIAS\\airstrikeacad.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:08:51",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\ALEATORIAS\\airstrikecond.ttf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:17:00",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Rothman\\Rothman.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:17:01",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Rothman\\Rothman.ttf",
         "Status":  "Alerta"
     }
