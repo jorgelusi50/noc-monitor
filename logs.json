@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:16:05",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Pasternak\\Pasternak.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:16:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Portico Diagonal\\Portico Diagonal.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:23:34",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\RooneySansMediumIt.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:23:40",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\SegmentAKeyTrial-Regular.otf",
         "Status":  "Alerta"
     }
 ]
