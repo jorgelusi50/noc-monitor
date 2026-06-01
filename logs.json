@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:20:13",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Lumberjack Inline Rough\\Lumberjack Inline Rough.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:20:15",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Lumberjack Inline Rough\\Lumberjack Inline Rough.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 14:28:52",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Infinity Geometric\\Infinity Geometric.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:28:54",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Infinity Geometric\\Infinity Geometric.ttf",
         "Status":  "Alerta"
     }
