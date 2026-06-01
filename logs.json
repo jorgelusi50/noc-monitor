@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:42:26",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES LOUCAS\\Enthusiast Behavior - TTF.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:42:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES LOUCAS\\FontsFree-Net-barras-bravas.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:48:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Revans SemiBold Italic.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:48:57",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\RooneySansBoldIt.OTF",
         "Status":  "Alerta"
     }
 ]
