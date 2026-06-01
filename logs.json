@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 13:39:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JUNHO\\01-06-2026\\vinco 01",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 13:39:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JUNHO\\01-06-2026\\vinco 01",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:14:27",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\SAFFRONTOO.TTF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:14:32",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Sketch_Block.ttf",
         "Status":  "Alerta"
     }
 ]
