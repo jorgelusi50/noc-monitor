@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 13:16:05",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 13:17:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\LIVIA\\SIMONE\\Cópia_de_segurança_de_VINIL 13X19 VINIL.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:12:06",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\clean up your mess.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:12:12",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\ColabBol.otf",
         "Status":  "Alerta"
     }
 ]
