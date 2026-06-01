@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:10:36",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Asfrogas\\Asfrogas.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:10:41",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\ATARA\\ATARA.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:18:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Sunset\\Sunset.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:18:35",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Walkway\\Walkway.jpg",
         "Status":  "Alerta"
     }
 ]
