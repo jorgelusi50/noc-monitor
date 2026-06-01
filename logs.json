@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:08:07",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Trend HM\\Trend HM.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:08:13",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\TTSlabsCondensed\\TTSlabsCondensed.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:16:48",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Rolla regular\\Rolla regular.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:16:50",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Rolla regular\\Rolla regular.otf",
         "Status":  "Alerta"
     }
