@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:56:39",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\CODE Light.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:56:43",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Diavlo_BLACK_II_37.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:04:41",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Louisiana\\Louisiana.TTF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:04:47",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Lustinmal\\Lustinmal.otf",
         "Status":  "Alerta"
     }
 ]
