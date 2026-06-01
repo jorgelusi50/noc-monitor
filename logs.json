@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:20:35",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Mastodon\\Mastodon.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:21:01",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Nanami Rounded ExtraLight\\Nanami Rounded ExtraLight.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:29:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Korpo alt\\Korpo alt.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:29:29",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Lane - Narrow\\Lane - Narrow.jpg",
         "Status":  "Alerta"
     }
 ]
