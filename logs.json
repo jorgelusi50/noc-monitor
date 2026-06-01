@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:16:06",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\a_Lancet\\a_Lancet.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:16:11",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Banthers\\Banthers.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 14:23:42",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Walkway\\Walkway.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:23:44",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Walkway\\Walkway.ttf",
         "Status":  "Alerta"
     }
