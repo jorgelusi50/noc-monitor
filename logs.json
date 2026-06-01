@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:19:46",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\lantana\\lantana.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:19:51",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\LaurinText\\LaurinText.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:28:28",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\hillda\\hillda.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:28:33",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\HMS Gilbert Script\\HMS Gilbert Script.jpg",
         "Status":  "Alerta"
     }
 ]
