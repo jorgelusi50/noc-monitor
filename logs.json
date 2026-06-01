@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:22:39",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-Thin.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:22:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-Thin.ttf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:31:03",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Isidora-Alt-Thin.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:31:04",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Isidora-Alt-Thin.otf",
         "Status":  "Alerta"
     }
