@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:07:20",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Sinisuka\\Sinisuka.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:07:26",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Sofia Pro\\Sofia Pro.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:16:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Portico Diagonal\\Portico Diagonal.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:16:16",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Pure Black VMF\\Pure Black VMF.jpg",
         "Status":  "Alerta"
     }
 ]
