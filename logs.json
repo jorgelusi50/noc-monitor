@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:41:15",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (32)\\Urban Rebel Outline.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:41:20",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (5)\\Bombero.ttf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-01 15:48:03",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeulisAlt-SemiBold.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:48:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeulisAlt-SemiBold.ttf",
         "Status":  "Alerta"
