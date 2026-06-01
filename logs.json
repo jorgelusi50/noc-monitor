@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:35:33",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\chocoleta.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:35:39",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\RNS_Camelia.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:44:25",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\CSReplikaDrawn-Regular_demo-BF68a57deb24013.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:44:30",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\Flemmatico Regular.ttf",
         "Status":  "Alerta"
     }
 ]
