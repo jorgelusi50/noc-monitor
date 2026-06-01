@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:44:10",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\Boatica-Bold.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:44:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\Boatica-Medium.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:50:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Black Oval II.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:50:29",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\BrandNeue-Regular.otf",
         "Status":  "Alerta"
     }
 ]
