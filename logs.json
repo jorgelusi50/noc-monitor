@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:32:34",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Blue Pen.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:32:36",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\FranklinGothic.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:41:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (30)\\Sweet Blood.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:41:15",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (32)\\Urban Rebel Outline.ttf",
         "Status":  "Alerta"
     }
 ]
