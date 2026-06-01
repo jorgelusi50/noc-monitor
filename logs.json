@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 11:46:37",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\25-05-26\\ANY\\BIA\\pedido 2.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 11:48:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ISADORA\\IMPRESSAO-DETE\\Cartaz_Dete_Itajai (3).tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:10:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 01\\V5Myopia.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:10:14",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\1015snr.ttf",
         "Status":  "Alerta"
     }
 ]
