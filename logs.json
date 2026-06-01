@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:32:37",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Shintia Script\\Shintia Script.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:32:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Sinisuka\\Sinisuka.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:39:27",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\RooneySansMediumIt.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:39:33",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\SF New Republic SC Bold Italic.ttf",
         "Status":  "Alerta"
     }
 ]
