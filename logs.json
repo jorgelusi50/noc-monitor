@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:26:45",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Bulgary Regular\\Bulgary Regular.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:26:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\CA Recape Raw\\CA Recape Raw.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:33:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\The Moment\\The Moment.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:33:55",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Trend HM\\Trend HM.jpg",
         "Status":  "Alerta"
     }
 ]
