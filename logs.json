@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:50:43",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeue-HeavyCond.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:50:44",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Raleway-Bold.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:58:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\MyriadPro-BoldCondIt.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:58:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\MyriadPro-Regular.otf",
         "Status":  "Alerta"
     }
 ]
