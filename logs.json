@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:10:50",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\4StarFace.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:10:56",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\7the_4.ttf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 14:18:52",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Ikaros Sans Light\\Ikaros Sans Light.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:18:54",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Ikaros Sans Light\\Ikaros Sans Light.jpg",
         "Status":  "Alerta"
     }
