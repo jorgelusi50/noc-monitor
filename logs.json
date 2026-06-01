@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:09:26",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 01\\CIRCLE.TTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:09:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 01\\Gilles_Handwriting.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:17:54",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Gilroy ExtraBold\\Gilroy Extra.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:17:59",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\graffity\\graffity.otf",
         "Status":  "Alerta"
     }
 ]
