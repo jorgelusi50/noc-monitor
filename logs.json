@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:05:03",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Mattilda\\Mattilda.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:05:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Measure\\Measure.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:12:48",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Getone-UltLig\\Getone-UltLig.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:12:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Gilroy Light\\Gilroy Light.otf",
         "Status":  "Alerta"
     }
 ]
