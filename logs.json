@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:47:31",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Ants Valley - Personal Use.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:47:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Ants Valley - Personal Use.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:54:20",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 01\\PORKYS_.TTF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:54:26",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 01\\Skinny.ttf",
         "Status":  "Alerta"
     }
 ]
