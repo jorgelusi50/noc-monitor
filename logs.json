@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:35:22",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Gattely DEMO.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:35:28",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Isidora-Bold-Italic.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:44:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\Boatica-Medium.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:44:20",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\Cinerun-Italic.otf",
         "Status":  "Alerta"
     }
 ]
