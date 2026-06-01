@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:45:16",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-Super.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:45:21",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Raleway-Medium.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:51:51",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Raleway-SemiBoldItalic.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:51:57",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Blogger Sans-Medium.otf",
         "Status":  "Alerta"
     }
 ]
