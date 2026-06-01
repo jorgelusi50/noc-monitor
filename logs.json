@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:47:04",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Isidora-Alt-Light.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:47:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-ExtraBoldSlanted.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:53:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\FONTES CURSIVAS\\Dr Carbfred.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:53:42",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\FONTES CURSIVAS\\Whirled Peas NF.ttf",
         "Status":  "Alerta"
     }
 ]
