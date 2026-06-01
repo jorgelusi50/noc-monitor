@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:59:05",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Tryst-Regular.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:59:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Uni Sans Thin Italic.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:06:51",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Rothman\\Rothman.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:06:53",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Roverd Pro\\Roverd Pro.jpg",
         "Status":  "Alerta"
     }
 ]
