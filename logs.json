@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:54:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\1942.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:55:00",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\2PROT_.TTF",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:03:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Higher\\Higher.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:03:07",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\hillda\\Hillda.ttf",
         "Status":  "Alerta"
     }
 ]
