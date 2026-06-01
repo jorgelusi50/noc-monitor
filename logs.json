@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:21:34",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-BlackItalic.woff2",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:21:36",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-Bold.eot",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:29:50",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Zeuty Sans.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:29:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\BASKRV_L.ttf",
         "Status":  "Alerta"
     }
 ]
