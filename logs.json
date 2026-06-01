@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:52:05",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Futura Light font.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:52:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Malina1.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:01:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Bronco Regular\\Bronco Regular.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:01:11",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\CA Recape Raw\\CA Recape Raw.otf",
         "Status":  "Alerta"
     }
 ]
