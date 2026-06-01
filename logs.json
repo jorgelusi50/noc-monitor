@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:11:16",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Bordeaux Light\\Bordeaux Light.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:11:21",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Braxton Regular\\Braxton Regular.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:19:07",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\ALEATORIAS\\airstrikehalf.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:19:12",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\ALEATORIAS\\dodger3_1left.ttf",
         "Status":  "Alerta"
     }
 ]
