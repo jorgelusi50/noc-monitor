@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:47:40",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Anaphora-Thin-trial.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:47:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-Black.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:54:47",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\1221_1.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:54:52",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\1942.ttf",
         "Status":  "Alerta"
     }
 ]
