@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:48:04",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeulisAlt-SemiBold.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:48:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeulisAlt-SemiBold.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:55:45",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\GF\\Placa de PVC adesivada.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:55:51",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
 ]
