@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:42:14",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES LOUCAS\\Dirtysick Swash Ornament.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:42:19",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES LOUCAS\\DonGraffiti.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:48:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Poppins-Regular.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:48:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Poppins-ThinItalic.ttf",
         "Status":  "Alerta"
     }
 ]
