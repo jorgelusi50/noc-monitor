@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-29 14:06:10",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\ISADORA\\1_Banner_1-2X1m (1).ai",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-29 14:07:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\LIVIA\\GOLDEN ALLIANCE\\Cópia_de_segurança_de_GOLDEN ALLIANCE 02 PLACAS A5.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 08:43:01",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\28-05-26\\EDSON\\Cópia_de_segurança_de_JANETE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 08:44:11",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\18-05-26\\LIVIA\\DEBORA\\credencial.cdr",
         "Status":  "Alerta"
     }
 ]
