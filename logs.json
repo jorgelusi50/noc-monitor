@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:18:35",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Walkway\\Walkway.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:18:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Wanih\\Wanih.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:26:55",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Lois Ann.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:27:00",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Lustinmal.otf",
         "Status":  "Alerta"
     }
 ]
