@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:50:35",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Bronco Regular.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:50:40",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\CBF Nike 2022.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:58:51",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_47.tiff",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:58:57",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_48.tiff",
         "Status":  "Alerta"
     }
 ]
