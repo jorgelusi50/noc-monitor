@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:02:29",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Fibon Sans Regular\\FibonSans Regular.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:02:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Fibon Sans Regular\\FibonSans Regular.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:10:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Andalusia Script\\Andalusia Script.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:10:20",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Arizona\\ARIZONA.TTF",
         "Status":  "Alerta"
     }
 ]
