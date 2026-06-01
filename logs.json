@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:06:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Ricca Script\\Ricca Script.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:06:43",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Robinson Regular\\Robinson Regular.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:14:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Loveletters Scrip\\Loveletters Scrip.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:14:43",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Machined\\Machined.jpg",
         "Status":  "Alerta"
     }
 ]
