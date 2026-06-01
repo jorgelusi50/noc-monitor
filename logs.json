@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:30:48",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Morenthya Script\\Morenthya Script.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:30:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Mr Dafoe\\Mr Dafoe.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:37:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-ExtraBold.woff",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:37:43",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-ExtraLight.eot",
         "Status":  "Alerta"
     }
 ]
