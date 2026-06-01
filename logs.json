@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:17:35",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Sinisuka\\Sinisuka.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:17:41",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Sofia Pro\\Sofia Pro.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:26:16",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\HoratioDLig.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:26:21",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Humblle Rought.otf",
         "Status":  "Alerta"
     }
 ]
