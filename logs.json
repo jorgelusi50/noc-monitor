@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-29 16:55:42",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\EDSON\\CARTAO ANIVERSARIO 02 06.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-29 16:55:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\PF\\bloco 01.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 11:11:02",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ISADORA\\ADESIVO-ISADORA",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 11:11:03",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ISADORA\\ADESIVO-ISADORA\\53_98466-2063_20260530_092017_0000.pdf",
         "Status":  "Alerta"
     }
 ]
