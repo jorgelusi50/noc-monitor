@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:51:32",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Halfback.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:51:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Higher.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 16:00:30",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 16:00:36",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
