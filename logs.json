@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:12:05",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\ChanticleerRoman.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:12:06",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\clean up your mess.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:19:30",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Kathya\\Kathya.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:19:35",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Komoda\\Komoda.jpg",
         "Status":  "Alerta"
     }
 ]
