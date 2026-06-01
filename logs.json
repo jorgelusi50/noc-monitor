@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:28:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Xyngia.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:28:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\SIGNCUT-20240111T162048Z-001\\SIGNCUT-20240111T162048Z-001.zip",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:36:09",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Gill Sans Bold.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:36:15",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Amelia-Basic.otf",
         "Status":  "Alerta"
     }
 ]
