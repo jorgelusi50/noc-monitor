@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:47:30",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeueMontreal-Bold.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:47:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeueMontreal-LightItalic.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:54:42",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:54:48",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
