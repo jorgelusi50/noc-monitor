@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:30:40",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Zeuty Script.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:30:46",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Gill Sans Heavy Italic.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:37:58",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\America.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:38:04",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Anaphora-Bold-Italic-trial.ttf",
         "Status":  "Alerta"
     }
 ]
