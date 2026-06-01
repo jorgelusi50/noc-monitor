@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:50:19",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Befitting Alternates.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:50:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Black Oval II.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:58:31",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_41.tiff",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:58:36",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_43.tiff",
         "Status":  "Alerta"
     }
 ]
