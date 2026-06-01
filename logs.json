@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:29:56",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Louisiana\\Louisiana.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:30:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Lumberjack Inline Rough\\Lumberjack Inline Rough.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:36:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Montserrat-ExtraBold.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:36:51",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Montserrat-SemiBold.otf",
         "Status":  "Alerta"
     }
 ]
