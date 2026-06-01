@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:39:05",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\BebasNeue-Regular.woff2",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:39:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Isidora-Thin-Italic.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:46:28",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Franklin Gothic Pro-BookItalic.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:46:32",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Franklin Gothic Pro-HeavyItalic.ttf",
         "Status":  "Alerta"
     }
 ]
