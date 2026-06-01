@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:13:59",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\MyriadPro-Cond.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:14:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\OCRAEXT.TTF",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:21:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\QUARTZO\\QUARTZO.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:21:46",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\QUARTZO\\QUARTZO.ttf",
         "Status":  "Alerta"
     }
 ]
