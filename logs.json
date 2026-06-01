@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 10:18:19",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\ISADORA\\VIGILANCIA SANITARIA\\fea67bbd-7451-4117-ba14-9764af3c3bad (2).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 10:21:38",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\LIVIA\\JOAO VITOR\\VINIL  A4 RETRABALHO_24.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 13:26:13",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 13:26:26",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
