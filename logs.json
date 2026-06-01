@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:13:59",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\KazimirText\\KazimirText.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:14:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Korpo alt\\Korpo alt.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:21:56",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-ExtraLight.woff",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:21:57",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-ExtraLight.woff",
         "Status":  "Alerta"
     }
