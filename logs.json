@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:21:29",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Patisserie\\Patisserie.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:21:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Portico Diagonal\\Portico Diagonal.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:29:52",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Logawa Regular\\Logawa Regular.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:29:56",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Louisiana\\Louisiana.jpg",
         "Status":  "Alerta"
     }
 ]
