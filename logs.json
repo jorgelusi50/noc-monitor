@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:06:26",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Portico Regular\\Portico Regular.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:06:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Reso\\Reso.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:14:21",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Led Regular\\Led Regular.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:14:27",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\LillyBelle\\LillyBelle.jpg",
         "Status":  "Alerta"
     }
 ]
