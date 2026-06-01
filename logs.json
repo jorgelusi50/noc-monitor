@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:29:23",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\goodvibes.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:29:28",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\futura light bt.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:36:47",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\RNSCamelia-MediumItalic.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:36:52",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Sanchezregular-ita.otf",
         "Status":  "Alerta"
     }
 ]
