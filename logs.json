@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:03:52",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Karmela\\Karmela.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:03:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Karnivore Seven\\Karnivore Seven.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:11:45",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Cenotaph Titling\\Cenotaph Titling.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:11:50",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Charmeur\\Charmeur.jpg",
         "Status":  "Alerta"
     }
 ]
