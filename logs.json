@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 13:55:35",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\ANO 2025\\FEVEREIRO\\27-02-25\\ANY\\REGINALDO\\Sem título-1.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:04:24",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:15:28",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Allita\\Allita.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:15:35",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Arizona\\Arizona.jpg",
         "Status":  "Alerta"
     }
 ]
