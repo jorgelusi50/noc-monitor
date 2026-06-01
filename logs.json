@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:46:23",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Fontspring-DEMO-visbycf-regularoblique.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:46:28",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Franklin Gothic Pro-BookItalic.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:53:21",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Reso.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:53:27",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Rolla regular.otf",
         "Status":  "Alerta"
     }
 ]
