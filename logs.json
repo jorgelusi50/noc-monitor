@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:52:48",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:52:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\Easy Font Backup\\Easy Font Backup.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:01:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\DecourSoft-Semibold\\DecourSoft-Semibold.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:01:47",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Devil Breeze\\Devil Breeze.ttf",
         "Status":  "Alerta"
     }
 ]
