@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-29 16:43:27",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\ISADORA\\CARIMBOECRCHA-LIGIANE\\CRACHA VIGILANCIA SANITARIA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-29 16:43:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\ISADORA\\CARIMBOECRCHA-LIGIANE\\CRACHA VIGILANCIA SANITARIA.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-01 11:07:21",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\PF\\A5 RITUAL.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 11:08:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\PF\\A5 RITUAL.pdf",
         "Status":  "Alerta"
