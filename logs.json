@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:13:32",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\HOURS Type\\HOURS Type.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:13:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Humblle Rought\\Humblle Rought.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:21:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-BlackItalic.woff2",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:21:36",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-Bold.eot",
         "Status":  "Alerta"
     }
 ]
