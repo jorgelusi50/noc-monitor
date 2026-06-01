@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:19:30",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Kathya\\Kathya.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:19:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Komoda\\Komoda.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:28:13",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Guardians\\Guardians.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:28:18",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Handletter\\Handletter.otf",
         "Status":  "Alerta"
     }
 ]
