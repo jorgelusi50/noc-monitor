@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-05-29 13:52:09",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\ISADORA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-05-29 13:52:16",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\ISADORA\\RAQUELI\\RAQUELI Receituario_15X21_cm.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 08:37:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\FLORA\\Modelo banners-2.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 08:38:12",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\29-05-26\\GABRIELY\\FLORA\\Modelo banners-3.tif",
         "Status":  "Alerta"
     }
 ]
