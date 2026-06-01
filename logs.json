@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:37:22",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-BlackItalic.woff",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:37:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-BlackItalic.woff2",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:45:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeue-ThinExtObl.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:45:41",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\RNSCamelia-Bold.otf",
         "Status":  "Alerta"
     }
 ]
