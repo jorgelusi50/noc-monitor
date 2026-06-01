@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:45:10",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Rubik-Light.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:45:16",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-Super.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:51:46",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\YOZAKURA-Regular.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:51:51",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Raleway-SemiBoldItalic.ttf",
         "Status":  "Alerta"
     }
 ]
