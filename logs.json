@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:29:28",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\futura light bt.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:29:34",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeueLight.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:36:52",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Sanchezregular-ita.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:36:58",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\XtreemFat_PERSONAL_USE.ttf",
         "Status":  "Alerta"
     }
 ]
