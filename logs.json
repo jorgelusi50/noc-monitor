@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:52:17",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Letro.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:52:22",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Machined.ttf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-01 16:00:58",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 16:01:00",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
