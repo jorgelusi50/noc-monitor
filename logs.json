@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:04:37",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\LIVIA\\BRUNA\\BRUNA 20 A4 TRIEDRO.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:04:39",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\LIVIA\\BRUNA\\BRUNA 20 A4 TRIEDRO.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:16:06",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\a_Lancet\\a_Lancet.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:16:11",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Banthers\\Banthers.jpg",
         "Status":  "Alerta"
     }
 ]
