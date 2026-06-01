@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:53:53",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 01\\CIRCLE.TTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:53:58",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 01\\Gilles_Handwriting.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:02:22",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Fenrir Gothic\\Fenrir Gothic.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:02:24",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Fibon Sans Regular\\Fibon Sans Regular.jpg",
         "Status":  "Alerta"
     }
 ]
