@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:01:26",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Charmeur\\CHARMEUR.TTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:01:32",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Compare Normal\\Compare Normal.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:08:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Wanih\\Wanih.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:08:35",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Winery\\Winery.otf",
         "Status":  "Alerta"
     }
 ]
