@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:04:53",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Madre Script\\Madre Script.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:04:58",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\MarkPro-Light\\MarkPro-Light.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:12:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Expressa-DemiBold\\Expressa-DemiBold.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:12:42",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Fenrir Gothic\\Fenrir Gothic.jpg",
         "Status":  "Alerta"
     }
 ]
