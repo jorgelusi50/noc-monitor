@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:16:44",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Bypha\\Bypha.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:16:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Calendas Plus\\Calendas Plus.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:24:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\ALEATORIAS\\airstrikebullet.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:24:15",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\ALEATORIAS\\airstrikegrad.ttf",
         "Status":  "Alerta"
     }
 ]
