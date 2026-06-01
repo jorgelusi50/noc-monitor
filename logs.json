@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 12:20:20",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\LIVIA\\NF 8569 OC 34040.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 12:22:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\AIDA\\DA07F4FA.tmp",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:10:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\4StarFace.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:10:56",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\7the_4.ttf",
         "Status":  "Alerta"
     }
 ]
