@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:27:05",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\MARENGO.TTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:27:09",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Mattilda.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:33:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\helvetica-46-light-italic-587ebdb0ea724.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:34:01",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeue-ThinItalic.otf",
         "Status":  "Alerta"
     }
 ]
