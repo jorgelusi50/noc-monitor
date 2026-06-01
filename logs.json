@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:45:48",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\fonnts.com-Adelle_Sans_Cnd_Semibold_Italic.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:45:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Fontspring-DEMO-visbycf-bold.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:51:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\INFANT.TTF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:52:03",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\KANDIDE.ttf",
         "Status":  "Alerta"
     }
 ]
