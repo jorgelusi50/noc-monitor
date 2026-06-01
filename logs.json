@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:18:40",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Wanih\\Wanih.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:18:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\XctasySansRR\\XctasySansRR.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:27:00",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Lustinmal.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:27:05",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\MARENGO.TTF",
         "Status":  "Alerta"
     }
 ]
