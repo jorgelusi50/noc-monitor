@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:17:25",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Seren Script\\Seren Script.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:17:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\SF New Republic\\SF New Republic.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:26:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Heat Wave.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:26:11",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Hiruko Pro.otf",
         "Status":  "Alerta"
     }
 ]
