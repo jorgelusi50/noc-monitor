@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:56:22",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Billabong.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:56:28",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\CaviarDreams.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:04:25",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\LaurinText\\LaurinText.TTF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:04:30",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Libertad\\Libertad.otf",
         "Status":  "Alerta"
     }
 ]
