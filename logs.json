@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:56:43",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Diavlo_BLACK_II_37.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:56:49",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\DiscoDiva.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:04:47",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Lustinmal\\Lustinmal.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:04:53",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Madre Script\\Madre Script.jpg",
         "Status":  "Alerta"
     }
 ]
