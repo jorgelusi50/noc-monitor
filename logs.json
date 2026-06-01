@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:29:47",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\LillyBelle\\LillyBelle.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:29:52",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Logawa Regular\\Logawa Regular.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:36:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Horelios Bold.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:36:40",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Mont-ExtraLightDEMO.otf",
         "Status":  "Alerta"
     }
 ]
