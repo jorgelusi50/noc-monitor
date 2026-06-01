@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:17:11",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Debute Sharp\\Debute Sharp.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:17:16",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Decomart FF 4F\\Decomart FF 4F.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:24:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Fontes com Glifos (Pagas) @artenocorel\\josephsophia.zip",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:25:02",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Fontes com Glifos (Pagas) @artenocorel\\valentine_6.zip",
         "Status":  "Alerta"
     }
 ]
