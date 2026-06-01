@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:47:36",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Anaphora-Thin-trial.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:47:38",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Anaphora-Thin-trial.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:54:37",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 01\\WILLG___.TTF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:54:41",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\10CESB.TTF",
         "Status":  "Alerta"
     }
 ]
