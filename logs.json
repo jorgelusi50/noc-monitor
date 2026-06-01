@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:11:32",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Bypha\\Bypha.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:11:38",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Caviar Dreams\\Caviar Dreams.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:19:24",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\ALEATORIAS\\dodger3_2superital.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:19:29",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\ALEATORIAS\\Lokills FREE.ttf",
         "Status":  "Alerta"
     }
 ]
