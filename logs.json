@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 11:13:36",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\GABRIELY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 11:13:50",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\GABRIELY\\PIX DE HOJE",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:04:40",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\LIVIA\\BRUNA\\BRUNA 20 A4 TRIEDRO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:05:11",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\LETICIA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
