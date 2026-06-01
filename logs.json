@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:31:31",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Bison-Bold(PersonalUse).ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:31:32",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-ExtraBoldSlanted.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:39:40",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Futura Heavy font.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:39:46",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\Block Buster.otf",
         "Status":  "Alerta"
     }
 ]
