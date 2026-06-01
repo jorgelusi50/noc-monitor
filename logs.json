@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:33:14",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Stout Roughen\\Stout Roughen.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:33:16",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Stout Roughen\\Stout Roughen.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 14:40:23",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\montserrat\\MontserratAlternates-Thin.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:40:24",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\montserrat\\MontserratAlternates-Thin.otf",
         "Status":  "Alerta"
     }
