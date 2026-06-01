@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:20:23",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Macho\\Macho-Regular.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:20:28",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\MarkPro-Light\\MarkPro-Light.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:29:12",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Kathya\\Kathya.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:29:14",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Kathya\\Kathya.otf",
         "Status":  "Alerta"
     }
 ]
