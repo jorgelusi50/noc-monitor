@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:46:32",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Franklin Gothic Pro-HeavyItalic.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:46:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Franklin Gothic Pro-HeavyItalic.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:53:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Selphia.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:53:38",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Sinister.otf",
         "Status":  "Alerta"
     }
 ]
