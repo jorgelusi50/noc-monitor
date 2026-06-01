@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:49:48",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\alvaro-condensed-maisfontes.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:49:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Isidora-Light-Italic.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 14:57:31",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\HaloHandletter.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:57:33",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\HaloHandletter.otf",
         "Status":  "Alerta"
     }
