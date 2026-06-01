@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:30:00",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\AMERSN__.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:30:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Montserrat-SemiBold.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:37:24",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\MontserratAlternates-Light.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:37:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\advent-Lt3.otf",
         "Status":  "Alerta"
     }
 ]
