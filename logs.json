@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:08:58",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:09:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\Co Text Bold.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:17:32",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Elgethy Square Upper\\Elgethy Square Upper.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:17:37",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Expel\\Expel.jpg",
         "Status":  "Alerta"
     }
 ]
