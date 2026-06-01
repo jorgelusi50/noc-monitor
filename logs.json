@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:18:59",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Ikaros Sans Light\\Ikaros Sans Light.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:19:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Industrial Zoo\\Industrial Zoo.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:27:21",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Decomart FF 4F\\Decomart FF 4F.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:27:27",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Devil Breeze\\Devil Breeze.jpg",
         "Status":  "Alerta"
     }
 ]
