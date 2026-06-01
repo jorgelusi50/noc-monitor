@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:51:09",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\advent-Bd2.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:51:12",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\advent-Bd2.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:59:21",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Wolf in the City Light.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:59:27",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\XtreemFat_Demo.ttf",
         "Status":  "Alerta"
     }
 ]
