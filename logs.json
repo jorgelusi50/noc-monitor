@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:46:23",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Rubik-MediumItalic.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:46:29",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\MontserratAlternates-Black.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:52:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\fira-sans\\FiraSans-Eight.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:53:05",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\fira-sans\\FiraSans-ExtraLightItalic.otf",
         "Status":  "Alerta"
     }
 ]
