@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:51:06",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\one shadow.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:51:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\advent-Bd2.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:59:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Uni Sans Thin Italic.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:59:15",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Venus W01 Mager.ttf",
         "Status":  "Alerta"
     }
 ]
