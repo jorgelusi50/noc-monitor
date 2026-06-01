@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:34:55",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Simply Rounded Italic.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:35:01",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Amelia-Basic-Italic.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:43:47",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES LOUCAS\\NOVAS FONTES (11).ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:43:53",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES LOUCAS\\Warxer.ttf",
         "Status":  "Alerta"
     }
 ]
