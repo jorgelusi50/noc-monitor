@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:37:07",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Rubik-Bold.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:37:12",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Montserrat-Thin.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:45:37",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\DupletOpen-Thin-BF660637b42dee2.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:45:38",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\DupletOpen-Thin-BF660637b42dee2.otf",
         "Status":  "Alerta"
     }
