@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:39:00",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Poppins-Italic.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:39:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Poppins-SemiBold.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:47:19",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeueMedium.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:47:24",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Maqin Larisa.ttf",
         "Status":  "Alerta"
     }
 ]
