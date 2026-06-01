@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:21:59",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\REVOLUTION\\REVOLUTION.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:22:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Robinson Regular\\Robinson Regular.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:30:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Mattilda\\Mattilda.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:30:28",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\MB NOIR\\MB NOIR.jpg",
         "Status":  "Alerta"
     }
 ]
