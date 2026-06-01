@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:45:57",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Fontspring-DEMO-visbycf-boldoblique.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:45:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Fontspring-DEMO-visbycf-boldoblique.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:52:22",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Machined.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:52:28",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Mashine Regular.otf",
         "Status":  "Alerta"
     }
 ]
