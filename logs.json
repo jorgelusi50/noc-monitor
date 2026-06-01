@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:45:21",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Britta Connie.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:45:25",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\DupletOpen-BoldItalic-BF660637b41d189.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:51:16",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\FabfeltScript Bold.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:51:18",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Felix.TTF",
         "Status":  "Alerta"
     }
 ]
