@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:29:18",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\King City\\King City.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:29:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Korpo alt\\Korpo alt.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:36:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\DupletOpen-ThinItalic-BF660637b321f72.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:36:09",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Fontspring-DEMO-visbycf-demiboldoblique.otf",
         "Status":  "Alerta"
     }
 ]
