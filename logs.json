@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:25:42",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\DK Otago.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:25:49",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Expressa-DemiBold.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:32:43",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Montserrat-Italic.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:32:48",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeue-UltraLigCond.otf",
         "Status":  "Alerta"
     }
 ]
