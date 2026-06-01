@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:51:10",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Expressa-DemiBold.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:51:12",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\FabfeltScript Bold.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:59:51",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_67.tiff",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:59:56",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_68.tiff",
         "Status":  "Alerta"
     }
 ]
