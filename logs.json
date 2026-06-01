@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:31:43",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeue-Light.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:31:52",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\GothamMediumItalic.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:40:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (17)\\Graffiti Rebel.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:40:23",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (19)\\Lodstay.ttf",
         "Status":  "Alerta"
     }
 ]
