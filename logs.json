@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:49:59",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Armor Piercing 2.0 BB.TTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:50:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\ASENINE.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:58:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_36.tiff",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:58:15",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_37.tiff",
         "Status":  "Alerta"
     }
 ]
