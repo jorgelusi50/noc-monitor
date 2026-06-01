@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:36:26",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Futura Light font.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:36:31",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Raleway-SemiBold.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:44:56",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\Locomotype  GigaSansLightItalic.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:45:01",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MARCAS 2025\\Locomotype  GigaSansSemiBold.otf",
         "Status":  "Alerta"
     }
 ]
