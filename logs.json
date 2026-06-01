@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:31:41",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Anaphora-Regular-trial.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:31:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Anaphora-Regular-trial.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:40:07",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (13)\\Brione.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:40:13",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (15)\\Bubble Boom.otf",
         "Status":  "Alerta"
     }
 ]
