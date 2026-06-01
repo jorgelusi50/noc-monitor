@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:48:08",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeulisAlt-SemiBoldItalic.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:48:15",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Newton Howard Font.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:55:56",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\GF\\tampa navio.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:56:01",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_02.tiff",
         "Status":  "Alerta"
     }
 ]
