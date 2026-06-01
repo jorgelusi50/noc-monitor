@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:46:58",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeueUltraLight.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:47:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Isidora-Alt-Light.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:53:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\FONTES CURSIVAS\\CANDY___.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:53:38",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\FONTES CURSIVAS\\Dr Carbfred.ttf",
         "Status":  "Alerta"
     }
 ]
