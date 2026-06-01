@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:29:34",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeueLight.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:29:39",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\HelveticaNeue-ThinExtObl.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:36:58",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\XtreemFat_PERSONAL_USE.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:37:03",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\futura-condensed-pt-medium-589e44ed1e3a5.otf",
         "Status":  "Alerta"
     }
 ]
