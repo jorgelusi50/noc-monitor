@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:36:55",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\MontserratAlternates-Bold.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:37:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\MontserratAlternates-SemiBold.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:45:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Rubik-Light.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:45:16",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-Super.otf",
         "Status":  "Alerta"
     }
 ]
