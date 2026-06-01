@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:31:34",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Party52\\Party52.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:31:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Patisserie\\Patisserie.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:38:24",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-SemiBoldItalic.eot",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:38:28",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-Thin.eot",
         "Status":  "Alerta"
     }
 ]
