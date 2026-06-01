@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:45:58",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-MediumSlanted.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:46:03",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Gotham-Black.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:52:26",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:52:32",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ANY\\POSITIVIDADE NA LATA\\10 UNIDADES.cdr",
         "Status":  "Alerta"
     }
 ]
