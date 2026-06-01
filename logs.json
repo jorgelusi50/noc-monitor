@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:08:28",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:08:47",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:17:21",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Devil Breeze\\Devil Breeze.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:17:27",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\DK Otago\\DK Otago.otf",
         "Status":  "Alerta"
     }
 ]
