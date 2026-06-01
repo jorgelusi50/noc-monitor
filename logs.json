@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:58:12",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\LoversQuarrel-Regular.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:58:17",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Mockup-BoldItalic.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:06:15",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Party52\\Party52.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:06:16",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Pasternak\\Pasternak.jpg",
         "Status":  "Alerta"
     }
 ]
