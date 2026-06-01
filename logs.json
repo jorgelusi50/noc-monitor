@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:31:11",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Isidora-Alt-Light.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:31:13",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Isidora-Alt-Light.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:38:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\NEXT ART_Bold.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:38:50",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\MontserratAlternates-ExtraLight.otf",
         "Status":  "Alerta"
     }
 ]
