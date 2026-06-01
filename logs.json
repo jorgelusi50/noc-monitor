@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:48:39",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Malina1.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:48:44",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Maqin Larisa Display Italic.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:56:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\ArtDecoChicP22.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:56:17",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Babalusa-cut-font.ttf",
         "Status":  "Alerta"
     }
 ]
