@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:48:01",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\OneSignature.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:48:07",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-BoldSlanted.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:55:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\8bitlimo.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:55:41",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\911v2b_4.ttf",
         "Status":  "Alerta"
     }
 ]
