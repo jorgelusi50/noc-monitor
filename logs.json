@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:12:27",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Elsie-Regular.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:12:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Existence-UnicaseLight.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:20:02",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Lineat III\\Lineat III.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:20:08",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Louisiana\\Louisiana.jpg",
         "Status":  "Alerta"
     }
 ]
