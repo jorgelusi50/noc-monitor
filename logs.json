@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:32:11",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Ricca Script\\Ricca Script.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:32:15",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Robinson Rough\\Robinson Rough.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:39:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\Poppins-SemiBold.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:39:10",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\RespondentBlack_PERSONAL_USE_ONLY.otf",
         "Status":  "Alerta"
     }
 ]
