@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:23:51",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\SweetSansProExThin.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:23:55",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\SweetSansProHeavy.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:31:25",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Bison-Bold(PersonalUse).ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:31:28",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Bison-Bold(PersonalUse).ttf",
         "Status":  "Alerta"
     }
