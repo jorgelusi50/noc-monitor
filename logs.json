@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:47:42",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-Black.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:47:44",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-Black.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 14:54:52",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\1942.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:54:54",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 02\\1942.ttf",
         "Status":  "Alerta"
     }
