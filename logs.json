@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:37:03",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\futura-condensed-pt-medium-589e44ed1e3a5.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:37:07",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Rubik-Bold.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:45:31",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\DupletOpen-Light-BF660637b42482b.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:45:37",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\DupletOpen-Thin-BF660637b42dee2.otf",
         "Status":  "Alerta"
     }
 ]
