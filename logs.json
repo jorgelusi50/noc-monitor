@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:09:42",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Fontes com Glifos (Pagas) @artenocorel\\valentime.zip",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:09:47",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Fontes com Glifos (Pagas) @artenocorel\\valentine_14.zip",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:17:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Sangli-NorThi\\Sangli-NorThi.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:17:25",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Seren Script\\Seren Script.otf",
         "Status":  "Alerta"
     }
 ]
