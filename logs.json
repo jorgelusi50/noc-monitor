@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:31:04",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Natasha\\Natasha.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:31:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Nazareth\\Nazareth.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:37:52",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-Italic.eot",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:37:58",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\MODERNAS\\NeulisAlt-Light.ttf",
         "Status":  "Alerta"
     }
 ]
