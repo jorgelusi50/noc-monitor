@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:34:23",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Winery\\Winery.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:34:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Xray Ted\\Xray Ted.TTF",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:42:12",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\Home Brush.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:42:18",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\PREMIUM\\HOWARD.TTF",
         "Status":  "Alerta"
     }
 ]
