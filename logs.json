@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:50:09",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\AvantGardeExtLitITCTT.TTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:50:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Badhead Typeface.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:58:20",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_39.tiff",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:58:26",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_40.tiff",
         "Status":  "Alerta"
     }
 ]
