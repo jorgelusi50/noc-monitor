@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:04:47",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Lustinmal\\Lustinmal.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:04:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Madre Script\\Madre Script.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:12:35",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Expressa-DemiBold\\Expressa-DemiBold.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:12:37",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Expressa-DemiBold\\Expressa-DemiBold.ttf",
         "Status":  "Alerta"
     }
