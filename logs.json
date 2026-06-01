@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:48:22",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NEXT ART_Light.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:48:27",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\Nurom-Bold.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:56:18",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_06.tiff",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:56:23",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_08.tiff",
         "Status":  "Alerta"
     }
 ]
