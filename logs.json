@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:58:39",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\OPTICristeta-BoldItalic.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:58:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Parisienne-Regular.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:06:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\REZ\\REZ.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:06:38",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Ricca Script\\Ricca Script.jpg",
         "Status":  "Alerta"
     }
 ]
