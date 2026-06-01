@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:46:39",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Futura Bold Italic font.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:46:44",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Lovelo Black.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:53:16",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\fira-sans\\FiraSans-MediumItalic.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:53:21",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\fira-sans\\FiraSans-Thin.otf",
         "Status":  "Alerta"
     }
 ]
