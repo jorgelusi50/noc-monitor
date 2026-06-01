@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:07:14",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Shintia Script\\Shintia Script.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:07:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Sinisuka\\Sinisuka.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:15:39",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Naste\\Naste.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:16:05",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Pasternak\\Pasternak.ttf",
         "Status":  "Alerta"
     }
 ]
