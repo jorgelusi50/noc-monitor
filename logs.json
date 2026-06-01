@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:02:12",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Felix Titling\\Felix.TTF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:02:13",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Fenrir Gothic\\Fenrir Gothic.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:09:24",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\ALEATORIAS\\PANTONNARROW-TRIAL-BOLDITALIC.TTF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:09:30",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\ALEATORIAS\\vvds-benigne-sans-extralight-italic.otf",
         "Status":  "Alerta"
     }
 ]
