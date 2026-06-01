@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:31:35",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-ExtraBoldSlanted.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:31:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES ESSÊNCIAIS\\Objectivity-ExtraBoldSlanted.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:39:51",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL\\Airneo Outline.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:39:56",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES GRAFFIT\\STREET FONTS ARTE NO COREL (10)\\Bowings Outline.otf",
         "Status":  "Alerta"
     }
 ]
