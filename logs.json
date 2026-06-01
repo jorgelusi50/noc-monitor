@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:07:57",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Tall Films\\Tall Films.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:08:02",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\The Moment\\The Moment.otf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:16:43",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Rolla regular\\Rolla regular.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:16:47",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\Rolla regular\\Rolla regular.jpg",
         "Status":  "Alerta"
     }
