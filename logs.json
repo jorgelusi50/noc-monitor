@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:11:49",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Babalusa-cut-font.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:11:54",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\PACK 03\\Bira_PERSONAL_USE_ONLY.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:19:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Insomnia\\Insomnia.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:19:19",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Jonathan\\Jonathan.jpg",
         "Status":  "Alerta"
     }
 ]
