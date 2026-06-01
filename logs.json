@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:09:10",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\Co Text Bold.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:09:15",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES\\FONTES\\FONTES CURSIVAS\\Saint-Andrews Queen.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:17:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Expel\\Expel.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:17:43",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\FabfeltScript Bold\\FabfeltScript Bold.otf",
         "Status":  "Alerta"
     }
 ]
