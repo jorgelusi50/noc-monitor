@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:00:11",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Asenine\\ASENINE.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:00:16",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Assassin$\\Assassin$.ttf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 15:07:19",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Sinisuka\\Sinisuka.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:07:20",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Sinisuka\\Sinisuka.otf",
         "Status":  "Alerta"
     }
