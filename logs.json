@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:59:39",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\ABOVE\\ABOVE.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:00:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Articulat CF Thin\\ArticulatCF-Thin.otf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:07:09",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Seren Script\\Seren Script.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:07:14",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Shintia Script\\Shintia Script.otf",
         "Status":  "Alerta"
     }
 ]
