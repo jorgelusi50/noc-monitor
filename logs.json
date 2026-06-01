@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 14:15:50",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Asenine\\Asenine.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 14:15:55",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\ATARA\\ATARA.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 14:23:27",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\TT Prosto Sans\\TT Prosto Sans.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:23:32",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Tungsten\\Tungsten.otf",
         "Status":  "Alerta"
     }
 ]
