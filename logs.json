@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 13:54:30",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\LIVIA\\BRUNA\\3 FOLHAS 13X19.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 13:55:35",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\ANO 2025\\FEVEREIRO\\27-02-25\\ANY\\REGINALDO\\Sem título-1.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-01 14:15:27",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Allita\\Allita.otf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 14:15:28",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Allita\\Allita.otf",
         "Status":  "Alerta"
     }
