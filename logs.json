@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:51:01",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Dope Script.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:51:06",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Expressa-DemiBold.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:59:17",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_53.tiff",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:59:22",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_56.tiff",
         "Status":  "Alerta"
     }
 ]
