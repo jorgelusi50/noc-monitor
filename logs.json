@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:07:32",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Soubrette\\Soubrette.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:07:36",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\250 PREMIUM\\Southern\\Southern.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:16:22",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\QUARTZO\\QUARTZO.ttf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:16:26",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\FONTES COM GLIFOS\\Tudo Fonte Premium (Pagas) Gratuitas\\250 Fontes Premium\\RawengulkSans\\RawengulkSans.ttf",
         "Status":  "Alerta"
     }
 ]
