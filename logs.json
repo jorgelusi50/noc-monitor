@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:47:50",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeulisAlt-Italic.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:47:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\MODERNAS\\NeulisAlt-MediumItalic.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-01 15:55:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\4k\\Quadro_do_Recebimento_-_Controle_de_Reprocesso.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-01 15:55:14",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
 ]
