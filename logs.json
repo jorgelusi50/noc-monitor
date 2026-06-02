@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:55:24",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ANY\\678-NONO-FOR-106-R0000.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:55:29",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ANY\\678-NONO-PIL-115-R00.PDF",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-02 11:28:53",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 11:29:01",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
