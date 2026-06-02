@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:54:00",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Trave.ttf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:54:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\TTSlabsCondensed.ttf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-02 11:23:03",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\ANY\\MAYARA\\Menu-Dioli90.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 11:23:13",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
 ]
