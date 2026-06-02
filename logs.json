@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-02 16:50:56",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-02 16:51:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-02 17:33:46",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\LIVIA\\Debora\\Gabarito-vertical-Cracha-Furo-novo-10x14.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 17:33:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\LIVIA\\Debora\\Gabarito-vertical-Cracha-Furo-novo-10x14.pdf",
         "Status":  "Alerta"
