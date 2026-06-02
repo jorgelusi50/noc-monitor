@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-02 16:34:42",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-02 16:34:46",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-02 17:03:23",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\ANY\\SUPRIECIA\\99 PLACAS 3X2cm.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 17:03:25",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\ANY\\SUPRIECIA\\99 PLACAS 3X2cm.cdr",
         "Status":  "Alerta"
     }
