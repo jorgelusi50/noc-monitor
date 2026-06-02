@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:53:21",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Reso.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:53:27",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Rolla regular.otf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-02 11:21:21",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 11:21:48",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
