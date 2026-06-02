@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-02 12:57:50",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-02 12:58:17",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-02 13:26:58",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\ISADORA\\IMPRESSÃO-BRUNA\\BRUNA 20 A4 TRIEDRO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 13:27:00",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\ISADORA\\IMPRESSÃO-BRUNA\\BRUNA 20 A4 TRIEDRO.cdr",
         "Status":  "Alerta"
     }
