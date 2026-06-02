@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-02 12:46:33",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-02 12:47:00",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-02 13:19:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 13:19:41",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\11-05-26\\GABRIELY\\CATARINENSE\\Cópia_de_segurança_de_CATARINENSE ADESIVOS 1X2,2METROS.cdr",
         "Status":  "Alerta"
     }
 ]
