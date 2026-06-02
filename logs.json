@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:53:00",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Optotypo.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:53:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Pasternak.ttf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-02 11:19:32",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 11:19:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
