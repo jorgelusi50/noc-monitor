@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-02 15:50:55",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-02 15:51:14",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-02 16:14:52",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 16:15:01",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\PF\\RACIEL\\livreto pdf\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
