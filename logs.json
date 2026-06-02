@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-02 16:28:51",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-02 16:29:18",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-02 16:57:50",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\GABRIELY\\HENRIQUE\\Cartilha_-_Higiene_do_sono.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 16:58:09",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
 ]
