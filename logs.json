@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-02 16:19:18",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-02 16:19:31",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\PF\\01.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-02 16:43:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\LETICIA\\Não confirmado 159298.crdownload",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 16:43:16",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
 ]
