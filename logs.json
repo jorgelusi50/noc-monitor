@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:53:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Sinister.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:53:43",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\SOUBRETT.TTF",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-02 11:22:17",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 11:22:18",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
