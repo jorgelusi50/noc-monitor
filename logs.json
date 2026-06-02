@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-02 13:15:52",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-02 13:16:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-02 13:43:37",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\GABRIELY\\UNIFICADO\\50_desse_frente_e_verso_em_A6_Página_2.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 13:43:50",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
 ]
