@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-02 15:54:19",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\ISADORA\\CRACHA-MARIA LEMOS",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-02 15:54:39",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-02 16:16:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 16:16:53",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\PF\\RACIEL\\livreto pdf\\rgb\\PERSONALIZADO  1 x    Catarina-8 livreto_Página_10.jpg",
         "Status":  "Alerta"
     }
 ]
