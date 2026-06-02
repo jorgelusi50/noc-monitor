@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:57:58",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_33.tiff",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:58:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\26-05-26\\GABRIELY\\BRUNO\\adesivo_bone_azul 70PAG_Página_34.tiff",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-02 11:35:11",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 11:35:31",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
