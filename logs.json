@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-02 15:52:20",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-02 15:52:21",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-02 16:15:34",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\PF\\RACIEL\\livreto pdf\\rgb\\PERSONALIZADO  1 x    Catarina-8 livreto_Página_02.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 16:15:39",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\PF\\RACIEL\\livreto pdf\\rgb\\PERSONALIZADO  1 x    Catarina-8 livreto_Página_03.jpg",
         "Status":  "Alerta"
     }
 ]
