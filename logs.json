@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-02 16:42:22",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-02 16:42:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-02 17:19:52",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 17:19:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
