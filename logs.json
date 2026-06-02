@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-02 16:13:34",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-02 16:13:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-02 16:31:21",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\LIVIA\\GIUMAR\\AF_MARMITA_Cartao_de_Visita_9x5-_CAPELA_SANTA_INES_2026 (1) 300UN.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 16:31:32",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
 ]
