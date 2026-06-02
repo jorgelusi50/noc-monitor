@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-02 14:37:38",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\ANY\\ENCADERNAÇÃO\\COPA_COM_AEREO_-_PROPOSTA_TRIPSERVICE_5_1.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-02 14:37:39",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\ANY\\ENCADERNAÇÃO\\COPA_COM_AEREO_-_PROPOSTA_TRIPSERVICE_5_1.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-02 15:08:10",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 15:08:39",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
