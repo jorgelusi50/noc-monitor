@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:55:03",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:55:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\14-05-26\\GABRIELY\\4k\\Quadro_do_Recebimento_-_Controle_de_Reprocesso.tif",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-02 11:27:24",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 11:27:44",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
