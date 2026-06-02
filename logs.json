@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-01 15:52:28",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Mashine Regular.otf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-01 15:52:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\FONTES\\FONTES 2026\\PREMIUM\\Mekar Script.otf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-02 11:19:06",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-02 11:19:07",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
