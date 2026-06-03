@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 08:16:50",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 08:16:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\EB Padre José de Anchieta\\20-CIENCIAS-9AN0-EBPJA.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-03 08:37:38",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 08:37:44",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\LIVIA\\Debora\\Gabarito-vertical-Cracha-Furo-novo-10x14.pdf",
         "Status":  "Alerta"
     }
 ]
