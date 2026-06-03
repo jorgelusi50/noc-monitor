@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 09:06:53",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 09:07:21",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-03 09:50:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\LIVIA\\ROBERTA PAVESI\\Rotulo_Lucca_-_6_x_3cm_-_adesivo_vinilico_TRANSPARENTE.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 09:50:44",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\LIVIA\\ROBERTA PAVESI\\Vanilla_Gold_-_Home_Spray_-_6_x_9_cm_-_adesivo_vinilico_BRANCO.jpg",
         "Status":  "Alerta"
     }
 ]
