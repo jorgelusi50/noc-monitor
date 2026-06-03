@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 15:54:43",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\GABRIELY\\AMIL",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 15:54:44",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\GABRIELY\\AMIL",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-03 16:20:12",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 16:20:21",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\LIVIA\\MARIA\\fotos_6_5x9cm_Página_1.jpg",
         "Status":  "Alerta"
     }
 ]
