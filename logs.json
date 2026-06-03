@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 16:42:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\cpa dura wire o _Página_1.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 16:43:00",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\cpa dura wire o _Página_2.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-03 17:12:04",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 17:12:31",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
