@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-02 17:36:47",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-02 17:36:49",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-03 08:18:27",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\Fernanda Mascarenhas F. de Lima E Lima\\100 - MAT - 1º ANO- EB AVELINO WERNER.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 08:18:39",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
