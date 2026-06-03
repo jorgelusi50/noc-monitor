@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-02 17:03:59",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\GABRIELY\\HENRIQUE\\Cartilha - Higiene do sono (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-02 17:04:00",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\GABRIELY\\HENRIQUE\\Cartilha - Higiene do sono (1).pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-03 08:04:41",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 08:04:59",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
