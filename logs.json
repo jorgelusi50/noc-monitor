@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-02 17:50:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\GABRIELY\\ANA\\Adesivo_circular_tag_lembranca_casamento_floral_tons_de_verde.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-02 17:50:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\GABRIELY\\ANA\\Adesivo_circular_tag_lembranca_casamento_floral_tons_de_verde.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-03 08:21:48",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 08:21:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ISADORA\\IMPRESSÃO-ISADORA\\credencial.cdr",
         "Status":  "Alerta"
     }
 ]
