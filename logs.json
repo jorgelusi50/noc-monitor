@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 14:26:30",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\GABRIELY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 14:26:37",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\GABRIELY\\RODRIGO",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-03 14:48:19",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 14:48:30",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JUNHO\\03-06-2026\\TRIEDO ROTARY",
         "Status":  "Alerta"
     }
 ]
