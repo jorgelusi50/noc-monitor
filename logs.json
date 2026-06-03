@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 14:38:37",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\ISADORA\\NORVIAL\\NORVIAL CRACHAS.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 14:38:44",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-03 15:00:11",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 15:00:29",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
