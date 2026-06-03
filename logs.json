@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 08:26:18",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 08:26:27",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\EB João Duarte\\120-POR-1°ANO-EBJD.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-03 08:48:08",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 08:48:25",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JUNHO\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
