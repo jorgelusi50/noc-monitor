@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 13:40:44",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\GABRIELY\\MARKHA ANTONIO\\180 ROTULOS 17X9cm.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 13:41:28",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-03 14:07:11",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 14:07:13",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
