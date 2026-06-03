@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 14:18:58",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 14:19:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-03 14:45:05",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\LETICIA\\Nova pasta (3)\\20210117_193657 - Atalho.lnk",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 14:45:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\LETICIA\\Nova pasta (3)\\20210117_193657 - Atalho.lnk",
         "Status":  "Alerta"
