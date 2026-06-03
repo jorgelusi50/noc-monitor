@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 09:20:34",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\GABRIELY\\ROTARY BALN\\Cópia_de_segurança_de_35 TRIEDRO A4 NUMERADOS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 09:20:55",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-03 10:03:26",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\LIVIA\\ROBERTA PAVESI\\VINIL 13X19 VINIL transparente.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 10:03:45",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
 ]
