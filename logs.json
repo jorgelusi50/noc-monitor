@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 08:46:09",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 08:46:36",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-03 09:18:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 09:18:46",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\ANY\\TETO DE LONA\\ficha_tecnica_Loncin_Wolf_700_MUD.pdf",
         "Status":  "Alerta"
     }
 ]
