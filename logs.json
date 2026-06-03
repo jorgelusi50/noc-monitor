@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 13:29:47",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 13:30:11",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-03 13:57:11",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\ANY\\MAYARA\\bingo_da_dioli_A5_Página_05.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 13:57:16",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
         "Status":  "Alerta"
     }
 ]
