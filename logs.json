@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 08:51:35",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 08:51:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-03 09:27:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\LIVIA\\MARIA\\fotos_6_5x9cm.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 09:28:00",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JUNHO\\03-06-2026\\triedo 01",
         "Status":  "Alerta"
     }
 ]
