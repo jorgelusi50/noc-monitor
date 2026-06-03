@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 14:19:49",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\LETICIA\\Emmanuel Felipe\\AULA_091_-2026-1_-FUNDAMENTOS_SISTEMAS_ELETRICOS.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 14:20:32",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-03 14:45:08",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\LETICIA\\Nova pasta (3)\\20210117_193624 - Atalho.lnk",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-03 14:45:09",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\LETICIA\\Nova pasta (3)\\20210117_193657 - Atalho.lnk",
         "Status":  "Alerta"
     }
 ]
