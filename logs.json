@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 17:44:58",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 17:45:24",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-08 10:47:36",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ANY\\GREISI\\BannerPoster_Vertical_70x90cm.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 10:47:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ANY\\GREISI\\BannerPoster_Vertical_70x90cm.tif",
         "Status":  "Alerta"
