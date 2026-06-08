@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 13:25:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELA\\BANNER\\VITAMINA_K 70X90.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 13:25:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELA\\BANNER\\VITAMINA_K 70X90.tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-08 16:21:52",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\LETICIA\\2026 - nublado555555.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 16:36:54",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE de Cordeiros\\115 - MATEMÁTICA - 1 ANO - CEC.pdf",
         "Status":  "Alerta"
     }
 ]
