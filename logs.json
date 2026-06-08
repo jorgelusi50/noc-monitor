@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 13:33:24",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\9B6D7403.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 13:40:12",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE de Cordeiros\\95 - CIENCIAS DA NATUREZA - 9 ANO - CEC.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-08 16:37:35",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\05-06-26\\PF\\Luciano\\Catalogo Heil  Embalagens NUMERADO LEO  02-06-26.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 16:38:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\05-06-26\\PF\\Luciano\\Catalogo Heil  Embalagens NUMERADO LEO  02-06-26.cdr",
         "Status":  "Alerta"
