@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 13:50:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\20210122_184328.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 13:50:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\20210122_184328.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-08 16:59:18",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\PF\\cartas 01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 16:59:24",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\PF\\cartas 01.cdr",
         "Status":  "Alerta"
