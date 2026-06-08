@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 13:14:27",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE de Cordeiros\\PRONTO",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 13:23:08",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\GABRIELY\\CARTORIO HEUSI\\CAPA DURA CARTORIO HEUSE 03 06 ajuste [.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-08 16:21:03",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\IMPRESSAO\\IMPRESSAO A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 16:21:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\IMPRESSAO\\IMPRESSAO A4.cdr",
         "Status":  "Alerta"
