@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 17:50:49",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 17:51:17",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-08 11:14:52",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELA\\Nota fiscal 1_202600000008583.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 11:19:24",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\EDSON\\cardapio",
         "Status":  "Alerta"
     }
 ]
