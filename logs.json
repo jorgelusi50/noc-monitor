@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 17:46:59",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\AIDA\\Resultado_03_06_2026.xls",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 17:47:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\AIDA\\Não confirmado 893337.crdownload",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-08 10:55:54",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE de Cordeiros\\95 - CIENCIAS DA NATUREZA - 9 ANO - CEC.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 10:55:58",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE de Cordeiros\\145 - L PÓRTUGUESA - 7 ANO - CEC.pdf",
         "Status":  "Alerta"
     }
 ]
