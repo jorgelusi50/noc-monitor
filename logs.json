@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 12:52:02",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 12:52:11",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELA\\BANNER\\VITAMINA_K 70X90.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-08 15:43:42",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\LETICIA\\20210122_203548.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 15:43:48",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\LETICIA\\20210122_203548.pdf",
         "Status":  "Alerta"
     }
