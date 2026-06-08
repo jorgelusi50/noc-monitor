@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 13:13:13",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\E.B. PROFª JUDITH DUARTE DE OLIVEIRA\\30_POR_1ºANO_JUDITH_DUARTE_DE_OLIVEIRA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 13:13:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\E.B. PROFª JUDITH DUARTE DE OLIVEIRA\\35_MAT_3ºANO_JUDITH_DUARTE_DE_OLIVEIRA.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-08 15:55:07",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\LIVIA\\DHALMAS\\arte_banner_dhalmas-1.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 15:56:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\LIVIA\\DHALMAS\\arte_banner_dhalmas-2.tif",
         "Status":  "Alerta"
     }
 ]
