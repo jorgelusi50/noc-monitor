@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 18:11:08",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 18:11:26",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-08 13:25:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELA\\BANNER\\VITAMINA_K 70X90.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 13:33:24",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\9B6D7403.tmp",
         "Status":  "Alerta"
     }
 ]
