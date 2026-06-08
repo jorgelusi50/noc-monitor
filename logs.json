@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 17:59:51",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 18:00:18",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-08 12:06:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 12:52:02",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
