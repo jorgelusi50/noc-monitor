@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 17:43:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 17:43:39",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-08 00:32:46",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 10:44:35",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\EB Aníbal César\\129-MAT-3ºano-EB Aníbal Cesar.pdf",
         "Status":  "Alerta"
     }
 ]
