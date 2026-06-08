@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 14:05:37",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 14:05:59",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\IMPRESSÃO-JESSICA",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-08 17:02:51",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\PF\\cartas 01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 17:10:38",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE de Cordeiros\\140 - L PORTUGUESA - 3 ANO - CEC.pdf",
         "Status":  "Alerta"
     }
 ]
