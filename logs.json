@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 11:33:24",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELY\\SONIA\\VINIL 13X19.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 11:34:39",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\o_Sesc_solicita_que_seja_preenchido_neste_documento_para_prosseguirmos_com_o_orcamento (2).docx",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-08 15:19:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELA\\cardapio\\Ultima_Ediccao_0406 (3).cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 15:20:39",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
