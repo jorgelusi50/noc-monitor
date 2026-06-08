@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 18:06:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\Novo Documento de Texto.txt",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 18:07:00",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\Nova pasta",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-08 13:13:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\E.B. PROFª JUDITH DUARTE DE OLIVEIRA\\36_MAT_7ºANO_JUDITH_DUARTE_DE_OLIVEIRA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 13:13:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\E.B. PROFª JUDITH DUARTE DE OLIVEIRA\\36_MAT_7ºANO_JUDITH_DUARTE_DE_OLIVEIRA.pdf",
         "Status":  "Alerta"
