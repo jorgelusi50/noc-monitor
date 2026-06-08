@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 17:49:29",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\LIVIA\\CAMILE\\imantado.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 17:49:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-08 11:10:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELY\\GABI\\turismo-em-itajai-sc-pontos-turisticos-Bico-do-Papaguaio-divulgacao-setur-768x512 (1).webp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 11:11:13",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELY\\GABI\\turismo-em-itajai-sc-pontos-turisticos-Teatro-Municipal-de-Itajai-divulgacao-setur-768x392.webp",
         "Status":  "Alerta"
     }
 ]
