@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 17:57:08",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 17:57:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-08 11:49:57",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\o_Sesc_solicita_que_seja_preenchido_neste_documento_para_prosseguirmos_com_o_orcamento (2) PREENCHIDO.docx",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 11:50:02",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\A34AE14.tmp",
         "Status":  "Alerta"
     }
 ]
