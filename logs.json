@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 11:11:13",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELY\\GABI\\turismo-em-itajai-sc-pontos-turisticos-Teatro-Municipal-de-Itajai-divulgacao-setur-768x392.webp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 11:12:17",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\EB Aníbal César\\129-POR-3ºano-EB Aníbal Cesar.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-08 14:46:46",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE de Cordeiros\\100 - L PORTUGUESA - 5 ANO - CEC.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 14:58:42",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\PF\\Sem título-4.cdr",
         "Status":  "Alerta"
     }
 ]
