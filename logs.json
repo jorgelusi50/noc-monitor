@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 11:27:24",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ANY\\Nova pasta\\Sem título-4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 11:27:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ANY\\Nova pasta\\Sem título-4.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-08 15:10:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JUNHO\\08-06-2026\\quebra cabeça 13x19",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 15:19:04",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELA\\cardapio\\Ultima_Ediccao_0406 (3).cdr",
         "Status":  "Alerta"
     }
 ]
