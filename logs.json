@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 10:47:42",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ANY\\GREISI\\BannerPoster_Vertical_70x90cm.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 10:53:16",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\05-06-26\\LETICIA\\Sem título-1.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-08 13:50:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\20210122_184328.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 13:53:11",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\AIDA\\Resultado_08_06_2026.xls",
         "Status":  "Alerta"
     }
 ]
