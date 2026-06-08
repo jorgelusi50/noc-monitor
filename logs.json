@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 14:40:28",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\LIVIA\\MADSON\\VINIL BRANCO A4 - molde 24.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 14:46:46",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE de Cordeiros\\100 - L PORTUGUESA - 5 ANO - CEC.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-08 17:46:17",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ANY\\Nova pasta (2)",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 17:49:51",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\PF\\cartas 02.cdr",
         "Status":  "Alerta"
     }
 ]
