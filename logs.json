@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-03 17:58:30",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-03 17:58:56",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\tgqfah.exe",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-08 11:50:17",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\05-06-26\\ANY\\THE BEST\\Display_10x15cm_4x0 ( fazer 1 folha A4 com oque couber).jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-08 11:54:12",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\PF\\AZIMUT 01.cdr",
         "Status":  "Alerta"
     }
 ]
