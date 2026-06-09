@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 14:25:39",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\BAR DO FRITZ\\LETRAS RECORTE COM MASCARA 2X.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 14:25:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\BAR DO FRITZ\\LETRAS RECORTE COM MASCARA 2X.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 16:31:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\VICTORIA\\Design_sem_nome (18)_Página_1.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 16:35:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\COR APROVADA 850X450.cdr",
         "Status":  "Alerta"
     }
 ]
