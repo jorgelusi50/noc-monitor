@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 11:07:35",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LETICIA\\Nova pasta\\CERTIFICADO_NR_35_-_GSI.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 11:07:40",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\IMPRESSAO-FERNANDO\\Flyer_-_Frenteverso_A5_Página_2.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 13:40:29",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\DAIANE\\MubiChat-1049449.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 13:46:25",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\PF\\album.pdf",
         "Status":  "Alerta"
     }
 ]
