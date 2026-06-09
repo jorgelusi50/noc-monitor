@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 09:18:34",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ANY\\ANA\\Adesivo_circular_tag_lembranca_casamento_floral_tons_de_verde_20260606_225039_0000.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 09:20:47",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\PF\\OTILIO CESAR DALÇOQUIO DISPLAY A4.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 11:06:20",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\ANTONIO ROBERTO\\VINIL  A4 ALUGA-SE 24.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 11:06:52",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LETICIA\\Nova pasta\\CERTIFICADO_NR_12_-_GSI_SERVICOS.pdf",
         "Status":  "Alerta"
     }
 ]
