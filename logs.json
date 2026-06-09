@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 16:53:13",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\GABRIELY\\LARI\\Cartas de missao_Página_6.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 16:53:15",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\GABRIELY\\LARI\\Cartas de missao_Página_6.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-09 09:42:03",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\IMPRESSÃO-LUIZA\\download_2 (2).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 09:42:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\IMPRESSÃO-LUIZA\\download_2 (2).pdf",
         "Status":  "Alerta"
