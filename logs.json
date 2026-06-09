@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 11:00:14",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LETICIA\\Nova pasta\\CERTIFICADO_NR_12_-_NOVO.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 11:00:15",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LETICIA\\Nova pasta\\CERTIFICADO_NR_6_-_NOVO.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 13:26:57",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\BANNER NAVEGANTES",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 13:27:08",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\BANNER NAVEGANTES\\BANNER_90x120cm.cdr",
         "Status":  "Alerta"
     }
 ]
