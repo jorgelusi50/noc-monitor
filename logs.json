@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 13:27:08",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\BANNER NAVEGANTES\\BANNER_90x120cm.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 13:27:09",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\BANNER NAVEGANTES\\BANNER_90x120cm.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 16:10:08",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\PF\\gelm.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 16:10:20",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\05-06-26\\PF\\FOLDER 01 - vinco trilo.cdr",
         "Status":  "Alerta"
     }
 ]
