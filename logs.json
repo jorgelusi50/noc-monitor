@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 16:44:38",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\05-06-26\\ANY\\ENEIDA\\No_arquivo_sao_8_modelos_-_que_gostaria_de_imprimir_sortido_ate_alcancar_o_total (1)_Página_5.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 16:44:43",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\05-06-26\\ANY\\ENEIDA\\No_arquivo_sao_8_modelos_-_que_gostaria_de_imprimir_sortido_ate_alcancar_o_total (1)_Página_8.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 09:35:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELY\\GUTO\\Saida_de_Entregadores_1 (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 09:36:22",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\FLORA\\FLORA ETIQUETAS ANOMALIA 10X15.cdr",
         "Status":  "Alerta"
     }
 ]
