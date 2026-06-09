@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 17:14:37",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\CLAUDIA\\frases_juninas_PDV (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 17:25:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ANY\\Nova pasta (2)",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 09:57:26",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\1.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 10:01:42",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LETICIA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
