@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 16:36:54",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE de Cordeiros\\115 - MATEMÁTICA - 1 ANO - CEC.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 16:37:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\05-06-26\\PF\\Luciano\\Catalogo Heil  Embalagens NUMERADO LEO  02-06-26.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-09 09:20:48",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\PF\\OTILIO CESAR DALÇOQUIO DISPLAY A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 09:20:50",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\PF\\OTILIO CESAR DALÇOQUIO DISPLAY A4.cdr",
         "Status":  "Alerta"
     }
