@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 08:26:46",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\CLAUDIA\\IMPRESSÕES EM A4.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 08:26:55",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\CLAUDIA\\1000811696 (2).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 10:38:16",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELY\\CONCASE\\Concase_Portfólio de Obras 2026_versão impressa (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 10:38:29",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\ADESIVO-DIOGO\\IMPORTADO_POR (2).pdf",
         "Status":  "Alerta"
     }
 ]
