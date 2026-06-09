@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 15:27:22",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELY\\GUTO\\sabores.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 15:30:49",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELY\\GUTO\\verso do cardapio.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 08:26:46",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\CLAUDIA\\IMPRESSÕES EM A4.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 08:26:55",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\CLAUDIA\\1000811696 (2).pdf",
         "Status":  "Alerta"
     }
 ]
