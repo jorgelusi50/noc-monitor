@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 09:45:20",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\NOEMI\\1781008923974_ACDD7884EEF34246F47FD9C8A0636EB7.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 09:45:21",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\NOEMI\\1781008923974_ACDD7884EEF34246F47FD9C8A0636EB7.jpeg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 11:35:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\IMA-ROLASY\\Marina.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 11:35:35",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\IMA-ROLASY\\CamScanner_09-06-2026_1000 (1).pdf",
         "Status":  "Alerta"
     }
 ]
