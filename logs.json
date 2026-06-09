@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 14:31:07",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\MESSIAS CARTEIRAS\\CARTEIRA SME SÃO JOAQUIM 09 06 (18 UNIDADES).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 14:31:08",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\MESSIAS CARTEIRAS\\CARTEIRA SME SÃO JOAQUIM 09 06 (18 UNIDADES).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 16:44:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\EDSON\\NACIONAL GAS PLACAS 09 06.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 16:44:41",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\VICTORIA\\fig.cdr",
         "Status":  "Alerta"
     }
 ]
