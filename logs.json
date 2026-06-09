@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 11:57:14",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\SARA LIDIA\\Cópia_de_segurança_de_adesivo a4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 12:05:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\NF 116308 OC 32079.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 15:12:57",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\MESSIAS CARTEIRAS\\CARTEIRA ANTONIO CARLOS.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 15:18:00",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\BARBARA\\Caneca_panoramica_feliz_dia_dos_namorados_fotografico_em_preto_e_branco (1).jpg",
         "Status":  "Alerta"
     }
 ]
