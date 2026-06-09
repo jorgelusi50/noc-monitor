@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 11:37:57",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\SARA LIDIA\\Adesivo_redondo_eventos_matrimoniais_casamento_minimalista_floral_simples_verde_oliva_e_rosa_salmao_4_x_4_cm.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 11:37:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\SARA LIDIA\\Adesivo_redondo_eventos_matrimoniais_casamento_minimalista_floral_simples_verde_oliva_e_rosa_salmao_4_x_4_cm.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 14:31:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\MESSIAS CARTEIRAS\\CARTEIRA SME SÃO JOAQUIM 09 06 (18 UNIDADES).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 14:37:00",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\AIDA\\Resultado_09_06_2026.xls",
         "Status":  "Alerta"
     }
 ]
