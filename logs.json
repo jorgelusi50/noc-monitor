@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 11:00:08",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LETICIA\\Nova pasta\\CERTIFICADO_NR_18_-_NOVO.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 11:00:09",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LETICIA\\Nova pasta\\CERTIFICADO_NR_18_-_NOVO.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-09 13:22:00",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\CARTEIRA ANTONIO CARLOS.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 13:22:01",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\CARTEIRA ANTONIO CARLOS.pdf",
         "Status":  "Alerta"
     }
