@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 11:50:59",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\IMPRESSAO-FERNANDO\\Banner_Backdrop_-_A0.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 11:51:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\IMPRESSAO-FERNANDO\\Banner_Backdrop_-_A0.tif",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-09 15:03:31",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\PF\\a5.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 15:03:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\PF\\a5.cdr",
         "Status":  "Alerta"
