@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 15:03:37",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\PF\\a5.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 15:03:39",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\PF\\a5.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 17:17:51",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\UNIFICADO\\UNIFICADO_-_Unifestanca_-_Banner_80x120cm_copy.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 17:27:10",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\MESSIAS CARTEIRAS\\CARTEIRA APK 09 06 05 UNIDADES.pdf",
         "Status":  "Alerta"
     }
 ]
