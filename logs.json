@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 15:03:28",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\PF\\a5.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 15:03:29",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\PF\\a5.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-09 17:11:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\UNIFICADO\\UNIFICADO_-_Unifestanca_-_Banner_80x120cm_copy.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 17:14:01",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\UNIFICADO\\UNIFICADO_-_Unifestanca_-_Banner_80x120cm_copy.tif",
         "Status":  "Alerta"
