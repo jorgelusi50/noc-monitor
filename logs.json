@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 11:44:36",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\SARA LIDIA\\adesivo a4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 11:44:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\SARA LIDIA\\Cópia_de_segurança_de_adesivo a4.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 14:56:11",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\ANTONIO ROBERTO\\CARTEIRA ANTONIO CARLOS.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 14:57:07",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELY\\ANTONIO CARLOS\\CARTEIRA ANTONIO CARLOS.pdf",
         "Status":  "Alerta"
     }
 ]
