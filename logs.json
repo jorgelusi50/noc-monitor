@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 17:49:59",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\PF\\cartas 02.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 17:50:11",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELY\\Nova pasta",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-09 10:06:07",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\AMIL\\AMIL CRACHA DALILA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 10:06:16",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\AMIL\\AMIL CRACHA DALILA.pdf",
         "Status":  "Alerta"
