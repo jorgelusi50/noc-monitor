@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 17:56:45",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\PF\\Sem título-1.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 17:56:52",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\PF\\Sem título-1.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 10:20:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\LARISSA\\ARQUIVO_IMPRESSAO_MOBILE.pdf.crdownload",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 10:21:01",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\1.cdr",
         "Status":  "Alerta"
     }
 ]
