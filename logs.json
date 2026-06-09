@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 11:00:26",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LETICIA\\Nova pasta\\CERTIFICADO_NR_12_-_GSI_SERVICOS.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 11:00:27",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LETICIA\\Nova pasta\\CERTIFICADO_NR_12_-_GSI_SERVICOS.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 13:28:24",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\BANNER NAVEGANTES\\Cópia_de_segurança_de_BANNER_90x120cm.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 13:28:30",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\BANNER NAVEGANTES\\BANNER_90x120cm.cdr",
         "Status":  "Alerta"
     }
 ]
