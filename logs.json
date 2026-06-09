@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 11:37:19",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\GABRIELA\\adesivo a4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 11:37:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\IMA-ROLASY\\Marina.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 14:25:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\BAR DO FRITZ\\LETRAS RECORTE COM MASCARA 2X.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 14:27:29",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
