@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 13:21:40",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELY\\ANTONIO CARLOS\\CARTEIRA ANTONIO CARLOS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 13:21:57",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\CARTEIRA ANTONIO CARLOS.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-09 15:38:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 15:38:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\Nova pasta",
         "Status":  "Alerta"
