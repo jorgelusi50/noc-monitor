@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 14:13:50",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\SALESIANO\\CANECA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 14:13:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\SALESIANO\\CANECA.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-09 16:27:58",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\BEATRIZ\\adesivo a4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 16:27:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\BEATRIZ\\adesivo a4.cdr",
         "Status":  "Alerta"
