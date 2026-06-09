@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 08:31:10",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JUNHO\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 08:31:24",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JUNHO\\09-06-2026\\CUT DIVINO",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 10:39:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\ADESIVO-DIOGO\\D46128EE.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 10:39:37",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\ADESIVO-DIOGO\\ETIQUETAS (3).pdf",
         "Status":  "Alerta"
     }
 ]
