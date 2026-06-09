@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 15:56:39",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\LIVIA\\DHALMAS\\arte_banner_dhalmas-2.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 15:56:41",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\LIVIA\\DHALMAS\\arte_banner_dhalmas-2.tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 08:32:40",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\IMPRESSÃO-GABRIEL\\MubiChat-1043814.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 08:37:24",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE de Cordeiros\\145 - L PÓRTUGUESA - 7 ANO - CEC.pdf",
         "Status":  "Alerta"
     }
 ]
