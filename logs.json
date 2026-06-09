@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 16:53:48",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\GABRIELY\\LARI\\Cartas de personagem_Página_1.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 16:59:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\PF\\cartas 01.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-09 09:42:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GF\\CORY\\adesivo impressão e recorte.cdr 10.cdr.zip",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 09:42:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GF\\CORY\\adesivo impressão e recorte.cdr 10.cdr.zip",
         "Status":  "Alerta"
