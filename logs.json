@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 10:33:23",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\ADESIVO-DIOGO\\IMPORTADO_POR (2).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 10:37:43",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELY\\CONCASE\\Concase_Portfólio de Obras 2026_versão impressa (1).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 11:53:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\PF\\livreto grande loja\\Ritual_de_Instalacao_-_Atualizado_em_2026-1 (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 11:54:23",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\SARA LIDIA\\40x40.cdr",
         "Status":  "Alerta"
     }
 ]
