@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 16:21:04",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\IMPRESSAO\\IMPRESSAO A4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 16:21:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\IMPRESSAO\\IMPRESSAO A4.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-09 09:00:59",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LETICIA\\Purple and Pink Illustrated Sexual Health Trifold Brochure.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 09:01:00",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LETICIA\\Purple and Pink Illustrated Sexual Health Trifold Brochure.pdf",
         "Status":  "Alerta"
     }
