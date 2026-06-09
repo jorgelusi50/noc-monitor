@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 11:38:00",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\SARA LIDIA\\Adesivo_redondo_eventos_matrimoniais_casamento_minimalista_floral_simples_verde_oliva_e_rosa_salmao_4_x_4_cm.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 11:38:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\SARA LIDIA\\Adesivo_redondo_eventos_matrimoniais_casamento_minimalista_floral_simples_verde_oliva_e_rosa_salmao_4_x_4_cm.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 14:53:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 14:53:32",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\ANA LETICIA\\livrinho_estilo_folheto (1).pdf",
         "Status":  "Alerta"
     }
 ]
