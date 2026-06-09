@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 09:20:48",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\PF\\OTILIO CESAR DALÇOQUIO DISPLAY A4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 09:20:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\PF\\OTILIO CESAR DALÇOQUIO DISPLAY A4.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 11:07:13",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LETICIA\\Nova pasta\\CERTIFICADO_NR_18_-_GSI_SERVICOS.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 11:07:15",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\IMPRESSAO-FERNANDO\\Flyer_-_Frenteverso_A5_Página_1.jpg",
         "Status":  "Alerta"
     }
 ]
