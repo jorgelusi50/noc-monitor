@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 16:04:37",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 16:04:41",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\IMPRESSAO",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-09 08:43:08",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\ANTONIO ROBERTO\\VINIL  A4 ALUGA-SE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 08:43:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\ANTONIO ROBERTO\\VINIL  A4 ALUGA-SE.cdr",
         "Status":  "Alerta"
