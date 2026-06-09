@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 16:59:31",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\PF\\cartas 01.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 17:02:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\PF\\Cópia_de_segurança_de_cartas 01.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 09:45:08",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\NOEMI\\1781009049545_AC0AB49EBBA8FD582EA89D23B0375E09.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 09:45:20",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\NOEMI\\1781008923974_ACDD7884EEF34246F47FD9C8A0636EB7.jpeg",
         "Status":  "Alerta"
     }
 ]
