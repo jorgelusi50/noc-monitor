@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 17:14:03",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 17:14:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 09:50:38",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JUNHO\\09-06-2026\\livro ABRAÇO - Alexandre 01",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 09:51:12",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\GABRIELY\\SONIA\\VINIL 13X19 24.cdr",
         "Status":  "Alerta"
     }
 ]
