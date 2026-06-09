@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-08 16:42:18",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\05-06-26\\ANY\\ROZILDA\\Cópia_de_segurança_de_QUEBRA CABEÇA ajustado.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-08 16:44:31",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\05-06-26\\ANY\\ENEIDA\\No_arquivo_sao_8_modelos_-_que_gostaria_de_imprimir_sortido_ate_alcancar_o_total (1)_Página_1.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-09 09:29:41",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\BANNER AIDA\\Sem título-3.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 09:29:43",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\BANNER AIDA\\Sem título-3.cdr",
         "Status":  "Alerta"
     }
