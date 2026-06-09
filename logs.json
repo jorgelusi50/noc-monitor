@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 10:20:57",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\LARISSA\\ARQUIVO_IMPRESSAO_MOBILE.pdf.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 10:21:01",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\1.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-09 11:50:56",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\IMPRESSAO-FERNANDO\\Banner_Backdrop_-_A0.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 11:50:58",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\08-06-26\\ISADORA\\IMPRESSAO-FERNANDO\\Banner_Backdrop_-_A0.tif",
         "Status":  "Alerta"
     }
