@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 11:37:29",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\IMA-ROLASY\\Marina.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 11:37:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\LIVIA\\SARA LIDIA\\Adesivo_redondo_eventos_matrimoniais_casamento_minimalista_floral_simples_verde_oliva_e_rosa_salmao_4_x_4_cm.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-09 14:27:29",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELA\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-09 14:27:31",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELA\\Nova pasta",
         "Status":  "Alerta"
