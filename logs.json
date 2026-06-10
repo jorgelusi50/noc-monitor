@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 10:27:38",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\STHEFANY\\pulseira modelo padrão.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 10:30:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\LETICIA\\Nova pasta (2)",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 13:28:13",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\EGS HIDRO\\VINIL 13X19.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 13:33:33",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\GRANDE LOJA UNIDA\\Páginas de Ritua contracapa.jpg",
         "Status":  "Alerta"
     }
 ]
