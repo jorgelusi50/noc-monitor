@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 16:29:02",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\NOEMI\\Cópia_de_segurança_de_8X9.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 16:29:08",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\NOEMI\\Cópia_de_segurança_de_7X13.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 08:44:36",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELA\\LOUISE\\Material_Grafico_-_Livro (3)_Página_08.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 08:45:34",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELA\\LOUISE\\Material_Grafico_-_Livro (3)_Página_09.jpg",
         "Status":  "Alerta"
     }
 ]
