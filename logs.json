@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 10:47:36",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\EGS HIDRO\\FIGURINHA-COPA-HYDRO (2).zip",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 10:48:24",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE PEDRO RIZZI\\Nova pasta",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-10 13:42:06",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\GRANDE LOJA UNIDA\\A5 - mais ajustado livreto.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 13:42:53",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\GRANDE LOJA UNIDA\\A5 - mais ajustado livreto.pdf",
         "Status":  "Alerta"
     }
