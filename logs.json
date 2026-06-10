@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 15:44:34",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GF\\TROFÉUS.dxf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 15:44:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GF\\TROFÉUS.dxf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 17:28:26",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\LETICIA\\L2\\S094-704-3025_r3_1QDL5_DIM (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 17:29:58",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\LIVRO\\Cartaz frase motivacional minimalista ilustrado azullivreto.pdf",
         "Status":  "Alerta"
     }
 ]
