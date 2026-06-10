@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 15:25:49",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 15:25:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\LIVRO\\livro_mensagem_Rosana (1).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 16:20:18",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\LETICIA\\scan02\\scan07.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 16:26:41",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE PEDRO RIZZI\\192 - PORT - 1º ano - CE PEDRO RIZZI.pdf",
         "Status":  "Alerta"
     }
 ]
