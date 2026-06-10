@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 08:51:02",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\LIVIA\\DOUGLAS BRILHANTE",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-06-10 08:51:24",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\LIVIA\\DOUGLAS BRILHANTE\\MubiChat-1052301.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 08:51:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\LIVIA\\DOUGLAS BRILHANTE\\MubiChat-1052305.jpeg",
@@ -597,6 +585,18 @@
         "Data":  "2026-06-10 11:04:15",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\CDR SOLTOS\\CALENDARIO DE MESA PORTA CANETAS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 11:04:16",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\CDR SOLTOS\\CALENDARIO DE MESA PORTA CANETAS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 11:05:40",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE PEDRO RIZZI\\20 - POR AMPLIADA - 5º ano - CE PEDRO RIZZI.pdf",
         "Status":  "Alerta"
     }
 ]
