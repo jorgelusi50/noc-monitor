@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 10:11:12",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\AIDA\\Orçamento Nº 10139 - 3986 AIDA - CORTINAS.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 10:14:12",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\IMPRESSAO-NICOLE\\VINIL 13X19.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 12:56:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\DISPLAY-GUSTAVO\\Coffee_club (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 13:04:03",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GF\\PVC ARACELES.cdr",
         "Status":  "Alerta"
     }
 ]
