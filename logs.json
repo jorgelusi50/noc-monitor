@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 15:23:31",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MAIO\\27-05-26\\EDSON\\Cópia_de_segurança_de_OBSERVATORIO AVENTAL 2026.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 15:26:13",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\BARBARA\\Feminine_Aesthetic_Film_Frame_Photo_Collage_Instagram_Post (1).jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-09 17:51:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\IGREJA PALAVRA\\Cópia_de_segurança_de_IGREJA A4 RECORTE COM MASCARA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 00:32:51",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26",
         "Status":  "Alerta"
     }
 ]
