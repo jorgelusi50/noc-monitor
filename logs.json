@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 09:29:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\GRANDE LOJA UNIDA\\Ritual_Mestre-24-03-2026 (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 09:29:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\GRANDE LOJA UNIDA\\Ritual_Mestre-24-03-2026 (1).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 11:14:46",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE PEDRO RIZZI\\20 - POR AMPLIADA - 7º ano - CE PEDRO RIZZI.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 11:15:03",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\Copa 2026.pdf",
         "Status":  "Alerta"
     }
 ]
