@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 13:25:20",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\DIEGO\\DIEGO_DUARTE_CARTAO_DE_VISITAS_1 (2)_Página_1.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 13:26:28",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE PEDRO RIZZI\\72 - CIE- 7º ano - CE PEDRO RIZZI.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 15:35:13",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\VINIL BRANCO A4  24.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 15:42:49",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\JORGE\\Adesivos_LJ_A4_Alta_Qualidade.pdf",
         "Status":  "Alerta"
     }
 ]
