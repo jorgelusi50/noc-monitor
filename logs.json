@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 09:38:11",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GF\\AD$7792.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 09:40:22",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\EDSON\\CAPA AGENDA.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-10 11:21:24",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\Copa 2026.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 11:21:26",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\Copa 2026.pdf",
         "Status":  "Alerta"
