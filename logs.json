@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 15:43:08",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\JORGE\\Adesivos_LJ_A4_Correto (2).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 15:43:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ISADORA\\CANECA-JULIA\\CANECA_-_jULIA_kOWALSKI.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-10 17:14:09",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\B\u0026M\\ANA CAROLINA CAIXA.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 17:14:10",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\B\u0026M\\ANA CAROLINA CAIXA.png",
         "Status":  "Alerta"
     }
