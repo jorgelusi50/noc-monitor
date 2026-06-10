@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 16:02:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\LETICIA\\Design sem nome.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 16:02:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\LETICIA\\Design sem nome.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-10 17:54:16",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\CATALOGO_ABRASIVOS_SC_WELD_01-06-2026 em livreto para impressão.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 17:54:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\CATALOGO_ABRASIVOS_SC_WELD_01-06-2026 em livreto para impressão.pdf",
         "Status":  "Alerta"
