@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 17:29:00",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\Nova pasta (2)",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 17:29:01",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\Nova pasta (2)",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 09:29:38",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\GRANDE LOJA UNIDA",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 09:29:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\GRANDE LOJA UNIDA\\Ritual_Mestre-24-03-2026 (1).pdf",
         "Status":  "Alerta"
     }
 ]
