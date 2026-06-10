@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 12:42:57",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 12:43:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\LOGO NOVO\\Marca Cópia\u0026Cia Gráfica e Editora - Itajaí.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 15:17:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GF\\RD BIRO\\Backdrop.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 15:18:37",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE PEDRO RIZZI\\192 - MAT - 1º ano - CE PEDRO RIZZI.pdf",
         "Status":  "Alerta"
     }
 ]
