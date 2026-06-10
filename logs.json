@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 12:56:41",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\DISPLAY-GUSTAVO\\Coffee_club (1).tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 13:04:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GF\\PVC ARACELES.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-10 15:28:33",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JUNHO\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 15:28:34",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JUNHO\\Nova pasta",
         "Status":  "Alerta"
