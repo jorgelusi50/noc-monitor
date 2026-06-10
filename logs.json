@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 13:45:40",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\GRANDE LOJA UNIDA\\A5 menor.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 13:48:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\GRANDE LOJA UNIDA\\livreto 40 unidades.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 15:53:00",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\SUPERINTENDENCIA\\09_-_DIPLOMA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 15:54:41",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GF\\acrilico 2mm.pdf",
         "Status":  "Alerta"
     }
 ]
