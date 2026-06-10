@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 15:03:59",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE PEDRO RIZZI\\PRONTO\\160 - POR - 5º ano - CE PEDRO RIZZI.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 15:07:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GF\\RD BIRO\\Backdrop.tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 16:09:08",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\SUPERINTENDENCIA\\16_-_DIPLOMA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 16:09:19",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\SUPERINTENDENCIA\\17_-_DIPLOMA.pdf",
         "Status":  "Alerta"
     }
 ]
