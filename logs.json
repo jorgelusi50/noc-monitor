@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 09:18:33",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 09:18:37",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\DIEGO\\DIEGO_DUARTE_CARTAO_DE_VISITAS_1 (2).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 11:08:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\EGS HIDRO\\1780947978982_A5E6D9CF89DEFC080F4D5870AF6C4B05.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 11:09:44",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\PROJETOS\\Cópia_de_segurança_de_GALHETEIRO.cdr",
         "Status":  "Alerta"
     }
 ]
