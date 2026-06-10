@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 08:13:01",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ISADORA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 08:13:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ISADORA\\RENATO VARGAS\\RENATO VARGAS A4 VINIL RECORTE MASCARADO.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 09:53:58",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\HS\\1780947978982_A5E6D9CF89DEFC080F4D5870AF6C4B05.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 09:57:22",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\IMPRESSAO-NICOLE\\04b5t89lkxpq35ycg28d4vtyx7hjzx4x0vt69tsfbjg2svv2Av2ggh2jjcmkq2xkgpm6fz73ngzgbqq231fmywfbf8jrfp67wArqkpz69A9n8shd4776txk0cghvlgtdbm9jbbmhxmm91lxpgjAcbdcvn27km8A1c7rqch01j9pgxrvAnht1 (1)_Página_1.jpg",
         "Status":  "Alerta"
     }
 ]
