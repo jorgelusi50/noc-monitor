@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 15:55:53",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\NOEMI\\7X13.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 15:56:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\NOEMI\\8X9.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-10 08:24:38",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\UNIFICADO ELINTON\\consegues_fazer_7_copias_dessa_A4_couche_150g.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 08:24:48",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\UNIFICADO ELINTON\\consegues_fazer_7_copias_dessa_A4_couche_150g.jpg",
         "Status":  "Alerta"
     }
