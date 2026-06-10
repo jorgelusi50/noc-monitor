@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 09:40:24",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\EDSON\\CAPA AGENDA.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 09:40:25",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\EDSON\\CAPA AGENDA.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-10 11:23:18",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\PF\\taag 01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 11:23:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\PF\\taag 01.cdr",
         "Status":  "Alerta"
