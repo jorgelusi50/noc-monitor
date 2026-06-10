@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 16:04:39",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\SUPERINTENDENCIA\\03_-_DIPLOMA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 16:04:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\SUPERINTENDENCIA\\04_-_DIPLOMA.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 17:55:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\SALESIANO\\CANECA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 17:55:58",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\02-06-26\\GABRIELY\\ADESIVO PF\\VINIL BRANCO A4  24 ajuste 01.cdr",
         "Status":  "Alerta"
     }
 ]
