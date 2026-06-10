@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 11:46:24",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\SALESIANO\\CANECA.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 11:46:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\SALESIANO\\CANECA.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-10 15:08:13",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GF\\RD BIRO\\Backdrop.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 15:08:18",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GF\\RD BIRO\\Backdrop.tif",
         "Status":  "Alerta"
