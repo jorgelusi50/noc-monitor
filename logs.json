@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 08:24:48",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\UNIFICADO ELINTON\\consegues_fazer_7_copias_dessa_A4_couche_150g.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 08:30:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\LETICIA\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 09:57:49",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\IMPRESSAO-NICOLE\\04b5t89lkxpq35ycg28d4vtyx7hjzx4x0vt69tsfbjg2svv2Av2ggh2jjcmkq2xkgpm6fz73ngzgbqq231fmywfbf8jrfp67wArqkpz69A9n8shd4776txk0cghvlgtdbm9jbbmhxmm91lxpgjAcbdcvn27km8A1c7rqch01j9pgxrvAnht1 (1)_Página_2.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 09:57:57",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\IMPRESSAO-NICOLE\\04b5t89lkxpq35ycg28d4vtyx7hjzx4x0vt69tsfbjg2svv2Av2ggh2jjcmkq2xkgpm6fz73ngzgbqq231fmywfbf8jrfp67wArqkpz69A9n8shd4776txk0cghvlgtdbm9jbbmhxmm91lxpgjAcbdcvn27km8A1c7rqch01j9pgxrvAnht1 (1)_Página_3.jpg",
         "Status":  "Alerta"
     }
 ]
