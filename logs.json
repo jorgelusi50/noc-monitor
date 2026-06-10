@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 11:10:07",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\PROJETOS\\Cópia_de_segurança_de_GALHETEIRO 16X16X22.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 11:14:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\holographic.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 14:41:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\LIVIA\\DAIANE\\TROFÉUS.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 14:42:34",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ISADORA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
