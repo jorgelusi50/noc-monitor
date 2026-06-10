@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 15:52:51",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\SUPERINTENDENCIA\\27_-_DIPLOMA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 15:53:00",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\SUPERINTENDENCIA\\09_-_DIPLOMA.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 17:50:17",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\B\u0026M\\VINICIUS SANTOS- CAIXA.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 17:50:23",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\B\u0026M\\BIANCA.png",
         "Status":  "Alerta"
     }
 ]
