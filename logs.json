@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 15:42:49",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\JORGE\\Adesivos_LJ_A4_Alta_Qualidade.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 15:43:08",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\JORGE\\Adesivos_LJ_A4_Correto (2).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 17:13:25",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\B\u0026M\\Ana Julia.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 17:14:09",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\B\u0026M\\ANA CAROLINA CAIXA.png",
         "Status":  "Alerta"
     }
 ]
