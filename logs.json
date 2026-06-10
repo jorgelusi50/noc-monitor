@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 16:38:07",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\UNIFICADO\\UNIFICADO_-_Unifestanca_-_Banner_80x120cm_copy.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-06-09 16:40:07",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 16:40:19",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ISADORA\\ADESIVO-GUILHERME",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-06-10 08:46:47",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELA\\LOUISE\\Material_Grafico_-_Livro (3)_Página_10.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 08:46:48",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELA\\LOUISE\\Material_Grafico_-_Livro (3)_Página_10.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 08:46:54",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELA\\LOUISE\\Material_Grafico_-_Livro (3)_Página_10.jpg",
         "Status":  "Alerta"
     }
