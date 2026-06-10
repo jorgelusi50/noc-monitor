@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-09 15:55:41",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JUNHO\\09-06-2026\\teste triplo vinco",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-09 15:55:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\NOEMI\\7X13.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 08:19:34",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\ANY\\IGREJA PALAVRA\\Cópia_de_segurança_de_IGREJA A4 RECORTE COM MASCARA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 08:24:38",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELY\\UNIFICADO ELINTON\\consegues_fazer_7_copias_dessa_A4_couche_150g.jpg",
         "Status":  "Alerta"
     }
 ]
