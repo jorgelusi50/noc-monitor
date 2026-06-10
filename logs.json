@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 14:45:32",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\JORGE\\Adesivos_LJ_A4_Correto (2).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 14:45:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\JORGE\\Adesivos_LJ_A4_Correto (2).pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-10 16:07:06",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\SUPERINTENDENCIA\\11_-_DIPLOMA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 16:07:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\SUPERINTENDENCIA\\11_-_DIPLOMA.pdf",
         "Status":  "Alerta"
