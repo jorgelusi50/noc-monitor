@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 15:53:00",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\SUPERINTENDENCIA\\09_-_DIPLOMA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 15:54:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GF\\acrilico 2mm.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 17:50:23",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\B\u0026M\\BIANCA.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 17:50:33",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\B\u0026M\\ANA CAROLINA CAIXA.png",
         "Status":  "Alerta"
     }
 ]
