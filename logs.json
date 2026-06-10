@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 14:41:03",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\LIVIA\\DAIANE\\TROFÉUS.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 14:42:34",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ISADORA\\Nova pasta",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-10 16:06:53",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\SUPERINTENDENCIA\\07_-_DIPLOMA (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 16:06:54",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\SUPERINTENDENCIA\\07_-_DIPLOMA (1).pdf",
         "Status":  "Alerta"
