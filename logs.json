@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 13:33:38",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\HS\\1.png",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 13:33:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\HS\\10.png",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-10 15:44:32",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GF\\TROFÉUS.dxf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 15:44:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GF\\TROFÉUS.dxf",
         "Status":  "Alerta"
