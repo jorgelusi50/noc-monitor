@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 08:49:13",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELA\\LOUISE\\Material_Grafico_-_Livro (3)_Página_11.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 08:49:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\09-06-26\\GABRIELA\\LOUISE\\Material_Grafico_-_Livro (3)_Página_12.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 11:02:07",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE PEDRO RIZZI\\20 - MAT AMPLIADA - 7º ano - CE PEDRO RIZZI.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 11:04:02",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\LIVIA\\DEBORA\\Tags_Missao_Sao_Paulo_6x12cm_Página_1.jpg",
         "Status":  "Alerta"
     }
 ]
