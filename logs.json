@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 09:45:07",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\LIVIA\\DEBORA\\SERAO_5_UNIDADES.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 09:45:08",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\LIVIA\\DEBORA\\SERAO_5_UNIDADES.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 11:36:21",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE PEDRO RIZZI\\22 - MAT AMPLIADA - 3º ano - CE PEDRO RIZZI.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 11:43:10",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\CE PEDRO RIZZI\\22 - POR AMPLIADA - 3º ano - CE PEDRO RIZZ.pdf",
         "Status":  "Alerta"
     }
 ]
