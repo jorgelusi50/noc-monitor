@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 10:17:52",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ISADORA\\IMPRESSÃO-JANICE\\MubiChat-1046302.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 10:18:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\AIDA\\historico-creditos.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 13:24:38",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\holographic.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 13:25:19",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\DIEGO\\DIEGO_DUARTE_CARTAO_DE_VISITAS_1 (2)_Página_1.jpg",
         "Status":  "Alerta"
     }
 ]
