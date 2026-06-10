@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-10 15:13:25",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-10 15:13:44",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\CALENDARIOS 2026 2027 2028",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-10 16:10:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\SUPERINTENDENCIA\\25_-_DIPLOMA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-10 16:11:38",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\LIVIA\\LYLIAN\\2 (5).png",
         "Status":  "Alerta"
     }
 ]
