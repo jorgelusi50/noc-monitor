@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:01:41",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profº Martinho Gervasi\\PRONTOS",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:06:59",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profº Martinho Gervasi\\30  - CIÊN - 7º ano - EBP Martinho Gervási.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 17:19:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Profª Thereza Bezerra de Athayde\\36 CÓPIAS - CIÊNCIAS 9º ANO EBP PROFESSORA THEREZA BEZERRRA DE ATHAYDE.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:19:40",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Profª Thereza Bezerra de Athayde\\37 CÓPIAS -LP 7º ANO PROFESSORA THEREZA BEZERRA DE ATHAYDE.pdf",
         "Status":  "Alerta"
     }
 ]
