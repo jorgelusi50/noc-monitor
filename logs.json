@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:13:45",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Aníbal César - PRONTO\\PRONTO\\115-POR-1ºano-EB aníbal Cesar.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:13:49",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Aníbal César - PRONTO\\PRONTO\\131-MAT-5ºano-EB Aníbal Cesar.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 17:32:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\AIDA\\Não confirmado 750302.crdownload",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:37:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\AIDA\\Não confirmado 673280.crdownload",
         "Status":  "Alerta"
     }
 ]
