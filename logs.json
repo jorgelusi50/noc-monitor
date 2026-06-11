@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 14:13:05",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Padre José de Anchieta\\25-PORTUGUES-1ANO-EBPJA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 14:13:38",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Padre José de Anchieta\\25-PORTUGUES-7ANO-EBPJA.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 17:12:26",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\CE Profº Cacildo Romagnani - PRONTO",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:12:31",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\CE Profº Cacildo Romagnani - PRONTO\\feito\\160 - MAT - 3º ANO - C.E. Prof. Cacildo Romagnani.pdf",
         "Status":  "Alerta"
     }
 ]
