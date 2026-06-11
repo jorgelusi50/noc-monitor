@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 11:43:47",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GF\\WhatsApp Image 2026-06-11 at 08.52.36.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 11:44:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GF\\WhatsApp Image 2026-06-11 at 08.52.36.jpeg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 14:41:52",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\Não confirmado 649839.crdownload",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 14:43:38",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\LIVIA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
