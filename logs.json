@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 16:15:13",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\NF 8601 OC 34646.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 16:15:18",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\CHARLENE\\Sem título-1.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 17:16:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB João Duarte\\80-MAT-7°ANO-EBJD.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:16:58",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB João Paulo II\\159 - MAT - 5º ANO - EB JOÃO PAULO II.pdf",
         "Status":  "Alerta"
     }
 ]
