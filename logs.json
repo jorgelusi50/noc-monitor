@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:13:12",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\E.B.Yolanda Laurindo Ardigó - PRONTO\\25- POR- 3ANO EB YOLANDA\\EP0302.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:13:17",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\E.B.Yolanda Laurindo Ardigó - PRONTO\\28 - POR - 7 ANO - EB YOLANDA",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-11 17:24:17",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GABRIELY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:24:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GABRIELY\\Nova pasta",
         "Status":  "Alerta"
