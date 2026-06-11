@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:12:26",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\CE Profº Cacildo Romagnani - PRONTO",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:12:31",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\CE Profº Cacildo Romagnani - PRONTO\\feito\\160 - MAT - 3º ANO - C.E. Prof. Cacildo Romagnani.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 17:20:52",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\Escola Rosa Heleno\\120- Mat- 5 ano- Rosa Heleno.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:20:56",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\Escola Rosa Heleno\\35- Cien -7 ano - Rosa Heleno.pdf",
         "Status":  "Alerta"
     }
 ]
