@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 11:40:37",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\LETICIA\\A98DC4CA.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 11:40:58",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\LETICIA\\A9Rlxc0qk_72tzi1_5cc.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 14:26:31",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\QUEBRA CABEÇA\\Cópia_de_segurança_de_Sem título-1.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 14:27:41",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
