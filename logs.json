@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 11:25:31",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Ariribá\\18 COPIAS  - MAT - 7º ANO - ESCOLA BÁSICA ARIRIBÁ.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 11:25:52",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Ariribá\\PRONTO\\18 COPIAS  - MAT - 7º ANO - ESCOLA BÁSICA ARIRIBÁ.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 13:42:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\NF 8601 OC 34646.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 13:46:47",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EI Maria Perpétua Pereira",
         "Status":  "Alerta"
     }
 ]
