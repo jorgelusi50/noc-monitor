@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 11:15:20",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\AIDA\\NF 8601 OC 34646.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 11:15:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\AIDA\\NF 8601 OC 34646.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 11:51:45",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\EB José Medeiros Vieira\\38 - MAT. 3º ANO - JOMEVI.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 11:58:52",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\EB José Medeiros Vieira\\38 - PORT- 3º ANO JOMEVI.pdf",
         "Status":  "Alerta"
     }
 ]
