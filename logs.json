@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 13:34:32",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GABRIELY\\SUPERINTENDENCIA\\MOURA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 13:34:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GABRIELY\\SUPERINTENDENCIA\\ALESSADRO.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-11 16:36:25",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GABRIELY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 16:36:27",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GABRIELY\\Nova pasta",
         "Status":  "Alerta"
