@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 13:42:32",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\NF 8601 OC 34646.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 13:46:47",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EI Maria Perpétua Pereira",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 16:49:57",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Guilhermina Büchele Müller\\78-POR-3 ANO-GE GUILHERMINA B MULLER.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 16:50:12",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Guilhermina Büchele Müller",
         "Status":  "Alerta"
     }
 ]
