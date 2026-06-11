@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 13:46:47",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EI Maria Perpétua Pereira",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 13:46:57",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\EI Maria Perpétua Pereira - PRONTO",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-11 16:50:12",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Guilhermina Büchele Müller",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 16:50:14",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Guilhermina Büchele Müller",
         "Status":  "Alerta"
