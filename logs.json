@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 14:28:00",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\PREFEITURA\\PREFEITURA ADESIVO A3.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-06-11 14:28:02",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\PREFEITURA\\PREFEITURA ADESIVO A3.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 14:31:12",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Carlos de Paula Seára\\33-POR-3°ANO-GECPS.pdf",
@@ -597,6 +585,18 @@
         "Data":  "2026-06-11 17:14:15",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Ariribá - PRONTO\\PRONTO\\23 COPIAS  - POR - 5º ANO - ESCOLA BÁSICA ARIRIBÁ.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:14:16",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB José Medeiros Vieira - PRONTO",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:14:21",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB José Medeiros Vieira - PRONTO\\PRONTO\\02 - PORT -102.pdf",
         "Status":  "Alerta"
     }
 ]
