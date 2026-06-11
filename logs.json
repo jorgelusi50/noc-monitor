@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 14:16:49",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\LETICIA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 14:17:12",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 17:12:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\CE Profº Cacildo Romagnani - PRONTO\\feito\\160 - MAT - 3º ANO - C.E. Prof. Cacildo Romagnani.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:12:38",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\CE Profº Cacildo Romagnani - PRONTO\\feito\\70 - CIE - 7º ANO - C.E. Prof. Cacildo Romagnani.pdf",
         "Status":  "Alerta"
     }
 ]
