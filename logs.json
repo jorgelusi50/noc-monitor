@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 11:31:29",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\OSMAR\\cracha (12).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 11:31:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\ANY\\OSMAR\\cracha (12).jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-11 14:03:14",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\RODRIGO PIRES\\RODRIGO PIRES LONAS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 14:03:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\RODRIGO PIRES\\RODRIGO PIRES LONAS.cdr",
         "Status":  "Alerta"
