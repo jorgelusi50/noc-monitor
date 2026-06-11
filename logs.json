@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 11:46:35",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GF\\Cardápio 50 unidades F.V. couche 250g.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 11:46:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GF\\Cardápio 50 unidades F.V. couche 250g.jpeg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-11 14:56:44",
+        "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\LIVIA\\DAIANE",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 14:56:45",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\LIVIA\\DAIANE",
         "Status":  "Alerta"
