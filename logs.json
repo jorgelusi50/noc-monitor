@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 12:00:36",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\ALESSANDRA JAQUES",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 12:00:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\ALESSANDRA JAQUES\\ALESSANDRA JAQUES CARTÃO DE VISITAS FAZER PROVA.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 16:02:24",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Guilhermina Büchele Müller\\PRONTOS\\61-MAT-5 ANO-GE GUILHEMINA B MULLER.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 16:02:58",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Guilhermina Büchele Müller\\61-POR-5 ANO-GE GUILHERMINA B MULLER.pdf",
         "Status":  "Alerta"
     }
 ]
