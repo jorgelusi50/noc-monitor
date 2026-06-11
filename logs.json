@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:11:45",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\CE de Cordeiros - PRONTO",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:11:52",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\CE de Cordeiros - PRONTO\\PRONTO\\145 - CIENCIAS DA NATUREZA - 7 ANO - CEC.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 17:19:51",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Profº Martinho Gervasi\\63 - MAT  - 1º ano - EBP Martinho Gervási.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:19:56",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Profº Martinho Gervasi\\PRONTOS\\30 - MAT - 7º ano - EBP Martinho Gervási.pdf",
         "Status":  "Alerta"
     }
 ]
