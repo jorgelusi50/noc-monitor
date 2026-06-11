@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 13:15:43",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Padre José de Anchieta\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 13:19:12",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Padre José de Anchieta\\20-CIENCIAS-9AN0-EBPJA.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 16:15:18",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\CHARLENE\\Sem título-1.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 16:15:29",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\ISABELA\\VINIL 13X19.cdr",
         "Status":  "Alerta"
     }
 ]
