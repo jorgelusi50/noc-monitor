@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 14:07:49",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GABRIELY\\ALVES ODONTOLOGIA\\Cópia_de_segurança_de_ALVES ODONTOLOGIA PASTA ENVELOPE E A4 APROVADO.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 14:13:05",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Padre José de Anchieta\\25-PORTUGUES-1ANO-EBPJA.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-11 17:12:25",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\CE Profº Cacildo Romagnani - PRONTO",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:12:26",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\CE Profº Cacildo Romagnani - PRONTO",
         "Status":  "Alerta"
     }
