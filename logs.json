@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 13:57:41",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GABRIELY\\SC WELD\\CATALOGO_MAQUINAS_SC_WELD_01-06-2026.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 13:57:43",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GABRIELY\\SC WELD\\CATALOGO_MAQUINAS_SC_WELD_01-06-2026.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 17:06:59",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profº Martinho Gervasi\\30  - CIÊN - 7º ano - EBP Martinho Gervási.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:07:00",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profº Martinho Gervasi\\PRONTOS\\30  - CIÊN - 7º ano - EBP Martinho Gervási.pdf",
         "Status":  "Alerta"
     }
 ]
