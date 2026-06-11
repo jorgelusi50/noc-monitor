@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 11:20:36",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\AIDA\\Rescisao Ant. Cont de Experiencia - Empregador I.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 11:20:57",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 13:33:15",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GABRIELY\\SUPERINTENDENCIA\\GAROFOLO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 13:34:01",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Padre José de Anchieta\\21-MATEMATICA-3ANO-EBPJA.pdf",
         "Status":  "Alerta"
     }
 ]
