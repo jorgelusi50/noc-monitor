@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 14:31:12",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Carlos de Paula Seára\\33-POR-3°ANO-GECPS.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 14:33:24",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Carlos de Paula Seára\\45-MAT-5°ANO-GECPS.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 17:14:21",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB José Medeiros Vieira - PRONTO\\PRONTO\\02 - PORT -102.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:14:27",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB José Medeiros Vieira - PRONTO\\PRONTO\\02- PORT-5º ANO- JOMEVI.pdf",
         "Status":  "Alerta"
     }
 ]
