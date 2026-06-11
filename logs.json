@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 16:36:25",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GABRIELY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 16:36:27",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GABRIELY\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 17:17:39",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Mar Olímpio Falconieri da Cunha\\01 - POR - 7º ano - EB Marechal Olimpio Falconieri da Cunha.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:17:44",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Mar Olímpio Falconieri da Cunha\\06 - MAT - 1º ano - EB Marechal Olimpio Falconieri da Cunha..pdf",
         "Status":  "Alerta"
     }
 ]
