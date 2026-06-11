@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 15:56:17",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GABRIELY\\NF 8605 OC 34941.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 15:56:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GABRIELY\\NF 8605 OC 34941.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 17:15:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Arnaldo Brandão\\60 - MAT - 1º ANO - EB ARNALDO BRANDAO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:16:05",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Arnaldo Brandão\\64 - CIE - 7º ANO - EB ARNALDO BRANDAO.pdf",
         "Status":  "Alerta"
     }
 ]
