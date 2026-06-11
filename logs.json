@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 14:27:59",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\PREFEITURA\\PREFEITURA ADESIVO A3.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 14:28:00",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\PREFEITURA\\PREFEITURA ADESIVO A3.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 17:14:11",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Ariribá - PRONTO\\PRONTO\\21 COPIAS  - MAT - 9º ANO - ESCOLA BÁSICA ARIRIBÁ.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:14:15",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Ariribá - PRONTO\\PRONTO\\23 COPIAS  - POR - 5º ANO - ESCOLA BÁSICA ARIRIBÁ.pdf",
         "Status":  "Alerta"
     }
 ]
