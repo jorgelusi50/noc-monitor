@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 11:26:34",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Ariribá\\PRONTO\\18 COPIAS  - POR - 1º ANO - ESCOLA BÁSICA ARIRIBÁ.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 11:26:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\PF\\a5.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 13:47:30",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Padre José de Anchieta\\21-PORTUGUES-5ANO-EBPJA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 13:49:37",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Padre José de Anchieta\\25-CIENCIAS-7ANO-EBPJA.pdf",
         "Status":  "Alerta"
     }
 ]
