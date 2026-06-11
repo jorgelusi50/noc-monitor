@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 16:59:25",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Profª Maria Nilza Ferreira Evaristo",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:00:25",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\Escola Básica Mansueto Trés\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 17:19:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Profª Maria José Hülse Peixoto\\45 - matemática - 7ºano - Escola Básica Professora Maria José Hülse Peixoto - M0705.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:19:25",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Profª Thereza Bezerra de Athayde\\115  CÓPIAS- LP 1º ANO EBP THEREZA BEZERRA DE ATHAYDE.pdf",
         "Status":  "Alerta"
     }
 ]
