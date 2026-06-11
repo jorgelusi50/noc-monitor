@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 11:42:23",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GF\\WhatsApp Image 2026-06-11 at 09.38.07.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 11:42:44",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GF\\WhatsApp Image 2026-06-11 at 09.38.07.jpeg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 14:31:12",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Carlos de Paula Seára\\33-POR-3°ANO-GECPS.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 14:33:24",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Carlos de Paula Seára\\45-MAT-5°ANO-GECPS.pdf",
         "Status":  "Alerta"
     }
 ]
