@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 14:49:17",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Carlos de Paula Seára\\60-MAT-1°ANO-GECPS.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 14:51:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GABRIELA\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-11 17:14:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Padre José de Anchieta - PRONTO\\PRONTOS\\25-CIENCIAS-7ANO-EBPJA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-11 17:15:00",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Padre José de Anchieta - PRONTO\\PRONTOS\\25-PORTUGUES-7ANO-EBPJA.pdf",
         "Status":  "Alerta"
     }
 ]
