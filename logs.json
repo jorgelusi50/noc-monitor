@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 14:21:23",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\azimut\\Binder1_Página_05.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-06-12 14:21:24",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\azimut\\Binder1_Página_06.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 14:21:25",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\azimut\\Binder1_Página_06.jpg",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-06-12 14:39:18",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\LIVIA\\DEBORA\\Verso_-_Mauricio (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 14:39:19",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\LIVIA\\DEBORA\\Verso_-_Mauricio (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 14:39:20",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\LIVIA\\DEBORA\\Verso_-_Mauricio (1).pdf",
         "Status":  "Alerta"
     }
