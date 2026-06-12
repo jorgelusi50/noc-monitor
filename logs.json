@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 14:47:57",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\capa portugues.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 14:48:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\capa portugues.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-12 14:55:30",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\Escola Básica Mansueto Trés\\31 - MAT - 101 EB Mansueto Tréspdf.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 14:55:58",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\Escola Básica Mansueto Trés\\31 - MAT - 101 EB Mansueto Tréspdf.pdf",
         "Status":  "Alerta"
     }
