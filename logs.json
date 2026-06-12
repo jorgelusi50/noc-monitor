@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 10:23:18",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELA\\emanuel\\Aula_10pptx.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 10:23:26",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Elias Adaime",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-12 11:45:58",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\Rescisao Ant. Cont de Experiencia - Empregador I (3).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 11:45:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\Rescisao Ant. Cont de Experiencia - Empregador I (3).pdf",
         "Status":  "Alerta"
