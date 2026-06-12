@@ -1,6 +1,20 @@
-{
-    "Data":  "2026-06-12 17:37:50",
-    "Acao":  "Criado",
-    "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\Sem título-2.cdr",
-    "Status":  "Alerta"
-}
+[
+    {
+        "Data":  "2026-06-12 17:37:50",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\Sem título-2.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 17:39:58",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\Sem título-2.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 17:39:58",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\Sem título-2.cdr",
+        "Status":  "Alerta"
+    }
+]
