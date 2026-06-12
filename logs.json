@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 15:20:09",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\QUEBRA CABEÇA\\Sem título-1 ajuste.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 15:20:11",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\QUEBRA CABEÇA\\Sem título-1 ajuste.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 15:37:45",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\FERNANDA\\fotos_25 (1)_Página_46.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 15:37:50",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\FERNANDA\\fotos_25 (1)_Página_47.jpg",
         "Status":  "Alerta"
     }
 ]
