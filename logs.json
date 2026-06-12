@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:15:52",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Antônio Ramos\\50 PORT 1 ANO EB ANTONIO RAMOS.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:15:54",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Arnaldo Brandão",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 10:22:07",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELA\\emanuel\\Aula_09pptx.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 10:22:52",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Elias Adaime\\145 - P0504 LP LEITURA 5º ANOS.pdf",
         "Status":  "Alerta"
     }
 ]
