@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 14:38:35",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\LIVIA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 14:38:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\LIVIA\\Nova pasta",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-12 14:49:41",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\A9R498aya_k6ujdt_1ek.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 14:49:43",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\A9R498aya_k6ujdt_1ek.tmp",
         "Status":  "Alerta"
