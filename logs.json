@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:19:40",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Profª Thereza Bezerra de Athayde\\37 CÓPIAS -LP 7º ANO PROFESSORA THEREZA BEZERRA DE ATHAYDE.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:19:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Profº Martinho Gervasi\\34 - MAT - 3º ano - EBP Martinho Gervási.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-12 11:25:06",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELA\\ORÇAMENTO\\texto_2_1403_gabarito_-.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 11:25:07",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELA\\ORÇAMENTO\\texto_2_1403_gabarito_-.pdf",
         "Status":  "Alerta"
