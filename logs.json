@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:19:14",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Profª Maria José Hülse Peixoto\\160 - português - 1ºano - Escola Básica Professora Maria José Hülse Peixoto - P0105.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:19:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Profª Maria José Hülse Peixoto\\45 - matemática - 7ºano - Escola Básica Professora Maria José Hülse Peixoto - M0705.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-12 11:24:42",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ISADORA\\IMPRESSÃO-SELMO\\Programacao (2).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 11:24:43",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ISADORA\\IMPRESSÃO-SELMO\\Programacao (2).pdf",
         "Status":  "Alerta"
