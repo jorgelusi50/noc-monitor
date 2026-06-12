@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 14:47:03",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\capa ingles.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 14:47:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\capa ingles.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 14:54:37",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\FIXEL ENGENHARIA",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 14:54:39",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\FIXEL ENGENHARIA\\Arte_FIXEL_Impressao_Ajuste_em_10042026.pdf",
         "Status":  "Alerta"
     }
 ]
