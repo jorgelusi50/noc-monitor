@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 11:44:30",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\Não confirmado 801532.crdownload",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-06-12 11:44:32",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\Não confirmado 801532.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 11:44:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\Não confirmado 801532.crdownload",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-06-12 13:37:17",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\PORTA RETRATOS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 13:37:18",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\PORTA RETRATOS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 13:37:19",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\PORTA RETRATOS.cdr",
         "Status":  "Alerta"
     }
