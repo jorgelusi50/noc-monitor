@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 14:21:55",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 14:21:56",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\azimut\\Binder1_Página_12.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-12 14:47:01",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\capa ingles.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 14:47:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\capa ingles.pdf",
         "Status":  "Alerta"
