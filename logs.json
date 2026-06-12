@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:19:25",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Profª Thereza Bezerra de Athayde\\115  CÓPIAS- LP 1º ANO EBP THEREZA BEZERRA DE ATHAYDE.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:19:30",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Profª Thereza Bezerra de Athayde\\149 CÓPIAS -LP 5º ANO EBP PROFESSORA THEREZA BEZERRA DE ATHAYDE.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 11:24:44",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ISADORA\\IMPRESSÃO-SELMO\\Programacao (2).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 11:24:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
