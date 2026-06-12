@@ -178,5 +178,11 @@
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\LONAS EVENTO\\Banner_2.pdf",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 17:34:09",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GF\\figurinha.cdr",
+        "Status":  "Alerta"
     }
 ]
