@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 15:21:12",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GF\\NUMERO ZERO - CORREÇÃO TELEFONE MERCADO.cdr.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 15:21:13",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GF\\NUMERO ZERO - CORREÇÃO TELEFONE MERCADO.cdr.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 15:38:48",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\FERNANDA\\fotos_25 (1)_Página_58.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 15:38:54",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\FERNANDA\\fotos_25 (1)_Página_59.jpg",
         "Status":  "Alerta"
     }
 ]
