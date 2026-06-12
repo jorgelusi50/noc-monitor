@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:16:58",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB João Paulo II\\159 - MAT - 5º ANO - EB JOÃO PAULO II.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:17:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB João Paulo II\\170 - MAT - 1º ANO - EB JOÃO PAULO.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 10:31:24",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\MESSIAS\\CARTEIRA OZOMURU.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 10:44:05",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\scanner.pdf",
         "Status":  "Alerta"
     }
 ]
