@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 14:49:58",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\A9R5h2h21_k6ujdw_1ek.tmp",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-06-12 14:49:59",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\A9R5h2h21_k6ujdw_1ek.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 14:50:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\A9R5h2h21_k6ujdw_1ek.tmp",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-06-12 15:20:03",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\QUEBRA CABEÇA\\Cópia_de_segurança_de_Sem título-1 ajuste.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 15:20:05",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\QUEBRA CABEÇA\\Cópia_de_segurança_de_Sem título-1 ajuste.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 15:20:06",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\QUEBRA CABEÇA\\Cópia_de_segurança_de_Sem título-1 ajuste.cdr",
         "Status":  "Alerta"
     }
