@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 14:39:13",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\LIVIA\\DEBORA\\Verso_-_Guilherme (2).pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-06-12 14:39:15",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\LIVIA\\DEBORA\\Verso_-_Guilherme (2).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 14:39:17",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\LIVIA\\DEBORA\\Verso_-_Guilherme (2).pdf",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-06-12 14:49:55",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\A9R5h2h21_k6ujdw_1ek.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 14:49:56",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\A9R5h2h21_k6ujdw_1ek.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 14:49:58",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\A9R5h2h21_k6ujdw_1ek.tmp",
         "Status":  "Alerta"
