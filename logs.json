@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 14:48:19",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\capa portugues.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 14:48:20",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\capa portugues.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-12 14:57:49",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\Sem título-1.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 14:57:50",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\Sem título-1.cdr",
         "Status":  "Alerta"
