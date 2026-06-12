@@ -52,5 +52,17 @@
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JUNHO\\12-06-2026\\aida",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 17:18:38",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JUNHO\\12-06-2026\\aida",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 17:18:39",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JUNHO\\12-06-2026\\aida",
+        "Status":  "Alerta"
     }
 ]
