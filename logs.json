@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 14:39:10",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\LIVIA\\DEBORA\\Frente (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 14:39:11",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\LIVIA\\DEBORA\\Frente (1).pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-12 14:49:50",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\A9R5h2h21_k6ujdw_1ek.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 14:49:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\A9R5h2h21_k6ujdw_1ek.tmp",
         "Status":  "Alerta"
