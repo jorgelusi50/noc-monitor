@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 15:34:26",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\FERNANDA\\fotos_25 (1)_Página_08.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 15:34:32",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\FERNANDA\\fotos_25 (1)_Página_09.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 15:41:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\FERNANDA\\fotos_25 (1)_Página_81.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 15:41:14",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\FERNANDA\\fotos_25 (1)_Página_82.jpg",
         "Status":  "Alerta"
     }
 ]
