@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 13:44:41",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\RENTAL\\VERSO.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 13:44:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\RENTAL\\VERSO.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 14:22:15",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\AGIUS\\AGIUS DISPLAY.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 14:22:16",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\azimut\\Binder1_Página_14.jpg",
         "Status":  "Alerta"
     }
 ]
