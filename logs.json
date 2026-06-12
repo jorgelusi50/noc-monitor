@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 14:48:28",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\capa ingles.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 14:48:29",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\capa ingles.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 15:00:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Profª Maria Nilza Ferreira Evaristo\\PRONTO\\70_Leitura_1º ano_Maria Nilza.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 15:00:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\STHEPHANI\\Revista_Album_de_Figurinhas_Futebol_Esportivo_Verde_e_Amarelo_2 (1).pdf",
         "Status":  "Alerta"
     }
 ]
