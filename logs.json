@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 14:49:39",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\MANUAL.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 14:49:41",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\A9R498aya_k6ujdt_1ek.tmp",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-12 15:13:42",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ISADORA\\IMPRESSÃO-LUANA\\Tag_Redonda_Bia (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 15:13:43",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ISADORA\\IMPRESSÃO-LUANA\\Tag_Redonda_Bia (1).pdf",
         "Status":  "Alerta"
