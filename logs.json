@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 10:22:52",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Elias Adaime\\145 - P0504 LP LEITURA 5º ANOS.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 10:23:09",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Elias Adaime\\145 - M0504 MATEMÁTICA 5º ANOS.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 11:45:38",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\Rescisao Ant. Cont de Experiencia - Empregador I (2).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 11:45:52",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\LETICIA\\AD$34C8.tmp",
         "Status":  "Alerta"
     }
 ]
