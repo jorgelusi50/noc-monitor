@@ -166,5 +166,11 @@
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\LIVIA\\DUANNA",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 17:31:59",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\LIVIA\\DUANNA\\CARTAODUANNA_9_x_5_cmpdf_2 (1).pdf",
+        "Status":  "Alerta"
     }
 ]
