@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:15:29",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\Prof. Dr. Andrey Felipe Cé Soares - PRONTO\\56-MAT-9ºano-EBPAW.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:15:36",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profº Martinho Gervasi\\30 - MAT - 7º ano - EBP Martinho Gervási.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 10:16:03",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELA\\emanuel\\Aula_03pptx.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 10:17:01",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELA\\emanuel\\Aula_04pptx.pdf",
         "Status":  "Alerta"
     }
 ]
