@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 14:54:22",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ISADORA\\ANA LUIZA",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 14:54:23",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ISADORA\\ANA LUIZA",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 15:20:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\salesiano.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 15:21:11",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GF\\NUMERO ZERO - CORREÇÃO TELEFONE MERCADO.cdr.cdr",
         "Status":  "Alerta"
     }
 ]
