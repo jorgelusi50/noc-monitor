@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 15:22:05",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\azimut 01.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 15:22:07",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\azimut 01.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 15:39:58",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\FERNANDA\\fotos_25 (1)_Página_71.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 15:40:04",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\FERNANDA\\fotos_25 (1)_Página_72.jpg",
         "Status":  "Alerta"
     }
 ]
