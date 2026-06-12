@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 11:46:04",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\Não confirmado 720285.crdownload",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-06-12 11:46:05",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\Não confirmado 720285.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 11:46:06",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\Não confirmado 720285.crdownload",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-06-12 13:44:42",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\RENTAL\\VERSO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 13:44:43",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\RENTAL\\VERSO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 13:44:44",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\RENTAL\\VERSO.pdf",
         "Status":  "Alerta"
     }
