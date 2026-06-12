@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:24:18",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GABRIELY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:25:48",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profº Martinho Gervasi\\34 - POR - 3º ano - EBP Martinho Gervási.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 11:39:25",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\LOTE 148\\GABRIELLA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 11:39:31",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\LOTE 148\\JEFFERSON.pdf",
         "Status":  "Alerta"
     }
 ]
