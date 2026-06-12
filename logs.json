@@ -142,5 +142,11 @@
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\EVENTO\\Cadernos.pdf",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 17:21:13",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\EVENTO\\Cadernos.pdf",
+        "Status":  "Alerta"
     }
 ]
