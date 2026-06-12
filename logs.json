@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:16:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB João Duarte\\120-POR-1°ANO-EBJD.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:16:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB João Duarte\\80-MAT-7°ANO-EBJD.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 10:27:01",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\MESSIAS\\CARTEIRA SANSHIN BALNEARIO CAMBORIU 1.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 10:27:58",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\Escola Básica Mansueto Trés\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
