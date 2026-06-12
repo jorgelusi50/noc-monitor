@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 14:47:53",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\capa portugues.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 14:47:54",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\capa portugues.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-12 14:54:41",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\FIXEL ENGENHARIA\\Arte_FIXEL_Impressao_Ajuste_em_10042026.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 14:54:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\FIXEL ENGENHARIA\\Arte_FIXEL_Impressao_Ajuste_em_10042026.pdf",
         "Status":  "Alerta"
