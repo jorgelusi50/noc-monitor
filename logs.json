@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 14:54:40",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\FIXEL ENGENHARIA\\Arte_FIXEL_Impressao_Ajuste_em_10042026.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 14:54:41",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\FIXEL ENGENHARIA\\Arte_FIXEL_Impressao_Ajuste_em_10042026.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-12 15:21:59",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\azimut 01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 15:22:01",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\azimut 01.cdr",
         "Status":  "Alerta"
     }
