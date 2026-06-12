@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 15:33:59",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\Nova pasta\\MÚSICA 5.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 15:34:00",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\Nova pasta\\MÚSICA 4.jpeg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-12 15:40:44",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\FERNANDA\\fotos_25 (1)_Página_77.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 15:40:46",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\FERNANDA\\fotos_25 (1)_Página_77.jpg",
         "Status":  "Alerta"
