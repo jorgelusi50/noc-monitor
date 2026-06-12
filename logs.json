@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 15:35:24",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\FERNANDA\\fotos_25 (1)_Página_19.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 15:35:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\FERNANDA\\fotos_25 (1)_Página_20.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 15:42:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\MARCEL\\1781289389310_3EB0AA202E6AAE6107F9AF.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 15:43:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\adesivo.cdr",
         "Status":  "Alerta"
     }
 ]
