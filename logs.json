@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 13:31:35",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\VINICIUS\\VINICIUS ADESIVO 62X22.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 13:32:55",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\Escola Básica Mansueto Trés\\31 - MAT - 502 - EB Mansueto Trés.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 14:21:28",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\azimut\\Binder1_Página_06.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 14:21:29",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\azimut\\Binder1_Página_07.jpg",
         "Status":  "Alerta"
     }
 ]
