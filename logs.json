@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:26:25",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\GABRIELY\\SALESIANO\\CONVITE_70_ANOS_FRENTE_E_VERSO.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:32:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\AIDA\\Cartão Ponto.pdf - Manuelly.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 11:39:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\LOTE 148\\JEFFERSON.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 11:39:39",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\LOTE 148\\MALU.pdf",
         "Status":  "Alerta"
     }
 ]
