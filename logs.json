@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 11:48:51",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\Rescisao Ant. Cont de Experiencia - Empregador I (4).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 11:48:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\Não confirmado 77908.crdownload",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-12 13:56:17",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\RENTAL\\preciso_de_um_orcamento_desse_por_favor (1).cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 13:56:18",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\RENTAL\\preciso_de_um_orcamento_desse_por_favor (1).cdr",
         "Status":  "Alerta"
     }
