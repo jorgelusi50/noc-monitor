@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:18:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Profª Edy Vieira W. Rothbarth\\40 - MAT - 7 ano - EB Edy Veira.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:18:27",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB Profª Edy Vieira W. Rothbarth\\75 - MAT - 3 ano - EB Edy Veira.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 10:56:54",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\Impressão avaliação sondagem 1° e 2° anos\\2° ano_ProLeia_Sondagem 3_criança_OUTUBRO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 10:59:30",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\Escola Básica Mansueto Trés\\29 - CIÊ - 9º ANO EBMansueto Trés.pdf",
         "Status":  "Alerta"
     }
 ]
