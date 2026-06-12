@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:43:22",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\PF\\b m.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:43:29",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\PF\\b m.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 11:44:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\Rescisao Ant. Cont de Experiencia - Empregador I.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 11:44:30",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\AIDA\\Não confirmado 801532.crdownload",
         "Status":  "Alerta"
     }
 ]
