@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-11 17:21:22",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\GE Profª Maria Nilza Ferreira Evaristo\\80_Leitura_5ano_Maria Nilza.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-11 17:21:27",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ANY\\ULISSES",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-12 11:39:11",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\LOTE 148\\DIOGO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 11:39:13",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ANY\\LOTE 148\\DIOGO.pdf",
         "Status":  "Alerta"
     }
