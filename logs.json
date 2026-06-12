@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 14:49:36",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\MANUAL.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 14:49:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\MANUAL.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-12 15:13:25",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ISADORA\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 15:13:26",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\ISADORA\\Nova pasta",
         "Status":  "Alerta"
