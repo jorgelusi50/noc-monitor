@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 15:35:44",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\FERNANDA\\fotos_25 (1)_Página_23.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 15:35:49",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\ISADORA\\FERNANDA\\fotos_25 (1)_Página_24.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-12 15:48:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\VANESSA\\Adesivo_parede (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 15:48:37",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\VANESSA\\Adesivo_carro (1).pdf",
         "Status":  "Alerta"
     }
 ]
