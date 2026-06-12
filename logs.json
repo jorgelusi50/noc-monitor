@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 14:48:10",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\capa portugues.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 14:48:11",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\PF\\higra\\capa portugues.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-12 14:57:13",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Profª Maria Nilza Ferreira Evaristo\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 14:57:15",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Profª Maria Nilza Ferreira Evaristo\\Nova pasta",
         "Status":  "Alerta"
