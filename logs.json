@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-12 11:09:38",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\Escola Básica Mansueto Trés\\29 - MAT - 9 º ano EB Mansueto Trés.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-12 11:17:18",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\Escola Básica Mansueto Trés\\29 -MAT - 303 - EB Mansueto Trés.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-12 13:18:31",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-12 13:18:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\12-06-26\\GABRIELY\\Nova pasta",
         "Status":  "Alerta"
