@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 16:21:40",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\JULIANA\\DISPLAY-DE-MESA-TRIEDRO-100-X-100-X-190-P.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 16:21:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\JULIANA\\DISPLAY-DE-MESA-TRIEDRO-100-X-100-X-190-P.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-17 17:55:55",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\EDSON\\MARGARETE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 17:56:39",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\PF\\unificado.cdr",
         "Status":  "Alerta"
     }
 ]
