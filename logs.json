@@ -142,5 +142,11 @@
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\ESCOLA BÁSICA GASPAR DA COSTA MORAES\\45-CIE-7º ANO- EB GASPAR DA COSTA MORAES.pdf",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 13:30:26",
+        "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\ESCOLA BÁSICA GASPAR DA COSTA MORAES\\45-CIE-9º ANO- EB GASPAR DA COSTA MORAES.pdf",
+        "Status":  "Alerta"
     }
 ]
