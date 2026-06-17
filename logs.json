@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 13:14:05",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\GF\\OSMAR ETIQUETAS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 13:24:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\GF\\500 NUMEROS.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-17 15:02:20",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\IMPRESSAO-CAROLINE\\A3.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 15:02:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\IMPRESSAO-CAROLINE\\para grafica 2x2 COR ALARANJADO ESCURO - VERSÃO OFICIAL TOTAL CMYK.psd",
         "Status":  "Alerta"
     }
 ]
