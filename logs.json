@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 15:20:35",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profª Inês Cristofolini de Freitas\\P0703 7º ano Portugues.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 15:21:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ANY\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-17 17:19:17",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\AIDA\\Dispensa por Termino do Contrato Experiencia (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 17:19:18",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\AIDA\\Não confirmado 750370.crdownload",
         "Status":  "Alerta"
     }
 ]
