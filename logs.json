@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 15:25:42",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\DESPACHANTE ESPINDOLA\\02 CRACHAS.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 15:28:41",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profª Inês Cristofolini de Freitas\\P0103 (3) 1º ANO 2026.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-17 17:19:25",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\AIDA\\Dispensa por Termino do Contrato Experiencia (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 17:19:26",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\EDSON\\04.tif",
         "Status":  "Alerta"
     }
 ]
