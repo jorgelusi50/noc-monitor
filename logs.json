@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 15:57:41",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\IMPRESSÃO-ANA AZEVEDO\\Carta_Rafa.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 15:57:42",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\IMPRESSÃO-ANA AZEVEDO\\Carta_Alice (1).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-17 17:42:50",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\LIVIA\\PULSEIRA GABARITO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 17:44:09",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\LETICIA\\42260603923827000165550010000026591653966723_NFe_2659.pdf",
         "Status":  "Alerta"
     }
 ]
