@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 13:28:52",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profª Thereza Bezerra de Athayde\\227 CÓPIAS - MAT 3° ANO EBP THEREZA BEZERRA DE ATHAYDE.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 13:28:59",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profª Thereza Bezerra de Athayde",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-17 15:03:20",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\IMPRESSAO-CAROLINE\\para grafica 2x2 COR ALARANJADO ESCURO - VERSÃO OFICIAL TOTAL CMYK.psd",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 15:03:21",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\IMPRESSAO-CAROLINE\\para grafica 2x2 COR ALARANJADO ESCURO - VERSÃO OFICIAL TOTAL CMYK.psd",
         "Status":  "Alerta"
     }
