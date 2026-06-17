@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 14:20:44",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\LETICIA\\danielle\\MESA (6).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 14:20:55",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\LETICIA\\danielle\\Ordem_de_Serviço_35384_Leticia.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-17 16:30:20",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\CLAUDIA\\IMPRESSÕES.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 16:30:31",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\ESCOLA BÁSICA GASPAR DA COSTA MORAES\\35-MAT-3º ANO - EB GASPAR DA COSTA MORAES.pdf",
         "Status":  "Alerta"
     }
 ]
