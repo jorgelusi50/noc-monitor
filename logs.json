@@ -274,5 +274,11 @@
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB José Medeiros Vieira - PRONTO\\PRONTO\\EB JOSÉ MEDEIROS VIEIRA FALTANTE",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 13:50:07",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\11-06-26\\JULIANA\\EB José Medeiros Vieira - PRONTO\\PRONTO\\EB JOSÉ MEDEIROS VIEIRA FALTANTE",
+        "Status":  "Alerta"
     }
 ]
