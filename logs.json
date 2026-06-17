@@ -484,5 +484,11 @@
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profª Inês Cristofolini de Freitas\\M0503 5º Matematica 2026.pdf",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 14:36:44",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profª Inês Cristofolini de Freitas\\PRONTOS\\M0503 5º Matematica 2026.pdf",
+        "Status":  "Alerta"
     }
 ]
