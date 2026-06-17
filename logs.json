@@ -100,5 +100,11 @@
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\GF\\500 NUMEROS.cdr",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 13:28:52",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profª Thereza Bezerra de Athayde\\227 CÓPIAS - MAT 3° ANO EBP THEREZA BEZERRA DE ATHAYDE.pdf",
+        "Status":  "Alerta"
     }
 ]
