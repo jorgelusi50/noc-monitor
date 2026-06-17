@@ -106,5 +106,11 @@
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profª Thereza Bezerra de Athayde\\227 CÓPIAS - MAT 3° ANO EBP THEREZA BEZERRA DE ATHAYDE.pdf",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 13:28:59",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profª Thereza Bezerra de Athayde",
+        "Status":  "Alerta"
     }
 ]
