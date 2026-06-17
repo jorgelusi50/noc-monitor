@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 15:57:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\IMPRESSÃO-ANA AZEVEDO\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 15:57:29",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\IMPRESSÃO-ANA AZEVEDO\\1 COPIA",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-17 17:30:35",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ANY\\JEANY\\ADESIVOS RECORTE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 17:32:53",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\ESCOLA BÁSICA GASPAR DA COSTA MORAES\\70-MAT-5º ANO - EB GASPAR DA COSTA MORAES.pdf",
         "Status":  "Alerta"
     }
 ]
