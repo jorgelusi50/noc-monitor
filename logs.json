@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 14:20:42",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\LETICIA\\danielle\\MESA (6).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 14:20:44",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\LETICIA\\danielle\\MESA (6).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-17 16:29:45",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\CLAUDIA\\IMPRESSÕES EM A4.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 16:30:20",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\CLAUDIA\\IMPRESSÕES.pdf",
         "Status":  "Alerta"
     }
 ]
