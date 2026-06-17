@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 14:56:51",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profª Inês Cristofolini de Freitas\\PRONTOS\\M0703 (1) 7º matematica.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 14:57:22",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ANY\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-17 16:36:38",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\ESCOLA BÁSICA GASPAR DA COSTA MORAES\\35-POR-3º ANO - EB GASPAR DA COSTA MORAES.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 16:44:41",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\PF\\IMA.cdr",
         "Status":  "Alerta"
     }
 ]
