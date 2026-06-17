@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 15:22:12",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ANY\\POSITIVIDADE\\4 CÓPIAS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 15:25:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\DESPACHANTE ESPINDOLA\\02 CRACHAS.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-06-17 17:19:21",
         "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\AIDA\\Dispensa por Termino do Contrato Experiencia (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 17:19:25",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\AIDA\\Dispensa por Termino do Contrato Experiencia (1).pdf",
         "Status":  "Alerta"
     }
