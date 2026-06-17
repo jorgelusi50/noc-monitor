@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 15:06:50",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\BANNER-HENRIQUE\\Banner_-_Festa_do_Rosario (2).tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 15:10:05",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profª Inês Cristofolini de Freitas\\N0703 7º ano Ciencias 2026.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-17 17:14:55",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\ESCOLA BÁSICA GASPAR DA COSTA MORAES\\45-POR-7º ANO- EB GASPAR DA COSTA MORAES.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 17:17:10",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\AIDA\\PROGRAMA_DE_PATROCINIO_1.pdf",
         "Status":  "Alerta"
     }
 ]
