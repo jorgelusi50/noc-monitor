@@ -340,5 +340,11 @@
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MARÇO\\27-03-26\\GF\\CORTE LASER_ok.dxf",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 14:01:25",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\GABRIELY\\GABARITO PARA VINIL  A4 NÃO APROXIMAR DAS EXTREMIDADES.pdf",
+        "Status":  "Alerta"
     }
 ]
