@@ -508,5 +508,11 @@
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profª Inês Cristofolini de Freitas\\P0503 5º ano 2026.pdf",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 14:45:53",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ANY\\RUBIA\\16 paginas 20 UND\\arthus lara safira maite vitoria.png",
+        "Status":  "Alerta"
     }
 ]
