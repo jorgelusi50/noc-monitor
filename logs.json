@@ -256,5 +256,11 @@
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\GABRIELY\\PURAI\\902_adesivos_3-4x5-8_cm.cdr",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 13:44:39",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ANY\\COPA.cdr",
+        "Status":  "Alerta"
     }
 ]
