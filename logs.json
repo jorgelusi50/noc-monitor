@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 14:59:18",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\LETICIA\\danielle\\Nova pasta\\ATIVACOES-23.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 14:59:43",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\AIDA\\Recibo de Ferias - Paulo Marques de Oliveira.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-17 16:57:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\JULIANA\\JEAN\\DISPLAY-DE-MESA-TRIEDRO-100-X-100-X-190-P.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 16:57:49",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\IMPRESSAO-CAROLINE\\BANNER 2x2 COR ALARANJADO ESCURO - VERSÃO OFICIAL TOTAL CMYK.jpg",
         "Status":  "Alerta"
     }
 ]
