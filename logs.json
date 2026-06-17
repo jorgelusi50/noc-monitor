@@ -514,5 +514,11 @@
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\01-06-26\\ANY\\RUBIA\\16 paginas 20 UND\\arthus lara safira maite vitoria.png",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 14:48:10",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\AIDA\\Dispensa por Termino do Contrato Experiencia.pdf",
+        "Status":  "Alerta"
     }
 ]
