@@ -310,5 +310,11 @@
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\BANNER-HENRIQUE\\Banner_-_Festa_do_Rosario (2).pdf",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 13:53:46",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\BANNER-HENRIQUE\\Banner_-_Festa_do_Rosario (1).pdf",
+        "Status":  "Alerta"
     }
 ]
