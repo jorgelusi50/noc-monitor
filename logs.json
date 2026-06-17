@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 14:14:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GF\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 14:14:52",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\10-06-26\\GF\\ara",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-17 16:25:43",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\CLAUDIA",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 16:26:20",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\CLAUDIA\\Etiqueta_nutrafases_food (4).pdf",
         "Status":  "Alerta"
     }
 ]
