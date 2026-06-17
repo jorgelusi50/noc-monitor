@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 15:39:37",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\LETICIA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 15:43:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\LIVIA\\CARLINHOS\\CAARLINHOS ADESIVO 40X20cm.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-17 17:27:03",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\ESCOLA BÁSICA GASPAR DA COSTA MORAES\\45-POR-9º ANO- EB GASPAR DA COSTA MORAES.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 17:27:20",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\EDSON\\08.tif",
         "Status":  "Alerta"
     }
 ]
