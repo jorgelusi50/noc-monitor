@@ -526,5 +526,11 @@
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\LETICIA\\danielle\\Nova pasta",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 14:54:30",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\GABRIELY\\Nova pasta",
+        "Status":  "Alerta"
     }
 ]
