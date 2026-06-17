@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 15:43:30",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\LIVIA\\CARLINHOS\\CAARLINHOS ADESIVO 40X20cm.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 15:50:04",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profª Inês Cristofolini de Freitas\\P0303 3º ANO.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-17 17:27:20",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\EDSON\\08.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 17:27:32",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\LIVIA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
