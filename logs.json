@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 13:51:41",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\LIVIA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 13:52:01",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\LIVIA\\DEBORA\\CATALOGO_COMERCIAL_-_VENTUS_-_Portugues (3).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-17 15:56:54",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profª Inês Cristofolini de Freitas\\N0903 9º ano ciencias 2026 (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 15:57:20",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\IMPRESSÃO-ANA AZEVEDO\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
