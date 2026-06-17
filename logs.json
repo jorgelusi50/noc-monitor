@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 15:50:44",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profª Inês Cristofolini de Freitas\\PRONTOS\\M0903 9º ano Matematica.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 15:55:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\EDSON\\PENINHA ADESIVOS.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-17 17:29:27",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\EDSON\\09.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 17:29:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\EDSON\\09.tif",
         "Status":  "Alerta"
