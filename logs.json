@@ -394,5 +394,11 @@
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\GE Elisa Gessele Orsi\\31 x P0503.pdf",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 14:05:08",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\AIDA\\42260604013998000110550010000586851001469923.pdf",
+        "Status":  "Alerta"
     }
 ]
