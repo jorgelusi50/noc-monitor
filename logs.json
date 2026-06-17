@@ -538,5 +538,11 @@
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\GABRIELY\\ADRIANA",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 14:55:35",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\GABRIELY\\ADRIANA\\cartao-de-cuidados (1).pdf",
+        "Status":  "Alerta"
     }
 ]
