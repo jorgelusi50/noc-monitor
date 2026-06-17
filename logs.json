@@ -166,5 +166,11 @@
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\ESCOLA BÁSICA GASPAR DA COSTA MORAES\\70-POR-5º ANO - EB GASPAR DA COSTA MORAES.pdf",
         "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 13:32:08",
+        "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Pedro Paulo Rebello\\40 x P0903.pdf",
+        "Status":  "Alerta"
     }
 ]
