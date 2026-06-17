@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 13:31:13",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\ESCOLA BÁSICA GASPAR DA COSTA MORAES\\70-POR-5º ANO - EB GASPAR DA COSTA MORAES.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 13:32:08",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Pedro Paulo Rebello\\40 x P0903.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-17 15:17:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\GABRIELY\\INGA\\INGÁ VEÍCULOS CRACHAS 17 06.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-17 15:20:35",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\EB Profª Inês Cristofolini de Freitas\\P0703 7º ano Portugues.pdf",
         "Status":  "Alerta"
     }
 ]
