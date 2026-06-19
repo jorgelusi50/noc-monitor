@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 16:29:45",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\CLAUDIA\\IMPRESSÕES EM A4.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 16:30:20",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\CLAUDIA\\IMPRESSÕES.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-19 18:01:53",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\19-06-26\\PF\\Sem título-258.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-19 18:01:54",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\19-06-26\\PF\\Sem título-258.cdr",
         "Status":  "Alerta"
