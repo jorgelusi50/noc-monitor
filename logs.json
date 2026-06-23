@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-23 13:47:12",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\GAIA\\1782167461856_ACAF5011319E2B30E41D0F29A2F9BB9A.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-23 13:47:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\GAIA\\1782167461294_ACFEB640126A9D283B16CCEDF43C92AD.jpeg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-23 16:06:52",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 16:06:54",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\Nova pasta",
         "Status":  "Alerta"
