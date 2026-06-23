@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 17:55:55",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\EDSON\\MARGARETE.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 17:56:39",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\PF\\unificado.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 15:27:08",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GF\\CRISTO CORTE A LASER.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 15:27:44",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LETICIA\\nikkki\\1_via-_colorido-_jato_de_tinta (1).pdf",
         "Status":  "Alerta"
     }
 ]
