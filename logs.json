@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-23 14:45:22",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\CDR SOLTOS\\IMAGENS PARA DTF.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-23 14:45:28",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\CDR SOLTOS\\IMAGENS PARA DTF.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 16:30:14",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LETICIA\\nikkki\\1782234553343_4AFC159C95C577113D7C (2).jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 16:38:57",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\18-06-26\\GABRIELY\\LUCIANO\\LANCAMENTOS PAGINA CERNUTTI 19-06 cmyk.cdr",
         "Status":  "Alerta"
     }
 ]
