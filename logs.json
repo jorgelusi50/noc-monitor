@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-19 18:01:56",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\19-06-26\\PF\\Sem título-258.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-19 18:01:57",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\19-06-26\\PF\\Sem título-258.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-23 15:46:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LETICIA\\LUANA\\Educacao_nao_transforma_o_mundo_Educacao_muda_as_pessoas_Pessoas_transformam_o_mundo.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 15:46:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LETICIA\\LUANA\\Educacao_nao_transforma_o_mundo_Educacao_muda_as_pessoas_Pessoas_transformam_o_mundo.pdf",
         "Status":  "Alerta"
