@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 17:56:41",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\PF\\unificado.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 17:56:42",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\PF\\unificado.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 15:27:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LETICIA\\nikkki\\Relatorio_de_Vistoria_Cautelar_Copas_0382026_Brizza_-_Residencial_7283_R0.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 15:32:59",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\18-06-26\\ISADORA\\GNH INSTAGRAM\\Cópia_de_segurança_de_PAINEL INSTAGRAM 65X90.cdr",
         "Status":  "Alerta"
     }
 ]
