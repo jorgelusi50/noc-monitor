@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 17:27:20",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\EDSON\\08.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 17:27:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\LIVIA\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 14:39:01",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\NF 116338 OS 35721.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 14:45:22",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\CDR SOLTOS\\IMAGENS PARA DTF.cdr",
         "Status":  "Alerta"
     }
 ]
