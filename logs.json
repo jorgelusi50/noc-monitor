@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 16:36:27",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\EDSON\\03.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 16:36:38",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\ESCOLA BÁSICA GASPAR DA COSTA MORAES\\35-POR-3º ANO - EB GASPAR DA COSTA MORAES.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 13:47:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\GAIA\\1782167462176_ACB9B081A5D32991C4A292AF56A5A5C7.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 13:47:12",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\GAIA\\1782167461856_ACAF5011319E2B30E41D0F29A2F9BB9A.jpeg",
         "Status":  "Alerta"
     }
 ]
