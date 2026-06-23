@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-23 13:35:44",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-23 13:37:54",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\PF\\Pink_and_Blue_Playful_Medical_Project_Presentation_Página_1.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 15:57:01",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\STHEFANY\\Cópia_de_segurança_de_adesivo a4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 15:58:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LIVIA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
