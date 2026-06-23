@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-23 14:11:06",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ANY\\POSITIVIDADE NA LATA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-23 14:11:11",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ANY\\POSITIVIDADE NA LATA\\PEDIDO 3\\frases_floresca_26.pdf.crdownload",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-23 16:16:56",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ANY\\ALGORITHMOS\\FRENTE VERNIZ.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 16:16:58",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ANY\\ALGORITHMOS\\FRENTE VERNIZ.pdf",
         "Status":  "Alerta"
