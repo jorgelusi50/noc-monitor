@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 16:57:42",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\JULIANA\\JEAN\\DISPLAY-DE-MESA-TRIEDRO-100-X-100-X-190-P.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 16:57:49",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\IMPRESSAO-CAROLINE\\BANNER 2x2 COR ALARANJADO ESCURO - VERSÃO OFICIAL TOTAL CMYK.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 13:49:16",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ISADORA\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 13:49:23",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ISADORA\\BANNER\\projeto_banner_turma25 (3).pdf",
         "Status":  "Alerta"
     }
 ]
