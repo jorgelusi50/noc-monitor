@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 17:19:26",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\EDSON\\04.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 17:19:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\EDSON\\04.tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 14:31:20",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\AIDA\\LUIZ CARLOS BARBOSA COSTA MENDES\\LUIZ CARLOS BARBOSA COSTA MENDES.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 14:34:38",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GF\\Cernutti.dxf",
         "Status":  "Alerta"
     }
 ]
