@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-23 14:34:46",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GF\\Cernutti.dxf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-23 14:35:52",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 16:27:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LETICIA\\nikkki\\Não confirmado 522290.crdownload",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 16:27:21",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LETICIA\\nikkki\\1782234553343_4AFC159C95C577113D7C (1).jpeg",
         "Status":  "Alerta"
     }
 ]
