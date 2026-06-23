@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-23 14:17:50",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LETICIA\\DIGITALIZAÇÃO\\SCAN01.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-23 14:17:58",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LETICIA\\DIGITALIZAÇÃO\\SCAN02.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 16:17:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ANY\\ALGORITHMOS\\VERSO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 16:17:25",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ANY\\ALGORITHMOS\\VERSO ERNIZ.pdf",
         "Status":  "Alerta"
     }
 ]
