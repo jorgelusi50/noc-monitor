@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 17:09:00",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\AIDA\\Orcamento_35414_SEM.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 17:14:55",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\03-06-26\\PF\\PROVAS\\FALTA\\ESCOLA BÁSICA GASPAR DA COSTA MORAES\\45-POR-7º ANO- EB GASPAR DA COSTA MORAES.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 14:11:22",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ANY\\POSITIVIDADE NA LATA\\PEDIDO 3\\frases_bora_vender_2026 (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 14:15:11",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ANY\\416168\\AF_banner_contrapartida-ug_90x120cm_19jun26.tif",
         "Status":  "Alerta"
     }
 ]
