@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 16:44:42",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\PF\\IMA.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 16:45:34",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\GABRIELY\\POLLYANA\\1781725175901_3A8F6A9BA99CF6E7C542.jpeg",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 13:47:46",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\GAIA\\1782167460807_AC48E98D6002B5949E54922CA15777D9.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 13:47:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\GAIA\\1782167460337_AC53E8CF822F445FBA973623B804E10D.jpeg",
         "Status":  "Alerta"
     }
 ]
