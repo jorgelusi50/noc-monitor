@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-19 17:57:56",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\18-06-26\\ISADORA\\GNH INSTAGRAM\\Cópia_de_segurança_de_PAINEL INSTAGRAM 65X90.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-19 18:01:21",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\18-06-26\\ANY\\MISTE O\\Cópia_de_segurança_de_pasta -com orelha - PERFEITA.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-23 15:37:39",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\PF\\11x15.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 15:37:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\PF\\11x15.cdr",
         "Status":  "Alerta"
