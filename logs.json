@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 17:29:49",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ANY\\JEANY\\COPA.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 17:30:35",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ANY\\JEANY\\ADESIVOS RECORTE.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 14:49:54",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\ADRIANA\\t-6x3-vela-cha-branco.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 14:50:02",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\ADRIANA\\t-6x3-baunilha (1).pdf",
         "Status":  "Alerta"
     }
 ]
