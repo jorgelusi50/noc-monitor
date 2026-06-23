@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-23 13:37:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\PF\\Pink_and_Blue_Playful_Medical_Project_Presentation_Página_1.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-23 13:38:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\PF\\COMANDA MANICURE numerada 1 a...pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-23 15:58:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LIVIA\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 15:58:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LIVIA\\Nova pasta",
         "Status":  "Alerta"
