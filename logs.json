@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-19 18:01:52",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\19-06-26\\PF\\Sem título-258.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-19 18:01:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\19-06-26\\PF\\Sem título-258.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 15:40:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELA\\Design_sem_nome - 2026-06-23T153943.120.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 15:46:33",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LETICIA\\Nova pasta (2)",
         "Status":  "Alerta"
     }
 ]
