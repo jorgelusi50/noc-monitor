@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-23 14:15:11",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ANY\\416168\\AF_banner_contrapartida-ug_90x120cm_19jun26.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-23 14:17:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LETICIA\\Nova pasta (2)",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-06-23 16:17:00",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ANY\\ALGORITHMOS\\FRENTE VERNIZ.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 16:17:01",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ANY\\ALGORITHMOS\\FRENTE VERNIZ.pdf",
         "Status":  "Alerta"
