@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 16:34:23",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\CLAUDIA\\Binder3.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 16:34:24",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\ISADORA\\CLAUDIA\\Binder3.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 13:29:54",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ISADORA\\UNIFICADO\\30_desse_frente_e_verso_em_A5 (2)_Página_2.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 13:35:44",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
