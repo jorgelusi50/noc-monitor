@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-23 14:49:44",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\ADRIANA",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-23 14:49:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\ADRIANA\\t-6x3-vela-cha-branco.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 16:40:14",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\18-06-26\\GABRIELY\\LUCIANO\\LANCAMENTOS PAGINA CERNUTTI 19-06 cmyk.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 16:42:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\MAXCUSI\\CARTAO_VISITA.jpg",
         "Status":  "Alerta"
     }
 ]
