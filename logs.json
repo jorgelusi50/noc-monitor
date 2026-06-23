@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-17 17:08:32",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\EDSON\\MISTER O..cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-17 17:09:00",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\17-06-26\\AIDA\\Orcamento_35414_SEM.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 14:11:11",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ANY\\POSITIVIDADE NA LATA\\PEDIDO 3\\frases_floresca_26.pdf.crdownload",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-06-23 14:11:22",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ANY\\POSITIVIDADE NA LATA\\PEDIDO 3\\frases_bora_vender_2026 (1).pdf",
         "Status":  "Alerta"
     }
 ]
