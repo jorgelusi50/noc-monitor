@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-23 16:27:07",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LETICIA\\nikkki\\1782234553343_4AFC159C95C577113D7C.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-23 16:27:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LETICIA\\nikkki\\1782234553343_4AFC159C95C577113D7C.jpeg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-06 13:58:19",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\Não confirmado 450838.crdownload",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 13:58:21",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\Não confirmado 450838.crdownload",
         "Status":  "Alerta"
