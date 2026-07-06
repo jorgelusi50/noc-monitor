@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 15:50:25",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\Lucas.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 15:50:26",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\Lucas.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-06 16:29:09",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\BANNER\\Uma ação social do Diretório Academico em parceria com a coordenação do ECJS e HEMOSC.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:29:10",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\BANNER\\Uma ação social do Diretório Academico em parceria com a coordenação do ECJS e HEMOSC.tif",
         "Status":  "Alerta"
     }
