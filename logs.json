@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 15:18:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\FKSC\\FKSC CARTEIRAS 04 02.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 15:21:01",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-06 16:00:53",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\BANNER\\Uma ação social do Diretório Academico em parceria com a coordenação do ECJS e HEMOSC.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:00:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\BANNER\\Uma ação social do Diretório Academico em parceria com a coordenação do ECJS e HEMOSC.pdf.crdownload",
         "Status":  "Alerta"
     }
 ]
