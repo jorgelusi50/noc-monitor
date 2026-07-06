@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-07-06 14:57:46",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\ISADORA\\CARTAO EM A5\\cartao.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 14:57:46",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\ISADORA\\CARTAO EM A5\\cartao.cdr",
         "Status":  "Alerta"
@@ -597,6 +591,12 @@
         "Data":  "2026-07-06 15:44:08",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\LONA IMPRESSA-LIDIANE\\Design_sem_nome (42).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 15:46:30",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
