@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:46:09",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\EDSON\\COPIA E CIA PASTA 2022.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:46:13",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\VINIL 13X19 CERTO 24.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-06 15:00:29",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\cartao garantia.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 15:00:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\cartao garantia.cdr",
         "Status":  "Alerta"
