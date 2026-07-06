@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-06-23 14:50:02",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\ADRIANA\\t-6x3-baunilha (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-06-23 14:50:03",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\ADRIANA\\t-6x3-baunilha (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-23 14:54:15",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ISADORA\\Nova pasta",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-06 12:51:47",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\AIDA\\Resultado_06_07_2026.xlsx",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 12:51:49",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\AIDA\\Resultado_06_07_2026.xlsx",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 12:51:50",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\AIDA\\Resultado_06_07_2026.xlsx",
         "Status":  "Alerta"
     }
