@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:57:50",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\ISADORA\\CARTAO EM A5\\cartao.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:57:51",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\ISADORA\\CARTAO EM A5\\cartao.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-06 15:46:32",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\Nova pasta (2)",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 15:46:34",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\Nova pasta (2)",
         "Status":  "Alerta"
