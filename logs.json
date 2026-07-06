@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:59:23",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\ISADORA\\CARTAO VISITA\\cartão de visita.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:59:24",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\ISADORA\\CARTAO VISITA\\cartão de visita.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-06 15:58:50",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\Nova pasta\\UNIFICADO CRACHAS 31 03.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 15:58:52",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\Nova pasta\\UNIFICADO CRACHAS 31 03.pdf",
         "Status":  "Alerta"
