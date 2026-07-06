@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:40:30",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\24-06-26\\ANY\\EVENTO\\PF\\CALENDARIO\\BASE CALENDARIO ajuste.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:40:31",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\24-06-26\\ANY\\EVENTO\\PF\\CALENDARIO\\BASE CALENDARIO ajuste.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-06 14:59:20",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\ISADORA\\CARTAO VISITA\\cartão de visita.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:59:22",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\ISADORA\\CARTAO VISITA\\cartão de visita.cdr",
         "Status":  "Alerta"
