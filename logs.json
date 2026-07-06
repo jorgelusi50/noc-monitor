@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:58:51",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\150g.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 14:58:52",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\150g.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:58:53",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\150g.cdr",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-06 15:50:29",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\Lucas.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 15:50:30",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\Heinz.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 15:50:32",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\Heinz.pdf",
         "Status":  "Alerta"
     }
 ]
