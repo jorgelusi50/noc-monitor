@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-06-23 15:50:09",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GF\\Escura.dxf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-06-23 15:50:22",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GF\\branca.dxf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-23 15:52:00",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\ANY\\ANJOS DO MAR\\adesivos 53x38CM.cdr",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-06 13:21:35",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\29-06-26\\GABRIELY\\GAJO ADESIVOS\\gajo ajustado.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 13:21:36",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\29-06-26\\GABRIELY\\GAJO ADESIVOS\\gajo ajustado.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 13:21:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\29-06-26\\GABRIELY\\GAJO ADESIVOS\\gajo ajustado.cdr",
         "Status":  "Alerta"
