@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-23 15:46:49",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\LETICIA\\LUANA\\Educacao_nao_transforma_o_mundo_Educacao_muda_as_pessoas_Pessoas_transformam_o_mundo.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-23 15:50:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GF\\Escura.dxf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-06 13:21:33",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\29-06-26\\GABRIELY\\GAJO ADESIVOS\\gajo ajustado.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 13:21:35",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\29-06-26\\GABRIELY\\GAJO ADESIVOS\\gajo ajustado.cdr",
         "Status":  "Alerta"
     }
