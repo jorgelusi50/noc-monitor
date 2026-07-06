@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 16:31:31",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\JOSÉ\\DISPLAY DE MESA.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 16:31:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\JOSÉ\\DISPLAY DE MESA.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-06 16:59:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\INCORPORA\\INCORPORA_-_PLACA_CREA (2).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:59:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\INCORPORA\\INCORPORA_-_PLACA_CREA (2).pdf",
         "Status":  "Alerta"
