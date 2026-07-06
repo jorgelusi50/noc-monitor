@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 16:36:42",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\ADESIVOS.tif",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 16:42:09",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\Nova pasta (2)",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 16:42:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\Nova pasta (2)",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-06 17:04:05",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\FLORA\\VINIL A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 17:04:06",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\FLORA\\VINIL A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 17:04:07",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\FLORA\\VINIL A4.cdr",
         "Status":  "Alerta"
     }
