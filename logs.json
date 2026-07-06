@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 13:57:35",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\Caixa.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 13:57:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\Não confirmado 516404.crdownload",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-06 14:40:09",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Certificado_de_garantia_Windsor_.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:40:11",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Certificado_de_garantia_Windsor_.jpg",
         "Status":  "Alerta"
     }
