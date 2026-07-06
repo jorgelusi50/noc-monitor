@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:59:52",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417131\\cartao de visita.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 14:59:53",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417131\\cartao de visita.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:59:55",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417131\\cartao de visita.cdr",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-06 15:59:08",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Binder2_Página_4.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 15:59:09",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Binder2_Página_4.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 15:59:10",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Binder2_Página_4.jpg",
         "Status":  "Alerta"
     }
