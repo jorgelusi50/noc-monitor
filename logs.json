@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:57:52",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\ISADORA\\CARTAO EM A5\\cartao.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:57:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\ISADORA\\CARTAO EM A5\\cartao.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-06 15:46:49",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\ANA LUCIA",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 15:46:54",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
