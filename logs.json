@@ -1,23 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 12:56:51",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\AIDA\\222CD878.tmp",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 12:56:52",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\AIDA\\222CD878.tmp",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 12:56:53",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\AIDA\\222CD878.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 12:56:55",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\AIDA\\222CD878.tmp",
@@ -596,6 +578,24 @@
     {
         "Data":  "2026-07-06 14:04:27",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\SEARA\\SEARA ADESIVO RAMAL DE EMERGENCIA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:04:29",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\SEARA\\SEARA ADESIVO RAMAL DE EMERGENCIA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:04:30",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\SEARA\\SEARA ADESIVO RAMAL DE EMERGENCIA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:04:30",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\SEARA\\SEARA ADESIVO RAMAL DE EMERGENCIA.cdr",
         "Status":  "Alerta"
     }
