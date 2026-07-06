@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:42:34",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\AGENDAS\\2027\\Faca de corte da caixa - Agenda 2027 comercial\\CAIXA ENCAIXÁVEL 19 E 25MM.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 14:42:35",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\AGENDAS\\2027\\Faca de corte da caixa - Agenda 2027 comercial\\CAIXA ENCAIXÁVEL 19 E 25MM.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:42:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\AGENDAS\\2027\\Faca de corte da caixa - Agenda 2027 comercial\\CAIXA ENCAIXÁVEL 19 E 25MM.cdr",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-06 14:59:51",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417131\\cartao de visita.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:59:52",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417131\\cartao de visita.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:59:53",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417131\\cartao de visita.cdr",
         "Status":  "Alerta"
     }
