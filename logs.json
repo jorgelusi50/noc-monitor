@@ -1,23 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:25:46",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Certificado_de_garantia_Windsor_.pdf.crdownload",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 14:25:47",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Certificado_de_garantia_Windsor_.pdf.crdownload",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 14:25:49",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Certificado_de_garantia_Windsor_.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:25:51",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Certificado_de_garantia_Windsor_.pdf",
@@ -596,6 +578,24 @@
     {
         "Data":  "2026-07-06 14:58:50",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\150g.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:58:51",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\150g.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:58:52",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\150g.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:58:53",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\150g.cdr",
         "Status":  "Alerta"
     }
