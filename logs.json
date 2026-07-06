@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 15:50:35",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\Heinz_int.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 15:50:36",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\Heinz_int.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 15:50:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\Heinz_int.pdf",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-06 16:30:51",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417375\\AF_banner_cap-tea_90x120cm_26jun26.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:30:52",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417375\\AF_banner_cap-tea_90x120cm_26jun26.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:30:54",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417375\\AF_banner_cap-tea_90x120cm_26jun26.tif",
         "Status":  "Alerta"
