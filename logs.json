@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 15:59:13",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Binder2_Página_5.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 15:59:21",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Binder2_Página_5.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-06 16:36:27",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\ADESIVOS.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:36:28",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\ADESIVOS.tif",
         "Status":  "Alerta"
