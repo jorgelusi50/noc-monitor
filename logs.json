@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 17:14:59",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\BRUNO SEARA\\IMG-20260702-WA0053.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 17:15:01",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\BRUNO SEARA\\IMG-20260702-WA0053.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 17:15:03",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\BRUNO SEARA\\IMG-20260702-WA0053.jpg",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-06 17:49:36",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\BRUNA\\MubiChat-1113404.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 17:49:38",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\BRUNA\\MubiChat-1113404.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 17:49:57",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\BRUNA\\MubiChat-1113405.jpeg",
         "Status":  "Alerta"
     }
 ]
