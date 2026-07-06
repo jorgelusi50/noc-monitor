@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:01:42",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\JOSÉ\\Cópia_de_segurança_de_DISPLAY DE MESA.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:01:43",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\JOSÉ\\DISPLAY DE MESA.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-06 14:46:13",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\VINIL 13X19 CERTO 24.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:46:14",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\VINIL 13X19 CERTO 24.cdr",
         "Status":  "Alerta"
     }
