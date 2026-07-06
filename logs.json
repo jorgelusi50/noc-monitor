@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 16:17:12",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\CARTÕES HYZEN.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 16:17:13",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\CARTÕES HYZEN.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-06 16:58:10",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\PLACA AF\\simbolo_AF_65x75cm (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:58:12",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\PLACA AF\\simbolo_AF_65x75cm (1).tif",
         "Status":  "Alerta"
     }
