@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 16:51:36",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GF\\VINIL BRANCO A4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 16:51:37",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GF\\VINIL BRANCO A4.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-06 17:14:58",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\BRUNO SEARA\\IMG-20260702-WA0053.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 17:14:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\BRUNO SEARA\\IMG-20260702-WA0053.jpg",
         "Status":  "Alerta"
