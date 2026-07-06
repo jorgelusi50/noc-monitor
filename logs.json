@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-07-06 14:04:30",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\SEARA\\SEARA ADESIVO RAMAL DE EMERGENCIA.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 14:04:30",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\SEARA\\SEARA ADESIVO RAMAL DE EMERGENCIA.cdr",
         "Status":  "Alerta"
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-06 14:52:15",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\EUNICE\\VINIL A4 24.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:52:16",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\EUNICE\\VINIL A4 24.cdr",
         "Status":  "Alerta"
