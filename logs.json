@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 17:02:16",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LETICIA\\Não confirmado 583203.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 17:02:17",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LETICIA\\Não confirmado 583203.crdownload",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-06 17:27:08",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\Cópia_de_segurança_de_COPIA E CIA PASTA 2026.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 17:27:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\Cópia_de_segurança_de_COPIA E CIA PASTA 2026.cdr",
         "Status":  "Alerta"
