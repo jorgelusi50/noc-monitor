@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 16:42:13",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\INF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 16:42:14",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\INF",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-06 17:13:25",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 17:13:27",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\Nova pasta",
         "Status":  "Alerta"
