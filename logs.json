@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:40:00",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Certificado_de_garantia_Windsor_.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:40:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Certificado_de_garantia_Windsor_.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-06 14:59:00",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\150g.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:59:01",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\150g.cdr",
         "Status":  "Alerta"
