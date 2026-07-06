@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-23 15:37:39",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\PF\\11x15.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-23 15:37:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\PF\\11x15.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-06 13:03:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\FKSC\\FKSC CARTEIRAS 06 07.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 13:03:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\FKSC\\FKSC CARTEIRAS 06 07.pdf",
         "Status":  "Alerta"
