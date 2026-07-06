@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-07-06 12:51:56",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\AIDA\\Resultado_06_07_2026.xlsx",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 12:51:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\AIDA\\Resultado_06_07_2026.xlsx",
         "Status":  "Alerta"
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-06 14:04:23",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\SEARA\\SEARA ADESIVO RAMAL DE EMERGENCIA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:04:25",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\SEARA\\SEARA ADESIVO RAMAL DE EMERGENCIA.cdr",
         "Status":  "Alerta"
     }
