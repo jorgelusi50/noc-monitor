@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 15:59:02",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Binder2_Página_4.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 15:59:08",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Binder2_Página_4.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 15:59:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Binder2_Página_4.jpg",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-06 16:36:21",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\ADESIVOS.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:36:22",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\ADESIVOS.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:36:24",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\ADESIVOS.tif",
         "Status":  "Alerta"
     }
