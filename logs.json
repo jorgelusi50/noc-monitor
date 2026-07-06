@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 13:58:23",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\Não confirmado 450838.crdownload",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 13:58:24",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\Não confirmado 450838.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 13:58:26",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\caixa piramide.jpg",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-06 14:42:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\CAIXA ENCAIXÁVEL 19 E 25MM.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:42:49",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\CAIXA ENCAIXÁVEL 19 E 25MM.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:42:50",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\CAIXA ENCAIXÁVEL 19 E 25MM.cdr",
         "Status":  "Alerta"
