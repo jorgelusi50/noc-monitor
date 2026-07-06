@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:18:13",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\SEARA\\CERTO.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:18:15",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\SEARA\\CERTO.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-06 14:54:29",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\24-06-26\\ANY\\EVENTO\\PF\\CALENDARIO\\BASE CALENDARIO ajuste.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:57:00",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\HELP MOTOS\\VINIL BRANCO A4 24.cdr",
         "Status":  "Alerta"
     }
 ]
