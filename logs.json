@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-06-23 14:49:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\ADRIANA\\t-6x3-vela-cha-branco.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-06-23 14:50:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\ADRIANA\\t-6x3-baunilha (1).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-06-23 16:42:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\23-06-26\\GABRIELY\\MAXCUSI\\CARTAO_VISITA.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 12:51:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\AIDA\\Resultado_06_07_2026.xlsx",
         "Status":  "Alerta"
     }
 ]
