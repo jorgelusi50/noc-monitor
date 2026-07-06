@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 16:58:26",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\NF da O.S - 36449.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 16:58:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\NF da O.S - 36449.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-06 17:15:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\JOÃO\\Logo_estetica_minimalista_marrom_e_branco_20260706_093748_0000 (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 17:15:37",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\JOÃO\\Logo_estetica_minimalista_marrom_e_branco_20260706_093748_0000 (1).pdf.crdownload",
         "Status":  "Alerta"
     }
 ]
