@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 16:30:48",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417375\\AF_banner_cap-tea_90x120cm_26jun26.tif",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 16:30:50",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417375\\AF_banner_cap-tea_90x120cm_26jun26.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 16:30:51",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417375\\AF_banner_cap-tea_90x120cm_26jun26.tif",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-06 16:58:44",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\NF da O.S - 36449.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:58:45",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\NF da O.S - 36449.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:58:47",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\NF da O.S - 36449.pdf",
         "Status":  "Alerta"
     }
