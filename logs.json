@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:40:08",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Certificado_de_garantia_Windsor_.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 14:40:09",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Certificado_de_garantia_Windsor_.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:40:11",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Certificado_de_garantia_Windsor_.jpg",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-06 14:59:11",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\30-06-26\\GABRIELY\\ELAINE\\GF\\LOGO PARA AGENDA CRAFT E CANETA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:59:13",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\30-06-26\\GABRIELY\\ELAINE\\GF\\LOGO PARA AGENDA CRAFT E CANETA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:59:13",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\30-06-26\\GABRIELY\\ELAINE\\GF\\LOGO PARA AGENDA CRAFT E CANETA.cdr",
         "Status":  "Alerta"
     }
