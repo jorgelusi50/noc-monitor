@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 17:02:10",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LETICIA\\Nota fiscal 1_25 - 36805.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 17:02:12",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LETICIA\\Nota fiscal 1_25 - 36805.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 17:02:13",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LETICIA\\Nota fiscal 1_25 - 36805.pdf",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-06 17:27:05",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\Cópia_de_segurança_de_COPIA E CIA PASTA 2026.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 17:27:06",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\Cópia_de_segurança_de_COPIA E CIA PASTA 2026.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 17:27:07",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\Cópia_de_segurança_de_COPIA E CIA PASTA 2026.cdr",
         "Status":  "Alerta"
     }
