@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 16:48:23",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELA\\Nota fiscal 1_24 - 35287.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 16:48:25",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELA\\Nota fiscal 1_24 - 35287.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-06 17:14:03",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\BRUNO SEARA\\EAR_TIAE.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 17:14:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\BRUNO SEARA\\EAR_TIAE.pdf",
         "Status":  "Alerta"
