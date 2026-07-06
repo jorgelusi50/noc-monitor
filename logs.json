@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:52:16",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\EUNICE\\VINIL A4 24.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:52:17",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\EUNICE\\VINIL A4 24.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-06 15:10:16",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\30-06-26\\GABRIELY\\ELAINE\\GF\\LOGO PARA AGENDA CRAFT E CANETA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 15:10:17",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\30-06-26\\GABRIELY\\ELAINE\\GF\\LOGO PARA AGENDA CRAFT E CANETA.cdr",
         "Status":  "Alerta"
     }
