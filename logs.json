@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 16:59:03",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\UNIFICADO MARIA ALICE\\Coo (2).tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 16:59:04",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\UNIFICADO MARIA ALICE\\Coo (2).tif",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-06 17:24:33",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\JOVEM PAN\\CRACHA_-_JOVEM_PAN_NEWS_LITORAL_E_MARAZUL (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 17:24:34",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\JOVEM PAN\\CRACHA_-_JOVEM_PAN_NEWS_LITORAL_E_MARAZUL (1).pdf",
         "Status":  "Alerta"
     }
