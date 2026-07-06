@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:39:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Certificado_de_garantia_Windsor_.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 14:39:56",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Certificado_de_garantia_Windsor_.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:39:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Certificado_de_garantia_Windsor_.jpg",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-06 14:58:54",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\150g.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:58:56",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\150g.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:58:58",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\150g.cdr",
         "Status":  "Alerta"
     }
