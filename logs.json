@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 13:58:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\Não confirmado 450838.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 13:58:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\Não confirmado 450838.crdownload",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-06 14:42:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\AGENDAS\\2027\\Faca de corte da caixa - Agenda 2027 comercial\\CAIXA ENCAIXÁVEL 19 E 25MM.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:42:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\CAIXA ENCAIXÁVEL 19 E 25MM.cdr",
         "Status":  "Alerta"
     }
 ]
