@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 16:42:57",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\INCORPORA",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 16:42:59",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\INCORPORA",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 16:44:43",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\INCORPORA\\INCORPORA_-_PLACA_CREA (1).pdf",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-06 17:13:48",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\BRUNO SEARA\\EAR.01.2026.BRASKARNE.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 17:13:49",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\BRUNO SEARA\\EAR.01.2026.BRASKARNE.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 17:13:50",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\BRUNO SEARA\\EAR.01.2026.BRASKARNE.pdf",
         "Status":  "Alerta"
     }
