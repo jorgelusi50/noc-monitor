@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 13:21:31",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\29-06-26\\GABRIELY\\GAJO ADESIVOS\\gajo ajustado.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 13:21:33",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\29-06-26\\GABRIELY\\GAJO ADESIVOS\\gajo ajustado.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 13:21:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\29-06-26\\GABRIELY\\GAJO ADESIVOS\\gajo ajustado.cdr",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-06 14:18:17",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\SEARA\\CERTO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:18:19",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\SEARA\\CERTO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:24:19",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\VINIL 13X19 CERTO.cdr",
         "Status":  "Alerta"
     }
 ]
