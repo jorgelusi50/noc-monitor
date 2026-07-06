@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-07-06 13:57:50",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\Caixa.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 13:57:50",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\Caixa.jpg",
         "Status":  "Alerta"
@@ -597,6 +591,12 @@
         "Data":  "2026-07-06 14:40:47",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\24-06-26\\ANY\\EVENTO\\PF\\CALENDARIO\\BASE CALENDARIO ajuste.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:42:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\AGENDAS\\2027\\Faca de corte da caixa - Agenda 2027 comercial\\CAIXA ENCAIXÁVEL 19 E 25MM.cdr",
         "Status":  "Alerta"
     }
 ]
