@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 15:50:41",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\FAbio.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 15:50:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\FAbio.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-06 16:30:57",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417375\\AF_banner_cap-tea_90x120cm_26jun26.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:31:27",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\JOSÉ\\Cópia_de_segurança_de_DISPLAY DE MESA.cdr",
         "Status":  "Alerta"
     }
 ]
