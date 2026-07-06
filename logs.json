@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 15:44:04",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\LONA IMPRESSA-LIDIANE\\Design_sem_nome (42).tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 15:44:05",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\LONA IMPRESSA-LIDIANE\\Design_sem_nome (42).tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-06 16:02:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417375\\AF_banner_cap-tea_90x120cm_26jun26.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:17:04",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\CARTÕES HYZEN.cdr",
         "Status":  "Alerta"
     }
 ]
