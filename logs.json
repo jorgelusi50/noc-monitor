@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:09:48",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JULHO\\06-07-2026\\folder01",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:09:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JULHO\\06-07-2026\\folder01",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-06 14:54:17",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\COPIA E CIA PASTA 2026.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:54:18",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\COPIA E CIA PASTA 2026.cdr",
         "Status":  "Alerta"
     }
