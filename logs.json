@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:59:30",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\ISADORA\\CARTAO VISITA\\cartão de visita.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:59:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417131\\cartao de visita.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-06 15:58:58",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Binder2_Página_3.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 15:58:59",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Binder2_Página_3.jpg",
         "Status":  "Alerta"
     }
