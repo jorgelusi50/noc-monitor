@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 15:50:30",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\Heinz.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 15:50:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\Heinz.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-06 16:29:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\BANNER\\Uma ação social do Diretório Academico em parceria com a coordenação do ECJS e HEMOSC.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:30:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417375\\AF_banner_cap-tea_90x120cm_26jun26.tif",
         "Status":  "Alerta"
     }
 ]
