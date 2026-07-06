@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:58:09",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\CAIO\\livreto.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:58:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\CAIO\\livreto.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-06 15:50:23",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 15:50:25",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\Lucas.pdf",
         "Status":  "Alerta"
     }
 ]
