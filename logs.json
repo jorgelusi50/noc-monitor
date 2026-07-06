@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:18:17",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\SEARA\\CERTO.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 14:18:19",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\SEARA\\CERTO.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:24:19",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\LIVIA\\ANA BELISA\\VINIL 13X19 CERTO.cdr",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-06 14:57:03",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\HELP MOTOS\\VINIL BRANCO A4 24.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:57:04",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\HELP MOTOS\\VINIL BRANCO A4 24.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:57:05",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\HELP MOTOS\\VINIL BRANCO A4 24.cdr",
         "Status":  "Alerta"
