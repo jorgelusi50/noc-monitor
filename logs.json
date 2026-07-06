@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:57:07",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\HELP MOTOS\\VINIL BRANCO A4 24.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:57:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\HELP MOTOS\\VINIL BRANCO A4 24.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-06 15:44:05",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\LONA IMPRESSA-LIDIANE\\Design_sem_nome (42).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 15:44:06",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\LONA IMPRESSA-LIDIANE\\Design_sem_nome (42).tif",
         "Status":  "Alerta"
     }
