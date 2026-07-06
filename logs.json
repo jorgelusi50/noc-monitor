@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 15:46:34",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\Nova pasta (2)",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 15:46:49",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\ANA LUCIA",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-06 16:17:13",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\CARTÕES HYZEN.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:17:16",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\CARTAO DE VISITA\\CARTÕES HYZEN.cdr",
         "Status":  "Alerta"
     }
