@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 14:42:50",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\CAIXA ENCAIXÁVEL 19 E 25MM.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 14:42:51",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\CAIXA ENCAIXÁVEL 19 E 25MM.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-06 14:59:58",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417131\\cartao de visita.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 15:00:16",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\cartao garantia.cdr",
         "Status":  "Alerta"
     }
 ]
