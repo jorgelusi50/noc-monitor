@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 16:31:30",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\JOSÉ\\DISPLAY DE MESA.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 16:31:31",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\JOSÉ\\DISPLAY DE MESA.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-06 16:59:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\UNIFICADO MARIA ALICE\\Coo (2).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:59:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\INCORPORA\\INCORPORA_-_PLACA_CREA (2).pdf",
         "Status":  "Alerta"
     }
 ]
