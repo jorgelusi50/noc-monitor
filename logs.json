@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 16:42:44",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\INCORPORDORA",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 16:42:45",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\INCORPORDORA",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-06 17:13:35",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\BRUNO SEARA",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 17:13:44",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELY\\BRUNO SEARA\\EAR.01.2026.BRASKARNE.pdf",
         "Status":  "Alerta"
     }
 ]
