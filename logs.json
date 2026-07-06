@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 13:43:20",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GF\\jbs_garrafas.dxf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 13:48:19",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GABRIELA\\Nova pasta",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-06 14:39:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Certificado_de_garantia_Windsor_.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 14:39:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Certificado_de_garantia_Windsor_.jpg",
         "Status":  "Alerta"
