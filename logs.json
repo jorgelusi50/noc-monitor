@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 15:58:41",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Binder2_Página_2.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 15:58:43",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\GARANTIA\\Binder2_Página_2.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-06 16:32:52",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\FORCE ONE\\Display_Vendas_-_169-90 (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:33:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\FORCE ONE\\Display_Vendas_-_169-90 (1).pdf",
         "Status":  "Alerta"
