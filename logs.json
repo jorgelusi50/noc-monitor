@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 16:02:36",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417375\\AF_banner_cap-tea_90x120cm_26jun26.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-06 16:02:38",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417375\\Não confirmado 493583.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 16:02:40",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\417375\\Não confirmado 493583.crdownload",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-06 16:51:35",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GF\\VINIL BRANCO A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:51:36",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GF\\VINIL BRANCO A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-06 16:51:37",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\GF\\VINIL BRANCO A4.cdr",
         "Status":  "Alerta"
