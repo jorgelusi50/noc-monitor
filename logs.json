@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 08:59:06",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\JESSICA\\pdf (2)",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 08:59:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\JESSICA\\pdf (2)",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 09:51:02",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELA\\NF 4 OS 36447.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 09:51:03",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELA\\NF 4 OS 36447.pdf",
         "Status":  "Alerta"
