@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:24:06",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\45x30_folder_Página_2.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:24:07",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\45x30_folder_Página_2.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-07 12:57:45",
         "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\CamScanner 07-07-2026 12.56.pdf Autorização acesso Gov.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 12:57:48",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\CamScanner 07-07-2026 12.56.pdf Autorização acesso Gov.pdf",
         "Status":  "Alerta"
     }
