@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 17:24:19",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 17:24:21",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 00:34:34",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 00:34:36",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF",
         "Status":  "Alerta"
     }
 ]
