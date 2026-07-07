@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 16:51:11",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\psC436.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 16:51:13",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\groot.png",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-07 17:17:16",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\RVIDEO\\Não confirmado 796586.crdownload",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 17:17:18",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\RVIDEO\\Não confirmado 796586.crdownload",
         "Status":  "Alerta"
     }
