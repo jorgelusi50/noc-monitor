@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 13:58:31",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 3201 a 3750.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 13:58:32",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 3201 a 3750.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 13:58:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 3201 a 3750.cdr",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-07 14:42:08",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Resultado exame - Sergio A1C.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:42:10",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Resultado exame - Sergio A1C.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:42:12",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Não confirmado 142894.crdownload",
         "Status":  "Alerta"
     }
 ]
