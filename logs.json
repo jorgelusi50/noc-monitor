@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:19:53",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 801 a 1600.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:19:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 801 a 1600.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 11:32:43",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\folder vinco.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 11:32:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\folder vinco.cdr",
         "Status":  "Alerta"
