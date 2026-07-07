@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 09:02:34",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\INCORPORA\\INCORPORA_-_PLACA_CREA (1).tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 09:02:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\INCORPORA\\INCORPORA_-_PLACA_CREA (1).tif",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-07 09:55:48",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\GAJO\\COLACRIL PAPEL 13X19.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 09:55:50",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\GAJO\\COLACRIL PAPEL 13X19.cdr",
         "Status":  "Alerta"
     }
