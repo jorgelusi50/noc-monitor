@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 17:01:14",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\folha_A4_250gr (2).jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 17:01:15",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\ratosss (3).jpeg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 17:40:21",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\rd biro\\itajai.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 17:40:22",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\rd biro\\itajai.cdr",
         "Status":  "Alerta"
