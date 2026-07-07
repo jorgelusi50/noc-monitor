@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 08:41:04",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\KAREN OLIVEIRA\\ETIQUETAS BUFFET.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 08:41:05",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\KAREN OLIVEIRA\\ETIQUETAS BUFFET.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 08:57:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\PROJETOS\\L115 - R00 - Detalhamento de Laje.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 08:57:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\PROJETOS\\L116 - R00 - Detalhamento de Laje.pdf",
         "Status":  "Alerta"
     }
 ]
