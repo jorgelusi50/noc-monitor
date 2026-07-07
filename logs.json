@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 13:21:41",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\C Ruan Vinicius Rosa.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 13:21:43",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\C Ruan Vinicius Rosa.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 13:21:44",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\C Ruan Vinicius Rosa.pdf",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-07 13:52:00",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Cópia_de_segurança_de_Impressão mesclada1 2401 a 3200.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:52:01",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 2401 a 3200.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:52:02",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 2401 a 3200.cdr",
         "Status":  "Alerta"
     }
 ]
