@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:42:44",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\ADESIVO PARA LONA 80X11cm.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:42:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\ADESIVO PARA LONA 80X11cm.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-07 13:22:06",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\P Geovanna Cemin.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:22:08",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\P Geovanna Cemin.pdf",
         "Status":  "Alerta"
     }
