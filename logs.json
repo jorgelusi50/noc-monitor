@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 09:16:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSO\\Placa_Surf_Helen (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 09:16:56",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSO\\Placa_Surf_Helen (1).pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 10:24:35",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\Ritual_de_Instalacao_-_Atualizado - livreto 01.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 10:24:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\Ritual_de_Instalacao_-_Atualizado - livreto 01.pdf",
         "Status":  "Alerta"
