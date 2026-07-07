@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 13:21:11",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\B Luana Luiza Zuchi Petry.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 13:21:12",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\B Pedro Montavani Tarasconi.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 13:44:43",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 801 a 1600.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:44:45",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 801 a 1600.cdr",
         "Status":  "Alerta"
