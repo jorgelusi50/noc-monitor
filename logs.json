@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 14:56:42",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\Meu_proposito_e_cuidar_da_saude_intima_e_pelvica_com_acolhimento-_respeito__20260630_130933_0000 (1).jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 14:56:45",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\Meu_proposito_e_cuidar_da_saude_intima_e_pelvica_com_acolhimento-_respeito__20260630_130933_0000 (1).jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 16:20:33",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\JESSICA\\VINIL A4 24.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 16:20:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\JESSICA\\VINIL A4 24.cdr",
         "Status":  "Alerta"
