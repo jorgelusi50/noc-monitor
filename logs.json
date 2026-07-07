@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 13:23:14",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\Cópia_de_segurança_de_folder vinco.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 13:23:16",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\Cópia_de_segurança_de_folder vinco.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-07 14:01:07",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\QUINTAL MAGICO\\5x5.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:01:08",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\QUINTAL MAGICO\\5x5.png",
         "Status":  "Alerta"
     }
