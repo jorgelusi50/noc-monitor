@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 09:02:59",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\INCORPORA\\INCORPORA_-_PLACA_CREA (1).tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 09:03:00",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\INCORPORA\\INCORPORA_-_PLACA_CREA (1).tif",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-07 09:59:17",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\FLORA ETIQUETAS ANOMALIA 10X15.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 09:59:18",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\FLORA ETIQUETAS ANOMALIA 10X15.cdr",
         "Status":  "Alerta"
     }
