@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:23:47",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\45x30_folder_Página_2.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:23:48",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\45x30_folder_Página_2.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-07 12:00:54",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 1601 a 2400.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 12:00:56",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 1601 a 2400.cdr",
         "Status":  "Alerta"
     }
