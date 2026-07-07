@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 17:46:23",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\BRUNA\\MubiChat-1113399.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 17:46:24",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\BRUNA\\MubiChat-1113399.jpeg",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 08:46:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\KAREN OLIVEIRA\\Cópia_de_segurança_de_ETIQUETAS BUFFET.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 08:46:54",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\KAREN OLIVEIRA\\ETIQUETAS BUFFET.cdr",
         "Status":  "Alerta"
     }
 ]
