@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 08:57:07",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\PROJETOS\\CF03 - R00 - Planta de locação das lajes.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 08:57:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\PROJETOS\\CF04 - R00 - Planta de locação da capa.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-07 09:02:43",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\INCORPORA\\INCORPORA_-_PLACA_CREA (1).tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 09:02:45",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\INCORPORA\\INCORPORA_-_PLACA_CREA (1).tif",
         "Status":  "Alerta"
     }
