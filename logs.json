@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 12:57:38",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\CamScanner 07-07-2026 12.56.pdf Autorização acesso Gov.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 12:57:39",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\CamScanner 07-07-2026 12.56.pdf Autorização acesso Gov.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 12:57:40",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\CamScanner 07-07-2026 12.56.pdf Autorização acesso Gov.pdf",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-07 13:23:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\Cópia_de_segurança_de_CAIXA ENCAIXÁVEL 19 E 25MM.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:23:34",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\Cópia_de_segurança_de_CAIXA ENCAIXÁVEL 19 E 25MM.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:23:35",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\CAIXA ENCAIXÁVEL 19 E 25MM.cdr",
         "Status":  "Alerta"
     }
 ]
