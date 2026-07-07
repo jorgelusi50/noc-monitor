@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 17:23:57",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JULHO\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 17:23:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JULHO\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 00:34:31",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 00:34:32",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY",
         "Status":  "Alerta"
     }
 ]
