@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 09:37:23",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\NF 18 OS 36674.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 09:37:24",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\NF 18 OS 36674.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 10:32:02",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\DINAMICA - ALBUM\\album 01.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 10:32:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\DINAMICA - ALBUM\\album 01.pdf",
         "Status":  "Alerta"
