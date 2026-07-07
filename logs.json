@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 15:45:51",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\MINISTER\\MINISTER A4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 16:06:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\Cópia_de_segurança_de_CANECA DTF.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 16:51:20",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\groot.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 16:51:21",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\groot.png",
         "Status":  "Alerta"
