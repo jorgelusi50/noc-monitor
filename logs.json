@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 10:55:17",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\BRUNA\\VINIL A4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 10:55:18",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\BRUNA\\VINIL A4.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 11:27:58",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\SIMONE\\ilovepdf_merged_1.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 11:28:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\SIMONE\\ilovepdf_merged_1.pdf",
         "Status":  "Alerta"
