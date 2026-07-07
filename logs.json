@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-07-07 14:07:38",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\WhatsApp_Image_2026-06-25_at_132159 (1).jpeg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 14:07:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\WhatsApp_Image_2026-06-25_at_132159 (1).jpeg",
         "Status":  "Alerta"
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-07 14:54:02",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\SEACAR\\SEACAR MANUAL 2026 grampo.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:54:03",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\SEACAR\\SEACAR MANUAL 2026 grampo.cdr",
         "Status":  "Alerta"
     }
