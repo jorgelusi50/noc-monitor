@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 14:04:07",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 14:04:13",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\IZABELA",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 14:04:15",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\IZABELA",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-07 14:49:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\REsultado Exame Sergio - A1C (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:49:35",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\REsultado Exame Sergio - A1C (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:49:38",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Não confirmado 23619.crdownload",
         "Status":  "Alerta"
     }
 ]
