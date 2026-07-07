@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 00:34:42",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 00:34:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LETICIA",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 08:57:07",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\PROJETOS\\CF03 - R00 - Planta de locação das lajes.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 08:57:09",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\PROJETOS\\CF04 - R00 - Planta de locação da capa.pdf",
         "Status":  "Alerta"
     }
 ]
