@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 00:34:37",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ADMSL",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 00:34:38",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 08:57:02",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\PROJETOS\\CF01 - R00 - Planta de locação das estacas.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 08:57:03",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\PROJETOS\\CF02 - R00 - Planta de locação dos blocos, pilares e vigas.pdf",
         "Status":  "Alerta"
     }
 ]
