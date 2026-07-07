@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 16:51:21",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\groot.png",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 16:58:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\ROTARY 02X 13X19.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 17:17:27",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\RVIDEO\\1783453146193_3EB0E942D1FBDC71DA43C8.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 17:17:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\RVIDEO\\Não confirmado 911869.crdownload",
         "Status":  "Alerta"
     }
 ]
