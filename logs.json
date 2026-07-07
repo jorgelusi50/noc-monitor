@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 13:52:05",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 2401 a 3200.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 13:52:38",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\343o mesclada1 01 A 800.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 14:34:14",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\ANA LUCIA\\O_inicio_do_nosso_pra_sempre.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:35:06",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Cópia_de_segurança_de_FLORA ETIQUETAS ANOMALIA 10X15.cdr",
         "Status":  "Alerta"
     }
 ]
