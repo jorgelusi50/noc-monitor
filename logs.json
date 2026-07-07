@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:21:26",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 801 a 1600.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:23:08",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\45x30_folder_Página_1.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 11:39:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Dispensa por Termino do Contrato Experiencia.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 11:39:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Dispensa por Termino do Contrato Experiencia.pdf",
         "Status":  "Alerta"
