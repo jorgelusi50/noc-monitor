@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 14:07:17",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 14:07:19",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 14:49:48",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\REsultado Exame Sergio - A1C (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:52:11",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\JOÃO\\VINIL BRANCO 13X19.cdr",
         "Status":  "Alerta"
     }
 ]
