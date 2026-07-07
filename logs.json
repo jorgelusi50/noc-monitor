@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 14:08:16",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\PATRICIA\\1783443861167_4AC3F177129F06A45F44.jpeg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 14:11:12",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\ratosss (3).jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 14:11:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\ratosss (3).jpeg",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-07 15:10:36",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\PLOTAGEM\\ART_EX_EST_ENT_008_CIS_DET_R00.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 15:10:37",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\PLOTAGEM\\ART_EX_EST_ENT_008_CIS_DET_R00.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 15:10:39",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\PLOTAGEM\\ART_EX_EST_ENT_008_CIS_DET_R00.pdf",
         "Status":  "Alerta"
     }
