@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 13:23:18",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\folder vinco.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 13:23:20",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\folder vinco.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 13:23:22",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\folder vinco.cdr",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-07 14:01:48",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\NF 21 OS 36830.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:01:49",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\NF 21 OS 36830.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:01:50",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\NF 21 OS 36830.pdf",
         "Status":  "Alerta"
     }
