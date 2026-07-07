@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 10:53:46",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\VINIL 13X19 24.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 10:53:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\VINIL 13X19 24.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 10:53:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\VINIL 13X19 24.cdr",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-07 11:24:06",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\45x30_folder_Página_2.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 11:24:07",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\45x30_folder_Página_2.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 11:24:09",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\45x30_folder_Página_2.jpg",
         "Status":  "Alerta"
