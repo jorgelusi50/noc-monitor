@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 14:44:12",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Não confirmado 449500.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 14:44:13",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\REsultado Exame Sergio - A1C.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 15:45:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\EDSON\\FABIANA CONVITE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 15:45:44",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\MINISTER\\Cópia_de_segurança_de_MINISTER A4.cdr",
         "Status":  "Alerta"
     }
 ]
