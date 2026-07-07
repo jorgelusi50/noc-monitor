@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 17:27:05",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\Cópia_de_segurança_de_COPIA E CIA PASTA 2026.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 17:27:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\PF\\Cópia_de_segurança_de_COPIA E CIA PASTA 2026.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 08:35:41",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\PLOTAGEM-ROBSON",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 08:35:44",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\PLOTAGEM-ROBSON\\Banner_-_Lazer_e_Recreacao_V1.pdf",
         "Status":  "Alerta"
     }
 ]
