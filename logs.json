@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 14:07:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\WhatsApp_Image_2026-06-25_at_132159 (1).jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 14:07:41",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\WhatsApp_Image_2026-06-25_at_132159 (1).jpeg",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 14:54:03",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\SEACAR\\SEACAR MANUAL 2026 grampo.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:56:42",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\Meu_proposito_e_cuidar_da_saude_intima_e_pelvica_com_acolhimento-_respeito__20260630_130933_0000 (1).jpg",
         "Status":  "Alerta"
     }
 ]
