@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:46:00",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\Impressao.rar",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:46:02",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\Impressao.rar",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 13:23:13",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\Cópia_de_segurança_de_folder vinco.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:23:14",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\Cópia_de_segurança_de_folder vinco.cdr",
         "Status":  "Alerta"
