@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 16:58:34",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\ROTARY 02X 13X19.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 16:58:37",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\ROTARY 02X 13X19.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 17:32:52",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\SOBRAL\\PASTA_SOBRAL (1).cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 17:32:54",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\SOBRAL\\PASTA_SOBRAL (1).cdr",
         "Status":  "Alerta"
