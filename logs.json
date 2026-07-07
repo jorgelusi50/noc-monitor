@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:29:34",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Resultado_07_07_2026 (1).xlsx",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:29:36",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Resultado_07_07_2026 (1).xlsx",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-07 13:20:55",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\P Victor Massuda.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:20:56",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\P Victor Massuda.pdf",
         "Status":  "Alerta"
     }
