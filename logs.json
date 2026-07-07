@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 17:25:27",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\24-06-26\\ANY\\EVENTO\\PF\\CALENDARIO\\CALENDARIO - SEGUNDA FEIRA ajuste bitmap.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 17:25:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\24-06-26\\ANY\\EVENTO\\PF\\CALENDARIO\\CALENDARIO - SEGUNDA FEIRA ajuste bitmap.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 08:12:15",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JULHO\\07-07-2026\\caixa agenda 1.plt",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 08:12:38",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JULHO\\07-07-2026\\caixa agenda 2.plt",
         "Status":  "Alerta"
     }
 ]
