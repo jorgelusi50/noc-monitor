@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-07-07 08:57:53",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\PROJETOS\\L115 - R00 - Detalhamento de Laje.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 08:57:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\PROJETOS\\L115 - R00 - Detalhamento de Laje.pdf",
         "Status":  "Alerta"
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 09:16:46",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSO\\Placa_Surf_Andre (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 09:16:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSO\\Surf_Placa_Jameson (1).pdf",
         "Status":  "Alerta"
     }
 ]
