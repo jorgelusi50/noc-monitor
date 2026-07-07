@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 14:44:08",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\REsultado Exame Sergio - A1C.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 14:44:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Não confirmado 449500.crdownload",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-07 15:45:40",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\EDSON\\FABIANA CONVITE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 15:45:41",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\EDSON\\FABIANA CONVITE.cdr",
         "Status":  "Alerta"
     }
