@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 14:35:11",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\FLORA ETIQUETAS ANOMALIA 10X15.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 14:35:12",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\FLORA ETIQUETAS ANOMALIA 10X15.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 15:30:32",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\CANECA DTF.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 15:32:38",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LETICIA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
