@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-07-07 09:16:49",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSO\\Surf_Placa_Jameson (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 09:16:49",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSO\\Surf_Placa_Jameson (1).pdf",
         "Status":  "Alerta"
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 10:14:02",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\ALEX BIKE LONAS ILHOS 144X153.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 10:24:31",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\Ritual_de_Instalacao_-_Atualizado - livreto 01.pdf",
         "Status":  "Alerta"
     }
 ]
