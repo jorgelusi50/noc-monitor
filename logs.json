@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 15:11:00",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\IVAN",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 15:11:34",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\ADESIVO PARA LONA 80X11cm.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 16:41:05",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\ADESIVO",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 16:41:06",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\ADESIVO\\etiquetas_handebol_cv (1).cdr",
         "Status":  "Alerta"
     }
 ]
