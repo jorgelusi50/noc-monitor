@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-07-07 15:09:30",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\42260703812667000187550010000017581866731750_NFe_1758 - 35609.pdf.crdownload",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 15:09:30",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\42260703812667000187550010000017581866731750_NFe_1758 - 35609.pdf",
         "Status":  "Alerta"
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 16:35:34",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\ChatGPT Image 7 de jul. de 2026, 16_32_40.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 16:35:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\ChatGPT Image 7 de jul. de 2026, 16_32_40.png",
         "Status":  "Alerta"
