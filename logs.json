@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 14:52:13",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\JOÃO\\VINIL BRANCO 13X19.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 14:52:15",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\JOÃO\\VINIL BRANCO 13X19.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 14:52:17",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\JOÃO\\VINIL BRANCO 13X19.cdr",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-07 16:10:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\a5.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 16:10:42",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\a5.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 16:18:39",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\CARTAO LIVIA.cdr",
         "Status":  "Alerta"
     }
 ]
