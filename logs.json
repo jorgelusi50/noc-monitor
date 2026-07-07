@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:24:21",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\45x30_folder_Página_2.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:27:58",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\SIMONE\\ilovepdf_merged_1.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 13:15:00",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 2401 a 3200.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:20:25",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 3201 a 3750.cdr",
         "Status":  "Alerta"
     }
 ]
