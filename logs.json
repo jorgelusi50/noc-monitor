@@ -2,12 +2,6 @@
     {
         "Data":  "2026-07-07 00:34:44",
         "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LETICIA",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 00:34:44",
-        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\STHEFANY",
         "Status":  "Alerta"
     },
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-07 08:57:09",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\PROJETOS\\CF04 - R00 - Planta de locação da capa.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 08:57:10",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\PROJETOS\\CF04 - R00 - Planta de locação da capa.pdf",
         "Status":  "Alerta"
     }
