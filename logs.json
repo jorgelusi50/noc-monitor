@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:02:52",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\JESSICA\\VINIL A4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:02:54",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\JESSICA\\VINIL A4.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 11:29:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Resultado_07_07_2026.xlsx",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 11:29:10",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Não confirmado 899582.crdownload",
         "Status":  "Alerta"
     }
 ]
