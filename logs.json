@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 14:00:55",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 14:00:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 14:42:16",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Resultado exame - Sergio A1C.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:42:49",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Resultado_26_06_2026.xlsx",
         "Status":  "Alerta"
     }
 ]
