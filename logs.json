@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 15:44:32",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\KAREN OLIVEIRA\\Cópia_de_segurança_de_ETIQUETAS BUFFET.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 15:44:33",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\KAREN OLIVEIRA\\ETIQUETAS BUFFET.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 15:44:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\KAREN OLIVEIRA\\ETIQUETAS BUFFET.cdr",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-07 16:50:32",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\01.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 16:50:33",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\01.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 16:50:34",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\01.pdf",
         "Status":  "Alerta"
     }
