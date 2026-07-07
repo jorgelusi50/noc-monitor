@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-07-07 11:32:43",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\folder vinco.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 11:32:43",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\folder vinco.cdr",
         "Status":  "Alerta"
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 13:21:18",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\B Sara Nascimento.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:21:19",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\B Pedro Montavani Tarasconi.pdf",
         "Status":  "Alerta"
     }
 ]
