@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 14:08:03",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\PATRICIA\\1783443861167_4AC3F177129F06A45F44.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 14:08:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\PATRICIA\\1783443861167_4AC3F177129F06A45F44.jpeg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 15:09:40",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\42260703812667000187550010000017581866731750_NFe_1758 - 35609.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 15:09:41",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\42260703812667000187550010000017581866731750_NFe_1758 - 35609.pdf",
         "Status":  "Alerta"
