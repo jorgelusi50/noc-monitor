@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 13:22:01",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\I -Matheus Morgado Queiroz.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 13:22:02",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\I- Nicole Blageski Bechtoldi.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 13:22:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\I- Nicole Blageski Bechtoldi.pdf",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-07 13:58:26",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 3201 a 3750.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:58:27",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 3201 a 3750.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:58:29",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 3201 a 3750.cdr",
         "Status":  "Alerta"
     }
