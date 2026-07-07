@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 09:07:20",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\MINISTER\\MINISTER A4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 09:07:21",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\MINISTER\\MINISTER A4.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 10:09:14",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 01 A 800.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 10:09:17",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 01 A 800.cdr",
         "Status":  "Alerta"
