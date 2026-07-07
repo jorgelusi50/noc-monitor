@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 17:46:55",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\BRUNA\\MubiChat-1113400.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 17:46:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\LUCIANA CAMISETA\\CAMISETA ISAAC.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-07 08:51:58",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\FLORA BANNER.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 08:52:00",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\FLORA BANNER.cdr",
         "Status":  "Alerta"
     }
