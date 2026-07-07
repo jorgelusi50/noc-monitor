@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 14:00:56",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 14:00:59",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\QUINTAL MAGICO",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 14:42:49",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Resultado_26_06_2026.xlsx",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:42:51",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Resultado_26_06_2026.xlsx",
         "Status":  "Alerta"
