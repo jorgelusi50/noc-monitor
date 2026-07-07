@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 15:45:34",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\EDSON\\FABIANA CONVITE.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 15:45:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\EDSON\\FABIANA CONVITE.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 16:50:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\01.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 16:51:06",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\psC436.tmp",
         "Status":  "Alerta"
     }
 ]
