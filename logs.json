@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 13:33:54",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 01 A 800.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 13:33:55",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 01 A 800.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 14:07:29",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\folha_A4_250gr (2).jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:07:31",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\folha_A_250gr (2).pdf",
         "Status":  "Alerta"
     }
 ]
