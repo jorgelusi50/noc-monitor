@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:09:50",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\folder_pronto (1)_Página_1.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:10:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\folder_pronto (1)_Página_2.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-07 11:29:39",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Não confirmado 637413.crdownload",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 11:29:41",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Não confirmado 637413.crdownload",
         "Status":  "Alerta"
     }
