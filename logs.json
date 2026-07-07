@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:32:28",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\folder vinco.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 11:32:30",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\folder vinco.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:32:31",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\folder vinco.cdr",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-07 13:21:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\B  Pedro Henrique de Souza.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:21:07",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\B  Pedro Henrique de Souza.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:21:08",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\B Luana Luiza Zuchi Petry.pdf",
         "Status":  "Alerta"
     }
 ]
