@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 16:18:48",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\CARTAO LIVIA.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 16:20:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\JESSICA\\VINIL A4 24.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 17:01:10",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\WhatsApp_Image_2026-06-25_at_132159 (1).jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 17:01:11",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\em_300gr_folha_A3 (1).jpeg",
         "Status":  "Alerta"
     }
 ]
