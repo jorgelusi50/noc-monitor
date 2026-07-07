@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 16:41:05",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\ADESIVO",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 16:41:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\ADESIVO\\etiquetas_handebol_cv (1).cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 17:03:06",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\A4\\ratosss (4).jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 17:03:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\A4\\ratosss (4).jpeg",
         "Status":  "Alerta"
