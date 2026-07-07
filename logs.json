@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 08:59:13",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\JESSICA\\Copia_de_MOLDE_A4_-_2026-06-10T211924913 (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 08:59:14",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\JESSICA\\Copia_de_MOLDE_A4_-_2026-06-10T211924913 (1).pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-07 09:55:45",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\GAJO\\COLACRIL PAPEL 13X19.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 09:55:46",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\GAJO\\COLACRIL PAPEL 13X19.cdr",
         "Status":  "Alerta"
     }
