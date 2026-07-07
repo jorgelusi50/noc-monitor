@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 16:59:02",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\JOSÉ\\DISPLAY DE MESA.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 16:59:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\03-07-26\\GABRIELY\\JOSÉ\\DISPLAY DE MESA.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 17:40:15",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\MESSIAS\\CARTEIRA ADKI ITAJAI 07 07.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 17:40:16",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\MESSIAS\\CARTEIRA ADKI ITAJAI 07 07.pdf",
         "Status":  "Alerta"
