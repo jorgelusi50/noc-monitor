@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:37:46",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSO\\02 A4 17X13.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 11:37:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSO\\02 A4 17X13.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:37:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSO\\02 A4 17X13.cdr",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-07 13:21:44",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\C Ruan Vinicius Rosa.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:21:45",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\I -Alice Bertoldi.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:21:47",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\UNIFICADO\\I -Alice Bertoldi.pdf",
         "Status":  "Alerta"
     }
 ]
