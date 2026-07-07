@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:24:11",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\45x30_folder_Página_2.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 11:24:13",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\45x30_folder_Página_2.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:24:14",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\45x30_folder_Página_2.jpg",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-07 13:13:19",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 2401 a 3200.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:13:21",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 2401 a 3200.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:13:21",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 2401 a 3200.cdr",
         "Status":  "Alerta"
     }
