@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 13:48:30",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 1601 a 2400.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 13:48:32",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 1601 a 2400.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 13:48:32",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 1601 a 2400.cdr",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-07 14:08:14",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\PATRICIA\\1783443861167_4AC3F177129F06A45F44.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:08:16",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\PATRICIA\\1783443861167_4AC3F177129F06A45F44.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:11:12",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\ratosss (3).jpeg",
         "Status":  "Alerta"
     }
 ]
