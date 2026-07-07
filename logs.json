@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 15:10:39",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\PLOTAGEM\\ART_EX_EST_ENT_008_CIS_DET_R00.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 15:10:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\PLOTAGEM\\ART_EX_EST_ENT_008_CIS_DET_R00_1.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 16:37:09",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\MAURO\\TEL_-_ONE_RESIDENCE_-_00.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 16:37:10",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\MAURO\\TEL_-_ONE_RESIDENCE_-_00.pdf",
         "Status":  "Alerta"
