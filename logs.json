@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 15:30:20",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\CANECA DTF.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 15:30:22",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\CANECA DTF.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 16:41:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\ADESIVO\\etiquetas_handebol_cv (1).cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 16:45:00",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\groot.png",
         "Status":  "Alerta"
     }
 ]
