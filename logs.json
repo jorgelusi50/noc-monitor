@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 13:38:31",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 01 A 800.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 13:38:32",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 01 A 800.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 13:38:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 01 A 800.cdr",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-07 14:07:47",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\WhatsApp_Image_2026-06-25_at_130308 (1).jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:07:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\em_300gr_folha_A3 (1).jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:07:49",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\em_300gr_folha_A3 (1).jpeg",
         "Status":  "Alerta"
     }
 ]
