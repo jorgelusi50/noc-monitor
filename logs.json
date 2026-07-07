@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 14:07:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\ratosss (2).jpeg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 14:07:21",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\ratosss (2).jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 14:07:23",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\ratosss (2).jpeg",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-07 14:52:13",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\JOÃO\\VINIL BRANCO 13X19.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:52:15",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\JOÃO\\VINIL BRANCO 13X19.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:52:17",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\JOÃO\\VINIL BRANCO 13X19.cdr",
         "Status":  "Alerta"
