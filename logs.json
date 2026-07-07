@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:28:10",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\SIMONE\\ilovepdf_merged_1.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 11:28:11",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\SIMONE\\ilovepdf_merged_1.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:29:03",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Resultado_07_07_2026.xlsx",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-07 13:20:27",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 3201 a 3750.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:20:28",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 3201 a 3750.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 13:20:28",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 3201 a 3750.cdr",
         "Status":  "Alerta"
     }
