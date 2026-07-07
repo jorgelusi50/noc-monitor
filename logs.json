@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 13:44:48",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 801 a 1600.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 13:44:50",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 801 a 1600.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 13:48:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Cópia_de_segurança_de_Impressão mesclada1 1601 a 2400.cdr",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-07 14:08:03",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\PATRICIA\\1783443861167_4AC3F177129F06A45F44.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:08:05",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\PATRICIA\\1783443861167_4AC3F177129F06A45F44.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:08:07",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GABRIELY\\PATRICIA\\Não confirmado 893750.crdownload",
         "Status":  "Alerta"
     }
 ]
