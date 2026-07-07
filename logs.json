@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 16:35:36",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\ChatGPT Image 7 de jul. de 2026, 16_32_40.png",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 16:35:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\ChatGPT Image 7 de jul. de 2026, 16_32_40.png",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 16:36:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\BRUNA\\VINIL A4 24.cdr",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-07 17:02:11",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\WhatsApp_Image_2026-06-25_at_130308 (2).jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 17:02:12",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\WhatsApp_Image_2026-06-25_at_130308 (2).jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 17:02:12",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\WhatsApp_Image_2026-06-25_at_130308 (2).jpeg",
         "Status":  "Alerta"
     }
