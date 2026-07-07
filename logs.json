@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:23:12",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\45x30_folder_Página_1.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:23:13",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\45x30_folder_Página_1.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 11:39:33",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Dispensa por Termino do Contrato Experiencia.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 11:39:34",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Não confirmado 538507.crdownload",
         "Status":  "Alerta"
     }
 ]
