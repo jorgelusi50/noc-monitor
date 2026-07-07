@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 10:09:14",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 01 A 800.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 10:09:17",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 01 A 800.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 10:09:18",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 01 A 800.cdr",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-07 11:19:50",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 801 a 1600.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 11:19:51",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 801 a 1600.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 11:19:53",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\Impressão mesclada1 801 a 1600.cdr",
         "Status":  "Alerta"
     }
