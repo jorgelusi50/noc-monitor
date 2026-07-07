@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 14:01:57",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\NF 21 OS 36830.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 14:04:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\Nova pasta",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 14:49:31",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\REsultado Exame Sergio - A1C (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 14:49:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\REsultado Exame Sergio - A1C (1).pdf",
         "Status":  "Alerta"
