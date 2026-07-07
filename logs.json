@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:15:08",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:15:11",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\45x30_folder.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-07 11:32:31",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\folder vinco.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 11:32:33",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\folder vinco.cdr",
         "Status":  "Alerta"
     }
