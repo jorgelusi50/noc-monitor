@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 17:46:49",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\LUCIANA CAMISETA",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 17:46:51",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\LUCIANA CAMISETA",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 08:51:47",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 08:51:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\FLORA BANNER.cdr",
         "Status":  "Alerta"
     }
 ]
