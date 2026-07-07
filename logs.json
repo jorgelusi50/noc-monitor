@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-06 17:48:56",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\BRUNA\\MubiChat-1113402.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-06 17:48:57",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\LIVIA\\BRUNA\\MubiChat-1113402.jpeg",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-07 08:56:20",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\PROJETOS\\BL10 - R00 - Detalhamento de Bloco.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 08:56:21",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\PROJETOS\\BL11 - R00 - Detalhamento de Bloco.pdf",
         "Status":  "Alerta"
     }
 ]
