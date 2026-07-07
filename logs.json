@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 16:47:44",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 16:47:48",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\CADERNO",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 17:03:16",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\A4\\folha_A_250gr (3).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 17:03:17",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\A4\\folha_A_250gr (3).pdf",
         "Status":  "Alerta"
