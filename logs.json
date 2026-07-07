@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 14:49:35",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\REsultado Exame Sergio - A1C (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 14:49:38",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Não confirmado 23619.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 14:49:40",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\AIDA\\Não confirmado 23619.crdownload",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-07 16:06:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\Cópia_de_segurança_de_CANECA DTF.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 16:06:37",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\Cópia_de_segurança_de_CANECA DTF.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 16:06:38",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\CANECA DTF.cdr",
         "Status":  "Alerta"
     }
 ]
