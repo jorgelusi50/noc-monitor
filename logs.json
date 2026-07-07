@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 11:20:06",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LETICIA\\NF 20 OS 36806.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 11:20:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LETICIA\\NF 20 OS 36806.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-07 11:32:56",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\folder vinco.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-07 11:32:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\FOLDER-FINANCEIRO\\folder vinco.cdr",
         "Status":  "Alerta"
