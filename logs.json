@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 17:03:16",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\A4\\folha_A_250gr (3).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 17:03:17",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\A4\\folha_A_250gr (3).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-08 17:05:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\CERTIFICADOS\\KYARA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:05:04",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
