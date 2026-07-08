@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 17:02:13",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\WhatsApp_Image_2026-06-25_at_130308 (2).jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 17:02:16",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\WhatsApp_Image_2026-06-25_at_132159 (2).jpeg",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-08 00:34:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\ISADORA",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 00:34:58",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\SERGIO",
         "Status":  "Alerta"
     }
 ]
