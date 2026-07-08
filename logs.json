@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-08 17:28:20",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\06.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-08 17:28:21",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\06.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-08 17:28:23",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\06.jpg",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-08 17:30:56",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\17.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:30:57",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\17.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:30:58",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\17.jpg",
         "Status":  "Alerta"
     }
