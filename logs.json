@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-08 17:28:46",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\08.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-08 17:28:48",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\08.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-08 17:31:19",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\18.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:31:21",
+        "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\18.jpg",
         "Status":  "Alerta"
     }
