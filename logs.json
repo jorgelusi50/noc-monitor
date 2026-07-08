@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 17:03:42",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\IZABELA\\02 CANECAS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 17:03:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\IZABELA\\02 CANECAS.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-08 17:05:21",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\CRISTIANO",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:05:24",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\CERTIFICADOS\\CAROL.pdf",
         "Status":  "Alerta"
     }
 ]
