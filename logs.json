@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 17:17:27",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\RVIDEO\\1783453146193_3EB0E942D1FBDC71DA43C8.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 17:17:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\RVIDEO\\Não confirmado 911869.crdownload",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-08 17:05:57",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\CERTIFICADOS\\MANUEL.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:06:30",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\390e4929-f287-4ca6-ab86-29a2f1d07af9.png",
         "Status":  "Alerta"
     }
 ]
