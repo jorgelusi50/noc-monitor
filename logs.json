@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-08 00:34:58",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\SERGIO",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-08 00:34:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-08 17:16:16",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\343o mesclada1 2401 a 32...pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:16:19",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\343o mesclada1 2401 a 32...pdf",
         "Status":  "Alerta"
     }
