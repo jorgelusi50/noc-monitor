@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-08 17:29:53",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\12.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-08 17:29:55",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\12.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-08 17:29:57",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\12.jpg",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-08 17:50:10",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\JULIANA\\CANECAS EPAGRI D. AIDA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:50:11",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\JULIANA\\CANECAS EPAGRI D. AIDA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:50:12",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\JULIANA\\CANECAS EPAGRI D. AIDA.cdr",
         "Status":  "Alerta"
     }
