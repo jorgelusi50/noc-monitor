@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 17:03:45",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LIVIA\\IZABELA\\02 CANECAS.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 17:09:01",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\02.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 17:09:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\PF\\02.pdf",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-08 17:05:25",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\CERTIFICADOS\\CAROL.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:05:27",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\CERTIFICADOS\\CAROL.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:05:27",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\CERTIFICADOS\\CAROL.pdf",
         "Status":  "Alerta"
     }
