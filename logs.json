@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-08 17:30:33",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\15.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-08 17:30:35",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\15.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-08 17:30:37",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\15.jpg",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-08 18:03:58",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\CRISTINA\\MubiChat-1120898.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 18:03:59",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\CRISTINA\\MubiChat-1120898.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 18:04:00",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\CRISTINA\\MubiChat-1120898.jpeg",
         "Status":  "Alerta"
     }
