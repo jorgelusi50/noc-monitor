@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 17:02:26",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\A3\\WhatsApp_Image_2026-06-25_at_124157_1 (2).jpeg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 17:02:27",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\A3\\WhatsApp_Image_2026-06-25_at_132159 (2).jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 17:02:29",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\A3\\WhatsApp_Image_2026-06-25_at_132159 (2).jpeg",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-08 17:04:07",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\CERTIFICADOS\\EDUARDO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:04:08",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\CERTIFICADOS\\EDUARDO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:04:09",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\CERTIFICADOS\\EDUARDO.pdf",
         "Status":  "Alerta"
     }
