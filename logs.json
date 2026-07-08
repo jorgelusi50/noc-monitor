@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 17:40:13",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 17:40:14",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\rd biro",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-08 17:07:49",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\Não confirmado 596645.crdownload",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:07:50",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\Não confirmado 596645.crdownload",
         "Status":  "Alerta"
     }
