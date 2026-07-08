@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-08 00:34:39",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\ANY",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-08 00:34:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELA",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-08 17:15:58",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GF\\VINIL BRANCO A4 - molde 24.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:16:00",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GF\\VINIL BRANCO A4 - molde 24.cdr",
         "Status":  "Alerta"
