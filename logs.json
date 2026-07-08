@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-08 17:30:08",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\13.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-08 17:30:09",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\13.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-08 17:30:12",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\14.jpg",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-08 17:52:04",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\VINIL 13X19 PROVA DE CORES 24.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:52:06",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\VINIL 13X19 PROVA DE CORES 24.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:52:07",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\VINIL 13X19 PROVA DE CORES 24.cdr",
         "Status":  "Alerta"
     }
