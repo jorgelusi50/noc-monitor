@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 17:32:45",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 17:32:46",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\Nova pasta",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-08 17:07:20",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\GILSON\\1783534383739_ACB202D22D704BD5E8D0EB4EAB1A236F.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:07:21",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\GILSON\\1783534383739_ACB202D22D704BD5E8D0EB4EAB1A236F.jpeg",
         "Status":  "Alerta"
     }
