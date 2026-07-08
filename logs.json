@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-08 17:07:58",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\1783534383739_ACB202D22D704BD5E8D0EB4EAB1A236F (1).jpeg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-08 17:07:59",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\1783534383739_ACB202D22D704BD5E8D0EB4EAB1A236F (1).jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-08 17:15:54",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GF\\VINIL BRANCO A4 - molde 24.cdr",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-08 17:28:30",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\07.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:28:32",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\07.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:28:32",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\07.jpg",
         "Status":  "Alerta"
