@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-08 17:20:29",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\ANY\\Revista Álbum de Figurinhas Futebol Esportivo Verde e Amarelo (2).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-08 17:23:00",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\CERTIFICADOS\\CERTIFICADOS 0807.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-08 17:29:12",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\09.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:29:14",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\09.jpg",
         "Status":  "Alerta"
     }
