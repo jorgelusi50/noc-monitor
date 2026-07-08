@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 17:17:30",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\RVIDEO\\Não confirmado 911869.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 17:17:31",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\RVIDEO\\1783453146193_3EB0E942D1FBDC71DA43C8.jpeg",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-08 17:06:33",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\1783534383739_ACB202D22D704BD5E8D0EB4EAB1A236F.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:06:45",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\ARTE_DIA_DI_MOTORISTA.pdf",
         "Status":  "Alerta"
     }
 ]
