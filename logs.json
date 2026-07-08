@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 17:40:11",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 17:40:13",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\GF\\Nova pasta",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-08 17:07:46",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\1783534383739_ACB202D22D704BD5E8D0EB4EAB1A236F (1).jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:07:49",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\Não confirmado 596645.crdownload",
         "Status":  "Alerta"
     }
 ]
