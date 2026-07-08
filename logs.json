@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-08 17:04:24",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\CERTIFICADOS\\MARIA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-08 17:04:46",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\CERTIFICADOS\\FELIPE.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-08 17:26:34",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\ANY\\301lbum de Figurinhas Futebol Esportivo Verde e Amarelo).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:26:36",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\ANY\\301lbum de Figurinhas Futebol Esportivo Verde e Amarelo).pdf",
         "Status":  "Alerta"
     }
