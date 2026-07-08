@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-07 17:03:13",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\A4\\folha_A4_250gr (3).jpeg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-07 17:03:15",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\A4\\folha_A4_250gr (3).jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-07 17:03:16",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ISADORA\\IMPRESSAO\\A4\\folha_A_250gr (3).pdf",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-08 17:05:00",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\CERTIFICADOS\\KYARA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:05:01",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\CERTIFICADOS\\KYARA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-08 17:05:02",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\CERTIFICADOS\\KYARA.pdf",
         "Status":  "Alerta"
     }
