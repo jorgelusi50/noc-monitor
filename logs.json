@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 00:34:57",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 00:34:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 08:35:12",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\JOVEM PAN\\CRACHA_-_JOVEM_PAN_NEWS_LITORAL_E_MARAZUL (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 08:39:07",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\JOVEM PAN\\CARTAO_DE_VISITA_-_GERAL (1)_Página_1.jpg",
         "Status":  "Alerta"
     }
 ]
