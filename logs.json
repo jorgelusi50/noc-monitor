@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:58:01",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\PROMENAC\\CUPOM SORTEIO.png",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:58:04",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\PROMENAC\\CUPOM SORTEIO.png",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 16:13:32",
+        "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\JEANY",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 16:13:34",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\JEANY",
         "Status":  "Alerta"
