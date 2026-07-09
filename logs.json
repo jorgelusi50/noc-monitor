@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 09:14:17",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\JOVEM PAN.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 09:14:18",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\JOVEM PAN.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 09:50:17",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\image0.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 09:50:18",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\image0.jpeg",
         "Status":  "Alerta"
     }
