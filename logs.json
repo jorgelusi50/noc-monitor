@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:48:14",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\7B7E259F.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:48:16",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\Resultado_09_07_2026.xlsx",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 14:06:47",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\Páginas de redondo_Página_5.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:06:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\Páginas de redondo_Página_6.jpg",
         "Status":  "Alerta"
     }
 ]
