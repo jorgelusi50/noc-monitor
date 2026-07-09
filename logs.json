@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:20:13",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\2C48AEC9.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:20:14",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\2C48AEC9.tmp",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 14:52:32",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\MARCO\\COMPLEMENTO DIPLOMAS KIDS 2026.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:52:34",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\MARCO\\COMPLEMENTO DIPLOMAS KIDS 2026.pdf",
         "Status":  "Alerta"
