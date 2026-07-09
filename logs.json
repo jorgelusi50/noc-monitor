@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 08:39:30",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\JOVEM PAN\\CARTAO_DE_VISITA_-_GERAL (1)_Página_2.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 08:39:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\JOVEM PAN\\CARTAO_DE_VISITA_-_GERAL (1)_Página_2.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 09:13:31",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\unificado.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 09:13:32",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\unificado.cdr",
         "Status":  "Alerta"
     }
