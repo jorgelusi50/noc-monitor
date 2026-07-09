@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:18:43",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\669E0CCA.tmp",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 13:18:43",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\669E0CCA.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:18:46",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\669E0CCA.tmp",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-09 13:43:17",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\ODILON QUADRA\\ODILON ACRILICOS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 13:43:18",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\ODILON QUADRA\\ODILON ACRILICOS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 13:45:28",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\Resultado_09_07_2026.xlsx",
         "Status":  "Alerta"
     }
 ]
