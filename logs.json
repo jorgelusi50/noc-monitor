@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:17:46",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\redondo igreja  01.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:17:47",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\redondo igreja  01.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 14:38:10",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\A5415344.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:38:12",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\A5415344.tmp",
         "Status":  "Alerta"
