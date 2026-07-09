@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:59:37",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\VIACRED\\15 ITAJAÍ SAO JOÃO 310x230.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 13:59:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\VIACRED\\15 ITAJAÍ SAO JOÃO 310x230.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:59:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\VIACRED\\192 ITAJAÍ BISTEK 292x240.pdf",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-09 14:22:19",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\ADESIVO\\UN 3481.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:22:21",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\ADESIVO\\UN 3481.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:22:22",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\ADESIVO\\UN 3481.png",
         "Status":  "Alerta"
