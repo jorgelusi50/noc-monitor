@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:25:31",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\ALESSANDRA TRINDADE\\CARIMBO 4911.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 13:25:32",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\ALESSANDRA TRINDADE\\CARIMBO 4911.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:25:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\ALESSANDRA TRINDADE\\CARIMBO 4911.cdr",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-09 13:59:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\VIACRED\\229 ITAJAI CIDADE NOVA 340x261.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:00:00",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\VIACRED\\229 ITAJAI CIDADE NOVA 340x261.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:00:01",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\VIACRED\\25 ITAJAÍ CENTRO 342x220.pdf",
         "Status":  "Alerta"
     }
 ]
