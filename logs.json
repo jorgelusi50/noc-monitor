@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:37:28",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\BE6B8593.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:37:30",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\Anexo sem título 00106.txt",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 15:33:51",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\Chapeuzinho.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 15:33:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\Chapeuzinho.png",
         "Status":  "Alerta"
