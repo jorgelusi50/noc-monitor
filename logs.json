@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:21:45",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\DALÇ.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:21:46",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\DALÇ.tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 10:33:22",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\003 (2).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:33:23",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\003.pdf",
         "Status":  "Alerta"
     }
 ]
