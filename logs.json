@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 16:00:17",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\Nova pasta (2)",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 16:00:17",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\EDUARDO LOURIVAL CARDOZO FURTADO",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 16:03:26",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\EDUARDO LOURIVAL CARDOZO FURTADO\\Folheto com Três Dobras a Castanho-avermelhado com Cinzento Simples de Fotografia Moderna.pdf",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-09 17:48:29",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\cartao.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 17:48:31",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\cartao.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 17:48:32",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\cartao.cdr",
         "Status":  "Alerta"
     }
