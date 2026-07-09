@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:33:16",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\003 (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:33:17",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\003 (1).pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 10:36:13",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\018668 (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:36:14",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\018668 (1).pdf",
         "Status":  "Alerta"
