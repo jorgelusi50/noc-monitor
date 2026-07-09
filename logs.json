@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:18:57",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\B9691849.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:18:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\B9691849.tmp",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 13:45:43",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\Resultado_09_07_2026.xlsx",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 13:47:15",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\ODILON QUADRA\\Cópia_de_segurança_de_ODILON ACRILICOS.cdr",
         "Status":  "Alerta"
     }
 ]
