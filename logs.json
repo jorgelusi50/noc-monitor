@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 00:34:53",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 00:34:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 08:35:04",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\JOVEM PAN\\CRACHA_-_JOVEM_PAN_NEWS_LITORAL_E_MARAZUL (2).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 08:35:06",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\JOVEM PAN\\CRACHA_-_JOVEM_PAN_NEWS_LITORAL_E_MARAZUL (2).pdf",
         "Status":  "Alerta"
