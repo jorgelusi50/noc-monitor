@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:06:48",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\Páginas de redondo_Página_6.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:06:50",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\Páginas de redondo_Página_6.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 14:37:19",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\3A67F95A.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:37:20",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\3A67F95A.tmp",
         "Status":  "Alerta"
