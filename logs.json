@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-08 18:04:02",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\CRISTINA\\MubiChat-1120897.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-08 18:04:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\CRISTINA\\MubiChat-1120897.jpeg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 08:31:41",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\LUIZ FELIPE DOS SANTOS\\VINIL A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 08:31:42",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\LUIZ FELIPE DOS SANTOS\\VINIL A4.cdr",
         "Status":  "Alerta"
