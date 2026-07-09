@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:31:30",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\(1) WhatsApp Business.html",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:31:32",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\(1) WhatsApp Business.html",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 10:34:34",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\01112021-ddd0-4df1-bb12-d1a837cfe769.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:34:36",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\01112021-ddd0-4df1-bb12-d1a837cfe769.jpg",
         "Status":  "Alerta"
