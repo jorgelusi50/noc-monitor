@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:19:33",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\CRISTINA\\VINIL 13X19 24.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:19:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\CRISTINA\\VINIL 13X19 24.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 10:33:09",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\00225.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:33:14",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\003 (1).pdf",
         "Status":  "Alerta"
     }
 ]
