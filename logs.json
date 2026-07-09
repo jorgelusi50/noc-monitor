@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:52:40",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\MARCO\\DFBE14B.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:52:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\MARCO\\DFBE14B.tmp",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 15:43:20",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELA\\Orçamento Nº 12719 - Gabriela - 6712_V2.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 15:43:22",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELA\\Orçamento Nº 12719 - Gabriela - 6712_V2.pdf",
         "Status":  "Alerta"
