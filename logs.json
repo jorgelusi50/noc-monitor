@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 11:27:57",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\GF\\8.png",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 11:28:34",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\GF\\13.png",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 11:37:21",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\GF\\38.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 11:37:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\GF\\38.png",
         "Status":  "Alerta"
