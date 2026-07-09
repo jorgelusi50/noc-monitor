@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:36:52",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\C00BA657.tmp",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 14:36:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\C00BA657.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:36:56",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\C00BA657.tmp",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-09 15:07:00",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\WELLINGTON\\Design sem nome (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 15:07:01",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\WELLINGTON\\Design sem nome (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 15:07:02",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\WELLINGTON\\Design sem nome (1).pdf",
         "Status":  "Alerta"
     }
