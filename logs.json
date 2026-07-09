@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:22:08",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:22:09",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\Nova pasta",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 14:52:40",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\MARCO\\DFBE14B.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:52:41",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\MARCO\\DFBE14B.tmp",
         "Status":  "Alerta"
     }
