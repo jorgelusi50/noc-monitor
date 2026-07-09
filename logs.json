@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 09:01:23",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\PRATA DA TERRA\\ACRILICO 30X48 2X.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 09:10:19",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\UNIFICADO\\School_-_Valores_2026_Página_1.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 09:40:57",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\343o mesclada1 3201 a 37...pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 09:40:59",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\343o mesclada1 3201 a 37...pdf",
         "Status":  "Alerta"
     }
