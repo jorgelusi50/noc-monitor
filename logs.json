@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 08:54:49",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\CRISTINA\\VINIL 13X19.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 08:54:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\CRISTINA\\VINIL 13X19.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 09:34:41",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\PLACAS AMARELAS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 09:34:43",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\PLACAS AMARELAS.cdr",
         "Status":  "Alerta"
     }
