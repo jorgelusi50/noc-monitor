@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:36:29",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\01a5ad39-1c00-444c-b918-d4b12e713b58.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 10:36:31",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\01a5ad39-1c00-444c-b918-d4b12e713b58.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:36:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\01a5ad39-1c00-444c-b918-d4b12e713b58.jpg",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-09 10:39:13",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\(C)-Boleto-P001-887524-22924123.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:39:15",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\-- Contrato Social.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:39:16",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\000000792102 - boleto.pdf",
         "Status":  "Alerta"
     }
 ]
