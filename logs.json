@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:28:39",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\ODILON QUADRA\\ODILON ACRILICOS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:28:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\ODILON QUADRA\\ODILON ACRILICOS.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 14:00:11",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\VIACRED\\79 ITAJAÍ CORDEIROS 294x120.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:00:13",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\VIACRED\\79 ITAJAÍ CORDEIROS 294x120.pdf",
         "Status":  "Alerta"
     }
