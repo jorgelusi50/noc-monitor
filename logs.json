@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 09:14:01",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\IBIS.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 09:14:03",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\IBIS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 09:14:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\JOVEM PAN.cdr",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-09 09:50:11",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\image0.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 09:50:13",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\image0.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 09:50:13",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\image0.jpeg",
         "Status":  "Alerta"
     }
