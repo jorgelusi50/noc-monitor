@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:48:59",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\Resultado_09_07_2026 (2).xlsx",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 13:51:59",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\Nova pasta (2)",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:52:01",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\Nova pasta (2)",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-09 14:17:36",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\redondo igreja  01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:17:40",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\redondo igreja  01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:17:41",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\redondo igreja  01.cdr",
         "Status":  "Alerta"
     }
