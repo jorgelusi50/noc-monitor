@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 09:44:22",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\nilton\\CARTAZ PORTARIA - Entregas e Leituras.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 09:44:25",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\nilton\\CARTAZ PORTARIA - Entregas e Leituras.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 09:44:27",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\nilton\\CARTAZ PORTARIA - Entregas e Leituras.pdf",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-09 10:12:35",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\_Cartão Dia dos Pais 2026.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:12:37",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\_Cartão Dia dos Pais 2026.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:12:37",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\_Cartão Dia dos Pais 2026.jpg",
         "Status":  "Alerta"
     }
