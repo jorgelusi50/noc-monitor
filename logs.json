@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:24:15",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\ADESIVO\\UN 3481.png",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:24:17",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\ADESIVO\\UN 3481.png",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 14:53:14",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\MARCO\\C5C01491.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:53:22",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\MARCO\\C5C01491.tmp",
         "Status":  "Alerta"
