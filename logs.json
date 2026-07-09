@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:35:03",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\017934 - PRO BANNER PLOTAGENS LTDA (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 10:35:06",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\017934 - PRO BANNER PLOTAGENS LTDA (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:35:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\017934 - PRO BANNER PLOTAGENS LTDA (2).pdf",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-09 10:37:48",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\029378c6-b8fc-4b84-b5c3-292ba99cc6a0_boleto_10271257_PRO_BANNER_PLOTAGENS_LTDA.PDF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:37:49",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\029378c6-b8fc-4b84-b5c3-292ba99cc6a0_boleto_10271257_PRO_BANNER_PLOTAGENS_LTDA.PDF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:37:51",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\03 - 2º TA Pro-Banner (1).pdf",
         "Status":  "Alerta"
     }
 ]
