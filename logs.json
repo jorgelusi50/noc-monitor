@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:40:37",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\02122025174205_AO7HHdI8A5sMvmfGh90FjQ.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:40:39",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\0212d725-37ea-4b11-b4ec-df7e25b0aee4_boleto_10037552_PRO-BANNER_PLOTAGENS_LTDA_EPP (1) (1).PDF",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 10:47:37",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LETICIA\\douglas winter- livro\\A9Rucy846_13m2ywz_51o.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:47:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LETICIA\\douglas winter- livro\\A9Rucy846_13m2ywz_51o.tmp",
         "Status":  "Alerta"
