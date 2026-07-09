@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:19:03",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\A92451B6.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:19:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\documento_1783607640052-3-4.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 13:47:21",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\ODILON QUADRA\\ODILON ACRILICOS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 13:47:31",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\ODILON QUADRA\\ODILON ACRILICOS.cdr",
         "Status":  "Alerta"
     }
