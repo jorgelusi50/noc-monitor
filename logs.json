@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 08:18:10",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\CRISTIANO\\CRISTIANO CARTÃO DE VISITAS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 08:19:24",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\CRISTIANO\\Cópia_de_segurança_de_CRISTIANO CARTÃO DE VISITAS.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 08:46:21",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\BRUNO SEARA\\PLACA - CSC.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 08:46:22",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\RECORTE\\IMG_4384 (1).PNG",
         "Status":  "Alerta"
     }
 ]
