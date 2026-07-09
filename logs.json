@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 07:58:11",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\Display Seara 9x5cm_20x.dxf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 07:58:12",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\Display Seara 9x5cm_20x.dxf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 08:39:24",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\JOVEM PAN\\CARTAO_DE_VISITA_-_GERAL (1)_Página_2.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 08:39:27",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\JOVEM PAN\\CARTAO_DE_VISITA_-_GERAL (1)_Página_2.jpg",
         "Status":  "Alerta"
     }
