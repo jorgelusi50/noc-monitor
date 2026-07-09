@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:39:55",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\01082025_163813_ComprovanteLinkRede.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 10:39:56",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\011001151980.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:39:57",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\01112021-ddd0-4df1-bb12-d1a837cfe769.jpg",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-09 10:44:43",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LETICIA\\douglas winter- livro\\A9R11mmd1q_13m2ywi_51o.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:44:44",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LETICIA\\douglas winter- livro\\A9R11mmd1q_13m2ywi_51o.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:44:46",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LETICIA\\douglas winter- livro\\A9R11mmd1q_13m2ywi_51o.tmp",
         "Status":  "Alerta"
