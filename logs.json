@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:43:15",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\ODILON QUADRA\\ODILON ACRILICOS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:43:17",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\ODILON QUADRA\\ODILON ACRILICOS.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 14:05:42",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\redondo.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:05:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\Páginas de redondo_Página_1.jpg",
         "Status":  "Alerta"
     }
 ]
