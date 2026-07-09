@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:28:43",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\ODILON QUADRA\\ODILON ACRILICOS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:28:48",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\ODILON QUADRA\\ODILON ACRILICOS.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 14:00:15",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\VIACRED\\81 ITAJAÍ FAZENDA 460x227.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:00:24",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\VIACRED\\Gabaritos Cópia\u0026Cia.docx",
         "Status":  "Alerta"
     }
 ]
