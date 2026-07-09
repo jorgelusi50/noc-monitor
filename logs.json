@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 08:19:28",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\CRISTIANO\\CRISTIANO CARTÃO DE VISITAS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 08:19:30",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\CRISTIANO\\CRISTIANO CARTÃO DE VISITAS.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 08:46:27",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\RECORTE\\IMG_4384 (1).PNG",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 08:54:37",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\CRISTINA\\Cópia_de_segurança_de_VINIL 13X19.cdr",
         "Status":  "Alerta"
     }
 ]
