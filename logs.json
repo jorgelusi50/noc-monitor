@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 15:48:31",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\FABIANA CONVITE.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 15:48:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\FABIANA CONVITE.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 17:32:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\redondo igreja  01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 17:46:04",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\CERTIFICADO 2026.pdf",
         "Status":  "Alerta"
     }
 ]
