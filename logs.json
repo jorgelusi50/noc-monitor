@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 11:08:58",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\NF 35 OS 36492.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 11:08:59",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\NF 35 OS 36492.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 11:34:06",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\GF\\24.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 11:34:22",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\GF\\25.png",
         "Status":  "Alerta"
     }
 ]
