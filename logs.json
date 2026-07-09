@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 09:01:16",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\PRATA DA TERRA\\ACRILICO 30X48 2X.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 09:01:17",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\PRATA DA TERRA\\ACRILICO 30X48 2X.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 09:35:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JULHO\\09-07-2026\\cut farma.plt",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 09:39:49",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\343o mesclada1 3201 a 37...pdf",
         "Status":  "Alerta"
     }
 ]
