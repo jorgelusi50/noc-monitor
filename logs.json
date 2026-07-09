@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:36:37",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\B9526AA1.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:36:38",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\Anexo sem título 00106.txt",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 14:57:59",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\PROMENAC\\CUPOM SORTEIO.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:58:01",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\PROMENAC\\CUPOM SORTEIO.png",
         "Status":  "Alerta"
     }
