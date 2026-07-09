@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-08 17:31:17",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\18.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-08 17:31:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\EDSON\\imagem\\18.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 07:56:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\Display Seara 9x5cm_15x.dxf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 07:58:11",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\Display Seara 9x5cm_20x.dxf",
         "Status":  "Alerta"
     }
 ]
