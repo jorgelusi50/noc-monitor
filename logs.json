@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-07-09 13:18:23",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\EECB4410.tmp",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 13:18:23",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\C300D4D1.tmp",
         "Status":  "Alerta"
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 13:35:55",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELA\\Nova pasta\\arq0.181796991.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 13:35:57",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELA\\Nova pasta\\arq0.181796991.pdf",
         "Status":  "Alerta"
     }
