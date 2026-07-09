@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 09:13:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\unificado.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 09:13:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\IBIS.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 09:45:59",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\HERTECK\\HERTECK ADESIVOS DE RECORTE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 09:46:00",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\HERTECK\\HERTECK ADESIVOS DE RECORTE.cdr",
         "Status":  "Alerta"
     }
