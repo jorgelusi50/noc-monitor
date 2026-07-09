@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 15:26:07",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\FABIANA CONVITE.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 15:26:08",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\FABIANA CONVITE.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 16:22:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\CANECA DTF.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 16:27:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\MODELOS de AGENDAS - não apagar\\cut\\2026\\JULHO\\09-07-2026\\redondo",
         "Status":  "Alerta"
     }
 ]
