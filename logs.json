@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 09:10:37",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\UNIFICADO\\School_-_Valores_2026_Página_1.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 09:10:38",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\UNIFICADO\\School_-_Valores_2026_Página_2.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 09:44:37",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\nilton\\A136B1E6.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 09:44:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\nilton\\A136B1E6.tmp",
         "Status":  "Alerta"
