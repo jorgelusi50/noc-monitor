@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:52:54",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\MARCO\\11E152D0.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:52:55",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\MARCO\\COMPLEMENTO DIPLOMAS KIDS 2026.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 15:48:31",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\FABIANA CONVITE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 15:48:33",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\FABIANA CONVITE.cdr",
         "Status":  "Alerta"
     }
