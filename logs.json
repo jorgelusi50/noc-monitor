@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 00:34:49",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 00:34:50",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 08:31:49",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\LUIZ FELIPE DOS SANTOS\\VINIL A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 08:31:51",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\LUIZ FELIPE DOS SANTOS\\VINIL A4.cdr",
         "Status":  "Alerta"
     }
