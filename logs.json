@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:44:51",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LETICIA\\douglas winter- livro\\A9R1udszs2_13m2ywj_51o.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:44:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LETICIA\\douglas winter- livro\\A9R1udszs2_13m2ywj_51o.tmp",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 11:28:52",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\AUTENTICA",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 11:28:56",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\AUTENTICA\\AUTENTICA MEDIDAS.cdr",
         "Status":  "Alerta"
     }
 ]
