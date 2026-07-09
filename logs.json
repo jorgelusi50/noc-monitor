@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:59:56",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\VIACRED\\225 BANNER X 60X160 PJ.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:59:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\VIACRED\\225 BANNER X 60X160 PJ.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 14:24:04",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\ADESIVO\\UN 3481.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:24:05",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\ADESIVO\\UN 3481.png",
         "Status":  "Alerta"
