@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:00:13",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\VIACRED\\79 ITAJAÍ CORDEIROS 294x120.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 14:00:14",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\VIACRED\\81 ITAJAÍ FAZENDA 460x227.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:00:15",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\VIACRED\\81 ITAJAÍ FAZENDA 460x227.pdf",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-09 14:24:20",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\ADESIVO\\UN 3481.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:24:22",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\ADESIVO\\UN 3481.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:24:24",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\ADESIVO\\UN 3481.png",
         "Status":  "Alerta"
