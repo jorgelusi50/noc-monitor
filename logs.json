@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 09:50:35",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\Anexo sem título 00004.txt",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 09:50:36",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\Anexo sem título 00004.txt",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 10:21:36",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\DALÇ.tif",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:21:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\DALÇ.tif",
         "Status":  "Alerta"
