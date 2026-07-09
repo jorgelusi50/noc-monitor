@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:12:30",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\_Cartão Dia dos Pais 2026.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 10:12:32",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\_Cartão Dia dos Pais 2026.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:12:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\_Cartão Dia dos Pais 2026.jpg",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-09 10:31:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\(1) WhatsApp Business.html",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:31:32",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\(1) WhatsApp Business.html",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:31:34",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\(C)-Boleto-P001-887524-22924123.pdf",
         "Status":  "Alerta"
     }
 ]
