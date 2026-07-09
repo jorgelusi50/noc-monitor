@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 08:39:43",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\JOVEM PAN\\CARTAO_DE_VISITA_-_GERAL (1)_Página_2.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 08:41:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\LIVIA\\CRISTINA\\VINIL 13X19.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 09:13:57",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\IBIS.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 09:13:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\IBIS.cdr",
         "Status":  "Alerta"
