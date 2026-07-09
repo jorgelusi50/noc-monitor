@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:31:52",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\000007000201655120240623.PDF",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:31:54",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\000007000201655120240623.PDF",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 10:34:54",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\017381.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:34:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\017381.pdf",
         "Status":  "Alerta"
