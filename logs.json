@@ -2,12 +2,6 @@
     {
         "Data":  "2026-07-09 10:41:02",
         "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\03.2026.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 10:41:02",
-        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\0301205776.pdf",
         "Status":  "Alerta"
     },
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 10:53:52",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LETICIA\\douglas winter- livro\\LIVRO-Gestão de riscos no despacho aduaneiro de importação-RAQUEL SEGALLA REIS.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:53:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LETICIA\\douglas winter- livro\\LIVRO-Gestão de riscos no despacho aduaneiro de importação-RAQUEL SEGALLA REIS.pdf",
         "Status":  "Alerta"
