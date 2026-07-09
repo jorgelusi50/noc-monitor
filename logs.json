@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:37:02",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\02122025174205_AO7HHdI8A5sMvmfGh90FjQ.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 10:37:04",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\02122025174205_AO7HHdI8A5sMvmfGh90FjQ.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:37:04",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\02122025174205_AO7HHdI8A5sMvmfGh90FjQ.jpg",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-09 10:39:46",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\00d775cb-849d-4eac-820f-9da90dbc970c.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:39:47",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\00f03acd-ff13-402e-aca4-8ed3ce7fb1fa.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:39:49",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\01.2025 (1).pdf",
         "Status":  "Alerta"
     }
 ]
