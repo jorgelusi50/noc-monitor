@@ -1,23 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:37:10",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\Inspec_a_o Predial - Anomalias - Mayara - Barra Velha-ASS.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 14:37:11",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\Inspec_a_o Predial - Anomalias - Mayara - Barra Velha-ASS.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 14:37:11",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\A35D1C6C.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:37:13",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\3A67F95A.tmp",
@@ -596,6 +578,24 @@
     {
         "Data":  "2026-07-09 15:26:04",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\FABIANA CONVITE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 15:26:05",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\FABIANA CONVITE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 15:26:06",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\FABIANA CONVITE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 15:26:07",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\FABIANA CONVITE.cdr",
         "Status":  "Alerta"
     }
