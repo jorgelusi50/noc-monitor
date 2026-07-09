@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:27:52",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\RECORTE\\RECORTE REVIVAL.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 10:27:54",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\RECORTE\\RECORTE REVIVAL.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:27:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\RECORTE\\RECORTE REVIVAL.cdr",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-09 10:33:57",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\01.2026 (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:33:59",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\01.2026 (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:34:00",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\01.2026 (1).pdf",
         "Status":  "Alerta"
     }
