@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:56:00",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\ALESSANDRA TRINDADE\\CARIMBO 4911.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 13:56:33",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\ODILON QUADRA\\Cópia_de_segurança_de_ODILON ACRILICOS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:56:35",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\ODILON QUADRA\\Cópia_de_segurança_de_ODILON ACRILICOS.cdr",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-09 14:20:12",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\2C48AEC9.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:20:13",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\2C48AEC9.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:20:14",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\2C48AEC9.tmp",
         "Status":  "Alerta"
     }
