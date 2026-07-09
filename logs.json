@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:36:10",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELA\\Nova pasta\\arq0.832944000.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:36:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELA\\Nova pasta\\DOC-20260709-WA0026_.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 14:05:20",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\DALÇOQUIO 10X6.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:05:22",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\DALÇOQUIO 10X6.cdr",
         "Status":  "Alerta"
     }
