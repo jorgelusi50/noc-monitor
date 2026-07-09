@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:28:34",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\pasta -com orelha - PERFEITA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:28:35",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\pasta -com orelha - PERFEITA.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 10:34:09",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\01082025_163813_ComprovanteLinkRede.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:34:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\01082025_163813_ComprovanteLinkRede.pdf",
         "Status":  "Alerta"
