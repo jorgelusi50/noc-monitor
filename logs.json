@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 09:39:53",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\343o mesclada1 3201 a 37...pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 09:40:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\ANY\\FLORA\\343o mesclada1 3201 a 37...pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 10:12:24",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\_Cartão Dia dos Pais 2026.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:12:26",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\_Cartão Dia dos Pais 2026.jpg",
         "Status":  "Alerta"
