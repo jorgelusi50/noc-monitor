@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:53:37",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\MARCO\\COMPLEMENTO DIPLOMAS KIDS 2026.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:53:39",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\MARCO\\951BD15E.tmp",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 16:03:45",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\EDUARDO LOURIVAL CARDOZO FURTADO\\1A9C77BE.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 16:03:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\EDUARDO LOURIVAL CARDOZO FURTADO\\6335C8A7.tmp",
         "Status":  "Alerta"
     }
 ]
