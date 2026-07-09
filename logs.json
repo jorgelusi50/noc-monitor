@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:47:33",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\ODILON QUADRA\\ODILON ACRILICOS.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 13:48:06",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\13414296.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:48:11",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\13414296.tmp",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-09 14:06:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\Páginas de redondo_Página_4.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:06:43",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\Páginas de redondo_Página_5.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:06:44",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\Páginas de redondo_Página_5.jpg",
         "Status":  "Alerta"
     }
 ]
