@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:53:05",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\MARCO\\C5C01491.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:53:06",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\MARCO\\C5C01491.tmp",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 15:57:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\FABIANA CONVITE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 16:00:15",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\Nova pasta (2)",
         "Status":  "Alerta"
     }
 ]
