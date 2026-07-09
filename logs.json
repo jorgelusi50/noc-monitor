@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 08:31:41",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\LUIZ FELIPE DOS SANTOS\\VINIL A4.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 08:31:42",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\LUIZ FELIPE DOS SANTOS\\VINIL A4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 08:31:44",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\LUIZ FELIPE DOS SANTOS\\VINIL A4.cdr",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-09 09:10:25",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\UNIFICADO\\School_-_Valores_2026_Página_1.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 09:10:27",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\UNIFICADO\\School_-_Valores_2026_Página_1.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 09:10:29",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\UNIFICADO\\School_-_Valores_2026_Página_1.jpg",
         "Status":  "Alerta"
