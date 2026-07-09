@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 09:45:35",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 09:45:37",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 09:45:39",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\HERTECK",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-09 10:13:44",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\jean.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:13:46",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\jean.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:13:48",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\jean.cdr",
         "Status":  "Alerta"
     }
