@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:02:09",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LETICIA\\douglas winter- livro\\part1.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:02:14",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\07-07-26\\LETICIA\\douglas winter- livro\\part2.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 10:27:52",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\RECORTE\\RECORTE REVIVAL.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:27:54",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\RECORTE\\RECORTE REVIVAL.cdr",
         "Status":  "Alerta"
     }
