@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 15:43:32",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELA\\Orçamento Nº 12719 - Gabriela - 6712_V2.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 15:48:23",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\Cópia_de_segurança_de_FABIANA CONVITE.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 17:31:46",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\redondo igreja  01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 17:31:48",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\redondo igreja  01.cdr",
         "Status":  "Alerta"
