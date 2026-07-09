@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 09:13:33",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\unificado.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 09:13:35",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\unificado.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 09:13:37",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\unificado.cdr",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-09 09:45:54",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\HERTECK\\HERTECK ADESIVOS DE RECORTE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 09:45:56",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\HERTECK\\HERTECK ADESIVOS DE RECORTE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 09:45:58",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\HERTECK\\HERTECK ADESIVOS DE RECORTE.cdr",
         "Status":  "Alerta"
