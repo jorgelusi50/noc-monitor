@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:36:25",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\018668.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:36:26",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\018668.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 10:39:11",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\0301255389 (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:39:12",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\(1) WhatsApp Business.html",
         "Status":  "Alerta"
     }
 ]
