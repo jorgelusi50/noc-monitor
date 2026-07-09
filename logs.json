@@ -1,23 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 16:03:49",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\EDUARDO LOURIVAL CARDOZO FURTADO\\6335C8A7.tmp",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 16:03:50",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\EDUARDO LOURIVAL CARDOZO FURTADO\\6335C8A7.tmp",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 16:03:52",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\EDUARDO LOURIVAL CARDOZO FURTADO\\6335C8A7.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 16:03:54",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\EDUARDO LOURIVAL CARDOZO FURTADO\\FFCBA7C.tmp",
@@ -596,6 +578,24 @@
     {
         "Data":  "2026-07-09 17:51:40",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 17:51:41",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 17:51:42",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 17:51:43",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\01.cdr",
         "Status":  "Alerta"
     }
