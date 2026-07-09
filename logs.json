@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:17:23",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\documento_1783607627007-11-12.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:17:25",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\F37B7702.tmp",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 13:19:57",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\23F86718.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 13:19:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\23F86718.tmp",
         "Status":  "Alerta"
