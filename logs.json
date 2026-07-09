@@ -1,12 +1,6 @@
 [
     {
         "Data":  "2026-07-09 13:08:08",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\PLACAS AMARELAS.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 13:08:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\PLACAS AMARELAS.cdr",
         "Status":  "Alerta"
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 13:18:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\documento_1783607632414-5-6.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 13:18:41",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\669E0CCA.tmp",
         "Status":  "Alerta"
     }
 ]
