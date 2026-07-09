@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 16:03:40",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\EDUARDO LOURIVAL CARDOZO FURTADO\\8EF11C71.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 16:03:41",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\EDUARDO LOURIVAL CARDOZO FURTADO\\1A9C77BE.tmp",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 17:48:43",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\cartao.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 17:51:34",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\01.cdr",
         "Status":  "Alerta"
     }
 ]
