@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 11:59:26",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\ALESSANDRA TRINDADE\\CARIMBO 4911.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 11:59:28",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\ALESSANDRA TRINDADE\\CARIMBO 4911.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 11:59:28",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\ALESSANDRA TRINDADE\\CARIMBO 4911.cdr",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-09 13:17:58",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\AFF11A86.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 13:17:59",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\AFF11A86.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 13:18:00",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\AFF11A86.tmp",
         "Status":  "Alerta"
     }
