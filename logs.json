@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 15:36:27",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\ygkuytuy.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 15:36:29",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\ygkuytuy.tif",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 17:20:58",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\JEANY\\pulseira modelo padrão 02.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 17:20:59",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\JEANY\\pulseira modelo padrão 02.cdr",
         "Status":  "Alerta"
     }
