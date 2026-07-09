@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:17:55",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\redondo igreja  01.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 14:17:56",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\redondo igreja  01.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:17:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\redondo igreja  01.cdr",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-09 14:38:18",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\Anexo sem título 00112.txt",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:38:21",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\8D225275.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:52:21",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\MARCO\\COMPLEMENTO DIPLOMAS KIDS 2026.pdf",
         "Status":  "Alerta"
     }
 ]
