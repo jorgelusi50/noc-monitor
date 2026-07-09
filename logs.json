@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:05:20",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\DALÇOQUIO 10X6.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:05:22",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\DALÇOQUIO 10X6.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 14:36:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\Anexo sem título 00106.txt",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:36:33",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\FD130D20.tmp",
         "Status":  "Alerta"
     }
 ]
