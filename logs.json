@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:17:11",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\2743E469.tmp",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 13:17:12",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\documento_1783607627007-9-10.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:17:13",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\2743E469.tmp",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-09 13:19:35",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\documento_1783607640052-9-10.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 13:19:37",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\A9ED9B77.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 13:19:38",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\documento_1783607640052-7-8.pdf",
         "Status":  "Alerta"
     }
 ]
