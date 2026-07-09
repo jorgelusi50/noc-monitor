@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 11:52:56",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\PRATA DA TERRA\\ACRILICO 30X48 2X.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 11:52:58",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ISADORA\\PRATA DA TERRA\\ACRILICO 30X48 2X.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 13:17:50",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\5E0463D3.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 13:17:51",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\5E0463D3.tmp",
         "Status":  "Alerta"
     }
