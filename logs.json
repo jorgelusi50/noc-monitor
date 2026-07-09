@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:21:55",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\DALÇ.tif",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 10:21:57",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\DALÇ.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:22:00",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\DALÇ.tif",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-09 10:33:37",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\00d775cb-849d-4eac-820f-9da90dbc970c.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:33:38",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\00d775cb-849d-4eac-820f-9da90dbc970c.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:33:39",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\00f03acd-ff13-402e-aca4-8ed3ce7fb1fa.jpg",
         "Status":  "Alerta"
     }
 ]
