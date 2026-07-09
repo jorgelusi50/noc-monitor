@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:03:01",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\Cartão de agradecimento MIA.pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 10:03:02",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\Cartão de agradecimento MIA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:03:03",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\Cartão de agradecimento MIA.pdf",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-09 10:28:34",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\pasta -com orelha - PERFEITA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:28:35",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\pasta -com orelha - PERFEITA.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:28:36",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\pasta -com orelha - PERFEITA.pdf",
         "Status":  "Alerta"
     }
