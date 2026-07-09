@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 16:03:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\EDUARDO LOURIVAL CARDOZO FURTADO\\6335C8A7.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 16:03:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\EDUARDO LOURIVAL CARDOZO FURTADO\\6335C8A7.tmp",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-09 17:51:38",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 17:51:40",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\01.cdr",
         "Status":  "Alerta"
     }
