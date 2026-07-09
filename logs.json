@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:09:39",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\Orcamento_37022_BRUNO.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:09:41",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\Não confirmado 314749.crdownload",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 14:37:35",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\BE6B8593.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:37:50",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\Captura de Tela 2026-07-09 a(s) 14.35.47.png",
         "Status":  "Alerta"
     }
 ]
