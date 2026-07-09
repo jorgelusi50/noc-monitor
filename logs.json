@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:13:34",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\jean.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:13:35",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\jean.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 10:32:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\001 (2).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:32:09",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\001 (3).pdf",
         "Status":  "Alerta"
     }
 ]
