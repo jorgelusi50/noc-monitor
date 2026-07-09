@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 09:44:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\nilton\\A136B1E6.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 09:44:39",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\nilton\\A136B1E6.tmp",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 10:13:00",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\Cartão de agradecimento MIA.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:13:02",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\Cartão de agradecimento MIA.jpg",
         "Status":  "Alerta"
