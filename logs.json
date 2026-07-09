@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 11:36:50",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\GF\\35.png",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 11:36:52",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\GF\\35.png",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 11:59:34",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\ALESSANDRA TRINDADE\\CARIMBO 4911.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 12:17:11",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\NF 33-OS 36989.pdf",
         "Status":  "Alerta"
     }
 ]
