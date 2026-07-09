@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 11:59:20",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\ALESSANDRA TRINDADE",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 11:59:21",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\ALESSANDRA TRINDADE",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 13:17:55",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\459A23B8.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 13:17:56",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\documento_1783607627007-19-20.pdf",
         "Status":  "Alerta"
     }
 ]
