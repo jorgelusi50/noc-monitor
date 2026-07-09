@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 14:36:33",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\FD130D20.tmp",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 14:36:35",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\FD130D20.tmp",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 14:36:37",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\B9526AA1.tmp",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-09 14:57:57",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\PROMENAC\\CUPOM SORTEIO.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:57:58",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\PROMENAC\\CUPOM SORTEIO.png",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:57:59",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\PROMENAC\\CUPOM SORTEIO.png",
         "Status":  "Alerta"
     }
