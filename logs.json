@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:37:51",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\03 - 2º TA Pro-Banner (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:37:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\03 - 2º TA Pro-Banner (1).pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 10:40:39",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\0212d725-37ea-4b11-b4ec-df7e25b0aee4_boleto_10037552_PRO-BANNER_PLOTAGENS_LTDA_EPP (1) (1).PDF",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:40:40",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\0212d725-37ea-4b11-b4ec-df7e25b0aee4_boleto_10037552_PRO-BANNER_PLOTAGENS_LTDA_EPP (1) (2).PDF",
         "Status":  "Alerta"
     }
 ]
