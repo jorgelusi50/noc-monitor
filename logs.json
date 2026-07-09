@@ -1,23 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:41:31",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\NOAH\\Figurinha da Copa Futebol Brasil Moderno Verde Amarelo e Azul Adesivo (50 x 65 mm) (46 x 65 mm).pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 10:41:33",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\NOAH\\Figurinha da Copa Futebol Brasil Moderno Verde Amarelo e Azul Adesivo (50 x 65 mm) (46 x 65 mm).pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 10:41:34",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\NOAH\\Figurinha da Copa Futebol Brasil Moderno Verde Amarelo e Azul Adesivo (50 x 65 mm).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:41:36",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\NOAH\\Figurinha da Copa Futebol Brasil Moderno Verde Amarelo e Azul Adesivo (50 x 65 mm).pdf",
@@ -595,6 +577,24 @@
     },
     {
         "Data":  "2026-07-09 11:13:01",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\CERTIFICADOS 0807 amarela.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 11:13:02",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\CERTIFICADOS 0807 amarela.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 11:13:03",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\CERTIFICADOS 0807 amarela.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 11:13:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\CERTIFICADOS 0807 amarela.pdf",
         "Status":  "Alerta"
