@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 09:13:07",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\nilton\\CARTAZ PORTARIA - Entregas e Leituras.docx",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 09:13:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\nilton\\CARTAZ PORTARIA - Entregas e Leituras.docx",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 09:45:35",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 09:45:37",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\Nova pasta",
         "Status":  "Alerta"
