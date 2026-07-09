@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:12:42",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\_Cartão Dia dos Pais 2026.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:12:57",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\JEAN\\Cartão de agradecimento MIA.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 10:31:44",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\000000792102 - boleto.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:31:45",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\000000792102 - boleto.pdf",
         "Status":  "Alerta"
