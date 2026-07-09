@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:55:57",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\ALESSANDRA TRINDADE\\CARIMBO 4911.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:56:00",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LIVIA\\ALESSANDRA TRINDADE\\CARIMBO 4911.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 14:18:08",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\redondo igreja  01.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 14:20:12",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\2C48AEC9.tmp",
         "Status":  "Alerta"
     }
 ]
