@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 10:38:35",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\03.2026 (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 10:38:37",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\03.2026 (1).pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 10:38:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\TOP ART\\Downloads\\03.2026 (1).pdf",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-09 10:41:18",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\LUIZ FELIPE DOS SANTOS\\VINIL A4 24.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:41:19",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\LUIZ FELIPE DOS SANTOS\\VINIL A4 24.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:41:20",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\LUIZ FELIPE DOS SANTOS\\VINIL A4 24.cdr",
         "Status":  "Alerta"
     }
