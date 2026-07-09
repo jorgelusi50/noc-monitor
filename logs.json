@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 15:17:50",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\Inspec_a_o Predial - Anomalias - Mayara - Barra Velha-ASS_repaired.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 15:17:52",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\atilio\\Inspec_a_o Predial - Anomalias - Mayara - Barra Velha-ASS_repaired.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-09 16:22:29",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\CANECA DTF.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 16:22:31",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\CANECA DTF.cdr",
         "Status":  "Alerta"
