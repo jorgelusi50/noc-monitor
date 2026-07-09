@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 09:34:45",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\PLACAS AMARELAS.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 09:34:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\PLACAS AMARELAS.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 09:34:49",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELY\\PLACAS AMARELAS.cdr",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-09 10:01:59",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\ISADORA\\CONVITE DEAN 15X21cm.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:02:00",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\ISADORA\\CONVITE DEAN 15X21cm.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 10:02:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\ISADORA\\CONVITE DEAN 15X21cm.cdr",
         "Status":  "Alerta"
