@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 00:34:46",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 00:34:48",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GABRIELA",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 00:34:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-09 08:31:47",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\LUIZ FELIPE DOS SANTOS\\VINIL A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 08:31:49",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\LUIZ FELIPE DOS SANTOS\\VINIL A4.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 08:31:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\LUIZ FELIPE DOS SANTOS\\VINIL A4.cdr",
         "Status":  "Alerta"
