@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 13:07:58",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\Adiantamento Salarial do LUIZ 09.07.2026.pdf.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 13:07:59",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\JULIANA\\Adiantamento Salarial do LUIZ 09.07.2026.pdf.crdownload",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 13:18:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\documento_1783607632414-1-2.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 13:18:30",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\5CD90007.tmp",
         "Status":  "Alerta"
     }
 ]
