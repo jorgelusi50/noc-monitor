@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 12:17:17",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\Não confirmado 570003.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 12:17:18",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\AIDA\\Não confirmado 570003.crdownload",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-09 13:18:16",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\3C6FBD32.tmp",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-09 13:18:17",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\LETICIA\\PROSEGUR\\documento_1783607632414-3-4.pdf",
         "Status":  "Alerta"
     }
 ]
