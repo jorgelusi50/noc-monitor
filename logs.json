@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 14:03:45",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\translaser\\cracha-1.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 14:03:46",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\translaser\\cracha-1.tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-10 14:47:32",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\B\u0026M",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 14:47:36",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\B\u0026M\\NF 37 OS 37084.pdf",
         "Status":  "Alerta"
     }
 ]
