@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 14:48:32",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\ANTONIO\\MASCARA VERSO.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 14:48:34",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\ANTONIO\\MASCARA VERSO.pdf",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-10 15:12:53",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\ETIQUETAS (3).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 15:12:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
