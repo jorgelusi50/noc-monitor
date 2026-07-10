@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 08:22:49",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\CANECA.pdf.crdownload",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 08:22:49",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\CANECA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 08:22:51",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\Caneca panorâmica minha mãe é a melhor do mundo aquarela azul e laranja.pdf",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-10 09:11:50",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\JBS\\JBS PLACAS 30X10.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 09:11:52",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\JBS\\JBS PLACAS 30X10.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 09:11:52",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\JBS\\JBS PLACAS 30X10.cdr",
         "Status":  "Alerta"
     }
