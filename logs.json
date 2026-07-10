@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 11:15:49",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\Cópia_de_segurança_de_caneca magica.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 11:15:51",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\Cópia_de_segurança_de_caneca magica.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-10 11:45:47",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\1783693737266_AC84CECDC5FB017829CFD4D17926B97C.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:45:48",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\1783693737266_AC84CECDC5FB017829CFD4D17926B97C.jpeg",
         "Status":  "Alerta"
     }
