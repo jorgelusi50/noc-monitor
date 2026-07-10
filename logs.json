@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 16:13:35",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\JEANY\\PULSEIRA JEANY.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 16:13:37",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\JEANY\\PULSEIRA JEANY.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 16:13:39",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\ANY\\JEANY\\PULSEIRA JEANY.cdr",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-10 00:34:47",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 00:34:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELA",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 00:34:49",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF",
         "Status":  "Alerta"
     }
 ]
