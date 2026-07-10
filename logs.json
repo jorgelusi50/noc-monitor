@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 12:04:55",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\9.png",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 12:04:56",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\9.png",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 12:04:58",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JUNHO\\26-06-26\\GABRIELY\\DINAMICA\\9.png",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-10 13:59:18",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\SEARA\\SEARA PAREDE 6600X2600.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 13:59:20",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\SEARA\\SEARA PAREDE 6600X2600.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 13:59:20",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\SEARA\\SEARA PAREDE 6600X2600.cdr",
         "Status":  "Alerta"
