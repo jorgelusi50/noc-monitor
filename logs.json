@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 09:14:31",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\CARTORIO\\CAPA DURA CARTORIO HEUSE.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 09:14:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\CARTORIO\\CAPA DURA CARTORIO HEUSE.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-10 10:03:41",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\vamoscolorireaprender.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 10:03:43",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\vamoscolorireaprender.pdf",
         "Status":  "Alerta"
