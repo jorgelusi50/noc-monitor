@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 10:12:39",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\NF 38 OS 36599.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 10:12:40",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\NF 38 OS 36599.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-10 10:39:08",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\capas soltas _Página_3.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 10:39:10",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\capas soltas _Página_3.jpg",
         "Status":  "Alerta"
     }
