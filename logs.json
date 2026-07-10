@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 17:32:02",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\redondo igreja  01.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-09 17:32:04",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\redondo igreja  01.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 17:46:04",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\CERTIFICADO 2026.pdf",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-10 08:21:56",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\LABOTEC\\QUADROS 40X60cm.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 08:21:57",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\LABOTEC\\QUADROS 40X60cm.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 08:21:58",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\LABOTEC\\QUADROS 40X60cm.cdr",
         "Status":  "Alerta"
     }
