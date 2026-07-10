@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 11:15:09",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\FLORA\\FLORA ADESIVO 40X60.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 11:15:11",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\FLORA\\FLORA ADESIVO 40X60.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-10 11:45:41",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\1783693737266_AC84CECDC5FB017829CFD4D17926B97C.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:45:43",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\Não confirmado 977898.crdownload",
         "Status":  "Alerta"
     }
 ]
