@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 11:45:20",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\1783693736098_ACE0924E9A7BA7439868CB18C03441A9.jpeg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 11:45:22",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\1783693736098_ACE0924E9A7BA7439868CB18C03441A9.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 11:45:23",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\1783693736098_ACE0924E9A7BA7439868CB18C03441A9.jpeg",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-10 11:51:46",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\TESTE CAPA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:51:48",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\teste A4 - livreto 01.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:52:40",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\SEARE BLOCO\\Impressão mesclada2.cdr",
         "Status":  "Alerta"
     }
 ]
