@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 09:59:15",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 09:59:18",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\RD BIRO",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 09:59:19",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\RD BIRO",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-10 10:09:24",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\291168-colouring-book-pdf.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 10:09:25",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\Desenhos-da-Disney.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 10:09:26",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\Desenhos-da-Disney.pdf",
         "Status":  "Alerta"
     }
 ]
