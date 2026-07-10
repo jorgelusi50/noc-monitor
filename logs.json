@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 13:47:37",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\ALEXANDRE\\Sem título-1.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 13:56:13",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\AIDA\\Resultado_10_07_2026.xlsx",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-10 14:08:29",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\SEARA\\SEARA PAREDE 6600X2600.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 14:08:31",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\SEARA\\SEARA PAREDE 6600X2600.cdr",
         "Status":  "Alerta"
     }
