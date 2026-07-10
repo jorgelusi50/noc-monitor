@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 11:45:27",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\Não confirmado 359194.crdownload",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 11:45:29",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\1783693736098_ACE0924E9A7BA7439868CB18C03441A9.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 11:45:30",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\1783693736098_ACE0924E9A7BA7439868CB18C03441A9.jpeg",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-10 11:52:43",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\SEARE BLOCO\\Impressão mesclada2.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:52:45",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\SEARE BLOCO\\Impressão mesclada2.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:52:47",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\SEARE BLOCO\\Impressão mesclada2.cdr",
         "Status":  "Alerta"
