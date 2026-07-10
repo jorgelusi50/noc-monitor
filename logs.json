@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 09:11:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\JBS\\JBS PLACAS 30X10.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 09:11:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\JBS\\JBS PLACAS 30X10.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-10 10:00:14",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\UNIFICADO\\UNIFICADO PLACA 30X9cm.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 10:00:15",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\UNIFICADO\\UNIFICADO PLACA 30X9cm.cdr",
         "Status":  "Alerta"
     }
