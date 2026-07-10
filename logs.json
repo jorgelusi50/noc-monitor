@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 11:48:18",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\CRACHA-ELIAS\\jussara - Atalho.lnk",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 11:48:19",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\CRACHA-ELIAS\\mariana (1) - Atalho.lnk",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-10 11:58:35",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\SEARE BLOCO\\Impressão mesclada5.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:58:36",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\SEARE BLOCO\\Impressão mesclada5.cdr",
         "Status":  "Alerta"
