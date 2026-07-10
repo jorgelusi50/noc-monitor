@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 09:49:09",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\NF 37 OS 37084.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 09:49:10",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\Desenhos-da-Disney.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-10 10:08:55",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\02- pintando_toy_3.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 10:08:56",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\02- pintando_toy_3.pdf",
         "Status":  "Alerta"
