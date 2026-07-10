@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 11:29:16",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\LIVIA\\NXT ENGENHARIA\\Design_sem_nome_20260710_112130_0000.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 11:29:17",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\LIVIA\\NXT ENGENHARIA\\Design_sem_nome_20260710_112130_0000.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-10 11:48:19",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\CRACHA-ELIAS\\mariana (1) - Atalho.lnk",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:48:20",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\CRACHA-ELIAS\\mariana (1) - Atalho.lnk",
         "Status":  "Alerta"
     }
