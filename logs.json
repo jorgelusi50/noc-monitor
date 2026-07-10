@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 00:34:47",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 00:34:48",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELA",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 00:34:49",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-10 08:29:48",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\UNIFICADO\\CRACHÁ UNIFICADO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 08:29:49",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\UNIFICADO\\CRACHÁ UNIFICADO.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 08:29:54",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\UNIFICADO\\CRACHÁ UNIFICADO.pdf",
         "Status":  "Alerta"
     }
