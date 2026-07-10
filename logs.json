@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 14:06:09",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\translaser\\cracha-10.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 14:08:25",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\SEARA\\Cópia_de_segurança_de_SEARA PAREDE 6600X2600.cdr",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-10 14:50:36",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\adesivo cory.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 14:50:42",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\adesivo cory.jpg",
         "Status":  "Alerta"
     }
