@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 14:04:05",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\translaser\\cracha-3.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 14:04:08",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\translaser\\cracha-3.tif",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-10 14:47:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\ANTONIO\\MASCARA FRENTE.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 14:48:14",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\ANTONIO\\FRENTE.pdf",
         "Status":  "Alerta"
     }
 ]
