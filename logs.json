@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 13:56:22",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\AIDA\\Não confirmado 255528.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 13:56:23",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\AIDA\\Resultado_10_07_2026.xlsx",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-10 14:11:20",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\AIDA\\Não confirmado 819261.crdownload",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 14:11:21",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\AIDA\\Não confirmado 819261.crdownload",
         "Status":  "Alerta"
     }
