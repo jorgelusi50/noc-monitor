@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 11:56:36",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\SEARE BLOCO\\Impressão mesclada4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 11:56:37",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\SEARE BLOCO\\Impressão mesclada4.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-10 13:47:26",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\ALEXANDRE\\Sem título-1.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 13:47:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\ALEXANDRE\\Sem título-1.cdr",
         "Status":  "Alerta"
