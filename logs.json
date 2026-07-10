@@ -1,23 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 08:05:38",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\caneca magica.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 08:05:46",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\caneca magica.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 08:05:49",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\caneca magica.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 08:05:50",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\caneca magica.cdr",
@@ -596,6 +578,24 @@
     {
         "Data":  "2026-07-10 08:53:05",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\prata da terra.dxf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 08:53:06",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\prata da terra.dxf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 08:53:07",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\prata da terra.dxf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 08:53:08",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\prata da terra.dxf",
         "Status":  "Alerta"
     }
