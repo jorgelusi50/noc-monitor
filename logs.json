@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 08:18:48",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\CRACHA.dxf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 08:18:50",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\CRACHA.dxf",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-10 09:02:22",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\QUADROS 40X60cm_ok.dxf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 09:04:12",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\S011021108_2607100901000.pdf",
         "Status":  "Alerta"
     }
 ]
