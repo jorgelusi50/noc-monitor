@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 07:59:26",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\Sem título-1.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 07:59:27",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\Sem título-1.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-10 08:35:58",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\CANECA.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 08:36:00",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\CANECA.jpg",
         "Status":  "Alerta"
