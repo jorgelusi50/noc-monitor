@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 11:56:29",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\SEARE BLOCO\\Impressão mesclada4.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 11:56:30",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\SEARE BLOCO\\Impressão mesclada4.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 11:56:32",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\SEARE BLOCO\\Impressão mesclada4.cdr",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-10 13:34:20",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\FLORA\\Cópia_de_segurança_de_FLORA ADESIVO 40X60.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 13:34:21",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\FLORA\\FLORA ADESIVO 40X60.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 13:34:22",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\FLORA\\FLORA ADESIVO 40X60.cdr",
         "Status":  "Alerta"
     }
 ]
