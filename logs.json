@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 17:48:38",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\cartao.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 17:48:39",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\cartao.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-10 08:27:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 08:27:47",
+        "Acao":  "Renomeado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\UNIFICADO",
         "Status":  "Alerta"
     }
 ]
