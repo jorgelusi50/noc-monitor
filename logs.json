@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 11:45:17",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\1783693734564_AC5C3E9FFF28DC0D77F6B4383B7DC4C4.jpeg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 11:45:18",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\1783693734564_AC5C3E9FFF28DC0D77F6B4383B7DC4C4.jpeg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 11:45:20",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\1783693736098_ACE0924E9A7BA7439868CB18C03441A9.jpeg",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-10 11:51:43",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\TESTE CAPA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:51:44",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\TESTE CAPA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:51:46",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\TESTE CAPA.cdr",
         "Status":  "Alerta"
     }
