@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 08:15:40",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\CARIMBO 4911 Rodrigo.dxf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 08:17:00",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\ACRILICO 30X48 2X.dxf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-10 08:53:17",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\prata da terra.dxf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 08:53:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\prata da terra.dxf",
         "Status":  "Alerta"
