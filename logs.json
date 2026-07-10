@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 11:55:11",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\SEARE BLOCO\\Impressão mesclada3.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 11:55:13",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\SEARE BLOCO\\Impressão mesclada3.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 11:55:15",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\SEARE BLOCO\\Impressão mesclada3.cdr",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-10 13:13:38",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\CHARLINE\\CHARLINE CAPA DURA OTAVIO.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 13:14:48",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\CRACHA-ELIAS\\CRACHAS_3 (1).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 13:14:50",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\CRACHA-ELIAS\\CRACHAS_3 (1).pdf",
         "Status":  "Alerta"
     }
 ]
