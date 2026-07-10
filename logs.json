@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 10:38:06",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\capas soltas _Página_1.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 10:38:08",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\capas soltas _Página_1.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 10:38:10",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\capas soltas _Página_1.jpg",
@@ -595,6 +583,18 @@
     },
     {
         "Data":  "2026-07-10 10:54:52",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\CANECA\\Caneca panorâmica dia dos pais aquarela com imagem azul .jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 10:54:54",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\CANECA\\Caneca panorâmica dia dos pais aquarela com imagem azul .jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 10:54:55",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\CANECA\\Caneca panorâmica dia dos pais aquarela com imagem azul .jpg",
         "Status":  "Alerta"
