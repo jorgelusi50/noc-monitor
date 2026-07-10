@@ -1,23 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 08:35:49",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\CANECA.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 08:35:50",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\CANECA.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 08:35:52",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\CANECA.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 08:35:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\CANECA.jpg",
@@ -597,6 +579,24 @@
         "Data":  "2026-07-10 09:43:21",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\LIVIA\\VIVIANE\\Poster_Vivian.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 09:43:23",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\LIVIA\\VIVIANE\\Poster_Vivian.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 09:43:24",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\LIVIA\\VIVIANE\\Poster_CBL_Roger_2026.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 09:43:26",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\LIVIA\\VIVIANE\\Poster_CBL_Roger_2026.pdf",
         "Status":  "Alerta"
     }
 ]
