@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 10:31:08",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\teste A5.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 10:31:10",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\teste A5.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-10 10:52:04",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\TESTE CAPA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 10:52:07",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\TESTE CAPA.cdr",
         "Status":  "Alerta"
     }
