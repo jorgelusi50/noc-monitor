@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 08:28:28",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\QUADROS 40X60cm_3mm_3x.dxf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 08:28:29",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\QUADROS 40X60cm_3mm_3x.dxf",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-10 09:14:33",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ANY\\CARTORIO\\CAPA DURA CARTORIO HEUSE.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 09:18:26",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
