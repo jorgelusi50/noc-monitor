@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 10:39:15",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\capas soltas _Página_3.jpg",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 10:39:16",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\capas soltas _Página_3.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 10:39:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\capas soltas _Página_3.jpg",
@@ -596,6 +584,18 @@
     {
         "Data":  "2026-07-10 11:11:32",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\Nova pasta\\BIGUACU-Modelo_2pdf_medidas (2).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:11:33",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\Nova pasta\\BIGUACU-Modelo_2pdf_medidas (2).pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:11:34",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\Nova pasta\\BIGUACU-Modelo_2pdf_medidas (2).pdf",
         "Status":  "Alerta"
     }
