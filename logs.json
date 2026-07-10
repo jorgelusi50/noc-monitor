@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 12:05:28",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\CHARLINE",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 12:05:43",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\CHARLINE\\CHARLINE CAPA DURA OTAVIO.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-10 14:03:38",
         "Acao":  "Renomeado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\translaser",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 14:03:43",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\translaser\\cracha-1.tif",
         "Status":  "Alerta"
     }
 ]
