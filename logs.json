@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 11:12:28",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\PLOTAGEM\\05-26-MORGAMS-MATERIAIS_GRAFICOS-VOUCHER_VALE_CERVEJA.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 11:12:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\PLOTAGEM\\BIGUACU-Modelo_2pdf_medidas (2).pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-10 11:45:26",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\Não confirmado 359194.crdownload",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:45:27",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\Não confirmado 359194.crdownload",
         "Status":  "Alerta"
     }
