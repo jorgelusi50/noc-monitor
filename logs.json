@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 17:48:35",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\cartao.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 17:48:37",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\08-07-26\\GABRIELY\\DALÇOQUIO\\cartao.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-10 08:22:53",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\Caneca panorâmica minha mãe é a melhor do mundo aquarela azul e laranja.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 08:27:43",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
