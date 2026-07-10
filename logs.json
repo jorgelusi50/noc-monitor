@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 17:51:50",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\PF\\01.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 00:34:44",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-10 08:28:32",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\QUADROS 40X60cm_3mm_3x.dxf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 08:29:39",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\UNIFICADO\\CRACHÁ UNIFICADO.pdf",
         "Status":  "Alerta"
     }
 ]
