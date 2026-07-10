@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 14:49:34",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\adesivo cory.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 14:49:36",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\adesivo cory.jpg",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-10 15:27:26",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\B\u0026M\\NF 37 OS 37084.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 15:27:28",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\B\u0026M\\NF 37 OS 37084.jpg",
         "Status":  "Alerta"
