@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 09:11:57",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\SCAN",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 09:11:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\SCAN\\S011021108_2607091755000.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-10 10:01:02",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\diversos-desenhos-colorir.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 10:01:04",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\diversos-desenhos-colorir.pdf",
         "Status":  "Alerta"
     }
