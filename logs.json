@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 14:49:59",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\adesivo cory.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 14:50:06",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\adesivo cory.jpg",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-10 15:29:20",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\AIDA\\Curriculo_Dra_Lidelma_dos_Santos_Especialista_em_Ortodontia_assinado.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 15:29:22",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\AIDA\\Não confirmado 108258.crdownload",
         "Status":  "Alerta"
     }
 ]
