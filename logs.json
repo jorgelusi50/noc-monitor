@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 09:11:25",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\Nova pasta",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 09:11:27",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\Nova pasta",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-10 10:00:04",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\UNIFICADO\\Cópia_de_segurança_de_UNIFICADO PLACA 30X9cm.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 10:00:06",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\06-07-26\\ISADORA\\UNIFICADO\\Cópia_de_segurança_de_UNIFICADO PLACA 30X9cm.cdr",
         "Status":  "Alerta"
