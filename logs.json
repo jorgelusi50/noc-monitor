@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 14:04:57",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\translaser\\cracha-7.tif",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 14:05:00",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\translaser\\cracha-7.tif",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 14:05:01",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\translaser\\cracha-7.tif",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-10 14:49:03",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\adesivo cory.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 14:49:04",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\adesivo cory.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 14:49:33",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\adesivo cory.jpg",
         "Status":  "Alerta"
     }
 ]
