@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 14:53:15",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\IMPRESSAO RAPPIDA\\sponte-open-xytn4k-1783697395135.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 15:10:33",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ALICE\\88752476713925 - 34594.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-10 15:34:26",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\ANA BEATRIZ\\CONVITE SO FRENTE_Página_2.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 15:34:35",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\ANA BEATRIZ\\CONVITE SO FRENTE_Página_2.jpg",
         "Status":  "Alerta"
     }
