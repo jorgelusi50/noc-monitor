@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 11:21:56",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\YASMIN\\02 13x19.cdr",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 11:21:57",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\YASMIN\\02 13x19.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 11:21:59",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\YASMIN\\02 13x19.cdr",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-10 11:45:50",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\1783693737266_AC84CECDC5FB017829CFD4D17926B97C.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:45:52",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\1783693737266_AC84CECDC5FB017829CFD4D17926B97C.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:46:18",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\FLORA\\Cópia_de_segurança_de_FLORA ADESIVO 40X60.cdr",
         "Status":  "Alerta"
     }
 ]
