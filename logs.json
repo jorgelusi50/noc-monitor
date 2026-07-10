@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 11:45:07",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\Não confirmado 504438.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 11:45:09",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\IMPRESSÃO RAPIDA\\Não confirmado 504438.crdownload",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-10 11:51:05",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\SEARE BLOCO\\Impressão mesclada1.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:51:09",
+        "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\SEARE BLOCO\\Impressão mesclada1.cdr",
         "Status":  "Alerta"
     }
