@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 08:17:00",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\ACRILICO 30X48 2X.dxf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 08:17:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\ACRILICO 30X48 2X.dxf",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-10 08:53:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\prata da terra.dxf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 08:58:53",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\S011021108_2607100901000.pdf",
         "Status":  "Alerta"
     }
 ]
