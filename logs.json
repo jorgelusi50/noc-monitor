@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 10:09:50",
-        "Acao":  "Deletado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\11- pintando_barbie.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 10:09:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\11- pintando_barbie.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-10 10:38:42",
         "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\capas soltas _Página_2.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 10:38:44",
+        "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\capas soltas _Página_2.jpg",
         "Status":  "Alerta"
     }
