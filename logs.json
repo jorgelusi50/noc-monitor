@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 11:49:19",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\EDSON\\FORTIORI.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 11:49:20",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\EDSON\\FORTIORI.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-10 12:05:25",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 12:05:27",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\Nova pasta",
         "Status":  "Alerta"
