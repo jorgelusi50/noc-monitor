@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 14:50:48",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\adesivo cory.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 14:52:05",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\ANTONIO\\Copia_de_Cartao-de-Visitas-90x48mm.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-10 15:34:02",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\ANA BEATRIZ\\CONVITE SO FRENTE_Página_1.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 15:34:04",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\ANA BEATRIZ\\CONVITE SO FRENTE_Página_1.jpg",
         "Status":  "Alerta"
