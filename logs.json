@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 11:26:44",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\LIVIA\\NXT ENGENHARIA",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 11:26:53",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\LIVIA\\NXT ENGENHARIA\\Design_sem_nome_20260710_112130_0000.pdf",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-10 11:47:04",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\2.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:47:05",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\2.pdf",
         "Status":  "Alerta"
     }
