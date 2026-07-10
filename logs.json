@@ -1,17 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 09:59:19",
-        "Acao":  "Renomeado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\RD BIRO",
-        "Status":  "Alerta"
-    },
-    {
-        "Data":  "2026-07-10 09:59:21",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\RD BIRO\\Bottons.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 09:59:22",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\RD BIRO\\Bottons.cdr",
@@ -597,6 +585,18 @@
         "Data":  "2026-07-10 10:09:26",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\Desenhos-da-Disney.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 10:09:28",
+        "Acao":  "Deletado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\diversos-desenhos-colorir.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 10:09:29",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\diversos-desenhos-colorir.pdf",
         "Status":  "Alerta"
     }
 ]
