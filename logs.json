@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 10:12:52",
-        "Acao":  "Alterado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\Não confirmado 450587.crdownload",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 10:12:57",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA\\Não confirmado 450587.crdownload",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-10 10:39:19",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\capas soltas _Página_3.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 10:39:20",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\capas soltas _Página_4.jpg",
         "Status":  "Alerta"
     }
 ]
