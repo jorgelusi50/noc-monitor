@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 14:27:48",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\JBS\\PLACA - CSC.jpg",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 14:27:49",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GABRIELY\\JBS\\PLACA - CSC.jpg",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-10 15:10:35",
         "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ALICE\\88752476713925 - 34594.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 15:10:37",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ALICE\\88752476713925 - 34594.pdf",
         "Status":  "Alerta"
     }
