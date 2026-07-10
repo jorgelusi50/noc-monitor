@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 10:30:46",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\AIDA\\PEDIDO  Rescisao.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 10:30:47",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\AIDA\\Não confirmado 90259.crdownload",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-10 10:51:53",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\TESTE CAPA.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 10:51:55",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\TESTE CAPA.cdr",
         "Status":  "Alerta"
