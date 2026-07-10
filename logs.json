@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 16:40:12",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\marrom.pdf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 16:40:13",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\EDSON\\marrom.pdf",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-10 08:05:29",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\caneca magica.cdr",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 08:05:30",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\caneca magica.cdr",
         "Status":  "Alerta"
