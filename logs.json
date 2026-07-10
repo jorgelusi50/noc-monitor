@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 09:02:12",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\QUADROS 40X60cm_ok.dxf",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 09:02:13",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\GF\\QUADROS 40X60cm_ok.dxf",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-10 09:50:07",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ANY\\NF 37 OS 37084.pdf",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 09:59:14",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\Nova pasta",
         "Status":  "Alerta"
     }
 ]
