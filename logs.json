@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-09 16:22:24",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\CANECA DTF.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-09 16:22:26",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\09-07-26\\GF\\CANECA DTF.cdr",
@@ -597,6 +591,12 @@
         "Data":  "2026-07-10 00:34:59",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\AIDA",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 00:35:00",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\STHEFANY",
         "Status":  "Alerta"
     }
 ]
