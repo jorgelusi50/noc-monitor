@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 13:56:17",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\AIDA\\Resultado_10_07_2026.xlsx",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 13:56:19",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\AIDA\\Não confirmado 255528.crdownload",
@@ -596,6 +590,12 @@
     {
         "Data":  "2026-07-10 14:11:16",
         "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\AIDA\\WhatsApp Image 2026-07-09 at 18.59.40.jpeg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 14:11:18",
+        "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\AIDA\\WhatsApp Image 2026-07-09 at 18.59.40.jpeg",
         "Status":  "Alerta"
     }
