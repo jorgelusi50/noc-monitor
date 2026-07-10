@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 10:51:55",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\TESTE CAPA.cdr",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 10:51:56",
         "Acao":  "Deletado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\PF\\COLORIR\\TESTE CAPA.cdr",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-10 11:26:12",
+        "Acao":  "Criado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\LIVIA\\Nova pasta",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 11:26:14",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\LIVIA\\Nova pasta",
         "Status":  "Alerta"
