@@ -1,11 +1,5 @@
 [
     {
-        "Data":  "2026-07-10 00:35:00",
-        "Acao":  "Criado",
-        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\STHEFANY",
-        "Status":  "Alerta"
-    },
-    {
         "Data":  "2026-07-10 00:35:02",
         "Acao":  "Criado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\ISADORA",
@@ -595,6 +589,12 @@
     },
     {
         "Data":  "2026-07-10 08:35:47",
+        "Acao":  "Alterado",
+        "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\CANECA.jpg",
+        "Status":  "Alerta"
+    },
+    {
+        "Data":  "2026-07-10 08:35:49",
         "Acao":  "Alterado",
         "Arquivo":  "\\\\192.168.195.62\\temp\\JULHO\\10-07-26\\JULIANA\\CANECA.jpg",
         "Status":  "Alerta"
